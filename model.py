@@ -49,7 +49,7 @@ class Word(Base):
     __tablename__ = 'words'
 
     wid = Column(Integer, primary_key=True) #单词编号
-    content = Column(String(30), nullable=False)    #单词内容
+    content = Column(String(30), nullable=False, unique=True)    #单词内容
     definition = Column(String(255))    #单词释义
     example = Column(String(255))   #单词例句
     pron = Column(String(255)) #单词音标

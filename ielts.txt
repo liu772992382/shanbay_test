@@ -1,2519 +1,2477 @@
-list35
-vessel     n ´¬Ö»£¨×Ü³Æ£©£»ÈİÆ÷£»Ñª¹Ü
-vested     a ·¨ÂÉ¹æ¶¨µÄ£»¼È¶¨µÄ
-vet     n ÊŞÒ½£» v ÕïÁÆ£¬×÷ÊŞÒ½£»Éó²é
-veterinary     a ÊŞÒ½µÄ
-viable     a ¿ÉĞĞµÄ£¬¿ÉÊµÊ©µÄ£»/viability   n ¿ÉĞĞĞÔ£»Éú´æÄÜÁ¦£»/
-vibrate     vt Ê¹²ü¶¯£»/vibrant   a ³äÂú»îÁ¦µÄ£»/vibration   n ²ü¶¯£¬Õñ¶¯£»/
-vice versa     ·´Ö®ÒàÈ»
-victim     n ÎşÉüÕß
-viewpoint     n ¹Ûµã£¬¿´·¨
-vigorous     a ³¯ÆøÅî²ªµÄ£»ÓĞÁ¦µÄ
-violence     n ±©Á¦ĞĞÎª£»¼¤ÁÒ£¬ÃÍÁÒ
-violent     a ±©Á¦ÒıÆğµÄ£»´øÓĞÇ¿ÁÒ¸ĞÇéµÄ
-virtually     ad Êµ¼ÊÉÏ£¬ÊÂÊµÉÏ
-virtue     n ÃÀµÂ£»ÓÅµã
-virus     n ²¡¶¾
-viscous     a ğ¤ÖÍµÄ£¬ğ¤ĞÔµÄ
-visible     a ¿É¼ûµÄ£»ÓĞĞÎµÄ£»/invisible   a ¿´²»¼ûµÄ£¬ÎŞĞÎµÄ£»/
-vision     n ÏëÏóÁ¦£»ÊÓÁ¦£»/visual   a ¿´µÃ¼ûµÄ£»/
-vital     a ÉúËÀØü¹ØµÄ£»¼«ÆäÖØÒªµÄ£»ÓĞÉúÃüÁ¦µÄ
-vivid     a ÏÊÑŞµÄ£»Éú¶¯µÄ
-volcano     n »ğÉ½
-volt     n ·üÌØ
-voltage     n µçÑ¹
-volume     n ¾í£¬²á£»Ìå»ı£»ÒôÁ¿
-volunteer     n Ö¾Ô¸±ø£»Ö¾Ô¸Õß£»v ×ÔÔ¸£»Ö¾Ô¸£»/voluntary   a ×ÔÔ¸µÄ£¬Ö¾Ô¸µÄ£»/ 
-voyage      v&n ÂÃĞĞ£¬º½ĞĞ£¬·ÉĞĞ
-wage     n ¹¤×Ê£»±¨³ê
-wagon     n ËÄÂÖÂí³µ£»´óÅñ³µ
-waist     n Ñü£¬Ñü²¿
-wander     vi ÏĞ¹ä£¬×ßÉñ
-warrant     n ÊÚÈ¨£»Ğí¿ÉÖ¤£»vt ±£Ö¤£»Ö¤Ã÷¡£¡£Õıµ±
-wastage     n ÏûºÄÁ¿£»ËğºÄ
-waterfront     n ±õË®Â·£¬±õË®µØÇø£¨Èç¸Û¿Ú»òº£±ßµÄ£©
-waterproof     a ²»Í¸Ë®µÄ£¬·ÀË®µÄ
-wax     n À¯£»·äÀ¯£»vt ¸ø¡£¡£ÉÏÀ¯
-weaken     v £¨Ê¹£©±äÈõ£»(Ê¹£©¼õÈõ
-weakness     n ĞéÈõ£»È±µã
-wealthy     a ¸»µÃ£¬¸»Ô£µÄ
-wean     v £¨Ê¹£©¶ÏÄÌ£¬£¨Ê¹£©½äÄÌ
-weapon     n ÎäÆ÷£¬±øÆ÷
-wedge    n Ğ¨×Ó£¬Ğ¨ĞÎ£»v Ğ¨Èë
-weed     n ÔÓ²İ
-weigh     v ³ÆÖØ
-welfare     n ¸£Àû
-well-being     n °²Äş£¬¸£Àû
-whaling     n ²¶¾¨
-wheelchair     n £¨²¡ÈËµÈÓÃµÄ£©ÂÖÒÎ
-whereas     È»¶ø£¬µ«ÊÇ
-whisper     n&v µÍÓï
-whistle     n ¿ÚÉÚ£»ºôĞ¥¶ø¹ı£»v ´µ¿ÚÉÚ
-widespread     a ·Ö²¼¹ãµÄ£»ÆÕÍ¨µÄ
-wildlife     n Ò°Éú¶¯Ö²Îï
-willing     a Ô¸ÒâµÄ£¬ÀÖ¹ÛµÄ£»/willingness   n ×Ô·¢£¬Ô¸Òâ£»/
-wire     n ½ğÊôË¿£¬µçÏß
-withdraw     v ÊÕ»Ø£»³·ÍË
-withstand     vt µÖµ²£»¾­ÊÜ
-witness     n Ö¤¾İ£»Ä¿»÷Õß£»vt Ä¿»÷£»Îª¡£¡£×÷Ö¤
-womb     n ×Ó¹¬£»·¢Ô´µØ
-workaholic     n ¹¤×÷¿ñ
-workforce     n ÊÜ¹ÍµÄ»òÏÖÓĞµÄ¹¤×÷ÈËÔ±×ÜÊı£»ÀÍ¶¯ÈË¿Ú
-world-wide     a&ad ±é¼°È«ÇòµÄ£¨µØ£©
-worm     n Èä³æ£»ÎÏ¸Ë£»ÂİÎÆ
-worthwhile     a ÖµµÃ×öµÄ
-worthy     a ÓĞ¼ÛÖµµÄ£»ÖµµÃµÄ£»/unworthy   a Ã»ÓĞ¼ÛÖµµÄ£»ÖµµÃµÄ£»/ 
-wrap     vt ¹ü£»°ü£»²øÈÆ
-wrinkle     n ÖåÎÆ£»v £¨Ê¹£©ÆğÖåÎÆ
-yield     v ³ö²ú£»·ÅÆú£»n ²úÁ¿
-zone    n µØÇø£»·¶Î§
-zoological     a ¶¯ÎïÑ§µÄ
+vessel     n èˆ¹åªï¼ˆæ€»ç§°ï¼‰ï¼›å®¹å™¨ï¼›è¡€ç®¡
+vested     a æ³•å¾‹è§„å®šçš„ï¼›æ—¢å®šçš„
+vet     n å…½åŒ»ï¼› v è¯Šç–—ï¼Œä½œå…½åŒ»ï¼›å®¡æŸ¥
+veterinary     a å…½åŒ»çš„
+viable     a å¯è¡Œçš„ï¼Œå¯å®æ–½çš„ï¼›/viability   n å¯è¡Œæ€§ï¼›ç”Ÿå­˜èƒ½åŠ›ï¼›/
+vibrate     vt ä½¿é¢¤åŠ¨ï¼›/vibrant   a å……æ»¡æ´»åŠ›çš„ï¼›/vibration   n é¢¤åŠ¨ï¼ŒæŒ¯åŠ¨ï¼›/
+vice versa     åä¹‹äº¦ç„¶
+victim     n ç‰ºç‰²è€…
+viewpoint     n è§‚ç‚¹ï¼Œçœ‹æ³•
+vigorous     a æœæ°”è“¬å‹ƒçš„ï¼›æœ‰åŠ›çš„
+violence     n æš´åŠ›è¡Œä¸ºï¼›æ¿€çƒˆï¼ŒçŒ›çƒˆ
+violent     a æš´åŠ›å¼•èµ·çš„ï¼›å¸¦æœ‰å¼ºçƒˆæ„Ÿæƒ…çš„
+virtually     ad å®é™…ä¸Šï¼Œäº‹å®ä¸Š
+virtue     n ç¾å¾·ï¼›ä¼˜ç‚¹
+virus     n ç—…æ¯’
+viscous     a é»æ»çš„ï¼Œé»æ€§çš„
+visible     a å¯è§çš„ï¼›æœ‰å½¢çš„ï¼›/invisible   a çœ‹ä¸è§çš„ï¼Œæ— å½¢çš„ï¼›/
+vision     n æƒ³è±¡åŠ›ï¼›è§†åŠ›ï¼›/visual   a çœ‹å¾—è§çš„ï¼›/
+vital     a ç”Ÿæ­»æ”¸å…³çš„ï¼›æå…¶é‡è¦çš„ï¼›æœ‰ç”Ÿå‘½åŠ›çš„
+vivid     a é²œè‰³çš„ï¼›ç”ŸåŠ¨çš„
+volcano     n ç«å±±
+volt     n ä¼ç‰¹
+voltage     n ç”µå‹
+volume     n å·ï¼Œå†Œï¼›ä½“ç§¯ï¼›éŸ³é‡
+volunteer     n å¿—æ„¿å…µï¼›å¿—æ„¿è€…ï¼›v è‡ªæ„¿ï¼›å¿—æ„¿ï¼›/voluntary   a è‡ªæ„¿çš„ï¼Œå¿—æ„¿çš„ï¼›/
+voyage      v&n æ—…è¡Œï¼Œèˆªè¡Œï¼Œé£è¡Œ
+wage     n å·¥èµ„ï¼›æŠ¥é…¬
+wagon     n å››è½®é©¬è½¦ï¼›å¤§ç¯·è½¦
+waist     n è…°ï¼Œè…°éƒ¨
+wander     vi é—²é€›ï¼Œèµ°ç¥
+warrant     n æˆæƒï¼›è®¸å¯è¯ï¼›vt ä¿è¯ï¼›è¯æ˜ã€‚ã€‚æ­£å½“
+wastage     n æ¶ˆè€—é‡ï¼›æŸè€—
+waterfront     n æ»¨æ°´è·¯ï¼Œæ»¨æ°´åœ°åŒºï¼ˆå¦‚æ¸¯å£æˆ–æµ·è¾¹çš„ï¼‰
+waterproof     a ä¸é€æ°´çš„ï¼Œé˜²æ°´çš„
+wax     n èœ¡ï¼›èœ‚èœ¡ï¼›vt ç»™ã€‚ã€‚ä¸Šèœ¡
+weaken     v ï¼ˆä½¿ï¼‰å˜å¼±ï¼›(ä½¿ï¼‰å‡å¼±
+weakness     n è™šå¼±ï¼›ç¼ºç‚¹
+wealthy     a å¯Œå¾—ï¼Œå¯Œè£•çš„
+wean     v ï¼ˆä½¿ï¼‰æ–­å¥¶ï¼Œï¼ˆä½¿ï¼‰æˆ’å¥¶
+weapon     n æ­¦å™¨ï¼Œå…µå™¨
+wedge    n æ¥”å­ï¼Œæ¥”å½¢ï¼›v æ¥”å…¥
+weed     n æ‚è‰
+weigh     v ç§°é‡
+welfare     n ç¦åˆ©
+well-being     n å®‰å®ï¼Œç¦åˆ©
+whaling     n æ•é²¸
+wheelchair     n ï¼ˆç—…äººç­‰ç”¨çš„ï¼‰è½®æ¤…
+whereas     ç„¶è€Œï¼Œä½†æ˜¯
+whisper     n&v ä½è¯­
+whistle     n å£å“¨ï¼›å‘¼å•¸è€Œè¿‡ï¼›v å¹å£å“¨
+widespread     a åˆ†å¸ƒå¹¿çš„ï¼›æ™®é€šçš„
+wildlife     n é‡ç”ŸåŠ¨æ¤ç‰©
+willing     a æ„¿æ„çš„ï¼Œä¹è§‚çš„ï¼›/willingness   n è‡ªå‘ï¼Œæ„¿æ„ï¼›/
+wire     n é‡‘å±ä¸ï¼Œç”µçº¿
+withdraw     v æ”¶å›ï¼›æ’¤é€€
+withstand     vt æŠµæŒ¡ï¼›ç»å—
+witness     n è¯æ®ï¼›ç›®å‡»è€…ï¼›vt ç›®å‡»ï¼›ä¸ºã€‚ã€‚ä½œè¯
+womb     n å­å®«ï¼›å‘æºåœ°
+workaholic     n å·¥ä½œç‹‚
+workforce     n å—é›‡çš„æˆ–ç°æœ‰çš„å·¥ä½œäººå‘˜æ€»æ•°ï¼›åŠ³åŠ¨äººå£
+world-wide     a&ad éåŠå…¨çƒçš„ï¼ˆåœ°ï¼‰
+worm     n è •è™«ï¼›èœ—æ†ï¼›èºçº¹
+worthwhile     a å€¼å¾—åšçš„
+worthy     a æœ‰ä»·å€¼çš„ï¼›å€¼å¾—çš„ï¼›/unworthy   a æ²¡æœ‰ä»·å€¼çš„ï¼›å€¼å¾—çš„ï¼›/
+wrap     vt è£¹ï¼›åŒ…ï¼›ç¼ ç»•
+wrinkle     n çš±çº¹ï¼›v ï¼ˆä½¿ï¼‰èµ·çš±çº¹
+yield     v å‡ºäº§ï¼›æ”¾å¼ƒï¼›n äº§é‡
+zone    n åœ°åŒºï¼›èŒƒå›´
+zoological     a åŠ¨ç‰©å­¦çš„
 
-list34                     
-tug     v ÓÃÁ¦ÍÏ£¨»òÀ­£©
-tune     n µ÷×Ó£¬ºÍĞ³£»vt µ÷½Ú£¬µ÷Õû
-tunnel     n ËíµÀ£»µØµÀ£»v ÍÚ(µØµÀ£©,¿ª£¨ËíµÀ£©
-turbine     n ÎĞÂÖ»ú£¬ÆûÂÖ»ú
-turnover     n ÓªÒµ¶î£»ÈËÊÂ±ä¶¯ÂÊ
-turret     n ËşÂ¥£¬½ÇËş
-tutor     n µ¼Ê¦£»¼ÒÍ¥½ÌÊ¦£»v µ±¡£¡£¼Ò½Ì£¬µ±¼ÒÍ¥½ÌÊ¦£»/tutorial   n Ö¸ÄÏ£»a ´óÑ§µ¼Ê¦µÄ£»/
-twist     v ²øÈÆ£»Äí£»nÍäÇú
-typhoon     n Ì¨·ç
-typical     a µäĞÍµÄ£»/typically   ad µäĞÍµØ£»/
-ultimately     ad ×îÖÕµØ
-ultraclean     a ³¬¾»µÄ£¬ÌØ¾»µÄ
-unaware     a Î´ÒâÊ¶µÄ
-unbiased     a Ã»ÓĞÆ«¼ûµÄ
-uncertainty     n ²»È·¶¨£»ÎŞ°ÑÎÕ
-unconcerned     a ²»¹ØĞÄµÄ£¬²»·³ÄÕµÄ
-unconquerable      a ²»¿ÉÕ÷·şµÄ
-undergraduate     n ´óÑ§±¾¿ÆÉú
-underground     a µØÏÂµÄ£»ad ÔÚµØÃæÏÂµØ£»n µØÌú
-underline     vt »®ÏÂ»®ÏßÓÚ¡£¡£Ö®ÏÂ£»Ç¿µ÷
-underling     n Ö°Î»µÍµÄÈË£¬ÏÂÊô
-underneath     ad ÔÚ¡£¡£ÏÂÃæ£»prep ÔÚ¡£¡£ÏÂÃæ£»n ÏÂ²¿
-understanding     n Àí½â£»ÁÂ½â£»a ÌåÁÂµÄ£»¿íÈİµÄ
-undertake     v ³Ğµ££»×ÅÊÖ£¬²ÉÈ¡
-undetected     a Î´±»·¢ÏÖµÄ
-undisguised     a ÎŞÎ±×°µÄ£»Ì¹ÂÊµÄ
-undoubtedly     ad ÎãÓ¹ÖÃÒÉµØ
-uneasy     a ĞÄÉñ²»°²µÄ£»µ£ĞÄµÄ
-unemployment     n Ê§Òµ£¬Ê§ÒµÈËÊı
-unexpected     a Ïë²»µ½µÄ£¬ÒâÍâµÄ
-unfortunately     ad ²»ĞÒµØ
-uniform     n ÖÆ·ş£»a ÏàÍ¬µÄ£¬Ò»ÖÂµÄ£»/uniformity   n Í¬Ñù£¬Ò»ÖÂ£»/
-unique     a Î¨Ò»µÄ£¬¶ÀÌØµÄ
-universe     n ÓîÖæ£¬ÊÀ½ç£¬ÁìÓò£»/universal   a ÆÕÍ¨µÄ£¬Í¨ÓÃµÄ£»/
-unload     v ´Ó¡£¡£¡£Ğ¶ÏÂ»õÎï£¬°ÚÍÑ
-unprejudiced     a ÎŞÆ«¼ûµÄ£»¹«ÕıµÄ
-unrealistic     a ·ÇÏÖÊµ£¨Ö÷Òå£©µÄ£¬²»ÇĞÊµ¼ÊµÄ
-unsatisfactory     a ²»ÄÜÁîÈËÂúÒâµÄ
-untrustworthy     a ²»ÖµµÃĞÅÀµµÄ£¬¿¿²»×¡µÄ
-unyielding     a ÍçÇ¿µÄ£»¼áÓ²µÄ£»²»ÄÜÍäÇúµÄ
-uphill     ad ÏòÉÏ£¬ÍùÉÏ£»¼èÄÑµØ
-upper     a ÉÏÃæµÄ£»µØÎ»½Ï¸ßµÄ
-upset     vt Ê¹¿àÄÕ£»½ÁÂÒ£»a ĞÄ·³µÄ
-up-to-date     a Ö±µ½×î½üµÄ£»ÏÖ´úµÄ
-urban     a ¶¼ÊĞµÄ£»×¡ÔÚ¶¼ÊĞµÄ£»/urbanisation   n ¶¼ÊĞ»¯£»/
-urge     vt ¹ÄÀø£»½ßÁ¦Ö÷ÕÅ
-urgent     a ½ô¼±µÄ£»/urgently   ad ½ô¼±µØ£»/
-utilise     v ÀûÓÃ
-utility     n ¹¦ÓÃ£¬Ğ§ÓÃ£»¹«ÓÃÊÂÒµ£»/utilitarian   a ÊµÓÃµÄ£¬¹¦ÀûµÄ£»/
-vacancy     n ¿ÕÎ»£¬¿ÕÈ±
-vacation     n Ğİ¼Ù
-vacuum     n Õæ¿Õ£»Õæ¿ÕÎü³¾Æ÷£»v ÓÃÎü³¾Æ÷ÇåÉ¨
-vague     a Ä£ºıµÄ£»º¬ºıµÄ
-valid     a ÓĞĞ§µÄ£»Õıµ±µÄ
-van     n ÔË»õ³µ
-vanish     v Í»È»ÏûÊ§£»²»¸´´æÔÚ£¬ÏûÊÅ
-variability     n ¿É±äĞÔ£»Ò×±äĞÔ
-vary     v ¸Ä±ä£»£¨Ê¹£©¶àÑù»¯£»±ä»¯£»²»Í¬£»/variable   a Ò×±äµÄ£»n ±äÁ¿£»/various   a ¸÷ÖÖ¸÷ÑùµÄ£»/
-vast     a ¾Ş´óµÄ£»´óÁ¿µÄ£»/vastly   ad ¾Ş´óµØ£»´óÁ¿µØ£»/
-vegetarian     n ËØÊ³Õß
-veil     n ÃæÉ´£»ÕÚ±ÎÎï
-venomous     a ÓĞ¶¾µÄ£»·ÖÃÚ¶¾ÒºµÄ
-ventilation     n ¿ÕÆøÁ÷Í¨£»Í¨·çÉè±¸
-venture     n ·çÏÕÍ¶×Ê£»£¨ÉÌÒµµÈµÄ£©·çÏÕÏîÄ¿£»v Ã°ÏÕ£»¸ÒÓÚ
-venue     n £¨¾Û¼¯£¬ÉóÅĞ£¬±ÈÈü£©µØµã
-verify     v Ö¤Ã÷£»Ö¤Êµ£»/verification   n È·ÈÏ£»/
-vernacular     n ±¾¹ú»°£»±¾µØ»°£»·½ÑÔ£»ÍÁÓï£»a ±¾¹úÓïµÄ
-version     n ÑùÊ½£»ĞÍºÅ£»ÖÖÀà£»Ëµ·¨£»°æ±¾
-vertebrate     n ¼¹×µ¶¯Îï£»a ÓĞ¼¹ÖùµÄ
-vertical     a ´¹Ö±µÄ£»ÊúÊ½µÄ
+tug     v ç”¨åŠ›æ‹–ï¼ˆæˆ–æ‹‰ï¼‰
+tune     n è°ƒå­ï¼Œå’Œè°ï¼›vt è°ƒèŠ‚ï¼Œè°ƒæ•´
+tunnel     n éš§é“ï¼›åœ°é“ï¼›v æŒ–(åœ°é“ï¼‰,å¼€ï¼ˆéš§é“ï¼‰
+turbine     n æ¶¡è½®æœºï¼Œæ±½è½®æœº
+turnover     n è¥ä¸šé¢ï¼›äººäº‹å˜åŠ¨ç‡
+turret     n å¡”æ¥¼ï¼Œè§’å¡”
+tutor     n å¯¼å¸ˆï¼›å®¶åº­æ•™å¸ˆï¼›v å½“ã€‚ã€‚å®¶æ•™ï¼Œå½“å®¶åº­æ•™å¸ˆï¼›/tutorial   n æŒ‡å—ï¼›a å¤§å­¦å¯¼å¸ˆçš„ï¼›/
+twist     v ç¼ ç»•ï¼›æ»ï¼›nå¼¯æ›²
+typhoon     n å°é£
+typical     a å…¸å‹çš„ï¼›/typically   ad å…¸å‹åœ°ï¼›/
+ultimately     ad æœ€ç»ˆåœ°
+ultraclean     a è¶…å‡€çš„ï¼Œç‰¹å‡€çš„
+unaware     a æœªæ„è¯†çš„
+unbiased     a æ²¡æœ‰åè§çš„
+uncertainty     n ä¸ç¡®å®šï¼›æ— æŠŠæ¡
+unconcerned     a ä¸å…³å¿ƒçš„ï¼Œä¸çƒ¦æ¼çš„
+unconquerable      a ä¸å¯å¾æœçš„
+undergraduate     n å¤§å­¦æœ¬ç§‘ç”Ÿ
+underground     a åœ°ä¸‹çš„ï¼›ad åœ¨åœ°é¢ä¸‹åœ°ï¼›n åœ°é“
+underline     vt åˆ’ä¸‹åˆ’çº¿äºã€‚ã€‚ä¹‹ä¸‹ï¼›å¼ºè°ƒ
+underling     n èŒä½ä½çš„äººï¼Œä¸‹å±
+underneath     ad åœ¨ã€‚ã€‚ä¸‹é¢ï¼›prep åœ¨ã€‚ã€‚ä¸‹é¢ï¼›n ä¸‹éƒ¨
+understanding     n ç†è§£ï¼›è°…è§£ï¼›a ä½“è°…çš„ï¼›å®½å®¹çš„
+undertake     v æ‰¿æ‹…ï¼›ç€æ‰‹ï¼Œé‡‡å–
+undetected     a æœªè¢«å‘ç°çš„
+undisguised     a æ— ä¼ªè£…çš„ï¼›å¦ç‡çš„
+undoubtedly     ad æ¯‹åº¸ç½®ç–‘åœ°
+uneasy     a å¿ƒç¥ä¸å®‰çš„ï¼›æ‹…å¿ƒçš„
+unemployment     n å¤±ä¸šï¼Œå¤±ä¸šäººæ•°
+unexpected     a æƒ³ä¸åˆ°çš„ï¼Œæ„å¤–çš„
+unfortunately     ad ä¸å¹¸åœ°
+uniform     n åˆ¶æœï¼›a ç›¸åŒçš„ï¼Œä¸€è‡´çš„ï¼›/uniformity   n åŒæ ·ï¼Œä¸€è‡´ï¼›/
+unique     a å”¯ä¸€çš„ï¼Œç‹¬ç‰¹çš„
+universe     n å®‡å®™ï¼Œä¸–ç•Œï¼Œé¢†åŸŸï¼›/universal   a æ™®é€šçš„ï¼Œé€šç”¨çš„ï¼›/
+unload     v ä»ã€‚ã€‚ã€‚å¸ä¸‹è´§ç‰©ï¼Œæ‘†è„±
+unprejudiced     a æ— åè§çš„ï¼›å…¬æ­£çš„
+unreaisfactory     a ä¸èƒ½ä»¤äººæ»¡æ„çš„
+untrustworthy     a ä¸å€¼å¾—ä¿¡èµ–çš„ï¼Œé ä¸ä½çš„
+unyielding     a é¡½å¼ºçš„ï¼›åšç¡¬çš„ï¼›ä¸èƒ½å¼¯æ›²çš„
+uphill     ad å‘ä¸Šï¼Œå¾€ä¸Šï¼›è‰°éš¾åœ°
+upper     a ä¸Šé¢çš„ï¼›åœ°ä½è¾ƒé«˜çš„
+upset     vt ä½¿è‹¦æ¼ï¼›æ…ä¹±ï¼›a å¿ƒçƒ¦çš„
+up-to-date     a ç›´åˆ°æœ€è¿‘çš„ï¼›ç°ä»£çš„
+urban     a éƒ½å¸‚çš„ï¼›ä½åœ¨éƒ½å¸‚çš„ï¼›/urbanisation   n éƒ½å¸‚åŒ–ï¼›/
+urge     vt é¼“åŠ±ï¼›ç«­åŠ›ä¸»å¼ 
+urgent     a ç´§æ€¥çš„ï¼›/urgently   ad ç´§æ€¥åœ°ï¼›/
+utilise     v åˆ©ç”¨
+utility     n åŠŸç”¨ï¼Œæ•ˆç”¨ï¼›å…¬ç”¨äº‹ä¸šï¼›/utilitarian   a å®ç”¨çš„ï¼ŒåŠŸåˆ©çš„ï¼›/
+vacancy     n ç©ºä½ï¼Œç©ºç¼º
+vacation     n ä¼‘å‡
+vacuum     n çœŸç©ºï¼›çœŸç©ºå¸å°˜å™¨ï¼›v ç”¨å¸å°˜å™¨æ¸…æ‰«
+vague     a æ¨¡ç³Šçš„ï¼›å«ç³Šçš„
+valid     a æœ‰æ•ˆçš„ï¼›æ­£å½“çš„
+van     n è¿è´§è½¦
+vanish     v çªç„¶æ¶ˆå¤±ï¼›ä¸å¤å­˜åœ¨ï¼Œæ¶ˆé€
+variability     n å¯å˜æ€§ï¼›æ˜“å˜æ€§
+vary     v æ”¹å˜ï¼›ï¼ˆä½¿ï¼‰å¤šæ ·åŒ–ï¼›å˜åŒ–ï¼›ä¸åŒï¼›/variable   a æ˜“å˜çš„ï¼›n å˜é‡ï¼›/various   a å„ç§å„æ ·çš„ï¼›/
+vast     a å·¨å¤§çš„ï¼›å¤§é‡çš„ï¼›/vastly   ad å·¨å¤§åœ°ï¼›å¤§é‡åœ°ï¼›/
+vegetarian     n ç´ é£Ÿè€…
+veil     n é¢çº±ï¼›é®è”½ç‰©
+venomous     a æœ‰æ¯’çš„ï¼›åˆ†æ³Œæ¯’æ¶²çš„
+ventilation     n ç©ºæ°”æµé€šï¼›é€šé£è®¾å¤‡
+venture     n é£é™©æŠ•èµ„ï¼›ï¼ˆå•†ä¸šç­‰çš„ï¼‰é£é™©é¡¹ç›®ï¼›v å†’é™©ï¼›æ•¢äº
+venue     n ï¼ˆèšé›†ï¼Œå®¡åˆ¤ï¼Œæ¯”èµ›ï¼‰åœ°ç‚¹
+verify     v è¯æ˜ï¼›è¯å®ï¼›/verification   n ç¡®è®¤ï¼›/
+vernacular     n æœ¬å›½è¯ï¼›æœ¬åœ°è¯ï¼›æ–¹è¨€ï¼›åœŸè¯­ï¼›a æœ¬å›½è¯­çš„
+version     n æ ·å¼ï¼›å‹å·ï¼›ç§ç±»ï¼›è¯´æ³•ï¼›ç‰ˆæœ¬
+vertebrate     n è„Šæ¤åŠ¨ç‰©ï¼›a æœ‰è„ŠæŸ±çš„
+vertical     a å‚ç›´çš„ï¼›ç«–å¼çš„
 
-list 33
-tenable     a Õ¾µÃ×¡½ÅµÄ£»ÎŞĞ¸¿É»÷µÄ
-tend     vi ÇãÏòÓÚ¡£¡££¬vt ÕÕÁÏ
-tendency     n ÇãÏò£¬Ç÷ÊÆ
-tender     a ÄÛµÄ£»´àÈõµÄ£»ÎÂÈáµÄ
-tense     a À­½ôµÄ£»v £¨Ê¹£©À­½ô£»/tension     n À­½ô£»/
-terminal     a Ä©¶ËµÄ£»n ÖÕµã£¬ÖÕ¶Ë
-terminology     n ÊõÓï£¬ÊõÓïÓÃ·¨
-terrace     n Ò»ÅÅ²¢ÁĞµÄ·¿×Ó£»ÑôÌ¨
-terrain     n µØĞÎ£¬µØÊÆ
-terrify     vt Ê¹¿Ö²À£¬Ê¹¾ªÏÅ
-textile     n ·ÄÖ¯Æ·
-texture     n ÖÊµØ£¬ÎÆÀí
-the ozone layer     ³ôÑõ²ã
-theory    n ÀíÂÛ£»Ñ§Ëµ£»Òâ¼û£»/theoretical   a ÀíÂÛÉÏµØ£»/
-therapy     n ÖÎÁÆ
-thereby     ad Òò´Ë
-therefore     ad Òò´Ë£¬ËùÒÔ
-thermal     a ÈÈÁ¿µÄ£¬ÈÈµÄ
-thesis     n ÂÛÎÄ
-thigh     n ´óÍÈ
-thirsty     a ¿Ú¿ÊµÄ
-thorny     a ¶à´ÌµÃ£»Í´¿àµÄ£¬¼¬ÊÖµÄ
-thoughtful     a ³ÁË¼µÄ£»ÌåÌùµÄ
-threaten     v ÍşĞ²£»ÊÇ¡£¡£Õ÷Õ×
-threshold     n ÈëÃÅ£¬¼«ÏŞ
-thrill     v £¨Ê¹£©·Ç³£¼¤¶¯£»£¨Ê¹£©¶¶¶¯
-thrive     v ĞËÍú£¬·±ÈÙ
-throughout     prep ±é¼°£¬ÔÚÕû¸ö¡£¡£ÆÚ¼ä
-thunder     n À×Éù£¬À×£»vt ´òÀ×£¬ºäÂ¡Éù£»/thunderstorm   n À×±©£»/thundercloud    À×ÓêÔÆ£»/
-tick off     ÓÃ¼ÇºÅ¹´³ö£¬ÁĞ¾Ù
-timber     n Ä¾²Ä£¬Ô­Ä¾£»ºáÄ¾
-tolerate     vt ÈÌÊÜ
-tome     n Êé£¬´ó²áÊé£»£¨ÓĞÑ§Êõ¼ÛÖµµÄ£©¾ŞÖø
-topsoil     n ±í²ãÍÁ
-torrent     n ºéÁ÷£»±¬·¢£»£¨»°ÓïµÈµÄ£©Á¬·¢
-tough     a ÄÑ¶Ô¸¶µÄ£»½¡×³µÄ£»£¨ÈâµÈÊ³Îï£©ÀÏµÄ
-townscape     n ³ÇÕò·ç¹â
-toxin     n Ã¹ËØ£¬£¬Ã¹ÖÊ
-trace     v ²é³ö£»×·Ëİ£»n ºÛ¼££»Î¢Á¿
-track and field     Ìï¾¶
-track     n Ğ¡Â·£»ÅÜµÀ£»v ¸ú×Ù£¬×·×Ù
-tradition     n ´«Í³£»¹ßÀı£»/traditional   a ´«Í³µÄ£¬¹ßÀıµÄ£»/traditionally   ad ´«Í³µØ£¬¹ßÀıµØ£»/
-tragic     a ±¯²ÒµÄ£»±¯¾çĞÔµÄ
-tramp     n ³¤Í¾°ÏÉæ£»v °ÏÉæ£¬²ÈÌ¤
-tranquillity     n Äş¾²£¬°²¾²
-transcribe     vt ×«Ğ´£»´òÓ¡£»×ªÂ¼
-transfer     v ×ªÒÆ£»µ÷¶¯£»×ªÑ§£»×ªÈÃ£»/transference   n ×ªÒÆ£¬×ªÈÃ£»/transferable   a ¿É×ªÒÆµÄ£»/
-transform     vt Ê¹¡£¡£±äĞÎ£»¸ÄÉÆ
-transit     n ÔËÊä£¬ÔØÔË£»v Í¨¹ı£¬¾­¹ı£»/transition   n ¹ı¶É£»×ª±ä£»/
-translate     v ·­Òë
-transmit     v ´«ËÍ£»´«È¾£»·¢Éä£»/transmitter   n ´«ËÍÈË£»·¢Éä»ú£»/
-transmute     v ¸Ä±ä
-transparent     a Í¸Ã÷µÄ£¬Ã÷ÏÔµÄ
-transport     vt ÔËÊä£»n ÔËÊä£»ÔËÊä¹¤¾ß£»/transportation   n ÔËÊä£¬¿ÍÔË£»/
-trapeze     n µõÇïÇ§£»µõ¼Ü
-treadmill     n ÀÛÈËµÄ»î£»·¦Î¶·±ÖØµÄ¹¤×÷
-treatment     n ÖÎÁÆ£¬¶Ô´ı
-tremendous     a ¼«´óµÄ£¬·Ç³£µÄ
-trend     n ÇãÏò£¬Ç÷ÊÆ
-trial     n ÉóÑ¶£»ÊÔÑé£»a ÊÔÑéĞÔµÄ
-triangle     n Èı½Ç£¨ĞÍ£©
-trick     n ¹î¼Æ£¬»¨ÕĞ£»v ÆÛÕ©£¬ºåÆ­£»/tricky   a ²»Ò×´¦ÀíµÄ£¬ĞèÒª¼¼ÇÉµÄ£»/
-trigger     n °â»ú£»v Òı·¢£¬µ¼ÖÂ
-trim     n&v ĞŞ½¨£¬ÕûÀí£»a ÕûÆëµÄ
-trinket     n Ğ¡×°ÊÎÆ·£»²»ÖµÇ®µÄÖé±¦
-trivial     a ËöĞ¼µÄ£¬Æ½Ó¹µÄ
-tropical     a ÈÈ´øµÄ£»Ñ×ÈÈµÄ
-tropospheric     a ¶ÔÁ÷²ãµÄ
-truce     n ĞİÕ½£¨Ğ­¶¨£©
-tube     n ¹ÜµÀ£¬ÊÔ¹Ü£»£¨Ó¢£©µØÌú
+tenable     a ç«™å¾—ä½è„šçš„ï¼›æ— æ‡ˆå¯å‡»çš„
+tend     vi å€¾å‘äºã€‚ã€‚ï¼Œvt ç…§æ–™
+tendency     n å€¾å‘ï¼Œè¶‹åŠ¿
+tender     a å«©çš„ï¼›è„†å¼±çš„ï¼›æ¸©æŸ”çš„
+tense     a æ‹‰ç´§çš„ï¼›v ï¼ˆä½¿ï¼‰æ‹‰ç´§ï¼›/tension     n æ‹‰ç´§ï¼›/
+terminal     a æœ«ç«¯çš„ï¼›n ç»ˆç‚¹ï¼Œç»ˆç«¯
+terminology     n æœ¯è¯­ï¼Œæœ¯è¯­ç”¨æ³•
+terrace     n ä¸€æ’å¹¶åˆ—çš„æˆ¿å­ï¼›é˜³å°
+terrain     n åœ°å½¢ï¼Œåœ°åŠ¿
+terrify     vt ä½¿ææ€–ï¼Œä½¿æƒŠå“
+textile     n çººç»‡å“
+texture     n è´¨åœ°ï¼Œçº¹ç†
+the ozone layer     è‡­æ°§å±‚
+theory    n ç†è®ºï¼›å­¦è¯´ï¼›æ„è§ï¼›/theoretical   a ç†è®ºä¸Šåœ°ï¼›/
+therapy     n æ²»ç–—
+thereby     ad å› æ­¤
+therefore     ad å› æ­¤ï¼Œæ‰€ä»¥
+thermal     a çƒ­é‡çš„ï¼Œçƒ­çš„
+thesis     n è®ºæ–‡
+thigh     n å¤§è…¿
+thirsty     a å£æ¸´çš„
+thorny     a å¤šåˆºå¾—ï¼›ç—›è‹¦çš„ï¼Œæ£˜æ‰‹çš„
+thoughtful     a æ²‰æ€çš„ï¼›ä½“è´´çš„
+threaten     v å¨èƒï¼›æ˜¯ã€‚ã€‚å¾å…†
+threshold     n å…¥é—¨ï¼Œæé™
+thrill     v ï¼ˆä½¿ï¼‰éå¸¸æ¿€åŠ¨ï¼›ï¼ˆä½¿ï¼‰æŠ–åŠ¨
+thrive     v å…´æ—ºï¼Œç¹è£
+throughout     prep éåŠï¼Œåœ¨æ•´ä¸ªã€‚ã€‚æœŸé—´
+thunder     n é›·å£°ï¼Œé›·ï¼›vt æ‰“é›·ï¼Œè½°éš†å£°ï¼›/thunderstorm   n é›·æš´ï¼›/thundercloud    é›·é›¨äº‘ï¼›/
+tick off     ç”¨è®°å·å‹¾å‡ºï¼Œåˆ—ä¸¾
+timber     n æœ¨æï¼ŒåŸæœ¨ï¼›æ¨ªæœ¨
+tolerate     vt å¿å—
+tome     n ä¹¦ï¼Œå¤§å†Œä¹¦ï¼›ï¼ˆæœ‰å­¦æœ¯ä»·å€¼çš„ï¼‰å·¨è‘—
+topsoil     n è¡¨å±‚åœŸ
+torrent     n æ´ªæµï¼›çˆ†å‘ï¼›ï¼ˆè¯è¯­ç­‰çš„ï¼‰è¿å‘
+tough     a éš¾å¯¹ä»˜çš„ï¼›å¥å£®çš„ï¼›ï¼ˆè‚‰ç­‰é£Ÿç‰©ï¼‰è€çš„
+townscape     n åŸé•‡é£å…‰
+toxin     n éœ‰ç´ ï¼Œï¼Œéœ‰è´¨
+trace     v æŸ¥å‡ºï¼›è¿½æº¯ï¼›n ç—•è¿¹ï¼›å¾®é‡
+track and field     ç”°å¾„
+track     n å°è·¯ï¼›è·‘é“ï¼›v è·Ÿè¸ªï¼Œè¿½è¸ª
+tradition     n ä¼ ç»Ÿï¼›æƒ¯ä¾‹ï¼›/traditional   a ä¼ ç»Ÿçš„ï¼Œæƒ¯ä¾‹çš„ï¼›/traditionally   ad ä¼ ç»Ÿåœ°ï¼Œæƒ¯ä¾‹åœ°ï¼›/
+tragic     a æ‚²æƒ¨çš„ï¼›æ‚²å‰§æ€§çš„
+tramp     n é•¿é€”è·‹æ¶‰ï¼›v è·‹æ¶‰ï¼Œè¸©è¸
+tranquillity     n å®é™ï¼Œå®‰é™
+transcribe     vt æ’°å†™ï¼›æ‰“å°ï¼›è½¬å½•
+transfer     v è½¬ç§»ï¼›è°ƒåŠ¨ï¼›è½¬å­¦ï¼›è½¬è®©ï¼›/transference   n è½¬ç§»ï¼Œè½¬è®©ï¼›/transferable   a å¯è½¬ç§»çš„ï¼›/
+transform     vt ä½¿ã€‚ã€‚å˜å½¢ï¼›æ”¹å–„
+transit     n è¿è¾“ï¼Œè½½è¿ï¼›v é€šè¿‡ï¼Œç»è¿‡ï¼›/transition   n è¿‡æ¸¡ï¼›è½¬å˜ï¼›/
+translate     v ç¿»è¯‘
+transmit     v ä¼ é€ï¼›ä¼ æŸ“ï¼›å‘å°„ï¼›/transmitter   n ä¼ é€äººï¼›å‘å°„æœºï¼›/
+transmute     v æ”¹å˜
+transparent     a é€æ˜çš„ï¼Œæ˜æ˜¾çš„
+transport     vt è¿è¾“ï¼›n è¿è¾“ï¼›è¿è¾“å·¥å…·ï¼›/transportation   n è¿è¾“ï¼Œå®¢è¿ï¼›/
+trapeze     n åŠç§‹åƒï¼›åŠæ¶
+treadmill     n ç´¯äººçš„æ´»ï¼›ä¹å‘³ç¹é‡çš„å·¥ä½œ
+treatment     n æ²»ç–—ï¼Œå¯¹å¾…
+tremendous     a æå¤§çš„ï¼Œéå¸¸çš„
+trend     n å€¾å‘ï¼Œè¶‹åŠ¿
+trial     n å®¡è®¯ï¼›è¯•éªŒï¼›a è¯•éªŒæ€§çš„
+triangle     n ä¸‰è§’ï¼ˆå‹ï¼‰
+trick     n è¯¡è®¡ï¼ŒèŠ±æ‹›ï¼›v æ¬ºè¯ˆï¼Œå“„éª—ï¼›/tricky   a ä¸æ˜“å¤„ç†çš„ï¼Œéœ€è¦æŠ€å·§çš„ï¼›/
+trigger     n æ‰³æœºï¼›v å¼•å‘ï¼Œå¯¼è‡´
+trim     n&v ä¿®å»ºï¼Œæ•´ç†ï¼›a æ•´é½çš„
+trinket     n å°è£…é¥°å“ï¼›ä¸å€¼é’±çš„ç å®
+trivial     a çå±‘çš„ï¼Œå¹³åº¸çš„
+tropical     a çƒ­å¸¦çš„ï¼›ç‚çƒ­çš„
+tropospheric     a å¯¹æµå±‚çš„
+truce     n ä¼‘æˆ˜ï¼ˆåå®šï¼‰
+tube     n ç®¡é“ï¼Œè¯•ç®¡ï¼›ï¼ˆè‹±ï¼‰åœ°é“
 
-list 32
-subtle     a Î¢ÃîµÄ
-subtract     vt ¼õÈ¥£»È¥µô
-subtropical     a ÑÇÈÈ´øµÄ
-suburb     n ½¼Çø
-succeed     v ³É¹¦£»½Ó×Å·¢Éú
-succession     n Á¬Ğø£»½ÓÌæ
-successive     a Á¬ĞøµÄ
-succumb     v Çü·ş£»Òò¡£¡£¶øËÀ
-sucker     n ÎüÅÌ
-suffer     v ÔâÊÜ£»ÊÜÍ´¿à
-sufficient     a ×ã¹»µÄ£»/insufficient   a ²»×ÜµÄ£»/ 
-suicidal     a ×ÔÉ±£¨ĞÔ£©µÄ£»ÓĞ×ÔÉ±ÇãÏòµÄ
-suitable     a ÊÊµ±µÄ£»ÏàÅäµÄ£»/suitability   n ºÏÊÊ£»ÊÊÒËĞÔ£»/
-suitably     ad ºÏÊÊµØ£¬ÊÊÒËµØ£¬Ïà³ÆµØ
-suitcase     n ÊÖÌáÏä£»ÒÂÏä
-sulphuric acid     ÁòËá
-summarise     vt ×Ü½á£¬¸ÅÀ¨£» /summary   n ÕªÒª£¬¸ÅÒª£»/
-summit     n ( É½µÈµÄ£©×î¸ßµã£¬·å¶¥
-superb     a ¼«ºÃµÄ£»¸ßÖÊÁ¿µÄ
-superficial     a ±íÃæµÄ£»·ôÇ³µÄ
-superior     a ÉÏ¼¶µÄ£»ÓÅÁ¼µÄ£»¸ß°ÁµÄ
-supervise     v ¼à¶½£¬¹ÜÀí£»/supervisor   n Ö÷¹Ü£»¶½Ñ§£»/supervision   n ¼à¶½£¬¹ÜÀí£»/supervisory   a ¹ÜÀíµÄ£¬¼à¶½µÄ£»/
-supplement     n Ôö²¹£¨Îï£©£»Ôö¿¯£»vt Ôö²¹
-supply     n&vt ¹©¸ø
-suppose     vt ²ÂÏë£»¼Ù¶¨
-suppression     n ÕòÑ¹£»ÆËÃğ
-surf     v ³åÀË
-surge     v £¨ÈËÈºµÈ£©·äÓµ¶ø³ö£»²¨¶¯£¬Ó¿¶¯£»n £¨¸ĞÇéµÈµÄ£©ÑóÒç£»ÃÍÔö
-surgeon     n Íâ¿ÆÒ½Éú
-surgery     n Íâ¿Æ£¨ÊÖÊõ£©£»ÊÖÊõ
-surpass     v ³¬¹ı£»ÓÅÓÚ
-surround     vt Î§ÈÆ£»°üÎ§
-surveillance     n ¼àÊÓ£¬¶¢ÉÒ
-survey     vt µ÷²é£»²âÁ¿£»n µ÷²é
-survive     v »îÏÂÀ´£»ĞÒÃâÓÚ£»/survival   n Éú´æ£»ĞÒ´æ£»/ 
-suspect     v ²ÂÏë£»»³ÒÉ£»/suspicious    a ÒÉĞÄµÄ£»¿ÉÒÉµÄ£»/
-sustain     v ±£³Ö£»Î¬³Ö£¨ÉúÃü£©µÈ£»Ö§³Ö£»/sustainable   a ¿É³ÖĞøµÄ£»×ã¿ÉÖ§³ÅµÄ£»/
-swallow     n Ñà×Ó£»v ÍÌÑÊ£»ÈÌÊÜ
-swamp     n ÕÓÔó£»vt ÑÍÃ»£»Ñ¹µ¹
-swap     v&n ½»»»
-swear     v Ğû£¨ÊÄ£©£»×çÖä
-swell     vi ÅòÕÍ£»Ôö³¤
-swift     a ¿ìµÄ£»Ãô½İµÄ£¬Ñ¸ËÙµÄ
-swing     v Ò¡°Ú£»£¨Ê¹£©Í»È»×ªÏò£»n Ò¡°Ú£»ÇïÇ§
-switch     n ¿ª¹Ø£»×ª»»£»v ×ª»»
-symbol     n ÏóÕ÷£»·ûºÅ£»/symbolic   ÏóÕ÷µÄ£»·ûºÅµÄ£»/
-sympathise     vi Í¬Çé£»ÔŞÍ¬
-sympathy     n Í¬Çé£»£¨Ë¼Ïë¸ĞÇéÉÏµÄ£©ÔŞÍ¬
-symphony     n ½»ÏìÀÖ
-symptom     n Ö¢×´
-synthesis      n ×ÛºÏ£¬ºÏ³É
-systematic     a ÏµÍ³µÄ
-tab     n ±êÇ©
-tablet     n Ò©Æ¬
-tag     n ±êÇ©£»vi ¸úËæ
-tan     n ×ØºÖÉ«£»É¹ºÚ£»v £¨Ê¹£©É¹³É×ØºÖÉ«
-tangibly     ad ¿É´¥ÃşµØ£»Ã÷°×µØ
-tanker     n ÓÍÂÖ£»ÓÍ¹Ş³µ
-tap     v ÇáÅÄ£»ÀûÓÃ£¬¿ª·¢
-tariff     n ¹ØË°£¬Ë°ÂÊ£»£¨ÂÃ¹İ£¬·¹µêµÈ£©¼ÛÄ¿±í
-teamwork     n ÓĞ×éÖ¯µÄºÏ×÷£»Ğ­Á¦ºÏ×÷
-technical     a ¼ÆÊıµÄ£¬¹¤ÒÕµÄ
-technician     n ¼¼ÊõÔ±
-technique     n ¼¼Êõ£»¼¼ÄÜ
-tedious     a Èß³¤·¦Î¶µÄ
-teem     v ³äÂú£¬µ½´¦¶¼ÊÇ
-telescope     n ÍûÔ¶¾µ
-temper     n ÇéĞ÷£»vt Ê¹»ººÍ
-temporary     a ÔİÊ±µÄ
-tempt     v ÎüÒı£»ÒıÓÕ
+subtle     a å¾®å¦™çš„
+subtract     vt å‡å»ï¼›å»æ‰
+subtropical     a äºšçƒ­å¸¦çš„
+suburb     n éƒŠåŒº
+succeed     v æˆåŠŸï¼›æ¥ç€å‘ç”Ÿ
+succession     n è¿ç»­ï¼›æ¥æ›¿
+successive     a è¿ç»­çš„
+succumb     v å±ˆæœï¼›å› ã€‚ã€‚è€Œæ­»
+sucker     n å¸ç›˜
+suffer     v é­å—ï¼›å—ç—›è‹¦
+sufficient     a è¶³å¤Ÿçš„ï¼›/insufficient   a ä¸æ€»çš„ï¼›/
+suicidal     a è‡ªæ€ï¼ˆæ€§ï¼‰çš„ï¼›æœ‰è‡ªæ€å€¾å‘çš„
+suitable     a é€‚å½“çš„ï¼›ç›¸é…çš„ï¼›/suitability   n åˆé€‚ï¼›é€‚å®œæ€§ï¼›/
+suitably     ad åˆé€‚åœ°ï¼Œé€‚å®œåœ°ï¼Œç›¸ç§°åœ°
+suitcase     n æ‰‹æç®±ï¼›è¡£ç®±
+sulphuric acid     ç¡«é…¸
+summarise     vt æ€»ç»“ï¼Œæ¦‚æ‹¬ï¼› /summary   n æ‘˜è¦ï¼Œæ¦‚è¦ï¼›/
+summit     n ( å±±ç­‰çš„ï¼‰æœ€é«˜ç‚¹ï¼Œå³°é¡¶
+superb     a æå¥½çš„ï¼›é«˜è´¨é‡çš„
+superficial     a è¡¨é¢çš„ï¼›è‚¤æµ…çš„
+superior     a ä¸Šçº§çš„ï¼›ä¼˜è‰¯çš„ï¼›é«˜å‚²çš„
+supervise     v ç›‘ç£ï¼Œç®¡ç†ï¼›/supervisor   n ä¸»ç®¡ï¼›ç£å­¦ï¼›/supervision   n ç›‘ç£ï¼Œç®¡ç†ï¼›/supervisory   a ç®¡ç†çš„ï¼Œç›‘ç£çš„ï¼›/
+supplement     n å¢è¡¥ï¼ˆç‰©ï¼‰ï¼›å¢åˆŠï¼›vt å¢è¡¥
+supply     n&vt ä¾›ç»™
+suppose     vt çŒœæƒ³ï¼›å‡å®š
+suppression     n é•‡å‹ï¼›æ‰‘ç­
+surf     v å†²æµª
+surge     v ï¼ˆäººç¾¤ç­‰ï¼‰èœ‚æ‹¥è€Œå‡ºï¼›æ³¢åŠ¨ï¼Œæ¶ŒåŠ¨ï¼›n ï¼ˆæ„Ÿæƒ…ç­‰çš„ï¼‰æ´‹æº¢ï¼›çŒ›å¢
+surgeon     n å¤–ç§‘åŒ»ç”Ÿ
+surgery     n å¤–ç§‘ï¼ˆæ‰‹æœ¯ï¼‰ï¼›æ‰‹æœ¯
+surpass     v è¶…è¿‡ï¼›ä¼˜äº
+surround     vt å›´ç»•ï¼›åŒ…å›´
+surveillance     n ç›‘è§†ï¼Œç›¯æ¢¢
+survey     vt è°ƒæŸ¥ï¼›æµ‹é‡ï¼›n è°ƒæŸ¥
+survive     v æ´»ä¸‹æ¥ï¼›å¹¸å…äºï¼›/survival   n ç”Ÿå­˜ï¼›å¹¸å­˜ï¼›/
+suspect     v çŒœæƒ³ï¼›æ€€ç–‘ï¼›/suspicious    a ç–‘å¿ƒçš„ï¼›å¯ç–‘çš„ï¼›/
+sustain     v ä¿æŒï¼›ç»´æŒï¼ˆç”Ÿå‘½ï¼‰ç­‰ï¼›æ”¯æŒï¼›/sustainable   a å¯æŒç»­çš„ï¼›è¶³å¯æ”¯æ’‘çš„ï¼›/
+swallow     n ç‡•å­ï¼›v åå’½ï¼›å¿å—
+swamp     n æ²¼æ³½ï¼›vt æ·¹æ²¡ï¼›å‹å€’
+swap     v&n äº¤æ¢
+swear     v å®£ï¼ˆèª“ï¼‰ï¼›è¯…å’’
+swell     vi è†¨èƒ€ï¼›å¢é•¿
+swift     a å¿«çš„ï¼›æ•æ·çš„ï¼Œè¿…é€Ÿçš„
+swing     v æ‘‡æ‘†ï¼›ï¼ˆä½¿ï¼‰çªç„¶è½¬å‘ï¼›n æ‘‡æ‘†ï¼›ç§‹åƒ
+switch     n å¼€å…³ï¼›è½¬æ¢ï¼›v è½¬æ¢
+symbol     n è±¡å¾ï¼›ç¬¦å·ï¼›/symbolic   è±¡å¾çš„ï¼›ç¬¦å·çš„ï¼›/
+sympathise     vi åŒæƒ…ï¼›èµåŒ
+sympathy     n åŒæƒ…ï¼›ï¼ˆæ€æƒ³æ„Ÿæƒ…ä¸Šçš„ï¼‰èµåŒ
+symphony     n äº¤å“ä¹
+symptom     n ç—‡çŠ¶
+synthesis      n ç»¼åˆï¼Œåˆæˆ
+systematic     a ç³»ç»Ÿçš„
+tab     n æ ‡ç­¾
+tablet     n è¯ç‰‡
+tag     n æ ‡ç­¾ï¼›vi è·Ÿéš
+tan     n æ£•è¤è‰²ï¼›æ™’é»‘ï¼›v ï¼ˆä½¿ï¼‰æ™’æˆæ£•è¤è‰²
+tangibly     ad å¯è§¦æ‘¸åœ°ï¼›æ˜ç™½åœ°
+tanker     n æ²¹è½®ï¼›æ²¹ç½è½¦
+tap     v è½»æ‹ï¼›åˆ©ç”¨ï¼Œå¼€å‘
+tariff     n å…³ç¨ï¼Œç¨ç‡ï¼›ï¼ˆæ—…é¦†ï¼Œé¥­åº—ç­‰ï¼‰ä»·ç›®è¡¨
+teamwork     n æœ‰ç»„ç»‡çš„åˆä½œï¼›ååŠ›åˆä½œ
+technical     a è®¡æ•°çš„ï¼Œå·¥è‰ºçš„
+technician     n æŠ€æœ¯å‘˜
+technique     n æŠ€æœ¯ï¼›æŠ€èƒ½
+tedious     a å†—é•¿ä¹å‘³çš„
+teem     v å……æ»¡ï¼Œåˆ°å¤„éƒ½æ˜¯
+telescope     n æœ›è¿œé•œ
+temper     n æƒ…ç»ªï¼›vt ä½¿ç¼“å’Œ
+temporary     a æš‚æ—¶çš„
+tempt     v å¸å¼•ï¼›å¼•è¯±
 
-list 31
-stammer     v ¿Ú³Ô£»n ½á°Í£¬¿Ú³Ô
-stamp     v ¸ÇÓ¡£¬¸ÇÕÂ
-stance     n ×ËÊÆ£»¹Ûµã£¬Á¢³¡
-standard     n ±ê×¼£»a ±ê×¼µÄ
-standpoint     n Á¢³¡£»¹Ûµã
-starchy     a º¬µí·ÛµÄ
-stare     n&vi ¶¢
-stark     a ³àÂãµÄ£»Ã÷°ÚµÄ£»ÍêÈ«µÄ
-starve     v £¨Ê¹£©°¤¶ö£»£¨Ê¹£©¶öËÀ
-stash     v ²ØÄä£»Öü²Ø
-statement     n ³ÂÊö£»ÉùÃ÷£»±¨±í
-static     a ¾²µÄ£»Í£ÖÍµÄ£»n ¾²µç
-stationary     a ¾²Ö¹µÄ£¬²»¶¯µÄ£»¹Ì¶¨µÄ
-stationery     n ÎÄ¾ß
-statistic      n Í³¼ÆÊıÖµ£»Í³¼ÆÑ§
-statistically     ad Í³¼ÆÉÏµØ
-statue     n µñÏñ
-status      n µØÎ»£»Éí·İ£»×´¿ö
-steady     a ÎÈµÄ£»ÎÈ¶¨µÄ£»vt£¨Ê¹£©ÎÈ¶¨£»/steadily   ad Æ½ÎÈµØ£»/ 
-steep     a ¶¸ÇÍµÄ£»£¨¼Û¸ñµÈ£©¹ı¸ßµÄ£»¼±¾çµÄ£¨ÉÏÉı»òÏÂ½µ£©
-steer     v Òıµ¼£»¼İÊ»
-stem     n ¾¥£»£¨Ê÷£©¸É£»´Ê¸É£»v ÆğÔ´£»Ö¹×¡
-stereo     a Á¢ÌåÉùµÄ£»n Á¢ÌåÉù£¨×°ÖÃ£©
-sticky     a ğ¤ĞÔµÄ£»£¨ÌìÆø£©ÊªÈÈµÄ
-stiff     a Ó²µÄ£¬½©Ó²µÄ£»ad ¼°Æä£»½©Ó²µØ
-stimulate     v ´Ì¼¤£»¼¤Àø
-stimulating     a ´Ì¼¤ĞÔµÄ£»Ê¹ÈËĞË·ÜµÄ
-stimulus     n ´Ù½ø£¨ÒòËØ£©£¬´Ì¼¤£¨Îï£©
-stint     n ¶¨Á¿£»ÏŞ¶î
-stir     v&n ½Á¶¯£»¶¯£¬Ò¡¶¯£»¼¤¶¯
-stock     n ´¢±¸Æ·£»¹ÉÆ±£»¼ÒÇİ£»v ´¢±¸£»a ³£±¸µÄ
-stockpile     n&v Öü´æ
-storey     n Â¥²ã
-stout     a ½áÊµµÄ£¬ÀÎ¹ÌµÄ
-stove     n Â¯
-strain     n&v À­½ô£»Å¤ÉË£¬À­ÉË
-strand     n ¹É£¬ÂÆ£»·ÖÖ§
-strap     n ´ø×Ó£»vt À¦Ôú£»ÓÃ±Á´ø°üÔú
-strategist     n Õ½ÂÔ¼Ò
-strategy     n Õ½ÂÔ£¬²ßÂÔ
-straw     n µ¾²İ£»Îü¹Ü
-stream     n ÏªÁ÷£»Ò»¹É£»v Á÷³ö
-strengthen     vt ¼ÓÇ¿
-stress     n Ñ¹Á¦£»Ç¿µ÷£»vt Ç¿µ÷£»ÖØ¶Á
-stretch     v ÉìÕ¹£»£¨Ê¹£©½ôÕÅ£»n Ò»¶Î£¨Ê±¼ä£¬Â·³Ì£©£»ÉìÕ¹
-strike     v ´ò£»ÕÛÄ¥£»n °Õ¹¤
-striking     a ÏÔÖøµÄ£»ÈÇÈË×¢Ä¿µÄ
-string     n Ïß£¬ÏÒ£»Ï¸Éş£»Ò»´®£»v £¨ÓÃÉşµÈ£©¸¿£»Ôú£»¹Ò£»£¨ÓÃÏß£©´®Æğ£»Ê¹ÅÅ³ÉÒ»ÁĞ
-strip     v °ş¶á£»¶áÈ¥£»n ´ø×´Îï£»ÌõÎÆ
-stripe     n ÌõÎÆ
-stroke     n ÖĞ·ç£»»®½°£»vt ¸§Ãş
-structure     n ½á¹¹£»vt ½¨Ôì
-studio     n ¹¤×÷ÊÒ
-stuff     n Ô­ÁÏ£¬²ÄÁÏ£»v Ìî½ø£»ÈÃ¡£¡£³Ô±¥
-stylish     a Ê±÷ÖµÄ£»Æ¯ÁÁµÄ
-subject     n ÌâÄ¿£»Ñ§¿Æ£» Ö÷Óï
-subjective     a Ö÷¹Û£¨ÉÏ)µÄ
-subliminal     a ÏÂÒâÊ¶µÄ£¬Ç±ÔÚÒâÊ¶µÄ£»/subliminally   ad ÏÂÒâÊ¶µØ£¬Ç±ÔÚµØ£»/
-submarin     n Ç±Ë®Í§£»a Ë®µ×µÄ£¬º£µ×µÄ
-submerge     v ½şÃ»£»Ç±ÈëË®ÖĞ
-submit     v Çü´Ó£»Ìá½»
-subordinate     n ÏÂÊô£»a µÍ¼¶µÄ£»´ÎÒªµÄ
-subscribe     vi ¶©ÔÄ£»Ç©Êğ
-subsequent     a ¼Ì¡£¡£Ö®ºóµÄ£¬ËæºóµÄ£»/subsequently   ad Ëæºó£»½Ó×Å£»/
-subsidiary     a ¸¨ÖúµÄ£»n ×Ó¹«Ë¾£¬¸½Êô»ú¹¹
-subsidise     vt ½òÌù£¬×ÊÖú
-subsidy     n ½òÌù£¬²¹Ìù½ğ
-subsoil     n µ×ÍÁ£¬ÏÂ²ãÍÁ
-substance     n ÎïÖÊ£»ÊµÖÊ
-substantial     a ¿É¹ÛµÄ£¬Ïàµ±µÄ£»ºÜ¶àµÄ£¬£¨Ïàµ±£©´óµÄ£»ÊµÖÊµÄ£»/substantially    ad ³ä·ÖµØ£»¿É¹ÛµØ£»ÊµÖÊÉÏ£»/
-substitute     n ´úÌæÕß£¨Îï£©£»vt ´úÌæ£¬Ìæ»»
+stammer     v å£åƒï¼›n ç»“å·´ï¼Œå£åƒ
+stamp     v ç›–å°ï¼Œç›–ç« 
+stance     n å§¿åŠ¿ï¼›è§‚ç‚¹ï¼Œç«‹åœº
+standard     n æ ‡å‡†ï¼›a æ ‡å‡†çš„
+standpoint     n ç«‹åœºï¼›è§‚ç‚¹
+starchy     a å«æ·€ç²‰çš„
+stare     n&vi ç›¯
+stark     a èµ¤è£¸çš„ï¼›æ˜æ‘†çš„ï¼›å®Œå…¨çš„
+starve     v ï¼ˆä½¿ï¼‰æŒ¨é¥¿ï¼›ï¼ˆä½¿ï¼‰é¥¿æ­»
+stash     v è—åŒ¿ï¼›è´®è—
+statement     n é™ˆè¿°ï¼›å£°æ˜ï¼›æŠ¥è¡¨
+static     a é™çš„ï¼›åœæ»çš„ï¼›n é™ç”µ
+stationary     a é™æ­¢çš„ï¼Œä¸åŠ¨çš„ï¼›å›ºå®šçš„
+stationery     n æ–‡å…·
+statistic      n ç»Ÿè®¡æ•°å€¼ï¼›ç»Ÿè®¡å­¦
+statistically     ad ç»Ÿè®¡ä¸Šåœ°
+statue     n é›•åƒ
+status      n åœ°ä½ï¼›èº«ä»½ï¼›çŠ¶å†µ
+steady     a ç¨³çš„ï¼›ç¨³å®šçš„ï¼›vtï¼ˆä½¿ï¼‰ç¨³å®šï¼›/steadily   ad å¹³ç¨³åœ°ï¼›/
+steep     a é™¡å³­çš„ï¼›ï¼ˆä»·æ ¼ç­‰ï¼‰è¿‡é«˜çš„ï¼›æ€¥å‰§çš„ï¼ˆä¸Šå‡æˆ–ä¸‹é™ï¼‰
+steer     v å¼•å¯¼ï¼›é©¾é©¶
+stem     n èŒï¼›ï¼ˆæ ‘ï¼‰å¹²ï¼›è¯å¹²ï¼›v èµ·æºï¼›æ­¢ä½
+stereo     a ç«‹ä½“å£°çš„ï¼›n ç«‹ä½“å£°ï¼ˆè£…ç½®ï¼‰
+sticky     a é»æ€§çš„ï¼›ï¼ˆå¤©æ°”ï¼‰æ¹¿çƒ­çš„
+stiff     a ç¡¬çš„ï¼Œåƒµç¡¬çš„ï¼›ad åŠå…¶ï¼›åƒµç¡¬åœ°
+stimulate     v åˆºæ¿€ï¼›æ¿€åŠ±
+stimulating     a åˆºæ¿€æ€§çš„ï¼›ä½¿äººå…´å¥‹çš„
+stimulus     n ä¿ƒè¿›ï¼ˆå› ç´ ï¼‰ï¼Œåˆºæ¿€ï¼ˆç‰©ï¼‰
+stint     n å®šé‡ï¼›é™é¢
+stir     v&n æ…åŠ¨ï¼›åŠ¨ï¼Œæ‘‡åŠ¨ï¼›æ¿€åŠ¨
+stock     n å‚¨å¤‡å“ï¼›è‚¡ç¥¨ï¼›å®¶ç¦½ï¼›v å‚¨å¤‡ï¼›a å¸¸å¤‡çš„
+stockpile     n&v è´®å­˜
+storey     n æ¥¼å±‚
+stout     a ç»“å®çš„ï¼Œç‰¢å›ºçš„
+stove     n ç‚‰
+strain     n&v æ‹‰ç´§ï¼›æ‰­ä¼¤ï¼Œæ‹‰ä¼¤
+strand     n è‚¡ï¼Œç¼•ï¼›åˆ†æ”¯
+strap     n å¸¦å­ï¼›vt æ†æ‰ï¼›ç”¨ç»·å¸¦åŒ…æ‰
+strategist     n æˆ˜ç•¥å®¶
+strategy     n æˆ˜ç•¥ï¼Œç­–ç•¥
+straw     n ç¨»è‰ï¼›å¸ç®¡
+stream     n æºªæµï¼›ä¸€è‚¡ï¼›v æµå‡º
+strengthen     vt åŠ å¼º
+stress     n å‹åŠ›ï¼›å¼ºè°ƒï¼›vt å¼ºè°ƒï¼›é‡è¯»
+stretch     v ä¼¸å±•ï¼›ï¼ˆä½¿ï¼‰ç´§å¼ ï¼›n ä¸€æ®µï¼ˆæ—¶é—´ï¼Œè·¯ç¨‹ï¼‰ï¼›ä¼¸å±•
+strike     v æ‰“ï¼›æŠ˜ç£¨ï¼›n ç½¢å·¥
+striking     a æ˜¾è‘—çš„ï¼›æƒ¹äººæ³¨ç›®çš„
+string     n çº¿ï¼Œå¼¦ï¼›ç»†ç»³ï¼›ä¸€ä¸²ï¼›v ï¼ˆç”¨ç»³ç­‰ï¼‰ç¼šï¼›æ‰ï¼›æŒ‚ï¼›ï¼ˆç”¨çº¿ï¼‰ä¸²èµ·ï¼›ä½¿æ’æˆä¸€åˆ—
+strip     v å‰¥å¤ºï¼›å¤ºå»ï¼›n å¸¦çŠ¶ç‰©ï¼›æ¡çº¹
+stripe     n æ¡çº¹
+stroke     n ä¸­é£ï¼›åˆ’æ¡¨ï¼›vt æŠšæ‘¸
+structure     n ç»“æ„ï¼›vt å»ºé€ 
+studio     n å·¥ä½œå®¤
+stuff     n åŸæ–™ï¼Œææ–™ï¼›v å¡«è¿›ï¼›è®©ã€‚ã€‚åƒé¥±
+stylish     a æ—¶é«¦çš„ï¼›æ¼‚äº®çš„
+subject     n é¢˜ç›®ï¼›å­¦ç§‘ï¼› ä¸»è¯­
+subjective     a ä¸»è§‚ï¼ˆä¸Š)çš„
+subliminal     a ä¸‹æ„è¯†çš„ï¼Œæ½œåœ¨æ„è¯†çš„ï¼›/subliminally   ad ä¸‹æ„è¯†åœ°ï¼Œæ½œåœ¨åœ°ï¼›/
+submarin     n æ½œæ°´è‰‡ï¼›a æ°´åº•çš„ï¼Œæµ·åº•çš„
+submerge     v æµ¸æ²¡ï¼›æ½œå…¥æ°´ä¸­
+submit     v å±ˆä»ï¼›æäº¤
+subordinate     n ä¸‹å±ï¼›a ä½çº§çš„ï¼›æ¬¡è¦çš„
+subscribe     vi è®¢é˜…ï¼›ç­¾ç½²
+subsequent     a ç»§ã€‚ã€‚ä¹‹åçš„ï¼Œéšåçš„ï¼›/subsequently   ad éšåï¼›æ¥ç€ï¼›/
+subsidiary     a è¾…åŠ©çš„ï¼›n å­å…¬å¸ï¼Œé™„å±æœºæ„
+subsidise     vt æ´¥è´´ï¼Œèµ„åŠ©
+subsidy     n æ´¥è´´ï¼Œè¡¥è´´é‡‘
+subsoil     n åº•åœŸï¼Œä¸‹å±‚åœŸ
+substance     n ç‰©è´¨ï¼›å®è´¨
+substantial     a å¯è§‚çš„ï¼Œç›¸å½“çš„ï¼›å¾ˆå¤šçš„ï¼Œï¼ˆç›¸å½“ï¼‰å¤§çš„ï¼›å®è´¨çš„ï¼›/substantially    ad å……åˆ†åœ°ï¼›å¯è§‚åœ°ï¼›å®è´¨ä¸Šï¼›/
+substitute     n ä»£æ›¿è€…ï¼ˆç‰©ï¼‰ï¼›vt ä»£æ›¿ï¼Œæ›¿æ¢
 
-list 30
-smooth     a Ë³ÀûµÄ£»Á÷³©µÄ£»Ğ­µ÷µÄ
-smother     v ºñºñµØ¸²¸Ç£»£¨Ê¹£©ÖÏÏ¢£»°Ñ(»ğ£©ÃÆÏ¨
-snack     n ¿ì²Í£¬Ğ¡³Ô£»µãĞÄ
-snap up     ÇÀ¹º
-soak     v ½şÅİ
-sociology     n Éç»áÑ§
-solar     a Ì«ÑôµÄ£»£¨ÀûÓÃ£©Ì«ÑôÄÜµÄ
-sole     a Î¨Ò»µÄ£»/solely   ad Î¨Ò»µØ£»¶À×ÔµØ£»/
-solemn     a ×¯ÑÏµÄ£¬Â¡ÖØµÄ£»ÑÏËàµÄ
-solidarity     n ÍÅ½á£¬Ò»ÖÂ
-soluble     a ¿ÉÈÜµÄ£»¿ÉÒÔ½â¾öµÄ
-solve     vt ½â´ğ£»½â¾ö£»/solution   n ½â¾ö£»½â¾ö°ì·¨£»/
-sophisticated     a ÀÏÁ·µÄ£»¸ß¶È·¢Õ¹µÄ£»¾«ÃÜ¸´ÔÓµÄ£»/sophistication   n ¾«ÖÂ£¬¸´ÔÓ£»/
-sore     a Í´µÄ£»ÄÕ»ğµÄ£»¾çÁÒµÄ£»n ´¯
-sorrow     n ±¯°§£»ÉËĞÄÊÂ
-source     n ºÓµÄÔ´Í·£»¸ùÔ´£»À´Ô´
-souvenir     n ¼ÍÄîÆ·£¬¼ÍÄîÎï
-spacecraft     n º½ÌìÆ÷
-spade     n ÌúÇÂ
-span     n ¿ç¾à£»Ò»¶ÎÊ±¼ä£»v ³ÖĞø£¬ºá¿ç
-spark     n »ğ»¨
-spasm     n ¾·ÂÎ
-spasmodic     a ¾·ÂÎµÄ£»¼äĞªĞÔµÄ
-specialise     v ×¨ÃÅ´ÓÊÂ£¬×¨¹¥£»/specialist   n ×¨¼Ò£¬×¨¿ÆÒ½Éú£»/specialisation   n ×¨Òµ»¯£»/
-specialty     n ÌØ²ú£»×¨Òµ
-species     n ÖÖÀà£¬ÀàÈº
-specific     a ÌØ¶¨µÄ£»Ã÷È·µÄ£»/specifically   ad ÌØ¶¨µØ£»Ã÷È·µØ£»/
-specification     n ¹æ¸ñ£¬ËµÃ÷Êé
-specify     vt Ö¸¶¨£»ÏêÏ¸ËµÃ÷
-specimen     n ±ê±¾
-spectacular     a ×³¹ÛµÄ£»n ×³¹ÛµÄÑİ³ö£»¾ªÈËÖ®¾Ù
-spectator     n ¹ÛÖÚ£»ÅÔ¹ÛÕß
-spectrum     n Æ×£¬¹âÆ×£»·¶Î§
-speculate     v ÍÆ²â£»Í¶»ú
-sphere     n Çò£¨Ìå£©£»·¶Î§£¬ÁìÓò
-spice     n ÏãÁÏ£¬µ÷Î¶Æ·£»vt Ê¹ÔöÌíÈ¤Î¶£»Íù¡£¡£¼ÓÏãÁÏ
-spill     v £¨Ê¹£©Òç³ö£»Ó¿³ö
-spin     v £¨Ê¹£©Ğı×ª£»Ë¦¸É£»n Ğı×ª
-spine     n ¼¹Öù£»/spinal   a ¼¹ÖùµÄ£»/
-spiritual      a ¾«ÉñµÄ£»ĞÄÁéµÄ
-spit     v ÍÂÍÂÄ­£»ÍÂ³ö£»n ÍÙÄ­
-spite     n ²»¹Ü£¬²»¹Ë
-splash     v ½¦£»ÆÃ
-splendid     a ×³ÀöµÄ£»ÏÔÖøµÄ
-splint     n Ï¸Ä¾¹£
-split     vi ·ÖÁÑ£»±»ËºÁÑ£»vt ·Öµ££»·ÖÏí£»n ÁÑ¿Ú
-spoil     v Ëğ»µ£»³è»µ£»n Õ½ÀûÆ·
-sponge     n º£Ãà
-sponsor     n ·¢ÆğÕß£»vt ·¢Æğ£»×ÊÖú
-sporadically     ad Å¼·¢µØ£»ÁãĞÇµØ
-spot     n µØµã£¬´¦Ëù£»v ÈÏ³ö£»·¢ÏÖ
-spot on     Ç¡ºÃµÄ£¬×¼È·µÄ
-spouse     n ÅäÅ¼
-sprawl     n À©Õ¹£»À©ÕÅ
-spray     n ÅçÎí£¬·ÉÄ­£»v ÅçÉä
-squash     n ÈíÊ½Ç½ÍøÇò£¬±ÚÇò
-squeeze     v ¼·£»Õ¥È¡£»n ¼·
-stab     v ´Ì£¬´Á
-stabilize     v £¨Ê¹£©ÎÈ¶¨£¬£¨Ê¹£©ÎÈ¹Ì£»/stability   n ÎÈ¶¨ĞÔ£»ÎÈ¹Ì£»/
-stable     a ÎÈ¶¨µÄ
-stack     n ¶Ñ£»v ¶Ñ»ı£»¶Ñ³É¶Ñ
-staff     n È«ÌåÖ°¹¤£»vt Îª¡£¡£Åä±¸ÈËÔ±
-stage     n ÎèÌ¨£»Ï·¾ç£»½×¶Î
-stagnate     v £¨Ê¹£©Í£ÖÍ£»²»¾°Æø
-stain     vt ÎÛÈ¾£»¸ø¡£¡£×ÅÉ«£»n ÎÛµã
-stainless     a ²»ĞâµÄ
-staircase     n Â¥Ìİ
-stake     n ×®£»Àûº¦¹ØÏµ£»¹É·İ£»¶Ä½ğ£»vt ÒÔ¡£¡£´ò¶Ä£»ÄÃ¡£¡£Ã°ÏÕ
-stale     a ²»ĞÂÏÊµÄ£»³Â¸¯µÄ
-stall     n »õÌ¯£»Ğ¡·¿¼ä
+smooth     a é¡ºåˆ©çš„ï¼›æµç•…çš„ï¼›åè°ƒçš„
+smother     v åšåšåœ°è¦†ç›–ï¼›ï¼ˆä½¿ï¼‰çª’æ¯ï¼›æŠŠ(ç«ï¼‰é—·ç†„
+snack     n å¿«é¤ï¼Œå°åƒï¼›ç‚¹å¿ƒ
+snap up     æŠ¢è´­
+soak     v æµ¸æ³¡
+sociology     n ç¤¾ä¼šå­¦
+solar     a å¤ªé˜³çš„ï¼›ï¼ˆåˆ©ç”¨ï¼‰å¤ªé˜³èƒ½çš„
+sole     a å”¯ä¸€çš„ï¼›/solely   ad å”¯ä¸€åœ°ï¼›ç‹¬è‡ªåœ°ï¼›/
+solemn     a åº„ä¸¥çš„ï¼Œéš†é‡çš„ï¼›ä¸¥è‚ƒçš„
+solidarity     n å›¢ç»“ï¼Œä¸€è‡´
+soluble     a å¯æº¶çš„ï¼›å¯ä»¥è§£å†³çš„
+solve     vt è§£ç­”ï¼›è§£å†³ï¼›/solution   n è§£å†³ï¼›è§£å†³åŠæ³•ï¼›/
+sophisticated     a è€ç»ƒçš„ï¼›é«˜åº¦å‘å±•çš„ï¼›ç²¾å¯†å¤æ‚çš„ï¼›/sophistication   n ç²¾è‡´ï¼Œå¤æ‚ï¼›/
+sore     a ç—›çš„ï¼›æ¼ç«çš„ï¼›å‰§çƒˆçš„ï¼›n ç–®
+sorrow     n æ‚²å“€ï¼›ä¼¤å¿ƒäº‹
+source     n æ²³çš„æºå¤´ï¼›æ ¹æºï¼›æ¥æº
+souvenir     n çºªå¿µå“ï¼Œçºªå¿µç‰©
+spacecraft     n èˆªå¤©å™¨
+spade     n é“é”¹
+span     n è·¨è·ï¼›ä¸€æ®µæ—¶é—´ï¼›v æŒç»­ï¼Œæ¨ªè·¨
+spark     n ç«èŠ±
+spasm     n ç—‰æŒ›
+spasmodic     a ç—‰æŒ›çš„ï¼›é—´æ­‡æ€§çš„
+specialise     v ä¸“é—¨ä»äº‹ï¼Œä¸“æ”»ï¼›/specia
+species     n ç§ç±»ï¼Œç±»ç¾¤
+specific     a ç‰¹å®šçš„ï¼›æ˜ç¡®çš„ï¼›/specifically   ad ç‰¹å®šåœ°ï¼›æ˜ç¡®åœ°ï¼›/
+specification     n è§„æ ¼ï¼Œè¯´æ˜ä¹¦
+specify     vt æŒ‡å®šï¼›è¯¦ç»†è¯´æ˜
+specimen     n æ ‡æœ¬
+spectacular     a å£®è§‚çš„ï¼›n å£®è§‚çš„æ¼”å‡ºï¼›æƒŠäººä¹‹ä¸¾
+spectator     n è§‚ä¼—ï¼›æ—è§‚è€…
+spectrum     n è°±ï¼Œå…‰è°±ï¼›èŒƒå›´
+speculate     v æ¨æµ‹ï¼›æŠ•æœº
+sphere     n çƒï¼ˆä½“ï¼‰ï¼›èŒƒå›´ï¼Œé¢†åŸŸ
+spice     n é¦™æ–™ï¼Œè°ƒå‘³å“ï¼›vt ä½¿å¢æ·»è¶£å‘³ï¼›å¾€ã€‚ã€‚åŠ é¦™æ–™
+spill     v ï¼ˆä½¿ï¼‰æº¢å‡ºï¼›æ¶Œå‡º
+spin     v ï¼ˆä½¿ï¼‰æ—‹è½¬ï¼›ç”©å¹²ï¼›n æ—‹è½¬
+spine     n è„ŠæŸ±ï¼›/spinal   a è„ŠæŸ±çš„ï¼›/
+spiritual      a ç²¾ç¥çš„ï¼›å¿ƒçµçš„
+spit     v ååæ²«ï¼›åå‡ºï¼›n å”¾æ²«
+spite     n ä¸ç®¡ï¼Œä¸é¡¾
+splash     v æº…ï¼›æ³¼
+splendid     a å£®ä¸½çš„ï¼›æ˜¾è‘—çš„
+splint     n ç»†æœ¨æ¢—
+split     vi åˆ†è£‚ï¼›è¢«æ’•è£‚ï¼›vt åˆ†æ‹…ï¼›åˆ†äº«ï¼›n è£‚å£
+spoil     v æŸåï¼›å® åï¼›n æˆ˜åˆ©å“
+sponge     n æµ·ç»µ
+sponsor     n å‘èµ·è€…ï¼›vt å‘èµ·ï¼›èµ„åŠ©
+sporadically     ad å¶å‘åœ°ï¼›é›¶æ˜Ÿåœ°
+spot     n åœ°ç‚¹ï¼Œå¤„æ‰€ï¼›v è®¤å‡ºï¼›å‘ç°
+spot on     æ°å¥½çš„ï¼Œå‡†ç¡®çš„
+spouse     n é…å¶
+sprawl     n æ‰©å±•ï¼›æ‰©å¼ 
+spray     n å–·é›¾ï¼Œé£æ²«ï¼›v å–·å°„
+squash     n è½¯å¼å¢™ç½‘çƒï¼Œå£çƒ
+squeeze     v æŒ¤ï¼›æ¦¨å–ï¼›n æŒ¤
+stab     v åˆºï¼Œæˆ³
+stabilize     v ï¼ˆä½¿ï¼‰ç¨³å®šï¼Œï¼ˆä½¿ï¼‰ç¨³å›ºï¼›/stability   n ç¨³å®šæ€§ï¼›ç¨³å›ºï¼›/
+stable     a ç¨³å®šçš„
+stack     n å †ï¼›v å †ç§¯ï¼›å †æˆå †
+staff     n å…¨ä½“èŒå·¥ï¼›vt ä¸ºã€‚ã€‚é…å¤‡äººå‘˜
+stage     n èˆå°ï¼›æˆå‰§ï¼›é˜¶æ®µ
+stagnate     v ï¼ˆä½¿ï¼‰åœæ»ï¼›ä¸æ™¯æ°”
+stain     vt æ±¡æŸ“ï¼›ç»™ã€‚ã€‚ç€è‰²ï¼›n æ±¡ç‚¹
+stainless     a ä¸é”ˆçš„
+staircase     n æ¥¼æ¢¯
+stake     n æ¡©ï¼›åˆ©å®³å…³ç³»ï¼›è‚¡ä»½ï¼›èµŒé‡‘ï¼›vt ä»¥ã€‚ã€‚æ‰“èµŒï¼›æ‹¿ã€‚ã€‚å†’é™©
+stale     a ä¸æ–°é²œçš„ï¼›é™ˆè…çš„
+stall     n è´§æ‘Šï¼›å°æˆ¿é—´
 
-list29
-sensitive     a Ãô¸ĞµÄ£»Ò×ÊÜÉËµÄ£»/sensitivity   n Ãô¸Ğ£¬ÁéÃôĞÔ£»/
-sensory     a ¸Ğ¾õµÄ£¬¸Ğ¹ÙµÄ
-separate     a ·ÖÀëµÄ£»²»Í¬µÄ£»v £¨Ê¹£©·ÖÀë£¬£¨Ê¹£©·Ö¿ª
-sequence     n Á¬Ğø£»Ë³Ğò
-serial     n Á¬Ğø¾ç£»a Á¬ĞøµÄ£»Ë³ĞòÅÅÁĞµÄ
-session     n »áÒé£»¼¯»á
-setting     n »·¾³£»±³¾°£»°²ÖÃ
-settle     v ¶¨¾Ó£»½â¾ö£»/settler   n ¶¨¾ÓÕß£»/settlement   n ¾Ó×¡£»×¡Õ¬Çø£»/
-severe     a ÑÏÖØµÄ£»ÑÏÀ÷µÄ£»¾çÁÒµÄ£»/severely   ad ÑÏ¸ñµØ£»¼¤ÁÒµØ£»/
-shade     n Òñ£»É«µ÷£»Ï¸Î¢²î±ğ£¨»ò±ä»¯£©
-shaft     n Öá£»¸Ë£»°Ñ±ú
-shareholder     n ¹ÉÆ±³ÖÓĞÕß£»¹É¶«
-shark     n öèÓã£»Õ©Æ­Õß
-shatter     vt Ê¹·ÛËé£»vi ËéÁÑ
-shave     v&n ĞŞÃæ
-sheer     a Ê®×ãµÄ£»¶¸ÇÍµÄ£»´¿´âµÄ
-shell     n ¿Ç£»ÅÚµ¯£»vt °ş¡£¡£µÄ¿Ç£»ÅÚ»÷
-shelter     n ÑÚ±Î£¨´¦£©£»×¡Ëù£»vt ÑÚ²Ø£»¶ã±Ü
-shift     v ÒÆ¶¯£»¸Ä±ä£»£¨ÂÖ»ò»»£©°à
-shilling     n ÏÈÁî
-shipment   n ×°´¬£»×°ÔË  
-shore     n ±õ£¬°¶£¬º£Ì²
-shortage     n ²»×ã£¬È±ÉÙ
-shorthand     n ËÙ¼Ç·¨£¬ËÙ¼Ç
-short-term     a ¶ÌÆÚµÄ
-shrewd     a »úÁéµÄ£»¾«Ã÷µÄ
-shrink     v £¨Ê¹£©ÊÕËõ£»Î®Ëõ
-shrub     n ¹àÄ¾
-shrug     n&v ËÊ¼ç
-shutter     n °ÙÒ¶´°£»£¨ÕÕÏà»úµÄ£©¿ìÃÅ
-shuttle     n º½Ìì·É»ú
-siesta     n ÎçË¯£¬ÎçĞİ
-sift     v Ï¸²é£»É¸£»¹ıÂË
-signal     n ĞÅºÅ£»°µºÅ£»±êÖ¾£»vt £¨Ïò¡£¡££©·¢ĞÅºÅ£»±êÖ¾×Å
-signature     n Ç©×Ö
-significance     n ÖØÒªĞÔ£»ÒâÒå£»/significant   a ÖØÒªµÄ£»ÓĞÒâÒåµÄ£»/significantly   ad ÖØ´óµØ£»Ã÷ÏÔµØ£»/
-signpost     v ÔÚ¡£¡£ÉèÖÃÂ·±ê£»n Â·±ê
-silicon     n ¹è
-silt     n ÓÙÄà£»v £¨ÓÃÓÙÄà£©×èÈû
-silver     n Òø£»ÒøÆ÷
-similarly     ad Í¬ÑùµØ£¬ÀàËÆµØ
-simplify     vt Ê¹¼ò»¯
-simulate     vt Ä£·Â£¬Ä£Äâ
-simultaneously     ad Í¬Ê±µØ
-sincere     a ÕæÖ¿µÄ
-sinew     n ëì£»¼¡Èâ
-sinister     a ²»¼ªÏéµÄ£»Ğ°¶ñµÄ
-sip     v Ğ¡¿ÚµØºÈ£»ÎüË±
-situated     a Î»ÓÚ¡£¡£µÄ£»´¦ÓÚ¡£¡£¾³µØµÄ
-skeptical     a »³ÒÉµÄ£¬²ÂÒÉµÄ
-sketch     n ËØÃè£»ËÙĞ´£»v »­¡£¡£µÄËØÃè£»¸ÅÊö
-skew     vt Ê¹Æ«£»Çú½â£»a ÍáĞ±µÄ
-skim     v ä¯ÀÀ£¬ÂÔ¶Á
-skip     v Ìø£¬±Ä£»Â©¹ı£»ÌÓÑ§
-skull     n Â­¹Ç£¬ÄÔ¿Ç
-skyscraper     n Ä¦ÌìÂ¥£¬Ä¦Ìì´óÂ¥
-slash     n Ğ±ÏßºÅ£»v ¿³
-slat     n °åÌõ£¬ÏÁ°å£»v ÓÃ°åÌõ×ö»ò×°±¸
-slice     v ÇĞ³ÉÆ¬£»n ±¡Æ¬£»Ò»·İ
-slim     a ÃçÌõµÄ£»±¡µÄ£»v ±äÃçÌõ
-slip     v »¬õÓ£»Áï£»ÏÂ½µ£»n ÊèÂ©£»Ö½Ìõ
-slippery     a »¬µÄ£»½Æ»«µÄ
-slogan     n ±êÓï£¬¿ÚºÅ
-slope     n Ğ±ÆÂ£»ÇãĞ±£»v £¨Ê¹£©ÇãĞ±
-slouch     v ÀÁÉ¢µØ×ø£¨Õ¾£¬×ß£©£»µÍ´¹
-slum     n Æ¶Ãñ¿ß£¬Æ¶ÃñÇø
-slurry     n Äà½¬
-smart     a Æ¯ÁÁµÄ£¬Ê±÷ÖµÄ£»¸ßÃ÷µÄ
-smell     v É¢·¢£¨»òÓĞ£©¡£¡£µÄÆøÎ¶£»ÎÅµ½
+sensitive     a æ•æ„Ÿçš„ï¼›æ˜“å—ä¼¤çš„ï¼›/sensitivity   n æ•æ„Ÿï¼Œçµæ•æ€§ï¼›/
+sensory     a æ„Ÿè§‰çš„ï¼Œæ„Ÿå®˜çš„
+separate     a åˆ†ç¦»çš„ï¼›ä¸åŒçš„ï¼›v ï¼ˆä½¿ï¼‰åˆ†ç¦»ï¼Œï¼ˆä½¿ï¼‰åˆ†å¼€
+sequence     n è¿ç»­ï¼›é¡ºåº
+serial     n è¿ç»­å‰§ï¼›a è¿ç»­çš„ï¼›é¡ºåºæ’åˆ—çš„
+session     n ä¼šè®®ï¼›é›†ä¼š
+setting     n ç¯å¢ƒï¼›èƒŒæ™¯ï¼›å®‰ç½®
+settle     v å®šå±…ï¼›è§£å†³ï¼›/settler   n å®šå±…è€…ï¼›/settlement   n å±…ä½ï¼›ä½å®…åŒºï¼›/
+severe     a ä¸¥é‡çš„ï¼›ä¸¥å‰çš„ï¼›å‰§çƒˆçš„ï¼›/severely   ad ä¸¥æ ¼åœ°ï¼›æ¿€çƒˆåœ°ï¼›/
+shade     n è«ï¼›è‰²è°ƒï¼›ç»†å¾®å·®åˆ«ï¼ˆæˆ–å˜åŒ–ï¼‰
+shaft     n è½´ï¼›æ†ï¼›æŠŠæŸ„
+shareholder     n è‚¡ç¥¨æŒæœ‰è€…ï¼›è‚¡ä¸œ
+shark     n é²¨é±¼ï¼›è¯ˆéª—è€…
+shatter     vt ä½¿ç²‰ç¢ï¼›vi ç¢è£‚
+shave     v&n ä¿®é¢
+sheer     a åè¶³çš„ï¼›é™¡å³­çš„ï¼›çº¯ç²¹çš„
+shell     n å£³ï¼›ç‚®å¼¹ï¼›vt å‰¥ã€‚ã€‚çš„å£³ï¼›ç‚®å‡»
+shelter     n æ©è”½ï¼ˆå¤„ï¼‰ï¼›ä½æ‰€ï¼›vt æ©è—ï¼›èº²é¿
+shift     v ç§»åŠ¨ï¼›æ”¹å˜ï¼›ï¼ˆè½®æˆ–æ¢ï¼‰ç­
+shilling     n å…ˆä»¤
+shipment   n è£…èˆ¹ï¼›è£…è¿
+shore     n æ»¨ï¼Œå²¸ï¼Œæµ·æ»©
+shortage     n ä¸è¶³ï¼Œç¼ºå°‘
+shorthand     n é€Ÿè®°æ³•ï¼Œé€Ÿè®°
+short-term     a çŸ­æœŸçš„
+shrewd     a æœºçµçš„ï¼›ç²¾æ˜çš„
+shrink     v ï¼ˆä½¿ï¼‰æ”¶ç¼©ï¼›èç¼©
+shrub     n çŒæœ¨
+shrug     n&v è€¸è‚©
+shutter     n ç™¾å¶çª—ï¼›ï¼ˆç…§ç›¸æœºçš„ï¼‰å¿«é—¨
+shuttle     n èˆªå¤©é£æœº
+siesta     n åˆç¡ï¼Œåˆä¼‘
+sift     v ç»†æŸ¥ï¼›ç­›ï¼›è¿‡æ»¤
+signal     n ä¿¡å·ï¼›æš—å·ï¼›æ ‡å¿—ï¼›vt ï¼ˆå‘ã€‚ã€‚ï¼‰å‘ä¿¡å·ï¼›æ ‡å¿—ç€
+signature     n ç­¾å­—
+significance     n é‡è¦æ€§ï¼›æ„ä¹‰ï¼›/significant   a é‡è¦çš„ï¼›æœ‰æ„ä¹‰çš„ï¼›/significantly   ad é‡å¤§åœ°ï¼›æ˜æ˜¾åœ°ï¼›/
+signpost     v åœ¨ã€‚ã€‚è®¾ç½®è·¯æ ‡ï¼›n è·¯æ ‡
+silicon     n ç¡…
+silt     n æ·¤æ³¥ï¼›v ï¼ˆç”¨æ·¤æ³¥ï¼‰é˜»å¡
+silver     n é“¶ï¼›é“¶å™¨
+similarly     ad åŒæ ·åœ°ï¼Œç±»ä¼¼åœ°
+simplify     vt ä½¿ç®€åŒ–
+simulate     vt æ¨¡ä»¿ï¼Œæ¨¡æ‹Ÿ
+simultaneously     ad åŒæ—¶åœ°
+sincere     a çœŸæŒšçš„
+sinew     n è…±ï¼›è‚Œè‚‰
+sinister     a ä¸å‰ç¥¥çš„ï¼›é‚ªæ¶çš„
+sip     v å°å£åœ°å–ï¼›å¸å®
+situated     a ä½äºã€‚ã€‚çš„ï¼›å¤„äºã€‚ã€‚å¢ƒåœ°çš„
+skeptical     a æ€€ç–‘çš„ï¼ŒçŒœç–‘çš„
+sketch     n ç´ æï¼›é€Ÿå†™ï¼›v ç”»ã€‚ã€‚çš„ç´ æï¼›æ¦‚è¿°
+skew     vt ä½¿åï¼›æ›²è§£ï¼›a æ­ªæ–œçš„
+skim     v æµè§ˆï¼Œç•¥è¯»
+skip     v è·³ï¼Œè¹¦ï¼›æ¼è¿‡ï¼›é€ƒå­¦
+skull     n é¢…éª¨ï¼Œè„‘å£³
+skyscraper     n æ‘©å¤©æ¥¼ï¼Œæ‘©å¤©å¤§æ¥¼
+slash     n æ–œçº¿å·ï¼›v ç 
+slat     n æ¿æ¡ï¼Œç‹­æ¿ï¼›v ç”¨æ¿æ¡åšæˆ–è£…å¤‡
+slice     v åˆ‡æˆç‰‡ï¼›n è–„ç‰‡ï¼›ä¸€ä»½
+slim     a è‹—æ¡çš„ï¼›è–„çš„ï¼›v å˜è‹—æ¡
+slip     v æ»‘è·¤ï¼›æºœï¼›ä¸‹é™ï¼›n ç–æ¼ï¼›çº¸æ¡
+slippery     a æ»‘çš„ï¼›ç‹¡çŒ¾çš„
+slogan     n æ ‡è¯­ï¼Œå£å·
+slope     n æ–œå¡ï¼›å€¾æ–œï¼›v ï¼ˆä½¿ï¼‰å€¾æ–œ
+slouch     v æ‡’æ•£åœ°åï¼ˆç«™ï¼Œèµ°ï¼‰ï¼›ä½å‚
+slum     n è´«æ°‘çªŸï¼Œè´«æ°‘åŒº
+slurry     n æ³¥æµ†
+smart     a æ¼‚äº®çš„ï¼Œæ—¶é«¦çš„ï¼›é«˜æ˜çš„
+smell     v æ•£å‘ï¼ˆæˆ–æœ‰ï¼‰ã€‚ã€‚çš„æ°”å‘³ï¼›é—»åˆ°
 
-list28
-resource     n ×ÊÔ´£»Ó¦¸¶·½·¨
-respect     vt ×ğ¾´£»n ×ğ¾´£»¹ØĞÄ£»·½Ãæ£»/respectable   a ÖµµÃ×ğ¾´µÄ£»/
-respond     vi »Ø´ğ£»×ö³ö·´Ó¦£»/response   n »Ø´ğ£»/respondent   n »Ø´ğÕß£»a »Ø´ğµÄ£»/
-responsible     a ÓĞÔğÈÎ¸ĞµÄ£»¿É¿¿µÄ£»/responsibility   n ÔğÈÎ£»/
-restrain     vt ×èÖ¹£»ÒÖÖÆ£»/restraint   n ÒÖÖÆ£»Ô¼Êø´ëÊ©£»/
-restrict     vt ÏŞÖÆ£¬Ô¼Êø
-resume     vt £¨ÖĞ¶Ïºó£©ÖØĞÂ¿ªÊ¼£»»Ö¸´£»n ÕªÒª£»¼òÀú
-retain     vt ±£Áô£»±£³Ö
-retire     vi ÍËĞİ£»³·ÍË£»¾ÍÇŞ
-reunite     v £¨Ê¹£©½áºÏ£»ÖØ¾Û
-reveal     vt ½ÒÂ¶£»Ğ¹Â¶£»Õ¹ÏÖ
-revenue     n £¨ÓÈÖ¸´ó×ÚµÄ£©ÊÕÈë£»Ë°ÊÕ
-revise     vt ĞŞ¶©£»¸´Ï°
-revolution     n ¸ïÃü£»Ğı×ª
-revolve     vi Ğı×ª
-reward     n ½±ÉÍ£»±¨³ê£»vt ³êĞ»£»½±Àø
-ridiculous     a »ÄÃıµÄ£»¿ÉĞ¦µÄ
-rig     v ²Ù×İ£¬Â¢¶Ï£»n ´¬Î¦£¨»ò´¬·«µÈ£©µÄ×°ÖÃ£»³ÉÌ×Æ÷Ğµ
-rigid     a ÑÏ¸ñµÄ£»¸ÕÓ²µÄ
-rigorous     a ÑÏÃÜµÄ£»ÑÏ¸ñµÄ£»/rigorously   ad ÑÏ¸ñµØ£»ÑÏÃÜµØ£»/
-rim     n £¨Ô²ĞÎÎïÌåµÄ£©±ß£¬Ôµ
-ripe     a ÊìµÄ£»Ê±»ú³ÉÊìµÄ£»/ripen   v Ê¹³ÉÊì£¬³ÉÊì£» /
-rival     n ¾ºÕù¶ÔÊÖ£»¿ÉÓëÆ¥µĞµÄÈË£¨»òÎï£©£»a ¾ºÕùµÄ£»v ¾ºÕù£»Æ¥µĞ
-roast     v ¿¾£¬ÖË£»a ¿¾¹ıµÄ£»n ¿¾Èâ
-roll film     n ½º¾í
-roll holder     n Ö§¼Ü
-romance     n Áµ°®£»ÀËÂş°®Çé
-rot     n ¸¯ÀÃ£»v £¨Ê¹£©¸¯ÀÃ
-rotate     v £¨Ê¹£©Ğı×ª£»(Ê¹£©ÂÖÁ÷
-route     n Â·Ïß£»Â·³Ì
-routine     n ÀıĞĞ¹«ÊÂ£»¹ßÀı£»a ÀıĞĞµÄ£»³£¹æµÄ
-rude    a ´ÖÂ³µÄ£»´Ö²ÚµÄ
-rumor     n Ò¥´«£¬Ò¥ÑÔ
-rural     a Å©´åµÄ
-sample     n ÑùÆ·£¬Ñù±¾£»vt ´Ó¡£¡£³éÑù£»Æ·³¢
-sausage     n Ïã³¦
-scale     n ¹æÄ££»ÌìÆ½£»£¨ÓãµÈµÄ£©ÁÛ£»v ÅÊµÇ
-scan     vt É¨Ãè£»ä¯ÀÀ£»n É¨Ãè£»/scanner   n É¨ÃèÒÇ£»/
-scarce     a È±·¦µÄ£»º±¼ûµÄ
-scare     n ¾ª¿Ö£»v  £¨Ê¹£©º¦ÅÂ
-scatter     v É¢²¥£»£¨Ê¹£©É¢¿ª
-scenery     n ¾°É«£»ÎèÌ¨²¼¾°
-scent     n ÏãÎ¶£»ÆøÎ¶£»vt Ğáµ½£»²ì¾õ
-schedule     n Ê±¿Ì±í£»Çåµ¥£»vt °²ÅÅ
-scheme     n ¼Æ»®£»ÒõÄ±£»v ÃÜÄ±£»²ß»®
-scholar     n Ñ§Õß£»»ñ½±Ñ§½ğÕß£»/scholarship   n ½±Ñ§½ğ£»Ñ§ÎÊ£»/
-scope     n £¨»î¶¯£¬Ó°ÏìµÈµÄ£©·¶Î§
-scorching     a ¿áÈÈµÄ£»¼¤ÁÒµÄ
-score    n µÃ·Ö£»¶şÊ®£»vt µÃ·Ö£»»­ÏßÓÚ
-scrap     n ËéĞ¼£»v ·ÏÆú£»Å×Æú
-scrape     n&v ¹Î£¬²Á
-scratch     v ×¥£»¹Ò²Á£»n ×¥ºÛ£»×¥
-scream     n ¼â½ĞÉù£»vi ¼â½Ğ
-screen     n ÆÁÄ»£»vt ·ÅÓ³£¨µçÊÓ£¬µçÓ°½ÚÄ¿£©£»°ü±Ó
-screw     n ÂİË¿£¨¶¤£©£»vt ÓÃÂİË¿¹Ì¶¨
-sculpture     n µñËÜÆ·
-seal     n ·âÌõ£»Ó¡£»v ·â
-seam     n ·ì£¬½Ó·ì£»Ãº²ã
-secondary     a ´ÎÒªµÄ£»£¨½ÌÓı¡¢Ñ§Ğ£µÈ£©ÖĞµÈµÄ£»¸¨ÖúµÄ
-section     n ²¿·Ö£»²¿ÃÅ£»½ØÃæ
-sector     n ²¿ÃÅ£»ÉÈĞÎ
-seek     v Ñ°ÕÒ£»Ì½Ë÷£»×·Çó
-seep     v Â©³ö£¬ÉøÂ©
-segment     n Æ¬¶Î£»²¿·Ö£»½Ú
-select     v Ñ¡Ôñ£¬ÌôÑ¡£»a ¾«Ñ¡µÄ£¬¾«Ìô³öÀ´µÄ£»/selective   a Ñ¡ÔñµÄ£»Ñ¡ÔñĞÔµÄ£»/selection   n Ñ¡Ôñ£»/
-semester     n Ñ§ÆÚ
-seminar     n ÑĞÌÖ»á
-senior     a ×Ê¸ñ½ÏÀÏµÄ£»Äê³¤µÄ£»n ½ÏÄê³¤Õß£»£¨ÖĞÑ§»ò´óÑ§µÄ£©±ÏÒµ°àÑ§Éú
-sensation     n ¸Ğ¾õ£»ºä¶¯
-sensible     a Ã÷ÖÇµÄ£»ºÏÀíµÄ
+resource     n èµ„æºï¼›åº”ä»˜æ–¹æ³•
+respect     vt å°Šæ•¬ï¼›n å°Šæ•¬ï¼›å…³å¿ƒï¼›æ–¹é¢ï¼›/respectable   a å€¼å¾—å°Šæ•¬çš„ï¼›/
+respond     vi å›ç­”ï¼›åšå‡ºååº”ï¼›/response   n å›ç­”ï¼›/respondent   n å›ç­”è€…ï¼›a å›ç­”çš„ï¼›/
+responsible     a æœ‰è´£ä»»æ„Ÿçš„ï¼›å¯é çš„ï¼›/responsibility   n è´£ä»»ï¼›/
+restrain     vt é˜»æ­¢ï¼›æŠ‘åˆ¶ï¼›/restraint   n æŠ‘åˆ¶ï¼›çº¦æŸæªæ–½ï¼›/
+restrict     vt é™åˆ¶ï¼Œçº¦æŸ
+resume     vt ï¼ˆä¸­æ–­åï¼‰é‡æ–°å¼€å§‹ï¼›æ¢å¤ï¼›n æ‘˜è¦ï¼›ç®€å†
+retain     vt ä¿ç•™ï¼›ä¿æŒ
+retire     vi é€€ä¼‘ï¼›æ’¤é€€ï¼›å°±å¯
+reunite     v ï¼ˆä½¿ï¼‰ç»“åˆï¼›é‡èš
+reveal     vt æ­éœ²ï¼›æ³„éœ²ï¼›å±•ç°
+revenue     n ï¼ˆå°¤æŒ‡å¤§å®—çš„ï¼‰æ”¶å…¥ï¼›ç¨æ”¶
+revise     vt ä¿®è®¢ï¼›å¤ä¹ 
+revolution     n é©å‘½ï¼›æ—‹è½¬
+revolve     vi æ—‹è½¬
+reward     n å¥–èµï¼›æŠ¥é…¬ï¼›vt é…¬è°¢ï¼›å¥–åŠ±
+ridiculous     a è’è°¬çš„ï¼›å¯ç¬‘çš„
+rig     v æ“çºµï¼Œå„æ–­ï¼›n èˆ¹æ¡…ï¼ˆæˆ–èˆ¹å¸†ç­‰ï¼‰çš„è£…ç½®ï¼›æˆå¥—å™¨æ¢°
+rigid     a ä¸¥æ ¼çš„ï¼›åˆšç¡¬çš„
+rigorous     a ä¸¥å¯†çš„ï¼›ä¸¥æ ¼çš„ï¼›/rigorously   ad ä¸¥æ ¼åœ°ï¼›ä¸¥å¯†åœ°ï¼›/
+rim     n ï¼ˆåœ†å½¢ç‰©ä½“çš„ï¼‰è¾¹ï¼Œç¼˜
+ripe     a ç†Ÿçš„ï¼›æ—¶æœºæˆç†Ÿçš„ï¼›/ripen   v ä½¿æˆç†Ÿï¼Œæˆç†Ÿï¼› /
+rival     n ç«äº‰å¯¹æ‰‹ï¼›å¯ä¸åŒ¹æ•Œçš„äººï¼ˆæˆ–ç‰©ï¼‰ï¼›a ç«äº‰çš„ï¼›v ç«äº‰ï¼›åŒ¹æ•Œ
+roast     v çƒ¤ï¼Œç‚™ï¼›a çƒ¤è¿‡çš„ï¼›n çƒ¤è‚‰
+roll film     n èƒ¶å·
+roll holder     n æ”¯æ¶
+romance     n æ‹çˆ±ï¼›æµªæ¼«çˆ±æƒ…
+rot     n è…çƒ‚ï¼›v ï¼ˆä½¿ï¼‰è…çƒ‚
+rotate     v ï¼ˆä½¿ï¼‰æ—‹è½¬ï¼›(ä½¿ï¼‰è½®æµ
+route     n è·¯çº¿ï¼›è·¯ç¨‹
+routine     n ä¾‹è¡Œå…¬äº‹ï¼›æƒ¯ä¾‹ï¼›a ä¾‹è¡Œçš„ï¼›å¸¸è§„çš„
+rude    a ç²—é²çš„ï¼›ç²—ç³™çš„
+rumor     n è°£ä¼ ï¼Œè°£è¨€
+rural     a å†œæ‘çš„
+sample     n æ ·å“ï¼Œæ ·æœ¬ï¼›vt ä»ã€‚ã€‚æŠ½æ ·ï¼›å“å°
+sausage     n é¦™è‚ 
+scale     n è§„æ¨¡ï¼›å¤©å¹³ï¼›ï¼ˆé±¼ç­‰çš„ï¼‰é³ï¼›v æ”€ç™»
+scan     vt æ‰«æï¼›æµè§ˆï¼›n æ‰«æï¼›/scanner   n æ‰«æä»ªï¼›/
+scarce     a ç¼ºä¹çš„ï¼›ç½•è§çš„
+scare     n æƒŠæï¼›v  ï¼ˆä½¿ï¼‰å®³æ€•
+scatter     v æ•£æ’­ï¼›ï¼ˆä½¿ï¼‰æ•£å¼€
+scenery     n æ™¯è‰²ï¼›èˆå°å¸ƒæ™¯
+scent     n é¦™å‘³ï¼›æ°”å‘³ï¼›vt å—…åˆ°ï¼›å¯Ÿè§‰
+schedule     n æ—¶åˆ»è¡¨ï¼›æ¸…å•ï¼›vt å®‰æ’
+scheme     n è®¡åˆ’ï¼›é˜´è°‹ï¼›v å¯†è°‹ï¼›ç­–åˆ’
+scholar     n å­¦è€…ï¼›è·å¥–å­¦é‡‘è€…ï¼›/scholarship   n å¥–å­¦é‡‘ï¼›å­¦é—®ï¼›/
+scope     n ï¼ˆæ´»åŠ¨ï¼Œå½±å“ç­‰çš„ï¼‰èŒƒå›´
+scorching     a é…·çƒ­çš„ï¼›æ¿€çƒˆçš„
+score    n å¾—åˆ†ï¼›äºŒåï¼›vt å¾—åˆ†ï¼›ç”»çº¿äº
+scrap     n ç¢å±‘ï¼›v åºŸå¼ƒï¼›æŠ›å¼ƒ
+scrape     n&v åˆ®ï¼Œæ“¦
+scratch     v æŠ“ï¼›æŒ‚æ“¦ï¼›n æŠ“ç—•ï¼›æŠ“
+scream     n å°–å«å£°ï¼›vi å°–å«
+screen     n å±å¹•ï¼›vt æ”¾æ˜ ï¼ˆç”µè§†ï¼Œç”µå½±èŠ‚ç›®ï¼‰ï¼›åŒ…åº‡
+screw     n èºä¸ï¼ˆé’‰ï¼‰ï¼›vt ç”¨èºä¸å›ºå®š
+sculpture     n é›•å¡‘å“
+seal     n å°æ¡ï¼›å°ï¼›v å°
+seam     n ç¼ï¼Œæ¥ç¼ï¼›ç…¤å±‚
+secondary     a æ¬¡è¦çš„ï¼›ï¼ˆæ•™è‚²ã€å­¦æ ¡ç­‰ï¼‰ä¸­ç­‰çš„ï¼›è¾…åŠ©çš„
+section     n éƒ¨åˆ†ï¼›éƒ¨é—¨ï¼›æˆªé¢
+sector     n éƒ¨é—¨ï¼›æ‰‡å½¢
+seek     v å¯»æ‰¾ï¼›æ¢ç´¢ï¼›è¿½æ±‚
+seep     v æ¼å‡ºï¼Œæ¸—æ¼
+segment     n ç‰‡æ®µï¼›éƒ¨åˆ†ï¼›èŠ‚
+select     v é€‰æ‹©ï¼ŒæŒ‘é€‰ï¼›a ç²¾é€‰çš„ï¼Œç²¾æŒ‘å‡ºæ¥çš„ï¼›/selective   a é€‰æ‹©çš„ï¼›é€‰æ‹©æ€§çš„ï¼›/selection   n é€‰æ‹©ï¼›/
+semester     n å­¦æœŸ
+seminar     n ç ”è®¨ä¼š
+senior     a èµ„æ ¼è¾ƒè€çš„ï¼›å¹´é•¿çš„ï¼›n è¾ƒå¹´é•¿è€…ï¼›ï¼ˆä¸­å­¦æˆ–å¤§å­¦çš„ï¼‰æ¯•ä¸šç­å­¦ç”Ÿ
+sensation     n æ„Ÿè§‰ï¼›è½°åŠ¨
+sensible     a æ˜æ™ºçš„ï¼›åˆç†çš„
 
-list 27
-pulley     n »¬ÂÖ£»»¬³µ
-pulverised     a ÄëÄ¥³É·ÛµÄ
-qualitative     a £¨ĞÔ£©ÖÊµÄ
-quantity     n Á¿
-quartz     n Ê¯Ó¢
-questionnaire     n ÎÊ¾í£¬Õ÷ÇóÒâ¼û±í
-quiver     vi ²ü¶¶£¬¶¶¶¯
-quota     n Åä¶î£¬ÏŞ¶î
-racket     n £¨ÍøÇòµÈµÄ£©ÇòÅÄ
-radiate     v ·¢¹â£»·¢ÈÈ£»·øÉä£»/radiation   n ·¢¹â£»·øÉä£»/
-random     a ÈÎÒâµÄ£¬Ëæ»úµÄ
-rank     n µÈ¼¶£»¾üÏÎ£»v ÅÅÁĞ£»·ÖµÈ
-ratio     n ±ÈÀı£¬±ÈÂÊ
-new material     Ô­²ÄÁÏ
-rear     a ºó²¿µÄ£¬ºóÃæµÄ£»v ËÇÑø£¬ÖÖÖ²
-receiver     n £¨µç»°£©ÌıÍ²£»½ÓÊÕÆ÷
-recipe    n Ê³Æ×£»·½·¨£¬ÃØ¾÷
-recipient     n ½ÓÊÜÕß
-recognize     vt ÈÏ³ö£»³ĞÈÏ£¬ÈÏ¿É
-recommend     vt ÍÆ¼ö£»È°¸æ£»Ê¹ÊÜ»¶Ó­£»/recommendation   n ÍÆ¼ö£»È°¸æ£»/
-rectangular     a ³¤·½ĞÎµÄ£¬¾ØĞÎµÄ
-recycle     vt »ØÊÕÀûÓÃ
-refectory     n £¨Ñ§Ğ££©²ÍÌü£¬Ê³ÌÃ
-refinement     n ¾«Á¶£»£¨×°ÖÃ£©¸Ä½øµÄµØ·½£»ÎÄÑÅ
-refresh     v £¨Ê¹£©Õñ×÷¾«Éñ£»£¨Ê¹£©»Ö¸´»îÁ¦
-refreshment   n ¾«Á¦»Ö¸´
-refrigerator     n ±ùÏä£»Àä²Ø¿â
-refund     n ÍË¿î£»vt ÍË»¹£¨ Ç® ¿î£©£»/refundable   a ¿É³¥»¹µÄ£»/
-refusal     n ¾Ü¾ø
-regarding     prep ¹ØÓÚ
-regardless     a ºÁ²»¹Ë¼ÉµÄ£»ad ²»¹Ëºó¹ûµØ£»ÎŞÂÛÈçºÎ
-region     n µØÇø£»·¶Î§
-register     n µÇ¼Ç£»µÇ¼Ç±í£»v µÇ¼Ç
-regulate     vt ¿ØÖÆ£»µ÷½Ú£»/regulation   n ¹æÕÂ£»µ÷½Ú£»/
-reinforce     vt ¼ÓÇ¿£»ÔöÔ®
-reject     vt ¾Ü¾ø£»n ±»¾Ü»õÆ·£¬²»ºÏ¸ñÆ·
-relate     vi ÓĞ¹ØÁª£»vt Ê¹Ïà»¥¹ØÁª£»½²Êö£»/relative   a ÓĞ¹ØÏµµÄ£»Ïà¶ÔµÄ£»n Ç×Êô£»/relation   n ¹ØÏµ£»/
-relax     v £¨Ê¹£©·ÅËÉ£»/relaxation   n ·ÅËÉ£»/
-relay     n ½ÓÁ¦Èü£»ÖĞ¼Ì£»vt ´«ËÍ£»×ª²¥
-release     n&vt ÊÍ·Å£»·Å¿ª£»·¢ĞĞ
-relevant     a ÓĞ¹ØµÄ£»ÇĞÌâµÄ£»/irrelevant   a ²»Ïà¹ØµÄ£»²»ÇĞÌâµÄ£»/
-reliable     a ¿É¿¿µÄ£¬¿ÉĞÅÀµµÄ
-reliance     n ÒÀ¿¿£¬ÒÀÀµ
-relieve     vt ¾È¼Ã£»»º½â£»/relief   n ¾È¼Ã£»»º½â£»/
-religion     n ×Ú½Ì£»×Ú½ÌĞÅÑö£»/religious   a ×Ú½ÌÉÏµÄ£»/
-rely     vi ÒÀ¿¿£»ĞÅÀµ
-remain     vi Ê£ÏÂ£»±£³Ö£»n ²ĞÓà£»ÒÅ¼£
-remarkable     a ÒıÈË×¢Ä¿µÄ£»Òì³£µÄ£¬·Ç·²µÄ
-remedy     n ²¹¾È£»ÖÎÁÆ·¨£»vt ²¹¾È£»Ò½ÖÎ
-remind     vt ÌáĞÑ
-remote     a Ò£Ô¶µÄ£»Æ«Æ§µÄ£»£¨¹ØÏµ£©ÊèÔ¶µÄ
-removal     n ³ıÈ¥£»°áÇ¨
-renew     v ÖØĞÂ¿ªÊ¼£»»Ö¸´£»ÑÓ³¤ÓĞĞ§ÆÚ
-rent     v ×â½è£»³ö×â£»n ×â½ğ£»/rental   a ×âÓÃµÄ£»n ×â½ğ¶î£»/ 
-repay     vt ¹é»¹£¨¿îÏî£©£»±¨´ğ
-replace     vt ´úÌæ£»¸ü»»£»°Ñ¡£¡£·Å»ØÔ­´¦£»/replacement   n ´úÌæ£»¸ü»»£»¹é»¹£»/
-represent     vt ´ú±í£»±íÊ¾£»±íÏÖ£»/representative   n ´ú±í£»a ÓĞ´ú±íĞÔµÄ£»/
-reproduce     v ¸´ÖÆ£»·±Ö³£»Ê¹¡£¡£ÔÚÄÔº£ÖĞµÄ±íÏÖ£»/reproduction   n ¸´ÖÆÆ·£»·±Ö³£»/
-reputation     n ÃûÓş£¬ÃûÉù
-request     n ÒªÇó£»ÇëÇó£»v ÒªÇó£»ÇëÇó
-require     vt ÒªÇó£»ÃüÁî£»/requirement   n ÒªÇó£»ÃüÁî£»/
-rescue     n&vt Óª¾È£¬¾ÈÔ®
-reserve     vt ±£Áô£»Ô¤¶¨£»n ´¢±¸£¨Îï£©£»×ÔÈ»±£»¤Çø£»/reservation   n Ô¤¶¨£»±£Áô£»/ 
-residence     n ×¡´¦£»¾Ó×¡
-resident     n ¾ÓÃñ¡£×¡»§£»a ³£×¤µÄ£¬¾Ó×¡µÄ
-residential     a ¾Ó×¡µÄ£¬×¡Õ¬µÄ£»¼ÄËŞµÄ
-resign     vi ´ÇÖ°£»vt ´ÇÈ¥£»·ÅÆú
-resist     v µÖ¿¹£»¿¹£¨²¡µÈ£©£»ÄÍ£¨ÈÈµÈ£©£»/resistance   n µÖ¿¹£»×èÁ¦£»/resistant   a µÖ¿¹µÄ£»ÄÍ¡£¡£µÄ£»/
-resort     viÇóÖú£¬ËßÖî£»nÇóÖú£»ËßÖî£»Ê¤µØ
+pulley     n æ»‘è½®ï¼›æ»‘è½¦
+pulverised     a ç¢¾ç£¨æˆç²‰çš„
+qualitative     a ï¼ˆæ€§ï¼‰è´¨çš„
+quantity     n é‡
+quartz     n çŸ³è‹±
+questionnaire     n é—®å·ï¼Œå¾æ±‚æ„è§è¡¨
+quiver     vi é¢¤æŠ–ï¼ŒæŠ–åŠ¨
+quota     n é…é¢ï¼Œé™é¢
+racket     n ï¼ˆç½‘çƒç­‰çš„ï¼‰çƒæ‹
+radiate     v å‘å…‰ï¼›å‘çƒ­ï¼›è¾å°„ï¼›/radiation   n å‘å…‰ï¼›è¾å°„ï¼›/
+random     a ä»»æ„çš„ï¼Œéšæœºçš„
+rank     n ç­‰çº§ï¼›å†›è¡”ï¼›v æ’åˆ—ï¼›åˆ†ç­‰
+ratio     n æ¯”ä¾‹ï¼Œæ¯”ç‡
+new material     åŸææ–™
+rear     a åéƒ¨çš„ï¼Œåé¢çš„ï¼›v é¥²å…»ï¼Œç§æ¤
+receiver     n ï¼ˆç”µè¯ï¼‰å¬ç­’ï¼›æ¥æ”¶å™¨
+recipe    n é£Ÿè°±ï¼›æ–¹æ³•ï¼Œç§˜è¯€
+recipient     n æ¥å—è€…
+recognize     vt è®¤å‡ºï¼›æ‰¿è®¤ï¼Œè®¤å¯
+recommend     vt æ¨èï¼›åŠå‘Šï¼›ä½¿å—æ¬¢è¿ï¼›/recommendation   n æ¨èï¼›åŠå‘Šï¼›/
+rectangular     a é•¿æ–¹å½¢çš„ï¼ŒçŸ©å½¢çš„
+recycle     vt å›æ”¶åˆ©ç”¨
+refectory     n ï¼ˆå­¦æ ¡ï¼‰é¤å…ï¼Œé£Ÿå ‚
+refinement     n ç²¾ç‚¼ï¼›ï¼ˆè£…ç½®ï¼‰æ”¹è¿›çš„åœ°æ–¹ï¼›æ–‡é›…
+refresh     v ï¼ˆä½¿ï¼‰æŒ¯ä½œç²¾ç¥ï¼›ï¼ˆä½¿ï¼‰æ¢å¤æ´»åŠ›
+refreshment   n ç²¾åŠ›æ¢å¤
+refrigerator     n å†°ç®±ï¼›å†·è—åº“
+refund     n é€€æ¬¾ï¼›vt é€€è¿˜ï¼ˆ é’± æ¬¾ï¼‰ï¼›/refundable   a å¯å¿è¿˜çš„ï¼›/
+refusal     n æ‹’ç»
+regarding     prep å…³äº
+regardless     a æ¯«ä¸é¡¾å¿Œçš„ï¼›ad ä¸é¡¾åæœåœ°ï¼›æ— è®ºå¦‚ä½•
+region     n åœ°åŒºï¼›èŒƒå›´
+register     n ç™»è®°ï¼›ç™»è®°è¡¨ï¼›v ç™»è®°
+regulate     vt æ§åˆ¶ï¼›è°ƒèŠ‚ï¼›/regulation   n è§„ç« ï¼›è°ƒèŠ‚ï¼›/
+reinforce     vt åŠ å¼ºï¼›å¢æ´
+reject     vt æ‹’ç»ï¼›n è¢«æ‹’è´§å“ï¼Œä¸åˆæ ¼å“
+relate     vi æœ‰å…³è”ï¼›vt ä½¿ç›¸äº’å…³è”ï¼›è®²è¿°ï¼›/relative   a æœ‰å…³ç³»çš„ï¼›ç›¸å¯¹çš„ï¼›n äº²å±ï¼›/relation   n å…³ç³»ï¼›/
+relax     v ï¼ˆä½¿ï¼‰æ”¾æ¾ï¼›/relaxation   n æ”¾æ¾ï¼›/
+relay     n æ¥åŠ›èµ›ï¼›ä¸­ç»§ï¼›vt ä¼ é€ï¼›è½¬æ’­
+release     n&vt é‡Šæ”¾ï¼›æ”¾å¼€ï¼›å‘è¡Œ
+relevant     a æœ‰å…³çš„ï¼›åˆ‡é¢˜çš„ï¼›/irrelevant   a ä¸ç›¸å…³çš„ï¼›ä¸åˆ‡é¢˜çš„ï¼›/
+reliable     a å¯é çš„ï¼Œå¯ä¿¡èµ–çš„
+reliance     n ä¾é ï¼Œä¾èµ–
+relieve     vt æ•‘æµï¼›ç¼“è§£ï¼›/relief   n æ•‘æµï¼›ç¼“è§£ï¼›/
+religion     n å®—æ•™ï¼›å®—æ•™ä¿¡ä»°ï¼›/religious   a å®—æ•™ä¸Šçš„ï¼›/
+rely     vi ä¾é ï¼›ä¿¡èµ–
+remain     vi å‰©ä¸‹ï¼›ä¿æŒï¼›n æ®‹ä½™ï¼›é—è¿¹
+remarkable     a å¼•äººæ³¨ç›®çš„ï¼›å¼‚å¸¸çš„ï¼Œéå‡¡çš„
+remedy     n è¡¥æ•‘ï¼›æ²»ç–—æ³•ï¼›vt è¡¥æ•‘ï¼›åŒ»æ²»
+remind     vt æé†’
+remote     a é¥è¿œçš„ï¼›ååƒ»çš„ï¼›ï¼ˆå…³ç³»ï¼‰ç–è¿œçš„
+removal     n é™¤å»ï¼›æ¬è¿
+renew     v é‡æ–°å¼€å§‹ï¼›æ¢å¤ï¼›å»¶é•¿æœ‰æ•ˆæœŸ
+rent     v ç§Ÿå€Ÿï¼›å‡ºç§Ÿï¼›n ç§Ÿé‡‘ï¼›/rental   a ç§Ÿç”¨çš„ï¼›n ç§Ÿé‡‘é¢ï¼›/
+repay     vt å½’è¿˜ï¼ˆæ¬¾é¡¹ï¼‰ï¼›æŠ¥ç­”
+replace     vt ä»£æ›¿ï¼›æ›´æ¢ï¼›æŠŠã€‚ã€‚æ”¾å›åŸå¤„ï¼›/replacement   n ä»£æ›¿ï¼›æ›´æ¢ï¼›å½’è¿˜ï¼›/
+represent     vt ä»£è¡¨ï¼›è¡¨ç¤ºï¼›è¡¨ç°ï¼›/representative   n ä»£è¡¨ï¼›a æœ‰ä»£è¡¨æ€§çš„ï¼›/
+reproduce     v å¤åˆ¶ï¼›ç¹æ®–ï¼›ä½¿ã€‚ã€‚åœ¨è„‘æµ·ä¸­çš„è¡¨ç°ï¼›/reproduction   n å¤åˆ¶å“ï¼›ç¹æ®–ï¼›/
+reputation     n åèª‰ï¼Œåå£°
+request     n è¦æ±‚ï¼›è¯·æ±‚ï¼›v è¦æ±‚ï¼›è¯·æ±‚
+require     vt è¦æ±‚ï¼›å‘½ä»¤ï¼›/requirement   n è¦æ±‚ï¼›å‘½ä»¤ï¼›/
+rescue     n&vt è¥æ•‘ï¼Œæ•‘æ´
+reserve     vt ä¿ç•™ï¼›é¢„å®šï¼›n å‚¨å¤‡ï¼ˆç‰©ï¼‰ï¼›è‡ªç„¶ä¿æŠ¤åŒºï¼›/reservation   n é¢„å®šï¼›ä¿ç•™ï¼›/
+residence     n ä½å¤„ï¼›å±…ä½
+resident     n å±…æ°‘ã€‚ä½æˆ·ï¼›a å¸¸é©»çš„ï¼Œå±…ä½çš„
+residential     a å±…ä½çš„ï¼Œä½å®…çš„ï¼›å¯„å®¿çš„
+resign     vi è¾èŒï¼›vt è¾å»ï¼›æ”¾å¼ƒ
+resist     v æŠµæŠ—ï¼›æŠ—ï¼ˆç—…ç­‰ï¼‰ï¼›è€ï¼ˆçƒ­ç­‰ï¼‰ï¼›/resistance   n æŠµæŠ—ï¼›é˜»åŠ›ï¼›/resistant   a æŠµæŠ—çš„ï¼›è€ã€‚ã€‚çš„ï¼›/
+resort     viæ±‚åŠ©ï¼Œè¯‰è¯¸ï¼›næ±‚åŠ©ï¼›è¯‰è¯¸ï¼›èƒœåœ°
 
-list26
-position     n Î»ÖÃ£»µØÎ»£»Ö°Îñ£»Á¢³¡
-positive     a Ã÷È·µÄ£¬¿Ï¶¨µÄ£»»ı¼«µÄ
-possess     vt ¾ßÓĞ£»ÓµÓĞ
-postgraduate     n ÑĞ¾¿Éú£»a ±ÏÒµºóµÄ
-post-mortem     a ÊÂºóµÄ
-postpone     vt ÑÓ³Ù£¬ÑÓÆÚ
-posture     n ×ËÊÆ£»ĞÄÇé
-potential     a Ç±ÔÚµÄ£»¿ÉÄÜµÄ£»n Ç±Á¦£¬Ç±ÄÜ
-poverty     n Æ¶Çî
-practically     ad ¼¸ºõ£¬¼òÖ±£»Êµ¼ÊÉÏ
-precise     a ¾«È·µÄ£¬×¼È·µÄ£»ÑÏ½÷µÄ£»/precisely   ad ÕıºÃ£»/
-predict     v Ô¤ÑÔ£»Ô¤¸æ
-predispose     v ÊÂÏÈÓ°ÏìÄ³ÈË£»£¨Ê¹£©Ò×»¼²¡£»/predisposition   n ÇãÏò£¬ñ±ĞÔ£»/
-predominantly     ad ÖØÒªµØ£¬ÏÔÖøµØ
-preface     n ĞòÑÔ£¬ÒıÑÔ
-preferable     a ¸ü¿ÉÈ¡µÄ£¬¸üºÃµÄ
-preference     n Ï²°®£»Æ«°®µÄÊÂÎï£¨»òÈË£©£»ÓÅÏÈ
-pregnant     a »³ÔĞµÄ£¬ÈÑÉïµÄ
-premier     n ×ÜÀí£»Ê×Ïà£»a Ê×ÒªµÄ£¬µÚÒ»Î»µÄ
-premium     a ÓÅÖÊµÄ£»ÊÛ¼Û¸ßµÄ£»n ±£ÏÕ·Ñ
-preparation     n ×¼±¸£¨¹¤×÷£©£¬Ô¤±¸£»ÖÆ¼Á
-prescribe     v ´¦·½£¬¿ªÒ©£»¹æ¶¨
-prescription     n ´¦·½£¬Ò©·½
-presence     n ³öÏ¯£»´æÔÚ£»ÒÇÌ¬
-presentation     n Ìá¹©£»ÊÚÓè£»±¨¸æ
-preserve     vt ±£»¤£»Î¬³Ö£»±£²Ø
-pressure     n Ñ¹Ç¿£»Ñ¹Á¦£»vt ¶Ô¡£¡£Ê©¼ÓÑ¹Á¦£»Ëµ·ş
-pretend     vt ¼Ù×°£¬×°×÷
-prevail     vt Á÷ĞĞ£¬Ê¢ĞĞ£»Õ¼ÓÅÊÆ
-prevalent     a Á÷ĞĞµÄ£¬ÆÕÍ¨µÄ
-previous     a ÏÈµÄ£¬ÒÔÇ°µÄ
-primarily     ad Ê×ÏÈ£»Ö÷ÒªµØ
-primary     a Ê×ÒªµÄ£¬Ö÷ÒªµÄ£¬×î³õµÄ£¬³õ¼¶µÄ
-prime     a Ê×ÒªµÄ£»×îºÃµÄ
-primitive     a Ô­Ê¼µÄ£»ÔçÆÚµÄ£»¼òµ¥µÄ
-principal     a Ö÷ÒªµÄ£»n Ğ£³¤£»×Ê±¾£»Ö÷½Ç
-principle     n Ô­Ôò£¬Ô­Àí£»»ù±¾ĞÅÄî
-prior     a ÔÚÏÈµÄ£¬ÓÅÏÈµÄ
-priority     n ÓÅÏÈ£¨È¨£©£¬ÖØµã£»ÓÅÏÈ¿¼ÂÇµÄÊÂ
-privacy     n ¸öÈË×ÔÓÉ£»ÒşË½£¬Ë½ÊÂ 
-private     a Ë½ÏÂµÄ£»Ë½ÈËµÄ£»Ë½Á¢µÄ
-privilege     n ÌØÈ¨£»ÓÅ»İ£»/privileged   a ÓĞÌØÈ¨µÄ£»/
-probability     n ¿ÉÄÜĞÔ£»¸ÅÂÊ
-probable     a ºÜ¿ÉÄÜµÄ£¬´ó¸ÅµÄ
-probe     n Ì½²âÆ÷£¬Ì½²â·É´¬£»v Ì½²é
-procedure     n ³ÌĞò£¬ÊÖĞø£»¹ı³Ì
-proceed     vi ½øĞĞ£»Ç°½ø£»¼ÌĞø
-process     n ¹ı³Ì£»ÖÆ×÷·¨£»vt ¼Ó¹¤£»°ìÀí
-procession     n ¶ÓÎé£¬¶ÓÁĞ
-productive     a Éú²úĞÔµÄ£»¶à²úµÄ£»¸»ÈÄµÄ
-productivity     n Éú²úÁ¦£»Éú²úÂÊ
-profession     n Ö°Òµ£»×¨³¤
-professional     a Ö°ÒµµÄ£»×¨ÒµµÄ£»n ×¨ÒµÈËÔ±
-profitable     a ÓĞÀû¿ÉÍ¼µÄ£¬ÓĞÒæµÄ
-profound     a Éî°ÂµÄ£»ÉîÔ¶µÄ
-project     n ¼Æ»®£»ÏîÄ¿£»¹¤³Ì
-prominent     a Í»³öµÄ£»ÖøÃûµÄ£»ÏÔÖøµÄ
-promise     n&v ÔÊÅµ£»£¨ÓĞ£©Ï£Íû£»Ô¤Õ×
-promising     a ÓĞÏ£ÍûµÄ£»ÓĞÇ°Í¾µÄ
-promote     vt ´Ù½ø£»ÌáÉı£»´ÙÏú
-pronounceable     a £¨Ö¸ÉùÒô£©·¢µÃ³öµÄ£»£¨Ö¸´Ê£©¿É·¢ÒôµÄ
-proof     n Ö¤¾İ£»Ğ£Ñù£»a Ğ£ÑùµÄ£»ÄÜ·À¡£¡£µÄ
-propel     vt ÍÆ½ø£¬ÍÆ¶¯£»¼¤Àø
-property     n ²Æ²ú£»·¿²ú£»ĞÔÖÊ
-proportion     n ±ÈÀı£»²¿·Ö£»Ïà³Æ
-proposal     n ÌáÒé£¬½¨Òé£»Çó»é
-prospective     a Ô¤ÆÚµÄ£»Î´À´µÄ
-pudding     n ²¼¶¡
-pull up stakes     Àë¿ª£¬°á¼Ò
+position     n ä½ç½®ï¼›åœ°ä½ï¼›èŒåŠ¡ï¼›ç«‹åœº
+positive     a æ˜ç¡®çš„ï¼Œè‚¯å®šçš„ï¼›ç§¯æçš„
+possess     vt å…·æœ‰ï¼›æ‹¥æœ‰
+postgraduate     n ç ”ç©¶ç”Ÿï¼›a æ¯•ä¸šåçš„
+post-mortem     a äº‹åçš„
+postpone     vt å»¶è¿Ÿï¼Œå»¶æœŸ
+posture     n å§¿åŠ¿ï¼›å¿ƒæƒ…
+potential     a æ½œåœ¨çš„ï¼›å¯èƒ½çš„ï¼›n æ½œåŠ›ï¼Œæ½œèƒ½
+poverty     n è´«ç©·
+practically     ad å‡ ä¹ï¼Œç®€ç›´ï¼›å®é™…ä¸Š
+precise     a ç²¾ç¡®çš„ï¼Œå‡†ç¡®çš„ï¼›ä¸¥è°¨çš„ï¼›/precisely   ad æ­£å¥½ï¼›/
+predict     v é¢„è¨€ï¼›é¢„å‘Š
+predispose     v äº‹å…ˆå½±å“æŸäººï¼›ï¼ˆä½¿ï¼‰æ˜“æ‚£ç—…ï¼›/predisposition   n å€¾å‘ï¼Œç™–æ€§ï¼›/
+predominantly     ad é‡è¦åœ°ï¼Œæ˜¾è‘—åœ°
+preface     n åºè¨€ï¼Œå¼•è¨€
+preferable     a æ›´å¯å–çš„ï¼Œæ›´å¥½çš„
+preference     n å–œçˆ±ï¼›åçˆ±çš„äº‹ç‰©ï¼ˆæˆ–äººï¼‰ï¼›ä¼˜å…ˆ
+pregnant     a æ€€å­•çš„ï¼Œå¦Šå¨ çš„
+premier     n æ€»ç†ï¼›é¦–ç›¸ï¼›a é¦–è¦çš„ï¼Œç¬¬ä¸€ä½çš„
+premium     a ä¼˜è´¨çš„ï¼›å”®ä»·é«˜çš„ï¼›n ä¿é™©è´¹
+preparation     n å‡†å¤‡ï¼ˆå·¥ä½œï¼‰ï¼Œé¢„å¤‡ï¼›åˆ¶å‰‚
+prescribe     v å¤„æ–¹ï¼Œå¼€è¯ï¼›è§„å®š
+prescription     n å¤„æ–¹ï¼Œè¯æ–¹
+presence     n å‡ºå¸­ï¼›å­˜åœ¨ï¼›ä»ªæ€
+presentation     n æä¾›ï¼›æˆäºˆï¼›æŠ¥å‘Š
+preserve     vt ä¿æŠ¤ï¼›ç»´æŒï¼›ä¿è—
+pressure     n å‹å¼ºï¼›å‹åŠ›ï¼›vt å¯¹ã€‚ã€‚æ–½åŠ å‹åŠ›ï¼›è¯´æœ
+pretend     vt å‡è£…ï¼Œè£…ä½œ
+prevail     vt æµè¡Œï¼Œç››è¡Œï¼›å ä¼˜åŠ¿
+prevalent     a æµè¡Œçš„ï¼Œæ™®é€šçš„
+previous     a å…ˆçš„ï¼Œä»¥å‰çš„
+primarily     ad é¦–å…ˆï¼›ä¸»è¦åœ°
+primary     a é¦–è¦çš„ï¼Œä¸»è¦çš„ï¼Œæœ€åˆçš„ï¼Œåˆçº§çš„
+prime     a é¦–è¦çš„ï¼›æœ€å¥½çš„
+primitive     a åŸå§‹çš„ï¼›æ—©æœŸçš„ï¼›ç®€å•çš„
+principal     a ä¸»è¦çš„ï¼›n æ ¡é•¿ï¼›èµ„æœ¬ï¼›ä¸»è§’
+principle     n åŸåˆ™ï¼ŒåŸç†ï¼›åŸºæœ¬ä¿¡å¿µ
+prior     a åœ¨å…ˆçš„ï¼Œä¼˜å…ˆçš„
+priority     n ä¼˜å…ˆï¼ˆæƒï¼‰ï¼Œé‡ç‚¹ï¼›ä¼˜å…ˆè€ƒè™‘çš„äº‹
+privacy     n ä¸ªäººè‡ªç”±ï¼›éšç§ï¼Œç§äº‹
+private     a ç§ä¸‹çš„ï¼›ç§äººçš„ï¼›ç§ç«‹çš„
+privilege     n ç‰¹æƒï¼›ä¼˜æƒ ï¼›/privileged   a æœ‰ç‰¹æƒçš„ï¼›/
+probability     n å¯èƒ½æ€§ï¼›æ¦‚ç‡
+probable     a å¾ˆå¯èƒ½çš„ï¼Œå¤§æ¦‚çš„
+probe     n æ¢æµ‹å™¨ï¼Œæ¢æµ‹é£èˆ¹ï¼›v æ¢æŸ¥
+procedure     n ç¨‹åºï¼Œæ‰‹ç»­ï¼›è¿‡ç¨‹
+proceed     vi è¿›è¡Œï¼›å‰è¿›ï¼›ç»§ç»­
+process     n è¿‡ç¨‹ï¼›åˆ¶ä½œæ³•ï¼›vt åŠ å·¥ï¼›åŠç†
+procession     n é˜Ÿä¼ï¼Œé˜Ÿåˆ—
+productive     a ç”Ÿäº§æ€§çš„ï¼›å¤šäº§çš„ï¼›å¯Œé¥¶çš„
+productivity     n ç”Ÿäº§åŠ›ï¼›ç”Ÿäº§ç‡
+profession     n èŒä¸šï¼›ä¸“é•¿
+professional     a èŒä¸šçš„ï¼›ä¸“ä¸šçš„ï¼›n ä¸“ä¸šäººå‘˜
+profitable     a æœ‰åˆ©å¯å›¾çš„ï¼Œæœ‰ç›Šçš„
+profound     a æ·±å¥¥çš„ï¼›æ·±è¿œçš„
+project     n è®¡åˆ’ï¼›é¡¹ç›®ï¼›å·¥ç¨‹
+prominent     a çªå‡ºçš„ï¼›è‘—åçš„ï¼›æ˜¾è‘—çš„
+promise     n&v å…è¯ºï¼›ï¼ˆæœ‰ï¼‰å¸Œæœ›ï¼›é¢„å…†
+promising     a æœ‰å¸Œæœ›çš„ï¼›æœ‰å‰é€”çš„
+promote     vt ä¿ƒè¿›ï¼›æå‡ï¼›ä¿ƒé”€
+pronounceable     a ï¼ˆæŒ‡å£°éŸ³ï¼‰å‘å¾—å‡ºçš„ï¼›ï¼ˆæŒ‡è¯ï¼‰å¯å‘éŸ³çš„
+proof     n è¯æ®ï¼›æ ¡æ ·ï¼›a æ ¡æ ·çš„ï¼›èƒ½é˜²ã€‚ã€‚çš„
+propel     vt æ¨è¿›ï¼Œæ¨åŠ¨ï¼›æ¿€åŠ±
+property     n è´¢äº§ï¼›æˆ¿äº§ï¼›æ€§è´¨
+proportion     n æ¯”ä¾‹ï¼›éƒ¨åˆ†ï¼›ç›¸ç§°
+proposal     n æè®®ï¼Œå»ºè®®ï¼›æ±‚å©š
+prospective     a é¢„æœŸçš„ï¼›æœªæ¥çš„
+pudding     n å¸ƒä¸
+pull up stakes     ç¦»å¼€ï¼Œæ¬å®¶
 
-list 25
-original     a ×î³õµÄ£¬Ô­°æµÄ£»n Ô­×÷
-ounce     n °»Ë¾
-outcome     n ½á¹û
-outdo     v ³¬Ô½£¬Ê¤¹ı
-outline     n Ìá¸Ù£»ÂÖÀª£»vt ¸ÅÊö
-output     n ²úÁ¿£»Êä³ö(¹¦ÂÊ£©£»vt Êä³ö
-outsell     vt ÂôµÃ±È¡£¡£¶à
-outward     a ÍâÃæµÄ£¬Íâ±íµÄ
-overall     a È«ÃæµÄ£»È«²¿µÄ
-overcome     vt Õ½Ê¤£¬¿Ë·ş£»£¨¸ĞÇéµÈ£©Ñ¹µ¹
-overlap     v ÖØµş£¬½»´î
-overseas     ad ÔÚº£Íâ£»a ÔÚº£ÍâµÄ
-oversee     v ¼à¶½£¬¼àÊÓ£¨Ä³ÈË»òÄ³Îï£©
-overwhelm     vt Õ÷·ş£»ÑÍÃ»£»/overwhelming   a ÊÆ²»¿Éµ²µÄ£»¾Ş´óµÄ£»/
-owe     vt Ç·£»°Ñ¡£¡£¹é¹¦ÓÚ
-owl     n Ã¨Í·Ó¥
-oxide     n Ñõ»¯Îï
-ozone     n ³ôÑõ
-pack     v £¨°Ñ¡£¡££©´ò°ü£»ÈûÂú£»n °ü
-pamphlet     n Ğ¡²á×Ó
-panic     n ¿Ö»Å£»v£¨Ê¹£©¾ª»ÅÊ§´ë
-parallel     a Æ½ĞĞµÄ£»ÀàËÆµÄ£»vt Óë¡£¡£ÏàËÆ
-parcel     n °ü¹ü
-parliament     n Òé»á£¬¹ú»á
-partial     a ²¿·ÖµÄ£¬Æ«°®µÄ£»Æ«ĞÄµÄ£»/partially   ad ²¿·ÖµØ£»/ 
-participant     n ²ÎÓëÕß£¬²Î¼ÓÕß
-participate     vi ²ÎÓë£¬²Î¼Ó
-particle     n ¼«ÉÙÁ¿£¬Î¢Á£
-particularly     ad ÌØ±ğ£¬ÓÈÆä
-passport     n »¤ÕÕ
-patent     n ×¨Àû£¨È¨£©£»vt ÉêÇë×¨Àû
-pathology     n ²¡ÀíÑ§£»²¡±ä
-pattern     n ÑùÊ½£»Ä£Ê½£»vt ·ÂÕÕ
-payment     n Ö§¸¶£¬Ö§¸¶µÄ¿îÏî
-pearl     n ÕäÖé
-pedal     n Ì¤°å£»v Æï³µ£»²ÈÌ¤°å
-penalty     n ³Í·££»·£½ğ
-pension     n ÑøÀÏ½ğ£¬¸§Ğô½ğ
-pepper     n ºú½·£»vt ÔÚ¡£¡£ÉÏÈö£¨ºú½··Û£©
-perceive     v ¸ĞÖª£¬¾õ²ì£»ÈÏÊ¶µ½£¬Àí½â
-percentage     n °Ù·Ö±È£¬°Ù·ÖÂÊ
-perform     v ×ö£¬ÂÄĞĞ£»±íÑİ
-performance     n Ñİ³ö£»ÂÄĞĞ£»¹¤×÷±íÏÖ
-permission     n ÔÊÅµ£¬×¼Ğí
-perpetual     a ÓÀ¾ÃµÄ£»³¤ÆÚµÄ
-persist     vi ¼á³Ö£»³ÖĞø£»/persistent   a ³Ö¾ÃÎÈ¹ÌµÄ£»/persistence   n ¼á³Ö£¬³ÖĞø£»/
-personality     n ÈË¸ñ£¬¸öĞÔ£»ÈËÎï
-personnel     n ÈËÔ±£¬Ô±¹¤
-pest     n º¦³æ
-petrol     n ÆûÓÍ
-petroleum     n Ê¯ÓÍ
-phenomenon     n ÏÖÏó£¬¼£Ïó£»·Ç·²µÄÈË£¨»òÊÂÎï£©
-philosophy     n ÕÜÑ§£»ÕÜÀí£»/philosopher   n ÕÜÑ§¼Ò£¬ÕÜÈË£»/
-photocopy     v Ó°Ó¡£¬¸´Ó¡
-photography     n ÉãÓ°Êõ£¬ÉãÓ°£»/photographer   n ÉãÓ°Ê¦£»/photographic   a ÉãÓ°µÄ£»/
-physical     a ÉíÌåµÄ£»ÎïÀíÑ§µÄ£»ÎïÖÊµÄ
-physician     n ÄÚ¿ÆÒ½Éú£¬Ò½Ê¦
-pilot     n ·ÉĞĞÔ±£¬Òıº½Ô±£»vt Áìº½£¬Îª¡£¡£Òıº½
-pirate     n ÇÖ·¸°æÈ¨Õß£»º£µÁ£»vt µÁ°æ
-plastic     a ËÜÁÏ£¨ÖÆ)µÄ
-platform     n Æ½Ì¨£¬Õ¾Ì¨£»¸ÙÁì
-plot     n ¹ÊÊÂÇé½Ú£»Ğ¡¿éÍÁµØ£»ÃÜÄ±
-plus     prep ¼Ó£»n ¼ÓºÅ£¬ÕıºÅ
-poison     n ¶¾£¬¶¾Ò©£»vt ¶¾º¦
-poisonous      a ÓĞ¶¾µÄ£¬¶ñ¶¾µÄ
-pollution     n ÎÛÈ¾£¬ÎÛÈ¾Îï
-populate     vt £¨´óÅúµØ£©¾Ó×¡ÓÚ£¬Éú»îÓÚ
-pore over     ×ĞÏ¸ÔÄ¶Á
-portable     a ±ãÓÚĞ¯´øµÄ£¬ÊÖÌáÊ½µÄ
-portion     n ²¿·Ö£»Ò»·İ£»vt Åä¶î
+original     a æœ€åˆçš„ï¼ŒåŸç‰ˆçš„ï¼›n åŸä½œ
+ounce     n ç›å¸
+outcome     n ç»“æœ
+outdo     v è¶…è¶Šï¼Œèƒœè¿‡
+outline     n æçº²ï¼›è½®å»“ï¼›vt æ¦‚è¿°
+output     n äº§é‡ï¼›è¾“å‡º(åŠŸç‡ï¼‰ï¼›vt è¾“å‡º
+outsell     vt å–å¾—æ¯”ã€‚ã€‚å¤š
+outward     a å¤–é¢çš„ï¼Œå¤–è¡¨çš„
+overall     a å…¨é¢çš„ï¼›å…¨éƒ¨çš„
+overcome     vt æˆ˜èƒœï¼Œå…‹æœï¼›ï¼ˆæ„Ÿæƒ…ç­‰ï¼‰å‹å€’
+overlap     v é‡å ï¼Œäº¤æ­
+overseas     ad åœ¨æµ·å¤–ï¼›a åœ¨æµ·å¤–çš„
+oversee     v ç›‘ç£ï¼Œç›‘è§†ï¼ˆæŸäººæˆ–æŸç‰©ï¼‰
+overwhelm     vt å¾æœï¼›æ·¹æ²¡ï¼›/overwhelming   a åŠ¿ä¸å¯æŒ¡çš„ï¼›å·¨å¤§çš„ï¼›/
+owe     vt æ¬ ï¼›æŠŠã€‚ã€‚å½’åŠŸäº
+owl     n çŒ«å¤´é¹°
+oxide     n æ°§åŒ–ç‰©
+ozone     n è‡­æ°§
+pack     v ï¼ˆæŠŠã€‚ã€‚ï¼‰æ‰“åŒ…ï¼›å¡æ»¡ï¼›n åŒ…
+pamphlet     n å°å†Œå­
+panic     n ææ…Œï¼›vï¼ˆä½¿ï¼‰æƒŠæ…Œå¤±æª
+parallel     a å¹³è¡Œçš„ï¼›ç±»ä¼¼çš„ï¼›vt ä¸ã€‚ã€‚ç›¸ä¼¼
+parcel     n åŒ…è£¹
+parliament     n è®®ä¼šï¼Œå›½ä¼š
+partial     a éƒ¨åˆ†çš„ï¼Œåçˆ±çš„ï¼›åå¿ƒçš„ï¼›/partially   ad éƒ¨åˆ†åœ°ï¼›/
+participant     n å‚ä¸è€…ï¼Œå‚åŠ è€…
+participate     vi å‚ä¸ï¼Œå‚åŠ 
+particle     n æå°‘é‡ï¼Œå¾®ç²’
+particularly     ad ç‰¹åˆ«ï¼Œå°¤å…¶
+passport     n æŠ¤ç…§
+patent     n ä¸“åˆ©ï¼ˆæƒï¼‰ï¼›vt ç”³è¯·ä¸“åˆ©
+pathology     n ç—…ç†å­¦ï¼›ç—…å˜
+pattern     n æ ·å¼ï¼›æ¨¡å¼ï¼›vt ä»¿ç…§
+payment     n æ”¯ä»˜ï¼Œæ”¯ä»˜çš„æ¬¾é¡¹
+pearl     n çç 
+pedal     n è¸æ¿ï¼›v éª‘è½¦ï¼›è¸©è¸æ¿
+penalty     n æƒ©ç½šï¼›ç½šé‡‘
+pension     n å…»è€é‡‘ï¼ŒæŠšæ¤é‡‘
+pepper     n èƒ¡æ¤’ï¼›vt åœ¨ã€‚ã€‚ä¸Šæ’’ï¼ˆèƒ¡æ¤’ç²‰ï¼‰
+perceive     v æ„ŸçŸ¥ï¼Œè§‰å¯Ÿï¼›è®¤è¯†åˆ°ï¼Œç†è§£
+percentage     n ç™¾åˆ†æ¯”ï¼Œç™¾åˆ†ç‡
+perform     v åšï¼Œå±¥è¡Œï¼›è¡¨æ¼”
+performance     n æ¼”å‡ºï¼›å±¥è¡Œï¼›å·¥ä½œè¡¨ç°
+permission     n å…è¯ºï¼Œå‡†è®¸
+perpetual     a æ°¸ä¹…çš„ï¼›é•¿æœŸçš„
+persist     vi åšæŒï¼›æŒç»­ï¼›/persistent   a æŒä¹…ç¨³å›ºçš„ï¼›/persistence   n åšæŒï¼ŒæŒç»­ï¼›/
+personality     n äººæ ¼ï¼Œä¸ªæ€§ï¼›äººç‰©
+personnel     n äººå‘˜ï¼Œå‘˜å·¥
+pest     n å®³è™«
+petrol     n æ±½æ²¹
+petroleum     n çŸ³æ²¹
+phenomenon     n ç°è±¡ï¼Œè¿¹è±¡ï¼›éå‡¡çš„äººï¼ˆæˆ–äº‹ç‰©ï¼‰
+philosophy     n å“²å­¦ï¼›å“²ç†ï¼›/philosopher   n å“²å­¦å®¶ï¼Œå“²äººï¼›/
+photocopy     v å½±å°ï¼Œå¤å°
+photography     n æ‘„å½±æœ¯ï¼Œæ‘„å½±ï¼›/photographer   n æ‘„å½±å¸ˆï¼›/photographic   a æ‘„å½±çš„ï¼›/
+physical     a èº«ä½“çš„ï¼›ç‰©ç†å­¦çš„ï¼›ç‰©è´¨çš„
+physician     n å†…ç§‘åŒ»ç”Ÿï¼ŒåŒ»å¸ˆ
+pilot     n é£è¡Œå‘˜ï¼Œå¼•èˆªå‘˜ï¼›vt é¢†èˆªï¼Œä¸ºã€‚ã€‚å¼•èˆª
+pirate     n ä¾µçŠ¯ç‰ˆæƒè€…ï¼›æµ·ç›—ï¼›vt ç›—ç‰ˆ
+plastic     a å¡‘æ–™ï¼ˆåˆ¶)çš„
+platform     n å¹³å°ï¼Œç«™å°ï¼›çº²é¢†
+plot     n æ•…äº‹æƒ…èŠ‚ï¼›å°å—åœŸåœ°ï¼›å¯†è°‹
+plus     prep åŠ ï¼›n åŠ å·ï¼Œæ­£å·
+poison     n æ¯’ï¼Œæ¯’è¯ï¼›vt æ¯’å®³
+poisonous      a æœ‰æ¯’çš„ï¼Œæ¶æ¯’çš„
+pollution     n æ±¡æŸ“ï¼Œæ±¡æŸ“ç‰©
+populate     vt ï¼ˆå¤§æ‰¹åœ°ï¼‰å±…ä½äºï¼Œç”Ÿæ´»äº
+pore over     ä»”ç»†é˜…è¯»
+portable     a ä¾¿äºæºå¸¦çš„ï¼Œæ‰‹æå¼çš„
+portion     n éƒ¨åˆ†ï¼›ä¸€ä»½ï¼›vt é…é¢
 
-list 24
-multiple     a ¶àÖØµÄ£¬¶àÑùµÄ£»n ±¶Êı
-multiply     v £¨Ê¹£©Ôö¼Ó£¬£¨Ê¹£©·±Ö³£»³Ë
-murder     n&vt Ä±É±£¬Ğ×É±
-muscle     n ¼¡Èâ£»Á¦Á¿£¬ÊµÁ¦
-mushroom     n Ä¢¹½£»vi Ñ¸ËÙ³É³¤£¨»ò·¢Õ¹£©
-mutual     a Ïà»¥µÄ£¬¹²Í¬µÄ
-mysterious     a ÉñÃØµÄ£¬¹îÃØµÄ
-naive     a Ó×ÖÉµÄ£¬ÌìÕæµÄ
-naked     a ÂãÌåµÄ£¬ÎŞÕÚ±ÎµÄ
-nasty     a ÁîÈËÌÖÑáµÄ£»ÏÂÁ÷µÄ
-nationality     n ¹ú¼®£»Ãñ×å
-native     a µ±µØ£¨ÈË£©µÄ£»n ±¾µØÈË£¬±¾¹úÈË
-naturally     ad µ±È»£¬×ÔÈ»£»ÌìÉúµØ
-navigable     a ¿ÉÍ¨º½µÄ£»ÊÊÓÚº½ĞĞµÄ
-necessarily     ad ±ØÒªµØ£»±ØÈ»µØ
-negative     a ·ñ¶¨µÄ£»Ïû¼«µÄ£»¸ºµÄ£»n (ÕÕÏàµÄ£©µ×Æ¬
-neglect     n&vt ºöÊÓ£»Êèºö
-negotiate     v Ç¢Ì¸£¬Ğ­ÉÌ£»Ë³ÀûÍ¨¹ı
-nerve     n Éñ¾­£»ÓÂ¸Ò
-neutral     a ÖĞÁ¢µÄ£»ÖĞĞÔµÄ
-nevertheless     ad ÈÔÈ»£¬È»¶ø
-nickel     n Äø
-nightmare     n Ø¬ÃÎ£»¿ÉÅÂµÄÊÂÎï
-Nordic     a ±±Å·ÈËµÄ£»±±Å·Á½ÏîµÄ
-normal     a Õı³£µÄ£»±ê×¼µÄ£¬¹æ·¶µÄ£»/normally   ad Õı³£µØ£¬Í¨³£µØ£»/
-notable     a ÖµµÃ×¢ÒâµÄ£¬ÏÔÖøµÄ£»/notably   ad ÏÔÖøµØ£¬ÌØ±ğµØ£»/
-notice board     ¹«²¼ÅÆ£¬¹«¸æÅÆ
-notify     vt Í¨Öª£¬±¨¸æ
-notion     n ¸ÅÄî£¬¹ÛÄî£»Ïë·¨
-notorious     a ÖøÃûµÄ£¬ÖÚËùÖÜÖªµÄ£»ÉùÃûÀÇ½åµÄ£»/notoriously   ad ³öÃûµØ£¬¾¡ÈË½ÔÖª£»/
-nourish     vt ÑøÓı£¬×ÌÑø£»»³ÓĞ£¨Ï£ÍûµÈ£©£»/nourishing   a ÓĞÓªÑøµÄ£»/
-nuclear     a ºËÄÜµÄ£¬Ô­×ÓÄÜµÄ
-numerous     a ÖÚ¶àµÄ
-nurture     vt ÅàÑø£»×ÌÑø£»n ÓªÑøÆ·
-oak     n ÏğÊ÷
-object     n ÎïÌå£»¶ÔÏó£»Ä¿±ê£»±öÓï£»vi ·´¶Ô£¬²»ÔŞ³É
-objection     n ·´¶Ô£»·´¶ÔµÄÀíÓÉ
-objective     n Ä¿±ê£¬Ä¿µÄ£»a ¿Í¹ÛµÄ
-obligation     n ÒåÎñ£¬ÔğÈÎ
-observe     vt ²ì¾õ£»¹Û²ì£»×ñÊØ
-obtain     v »ñµÃ£»Í¨ÓÃ£¬Á÷ĞĞ
-occasion     n ³¡ºÏ£»Ê±»ú£»ÖØ´ó»î¶¯
-occasional     a Å¼¶ûµÄ£¬¼ä»ò·¢ÉúµÄ
-occasionally     ad ÓĞÊ±ºò£¬Å¼¶û
-occupation     n Õ¼Áì£»Ö°Òµ
-occupy     vt Ê¹´ÓÊÂ
-occur     vi ·¢Éú£»´æÔÚ£»/occurrence     n ³öÏÖ£»·¢ÉúµÄÊÂÇé;/
-odd     a ÆæÌØµÄ£»ÁÙÊ±µÄ£»ÆæÊıµÄ£»/oddly     ad ÆæÌØµØ£»/
-odour     n ÆøÎ¶
-offend     v Ã°·¸£»Ê¹Ñá¶ñ£»Î¥·¸£»/offense   n ·¸¹æ£»Ã°·¸£»/offensive   a Ã°·¸µÄ£»¹¥»÷ĞÔµÄ£»/
-offset     vt µÖÏû
-offspring     n ×ÓÅ®£¬ºó´ú£»²úÎï
-on the horizon     ¼´½«·¢ÉúµÄ
-ongoing     a ½øĞĞÖĞµÄ£»n Ç°½ø£¬·¢Õ¹
-operate     vi ÔË×ª£»¶¯ÊÖÊõ£»Æğ×÷ÓÃ£»vt ²Ù×÷£»¾­Óª
-operational     a ÔË×ªµÄ£»²Ù×÷ÉÏµÄ
-opponent     n ¶ÔÊÖ£¬·´¶ÔÕß
-opportunity     n »ú»á£¬Á¼»ú
-oppose     vt ·´¿¹£¬·´¶Ô
-optimism     n ÀÖ¹Û£¬ÀÖ¹ÛÖ÷Òå
-optimistic     a ÀÖ¹ÛµÄ£¬ÀÖ¹ÛÖ÷ÒåµÄ
-option     n Ñ¡Ôñ£¨È¨£©£»£¨¹©£©Ñ¡ÔñµÄÎï£¨»ò£©ÈË
-optometrist     n Ñé¹âÊ¦£¬ÊÓÁ¦²â¶¨Õß
-orchestra     n ¹ÜÏÒÀÖ¶Ó
-organ     n Æ÷¹Ù£»»ú¹¹
-organism     n ÉúÎï£¬ÓĞ»úÌå£»/organic   a ÓĞ»úÌåµÄ£¬ÓĞ»úÎïµÄ£»/
-organize     vt ×éÖ¯£¬³ÉÁ¢£»Ê¹ÓĞÌõÀí
-orient     vt Ê¹³¯Ïò£»Ê¹ÊÊÓ¦£»°Ñ¡£¡£ĞËÈ¤ÒıÏò
-orientation meeting     ĞÂÉú±¨µ½»á
-origin     n ÆğÔ´£»³öÉí
+multiple     a å¤šé‡çš„ï¼Œå¤šæ ·çš„ï¼›n å€æ•°
+multiply     v ï¼ˆä½¿ï¼‰å¢åŠ ï¼Œï¼ˆä½¿ï¼‰ç¹æ®–ï¼›ä¹˜
+murder     n&vt è°‹æ€ï¼Œå‡¶æ€
+muscle     n è‚Œè‚‰ï¼›åŠ›é‡ï¼Œå®åŠ›
+mushroom     n è˜‘è‡ï¼›vi è¿…é€Ÿæˆé•¿ï¼ˆæˆ–å‘å±•ï¼‰
+mutual     a ç›¸äº’çš„ï¼Œå…±åŒçš„
+mysterious     a ç¥ç§˜çš„ï¼Œè¯¡ç§˜çš„
+naive     a å¹¼ç¨šçš„ï¼Œå¤©çœŸçš„
+naked     a è£¸ä½“çš„ï¼Œæ— é®è”½çš„
+nasty     a ä»¤äººè®¨åŒçš„ï¼›ä¸‹æµçš„
+nationality     n å›½ç±ï¼›æ°‘æ—
+native     a å½“åœ°ï¼ˆäººï¼‰çš„ï¼›n æœ¬åœ°äººï¼Œæœ¬å›½äºº
+naturally     ad å½“ç„¶ï¼Œè‡ªç„¶ï¼›å¤©ç”Ÿåœ°
+navigable     a å¯é€šèˆªçš„ï¼›é€‚äºèˆªè¡Œçš„
+necessarily     ad å¿…è¦åœ°ï¼›å¿…ç„¶åœ°
+negative     a å¦å®šçš„ï¼›æ¶ˆæçš„ï¼›è´Ÿçš„ï¼›n (ç…§ç›¸çš„ï¼‰åº•ç‰‡
+neglect     n&vt å¿½è§†ï¼›ç–å¿½
+negotiate     v æ´½è°ˆï¼Œåå•†ï¼›é¡ºåˆ©é€šè¿‡
+nerve     n ç¥ç»ï¼›å‹‡æ•¢
+neutral     a ä¸­ç«‹çš„ï¼›ä¸­æ€§çš„
+nevertheless     ad ä»ç„¶ï¼Œç„¶è€Œ
+nickel     n é•
+nightmare     n å™©æ¢¦ï¼›å¯æ€•çš„äº‹ç‰©
+Nordic     a åŒ—æ¬§äººçš„ï¼›åŒ—æ¬§ä¸¤é¡¹çš„
+normal     a æ­£å¸¸çš„ï¼›æ ‡å‡†çš„ï¼Œè§„èŒƒçš„ï¼›/normally   ad æ­£å¸¸åœ°ï¼Œé€šå¸¸åœ°ï¼›/
+notable     a å€¼å¾—æ³¨æ„çš„ï¼Œæ˜¾è‘—çš„ï¼›/notably   ad æ˜¾è‘—åœ°ï¼Œç‰¹åˆ«åœ°ï¼›/
+notice board     å…¬å¸ƒç‰Œï¼Œå…¬å‘Šç‰Œ
+notify     vt é€šçŸ¥ï¼ŒæŠ¥å‘Š
+notion     n æ¦‚å¿µï¼Œè§‚å¿µï¼›æƒ³æ³•
+notorious     a è‘—åçš„ï¼Œä¼—æ‰€å‘¨çŸ¥çš„ï¼›å£°åç‹¼è—‰çš„ï¼›/notoriously   ad å‡ºååœ°ï¼Œå°½äººçš†çŸ¥ï¼›/
+nourish     vt å…»è‚²ï¼Œæ»‹å…»ï¼›æ€€æœ‰ï¼ˆå¸Œæœ›ç­‰ï¼‰ï¼›/nourishing   a æœ‰è¥å…»çš„ï¼›/
+nuclear     a æ ¸èƒ½çš„ï¼ŒåŸå­èƒ½çš„
+numerous     a ä¼—å¤šçš„
+nurture     vt åŸ¹å…»ï¼›æ»‹å…»ï¼›n è¥å…»å“
+oak     n æ©¡æ ‘
+object     n ç‰©ä½“ï¼›å¯¹è±¡ï¼›ç›®æ ‡ï¼›å®¾è¯­ï¼›vi åå¯¹ï¼Œä¸èµæˆ
+objection     n åå¯¹ï¼›åå¯¹çš„ç†ç”±
+objective     n ç›®æ ‡ï¼Œç›®çš„ï¼›a å®¢è§‚çš„
+obligation     n ä¹‰åŠ¡ï¼Œè´£ä»»
+observe     vt å¯Ÿè§‰ï¼›è§‚å¯Ÿï¼›éµå®ˆ
+obtain     v è·å¾—ï¼›é€šç”¨ï¼Œæµè¡Œ
+occasion     n åœºåˆï¼›æ—¶æœºï¼›é‡å¤§æ´»åŠ¨
+occasional     a å¶å°”çš„ï¼Œé—´æˆ–å‘ç”Ÿçš„
+occasionally     ad æœ‰æ—¶å€™ï¼Œå¶å°”
+occupation     n å é¢†ï¼›èŒä¸š
+occupy     vt ä½¿ä»äº‹
+occur     vi å‘ç”Ÿï¼›å­˜åœ¨ï¼›/occurrence     n å‡ºç°ï¼›å‘ç”Ÿçš„äº‹æƒ…;/
+odd     a å¥‡ç‰¹çš„ï¼›ä¸´æ—¶çš„ï¼›å¥‡æ•°çš„ï¼›/oddly     ad å¥‡ç‰¹åœ°ï¼›/
+odour     n æ°”å‘³
+offend     v å†’çŠ¯ï¼›ä½¿åŒæ¶ï¼›è¿çŠ¯ï¼›/offense   n çŠ¯è§„ï¼›å†’çŠ¯ï¼›/offensive   a å†’çŠ¯çš„ï¼›æ”»å‡»æ€§çš„ï¼›/
+offset     vt æŠµæ¶ˆ
+offspring     n å­å¥³ï¼Œåä»£ï¼›äº§ç‰©
+on the horizon     å³å°†å‘ç”Ÿçš„
+ongoing     a è¿›è¡Œä¸­çš„ï¼›n å‰è¿›ï¼Œå‘å±•
+operate     vi è¿è½¬ï¼›åŠ¨æ‰‹æœ¯ï¼›èµ·ä½œç”¨ï¼›vt æ“ä½œï¼›ç»è¥
+operational     a è¿è½¬çš„ï¼›æ“ä½œä¸Šçš„
+opponent     n å¯¹æ‰‹ï¼Œåå¯¹è€…
+opportunity     n æœºä¼šï¼Œè‰¯æœº
+oppose     vt åæŠ—ï¼Œåå¯¹
+optimism     n ä¹è§‚ï¼Œä¹è§‚ä¸»ä¹‰
+optimistic     a ä¹è§‚çš„ï¼Œä¹è§‚ä¸»ä¹‰çš„
+option     n é€‰æ‹©ï¼ˆæƒï¼‰ï¼›ï¼ˆä¾›ï¼‰é€‰æ‹©çš„ç‰©ï¼ˆæˆ–ï¼‰äºº
+optometrist     n éªŒå…‰å¸ˆï¼Œè§†åŠ›æµ‹å®šè€…
+orchestra     n ç®¡å¼¦ä¹é˜Ÿ
+organ     n å™¨å®˜ï¼›æœºæ„
+organism     n ç”Ÿç‰©ï¼Œæœ‰æœºä½“ï¼›/organic   a æœ‰æœºä½“çš„ï¼Œæœ‰æœºç‰©çš„ï¼›/
+organize     vt ç»„ç»‡ï¼Œæˆç«‹ï¼›ä½¿æœ‰æ¡ç†
+orient     vt ä½¿æœå‘ï¼›ä½¿é€‚åº”ï¼›æŠŠã€‚ã€‚å…´è¶£å¼•å‘
+orientation meeting     æ–°ç”ŸæŠ¥åˆ°ä¼š
+origin     n èµ·æºï¼›å‡ºèº«
 
-list23
-meanwhile     ad Óë´ËÍ¬Ê±
-mechanic     n »úĞŞ¹¤£¬»úĞŞÑ§£¬Á¦Ñ§
-mechanical     a £¨ĞĞ¶¯µÈ£©»úĞµµÄ£¬´ô°åµÄ
-mechanism     n »úĞµ×°ÖÃ£»»úÖÆ£»°ì·¨
-medieval     a ÖĞÊÀ¼ÍµÄ£»ÖĞ¹Å£¨Ê±´ú£©µÄ
-mediocre     a Æ½Ó¹µÄ£¬Æ½·²µÄ
-Mediterranean     a µØÖĞº£(Ê½£©µÄ
-medium     n Ã½ÖÊ£¬Ã½½é£»a ÖĞµÈµÄ
-melatonin     n ÍËºÚ¼¤ËØ
-melt     v £¨Ê¹£©ÈÚ»¯£¬£¨Ê¹£©ÏûÉ¢£»/melting   a ÈÚ»¯µÄ£¬ÈÛ»¯µÄ£»/
-membership     n »áÔ±Éí·İ£»È«Ìå»áÔ±
-memorable     a ÈİÒ×¼Ç×¡µÄ£¬ÄÑÍüµÄ
-memorandum     n ±¸ÍüÂ¼£¬ÕªÒª
-mental     a ĞÄÀíµÄ£¬¾«ÉñµÄ£»ÖÇÁ¦µÄ
-mention     v&n Ìá¼°£¬ËµÆğ
-merchandising     n ÏúÊÛ¹æ»®£»ĞÂ²úÆ·¼Æ»®ºÍ¿ª·¢
-mercury     n Ë®Òø
-mere     a ½ö½öµÄ£¬´¿´âµÄ
-merely     ad ½ö½öµØ£¬´¿´âµØ
-merge     v £¨Ê¹£©½áºÏ
-mess     n ÁèÂÒ£»vt ÅªÔã£¬¸ãÂÒ
-metaphor     n ÒşÓ÷£¬°µÓ÷£»/metaphorical   a ÒşÓ÷µÄ£¬±ÈÓ÷µÄ£»/
-meteorology     n ÆøÏóÑ§
-methane     n ¼×Íé£¬ÕÓÆø
-metro     n µØÏÂÌúÂ·
-microbiology     n Î¢ÉúÎïÑ§
-microcosm     n Î¢¹ÛÊÀ½ç£»ËõÓ°
-microprocessor     n Î¢´¦ÀíÆ÷
-microscope     n ÏÔÎ¢¾µ
-midst     n ÖĞ¼ä
-migrant     n ÒÆ¾ÓÕß£»ºòÄñ
-migrate     vi £¨ºòÄñµÈ£©Ç¨áã£»ÒÆ¾Ó£»/migratory   a Ç¨áãµÄ£¬Á÷ÀËµÄ£»/
-mild     a ÎÂÈáµÄ£»ÎÂÅ¯µÄ£»ÇáÎ¢µÄ
-milestone     n Àï³Ì±®£»×ªÕÛµã
-militant     a ºÃÕ½µÄ£»±©Á¦µÄ£»n ¼¤½ø·Ö×Ó
-military     a ¾üÊÂµÄ£»n ¾ü¶Ó
-mime     v Ä£·Â£¬Ä£Äâ£»n ÑÆ¾ç±íÑİ£»ÑÆ¾ç£¨ÑİÔ±£©
-mineral     n ¿óÎï£¬¿óÊ¯
-mingle     v £¨Ê¹£©»ìºÏ£»ÏàÍùÀ´
-minimal     a ×îĞ¡µÄ£¬×îµÍÏŞ¶ÈµÄ
-minimize     vt Ê¹¼õµ½×îµÍÏŞ¶È£»×îĞ¡»¯
-minimum     n ×îµÍÏŞ¶È£»a ×îµÍµÄ£¬×îĞ¡µÄ
-minister     n ²¿³¤£»Íâ½»Ê¹½Ú£»ÄÁÊ¦
-ministry     n £¨Õş¸®µÄ£©²¿
-minority     n ÉÙÊı£¬ÉÙÊıÃû×å
-miracle     n Ææ¼££¬ÆæÊÂ
-miserable     a Í´¿àµÄ£»ÁîÈËÄÑÊÜµÄ
-misjudge     v ÅĞ¶Ï´íÎó
-missile     n ·¢ÉäÎï£»µ¼µ¯£¬·Éµ¯
-mission     n Ê¹Ãü£¬ÈÎÎñ£»Ê¹ÍÅ
-mite     n ¼«Ğ¡Á¿£»Ğ¡³æ
-mixture     n »ìºÏ£¨Îï£©
-modem     n µ÷ÖÆ½âµ÷Æ÷
-moderate     a ÎÂºÍµÄ£»ÊÊ¶ÈµÄ£»v £¨Ê¹£©¼õÇá
-modernism     n ÏÖ´úÖ÷Òå£»/modernist   n ÏÖ´úÖ÷ÒåÕß£¬ÏÖ´úÈË£»/
-modify     vt ¸ü¸Ä£¬ĞŞ¸Ä£¬£¨Óï·¨ÉÏ£©ĞŞÊÎ
-module     n ×é¼ş£»Ä£Ê½£»µ¥Ôª
-moist     a ÊªÈóµÄ£¬³±ÊªµÄ
-molecule     n ·Ö×Ó
-monitor     n °à³¤£»¼àÊÓÆ÷£»vt ¼àÊÓ£»¼à²â
-monopoly     n Â¢¶Ï£»Â¢¶ÏÎï
-monster     n ¹ÖÎï£»¾ŞÈË£¬¾Ş´óµÄ¶«Î÷
-mood     n ĞÄÇé£¬ÇéĞ÷
-moral     a µÀµÂµÄ£»n Æ·ĞĞ£¬µÀµÂ
-motion     n ÔË¶¯£»ÊÖÊÆ£»v £¨Ïò£©´òÊÖÊÆ
-motivate     vt Ê¹ÓĞ¶¯»ú£»¼¤Àø£¬¼¤·¢
-motive     n ¶¯»ú£¬Ä¿µÄ
-mould     n Ã¹£¬Ã¹¾ú£»Ä£×Ó
-mount     n É½£¬·å
-mountainous     a ¶àÉ½µÄ
+meanwhile     ad ä¸æ­¤åŒæ—¶
+mechanic     n æœºä¿®å·¥ï¼Œæœºä¿®å­¦ï¼ŒåŠ›å­¦
+mechanical     a ï¼ˆè¡ŒåŠ¨ç­‰ï¼‰æœºæ¢°çš„ï¼Œå‘†æ¿çš„
+mechanism     n æœºæ¢°è£…ç½®ï¼›æœºåˆ¶ï¼›åŠæ³•
+medieval     a ä¸­ä¸–çºªçš„ï¼›ä¸­å¤ï¼ˆæ—¶ä»£ï¼‰çš„
+mediocre     a å¹³åº¸çš„ï¼Œå¹³å‡¡çš„
+Mediterranean     a åœ°ä¸­æµ·(å¼ï¼‰çš„
+medium     n åª’è´¨ï¼Œåª’ä»‹ï¼›a ä¸­ç­‰çš„
+melatonin     n é€€é»‘æ¿€ç´ 
+melt     v ï¼ˆä½¿ï¼‰èåŒ–ï¼Œï¼ˆä½¿ï¼‰æ¶ˆæ•£ï¼›/melting   a èåŒ–çš„ï¼Œç†”åŒ–çš„ï¼›/
+membership     n ä¼šå‘˜èº«ä»½ï¼›å…¨ä½“ä¼šå‘˜
+memorable     a å®¹æ˜“è®°ä½çš„ï¼Œéš¾å¿˜çš„
+memorandum     n å¤‡å¿˜å½•ï¼Œæ‘˜è¦
+mental     a å¿ƒç†çš„ï¼Œç²¾ç¥çš„ï¼›æ™ºåŠ›çš„
+mention     v&n æåŠï¼Œè¯´èµ·
+merchandising     n é”€å”®è§„åˆ’ï¼›æ–°äº§å“è®¡åˆ’å’Œå¼€å‘
+mercury     n æ°´é“¶
+mere     a ä»…ä»…çš„ï¼Œçº¯ç²¹çš„
+merely     ad ä»…ä»…åœ°ï¼Œçº¯ç²¹åœ°
+merge     v ï¼ˆä½¿ï¼‰ç»“åˆ
+mess     n å‡Œä¹±ï¼›vt å¼„ç³Ÿï¼Œæä¹±
+metaphor     n éšå–»ï¼Œæš—å–»ï¼›/metaphorical   a éšå–»çš„ï¼Œæ¯”å–»çš„ï¼›/
+meteorology     n æ°”è±¡å­¦
+methane     n ç”²çƒ·ï¼Œæ²¼æ°”
+metro     n åœ°ä¸‹é“è·¯
+microbiology     n å¾®ç”Ÿç‰©å­¦
+microcosm     n å¾®è§‚ä¸–ç•Œï¼›ç¼©å½±
+microprocessor     n å¾®å¤„ç†å™¨
+microscope     n æ˜¾å¾®é•œ
+midst     n ä¸­é—´
+migrant     n ç§»å±…è€…ï¼›å€™é¸Ÿ
+migrate     vi ï¼ˆå€™é¸Ÿç­‰ï¼‰è¿å¾™ï¼›ç§»å±…ï¼›/migratory   a è¿å¾™çš„ï¼Œæµæµªçš„ï¼›/
+mild     a æ¸©æŸ”çš„ï¼›æ¸©æš–çš„ï¼›è½»å¾®çš„
+milestone     n é‡Œç¨‹ç¢‘ï¼›è½¬æŠ˜ç‚¹
+militant     a å¥½æˆ˜çš„ï¼›æš´åŠ›çš„ï¼›n æ¿€è¿›åˆ†å­
+military     a å†›äº‹çš„ï¼›n å†›é˜Ÿ
+mime     v æ¨¡ä»¿ï¼Œæ¨¡æ‹Ÿï¼›n å“‘å‰§è¡¨æ¼”ï¼›å“‘å‰§ï¼ˆæ¼”å‘˜ï¼‰
+mineral     n çŸ¿ç‰©ï¼ŒçŸ¿çŸ³
+mingle     v ï¼ˆä½¿ï¼‰æ··åˆï¼›ç›¸å¾€æ¥
+minimal     a æœ€å°çš„ï¼Œæœ€ä½é™åº¦çš„
+minimize     vt ä½¿å‡åˆ°æœ€ä½é™åº¦ï¼›æœ€å°åŒ–
+minimum     n æœ€ä½é™åº¦ï¼›a æœ€ä½çš„ï¼Œæœ€å°çš„
+minister     n éƒ¨é•¿ï¼›å¤–äº¤ä½¿èŠ‚ï¼›ç‰§å¸ˆ
+ministry     n ï¼ˆæ”¿åºœçš„ï¼‰éƒ¨
+minority     n å°‘æ•°ï¼Œå°‘æ•°åæ—
+miracle     n å¥‡è¿¹ï¼Œå¥‡äº‹
+miserable     a ç—›è‹¦çš„ï¼›ä»¤äººéš¾å—çš„
+misjudge     v åˆ¤æ–­é”™è¯¯
+missile     n å‘å°„ç‰©ï¼›å¯¼å¼¹ï¼Œé£å¼¹
+mission     n ä½¿å‘½ï¼Œä»»åŠ¡ï¼›ä½¿å›¢
+mite     n æå°é‡ï¼›å°è™«
+mixture     n æ··åˆï¼ˆç‰©ï¼‰
+modem     n è°ƒåˆ¶è§£è°ƒå™¨
+moderate     a æ¸©å’Œçš„ï¼›é€‚åº¦çš„ï¼›v ï¼ˆä½¿ï¼‰å‡è½»
+modernism     n ç°ä»£ä¸»ä¹‰ï¼›/modernist   n ç°ä»£ä¸»ä¹‰è€…ï¼Œç°ä»£äººï¼›/
+modify     vt æ›´æ”¹ï¼Œä¿®æ”¹ï¼Œï¼ˆè¯­æ³•ä¸Šï¼‰ä¿®é¥°
+module     n ç»„ä»¶ï¼›æ¨¡å¼ï¼›å•å…ƒ
+moist     a æ¹¿æ¶¦çš„ï¼Œæ½®æ¹¿çš„
+molecule     n åˆ†å­
+monitor     n ç­é•¿ï¼›ç›‘è§†å™¨ï¼›vt ç›‘è§†ï¼›ç›‘æµ‹
+monopoly     n å„æ–­ï¼›å„æ–­ç‰©
+monster     n æ€ªç‰©ï¼›å·¨äººï¼Œå·¨å¤§çš„ä¸œè¥¿
+mood     n å¿ƒæƒ…ï¼Œæƒ…ç»ª
+moral     a é“å¾·çš„ï¼›n å“è¡Œï¼Œé“å¾·
+motion     n è¿åŠ¨ï¼›æ‰‹åŠ¿ï¼›v ï¼ˆå‘ï¼‰æ‰“æ‰‹åŠ¿
+motivate     vt ä½¿æœ‰åŠ¨æœºï¼›æ¿€åŠ±ï¼Œæ¿€å‘
+motive     n åŠ¨æœºï¼Œç›®çš„
+mould     n éœ‰ï¼Œéœ‰èŒï¼›æ¨¡å­
+mount     n å±±ï¼Œå³°
+mountainous     a å¤šå±±çš„
 
-list 22
-limp     a ÈíµÄ£¬ÎŞÁ¦µÄ
-linen     n ÑÇÂéÖ¯Æ·£»ÑÇÂé²¼
-linger     v ¶ºÁô£»»ºÂıÏûÊ§
-linguistic     a ÓïÑÔµÄ£¬ÓïÑÔÑ§µÄ
-link     n ÁªÏµ£¬Å¦´ø£»v Á¬½Ó£¬ÁªÏµ
-liquor     n ¾Æ£¬ÁÒĞÔ¾Æ£»Ö­Ë®£¬ÒºÌå
-literacy     n ÓĞÎÄ»¯£»ÓĞ½ÌÑø£»/ illiteracy   n ÎÄÃ¤£»/
-literal     a ÕÕ×ÖÃæµÄ£»Öğ×ÖµÄ£»/literally   ad Öğ×ÖµØ£»Êµ¼ÊÉÏ£»/
-literature     n ÎÄÑ§£¨×÷Æ·£©£»ÎÄÏ×
-litter     vt Ê¹ÂÒÆß°ËÔã£»ÂÒÈÓ£»n ·ÏÆúÎï
-livelihood     n Éú»î£¬Éú¼Æ
-liver     n ¸Î
-livestock     n ¼ÒÇİ£¬ÉüĞó
-load     n ¸ººÉ£»×°ÔØ£»vt ×°ÔØ£»×°£¨½º¾í£©
-loan     n&vt ´û¿î£¬½è
-lobby     n ´óÌü£»ÓÎËµÍÅ£»v ÓÎËµÒéÔ±
-locality     n Î»ÖÃ£»µØÇø
-locate     vt ÕÒµ½£»Î»ÓÚ
-location    n Î»ÖÃ£¬³¡Ëù£»£¨µçÓ°µÄ£©Íâ¾°ÅÄÉãµØ
-log     n Ô­Ä¾£»º½º£ÈÕÖ¾£»vt ¼ÇÂ¼
-logic     n Âß¼­£»Âß¼­ĞÔ
-longitudinal     a ¾­¶ÈµÄ£»×İÏòµÄ
-long-term    ³¤ÆÚµÄ
-loop     n È¦£»v£¨Ê¹£©³É»·£¬£¨Ê¹£©³ÉÈ¦
-loose     a ËÉµÄ£»²»¾«È·µÄ£»É¢Âş£»/loosen   vt ½â¿ª£¬·ÅËÉ£»/
-lower     a ½ÏµÍµÄ£»ÏÂÃæµÄ£»vt ·ÅÏÂ£¬½µµÍ
-luggage     n ĞĞÀî
-lull     n ¼äĞª£¬ÔİÍ££»Æ½¾²ÆÚ
-lunar     a ÔÂÁÁµÄ£»ÔÂµÄ
-luxury     n ºÀ»ª£¨Æ·£©£»Éİ³Ş£¨Æ·£©£»a Éİ³ŞµÄ£»/luxuriant   a ·±Ã¯µÄ£»·ÊÎÖµÄ£»/
-machinery     n »úĞµ£»»ú¹¹
-magic     n Ä§·¨£»÷ÈÁ¦£»a ÓĞÄ§Á¦µÄ
-magma     n ÑÒ½¬
-magnetic     a ´ÅµÄ£»ÓĞÎüÒıÁ¦µÄ
-magnify     vt ·Å´ó£»À©´ó
-magnitude     n ÖØÒªĞÔ£»´óĞ¡
-mainly     ad ´óÌåÉÏ£¬Ö÷ÒªµØ
-mainstream     n Ö÷ÒªÇ÷ÊÆ£¬Ö÷Á÷
-maintain     vt ±£³Ö£»Î¬ĞŞ£»Ö÷ÕÅ
-maintenance     n Î¬³Ö£»±£Ñø£»¸§Ñø·Ñ
-major     a Ö÷ÒªµÄ£»n ×¨Òµ£¨Ñ§Éú£©£»vi Ö÷ĞŞ£¬×¨¹¥
-majority     n ¶àÊı£¬´ó¶àÊı
-mall     n ¹ºÎïÖĞĞÄ
-management     n ¹ÜÀí£¨²¿ÃÅ£©£»´¦Àí
-mandarin     n ÆÕÍ¨»°
-manipulate     vt Ó°Ïì£»²Ù×÷£¬Ê¹ÓÃ
-manor     n ÁìµØ£¬×¯Ô°
-mansion     n ´óÏÃ£»£¨ºÀ»ªµÄ£©Õ¬Û¡
-mantle     n µØá£
-manufacture     v £¨´óÁ¿£©ÖÆÔì£¬Éú²ú£»n ÖÆÔì£¬ÖÆÔìÒµ
-manufacturer     n ÖÆÔìÉÌ£¬ÖÆÔì³§¼Ò
-marble     n ´óÀíÊ¯£¬µ¯×Ó
-maritime     a º£µÄ£¬º£ÊÂµÄ£¬º£ÔËµÄ
-marker     n ±êÖ¾£¬±ê¼Ç
-marketplace     n ÊĞ³¡
-marsh     n ÕÓÔó£»ÊªµØ
-marsupial     n&a ÓĞ´ü¶¯Îï£¨µÄ£©
-mass     n ¿é£¬´óÁ¿£¬ÈºÖÚ£»a ´óÁ¿µÄ£»v ¾Û¼¯
-massive     a ´óµÄ£¬´óÁ¿µÄ£¬´ó¹æÄ£µÄ
-mastercard     n ÍòÊÂ´ïĞĞÓÃ¿¨
-mastery     n ¾«Í¨£¬ÊìÁ·£»¿ØÖÆ
-mate     n ÅäÅ¼£»»ï°é£»v ½»Åä£¬ÅäÖÖ
-material     n ²ÄÁÏ£¬ËØ²Ä£»a ÎïÖÊµÄ£¬ÖØÒªµÄ
-materialistic     a Î¨ÎïÖ÷ÒåµÄ£¬ÊµÎïÖ÷ÒåµÄ£»ÎïÖÊÏíÀÖÖ÷ÒåµÄ
-mattress     n ´²µæ£¬¿ÕÆøµæ
-mature     a ³ÉÊìµÄ£¬ÉîË¼ÊìÂÇµÄ£»v Ê¹³ÉÊì
-maximum     n ×î´óÁ¿£»a ×î´óµÄ£¬×î¸ßµÄ
-meadow     n ²İµØ
-meaningful     a ÓĞÄ¿µÄµÄ£¬ÓĞÒâÒåµÄ
-meantime     n Óë´ËÍ¬Ê± 
+limp     a è½¯çš„ï¼Œæ— åŠ›çš„
+linen     n äºšéº»ç»‡å“ï¼›äºšéº»å¸ƒ
+linger     v é€—ç•™ï¼›ç¼“æ…¢æ¶ˆå¤±
+linguistic     a è¯­è¨€çš„ï¼Œè¯­è¨€å­¦çš„
+link     n è”ç³»ï¼Œçº½å¸¦ï¼›v è¿æ¥ï¼Œè”ç³»
+liquor     n é…’ï¼Œçƒˆæ€§é…’ï¼›æ±æ°´ï¼Œæ¶²ä½“
+literacy     n æœ‰æ–‡åŒ–ï¼›æœ‰æ•™å…»ï¼›/ illiteracy   n æ–‡ç›²ï¼›/
+literal     a ç…§å­—é¢çš„ï¼›é€å­—çš„ï¼›/literally   ad é€å­—åœ°ï¼›å®é™…ä¸Šï¼›/
+literature     n æ–‡å­¦ï¼ˆä½œå“ï¼‰ï¼›æ–‡çŒ®
+litter     vt ä½¿ä¹±ä¸ƒå…«ç³Ÿï¼›ä¹±æ‰”ï¼›n åºŸå¼ƒç‰©
+livelihood     n ç”Ÿæ´»ï¼Œç”Ÿè®¡
+liver     n è‚
+livestock     n å®¶ç¦½ï¼Œç‰²ç•œ
+load     n è´Ÿè·ï¼›è£…è½½ï¼›vt è£…è½½ï¼›è£…ï¼ˆèƒ¶å·ï¼‰
+loan     n&vt è´·æ¬¾ï¼Œå€Ÿ
+lobby     n å¤§å…ï¼›æ¸¸è¯´å›¢ï¼›v æ¸¸è¯´è®®å‘˜
+locality     n ä½ç½®ï¼›åœ°åŒº
+locate     vt æ‰¾åˆ°ï¼›ä½äº
+location    n ä½ç½®ï¼Œåœºæ‰€ï¼›ï¼ˆç”µå½±çš„ï¼‰å¤–æ™¯æ‹æ‘„åœ°
+log     n åŸæœ¨ï¼›èˆªæµ·æ—¥å¿—ï¼›vt è®°å½•
+logic     n é€»è¾‘ï¼›é€»è¾‘æ€§
+longitudinal     a ç»åº¦çš„ï¼›çºµå‘çš„
+long-term    é•¿æœŸçš„
+loop     n åœˆï¼›vï¼ˆä½¿ï¼‰æˆç¯ï¼Œï¼ˆä½¿ï¼‰æˆåœˆ
+loose     a æ¾çš„ï¼›ä¸ç²¾ç¡®çš„ï¼›æ•£æ¼«ï¼›/loosen   vt è§£å¼€ï¼Œæ”¾æ¾ï¼›/
+lower     a è¾ƒä½çš„ï¼›ä¸‹é¢çš„ï¼›vt æ”¾ä¸‹ï¼Œé™ä½
+luggage     n è¡Œæ
+lull     n é—´æ­‡ï¼Œæš‚åœï¼›å¹³é™æœŸ
+lunar     a æœˆäº®çš„ï¼›æœˆçš„
+luxury     n è±ªåï¼ˆå“ï¼‰ï¼›å¥¢ä¾ˆï¼ˆå“ï¼‰ï¼›a å¥¢ä¾ˆçš„ï¼›/luxuriant   a ç¹èŒ‚çš„ï¼›è‚¥æ²ƒçš„ï¼›/
+machinery     n æœºæ¢°ï¼›æœºæ„
+magic     n é­”æ³•ï¼›é­…åŠ›ï¼›a æœ‰é­”åŠ›çš„
+magma     n å²©æµ†
+magnetic     a ç£çš„ï¼›æœ‰å¸å¼•åŠ›çš„
+magnify     vt æ”¾å¤§ï¼›æ‰©å¤§
+magnitude     n é‡è¦æ€§ï¼›å¤§å°
+mainly     ad å¤§ä½“ä¸Šï¼Œä¸»è¦åœ°
+mainstream     n ä¸»è¦è¶‹åŠ¿ï¼Œä¸»æµ
+maintain     vt ä¿æŒï¼›ç»´ä¿®ï¼›ä¸»å¼ 
+maintenance     n ç»´æŒï¼›ä¿å…»ï¼›æŠšå…»è´¹
+major     a ä¸»è¦çš„ï¼›n ä¸“ä¸šï¼ˆå­¦ç”Ÿï¼‰ï¼›vi ä¸»ä¿®ï¼Œä¸“æ”»
+majority     n å¤šæ•°ï¼Œå¤§å¤šæ•°
+mall     n è´­ç‰©ä¸­å¿ƒ
+management     n ç®¡ç†ï¼ˆéƒ¨é—¨ï¼‰ï¼›å¤„ç†
+mandarin     n æ™®é€šè¯
+manipulate     vt å½±å“ï¼›æ“ä½œï¼Œä½¿ç”¨
+manor     n é¢†åœ°ï¼Œåº„å›­
+mansion     n å¤§å¦ï¼›ï¼ˆè±ªåçš„ï¼‰å®…é‚¸
+mantle     n åœ°å¹”
+manufacture     v ï¼ˆå¤§é‡ï¼‰åˆ¶é€ ï¼Œç”Ÿäº§ï¼›n åˆ¶é€ ï¼Œåˆ¶é€ ä¸š
+manufacturer     n åˆ¶é€ å•†ï¼Œåˆ¶é€ å‚å®¶
+marble     n å¤§ç†çŸ³ï¼Œå¼¹å­
+maritime     a æµ·çš„ï¼Œæµ·äº‹çš„ï¼Œæµ·è¿çš„
+marker     n æ ‡å¿—ï¼Œæ ‡è®°
+marketplace     n å¸‚åœº
+marsh     n æ²¼æ³½ï¼›æ¹¿åœ°
+marsupial     n&a æœ‰è¢‹åŠ¨ç‰©ï¼ˆçš„ï¼‰
+mass     n å—ï¼Œå¤§é‡ï¼Œç¾¤ä¼—ï¼›a å¤§é‡çš„ï¼›v èšé›†
+massive     a å¤§çš„ï¼Œå¤§é‡çš„ï¼Œå¤§è§„æ¨¡çš„
+mastercard     n ä¸‡äº‹è¾¾è¡Œç”¨å¡
+mastery     n ç²¾é€šï¼Œç†Ÿç»ƒï¼›æ§åˆ¶
+mate     n é…å¶ï¼›ä¼™ä¼´ï¼›v äº¤é…ï¼Œé…ç§
+material     n ææ–™ï¼Œç´ æï¼›a ç‰©è´¨çš„ï¼Œé‡è¦çš„
+materias     n åºŠå«ï¼Œç©ºæ°”å«
+mature     a æˆç†Ÿçš„ï¼Œæ·±æ€ç†Ÿè™‘çš„ï¼›v ä½¿æˆç†Ÿ
+maximum     n æœ€å¤§é‡ï¼›a æœ€å¤§çš„ï¼Œæœ€é«˜çš„
+meadow     n è‰åœ°
+meaningful     a æœ‰ç›®çš„çš„ï¼Œæœ‰æ„ä¹‰çš„
+meantime     n ä¸æ­¤åŒæ—¶
 
-list 21
-issue     n ÎÊÌâ£»·¢ĞĞ£»v ·¢ĞĞ£¬·¢³ö
-itern     n Ìõ¿î£¬ÏîÄ¿£»£¨ĞÂÎÅ£©Ò»²à
-jaw     n ò¢£¬ò¦
-jealous     a ¶Ê¼ÉµÄ£¬²Â¼ÉµÄ
-joint     n ½ÓÍ·£¬¹Ø½Ú£»a Áª½áµÄ£¬ÁªºÏµÄ
-jostle     v Óµ¼·£¬¼·¿ªµÀÂ·
-journal     n ÔÓÖ¾£¬ÈÕÖ¾£¬ÈÕ±¨
-journalist     n ĞÂÎÅ¹¤×÷Õß
-judgment     n Òâ¼û£»ÉóÅĞ£»ÅĞ¶Ï
-judicious     a Ã÷ÖÇµÄ£¬ÓĞ¼ûÊ¶µÄ
-junction     n Á¬½Ó£¬Á¬½Óµã£¬½»²æÂ·¿Ú
-jungle     n ´ÔÁÖ
-justice     n ÕıÒå£¬¹«Õı£»Ë¾·¨
-justify     vt Ö¤Ã÷¡£¡£¡£Õıµ±µÄ£»Îª¡£¡£±ç»¤
-juvenile     a ÉÙÄêµÄ£¬Ó×ÖÉµÄ£»n Î´³ÉÄêÈË
-keen     a ÈÈĞÄµÄ£¬¼¤ÁÒµÄ£¬ÃÍÁÒµÄ£¬ÃôÈñµÄ
-kidney     n Éö£¬ÉöÔà
-kit     n ³ÉÌ×¹¤¾ß£»vt ×°±¸
-kneel     vi ¹ò
-knob     n ÇòĞÎ°ÑÊÖ£»£¨»úÆ÷µÈ£©ĞıÅ¥
-kungfu     n ¹¦·ò
-label     n ±êÇ©£¬±ê¼Ç£»³ÆºÅ£»v Ìù±êÇ©ÓÚ£»°Ñ¡£¡£³ÆÎª
-laboratory     n ÊµÑéÊÒ£¬ÑĞ¾¿ÊÒ
-labour     n ÀÍ¶¯£»ÀÍ¶¯Á¦£»v ÀÍ¶¯£»Å¬Á¦
-lag     v ×ßµÃÂı£»Âäºó£»n ÖÍºó
-landfill     n À¬»ø¶Ñ£»·ÏÔüÂñÌîµØ
-landmark     n Â·±ê£¬µØ±ê
-landscape     n ·ç±©£»vt ÃÀ»¯¡£¡£¾°¹Û
-landward     a ÏòÂ½µÄ£¬½üÂ½µÄ
-lane     n Ğ¡Ïï£»ĞĞ³µµÀ
-large-scale     a ´ó¹æÄ£µÄ£¬´ó·¶Î§µÄ
-larvae     n Ó×³æ£¬Ó×Ìå
-laser     n ¼¤¹â
-lateral     a ²àÃæµÄ£¬ÅÔ±ßµÄ£»/lateralize   vt °Ñ¡£¡£ÒÆµ½Ò»²à£»/
-latitude     n Î³¶È£»Î³¶ÈµØÇø
-launch     v ÍÆ³ö£¨²úÆ·£©£»·¢Éä£»n·¢Éä£»£¨ĞÂ²úÆ·£©Í¶²ú£»/launcher   n ·¢ÉäÆ÷£¬·¢ÉäÌ¨£»/
-laundry     n Ï´ÒÂ·¿£»´ıÏ´ÒÂ·ş
-lava     n ÑÒ½¬£¬ÈÛÑÒ
-lavatory     n ²ŞËù
-lawsuit     nËßËÏ
-layer     n ²ã£¬²ã´Î
-layout     n ²¼¾Ö£¬°²ÅÅ£¬Éè¼Æ
-lead to     µ¼ÖÂ£¬Í¨Ïò
-lead     v Ö¸Òı£»Áìµ¼£»ÖÂÊ¹
-leadership     n Áìµ¼£¬Áìµ¼²ã£»Áìµ¼ÄÜÁ¦
-leaflet     n ´«µ¥£¬Ğ¡Ò¶
-leak     v £¨Ê¹£©Â©£¬£¨Ê¹£©Éø³ö£»n Ğ¹Â¶
-leap     v Ìø£»³å£»n ÌøÔ¾£»¼¤Ôö
-lease     n ×âÔ¼£»vt ³ö×â£¬×âÓĞ
-leather     n Æ¤¸ï£¬Æ¤¸ïÖÆÆ·
-lecture     n Ñİ½²£¬½²¿Î£»/lecturer   n ½²Ê¦£»/
-legacy     n ÒÅ²ú£»ÒÅÔù
-legal     a  ·¨ÂÉµÄ£»ºÏ·¨µÄ
-leisure     n ¿ÕÏĞÊ±¼ä£¬ÓÆÏĞ
-lens    n Í¸¾µ£»¾µÆ¬£»¾µÍ·
-leopard     n ±ª£¬ÃÀÖŞ±ª
-less than     Ğ¡ÓÚ£¬ÉÙÓÚ
-lethal     a ÖÂÃüµÄ£¬»ÙÃğĞÔµÄ£»ÓĞº¦µÄ
-leukaemia     n °×Ñª²¡
-level     n ¸ß¶È£»Ë®Æ½£¬µÈ¼¶
-lever     n ¸Ü¸Ë£»vt£¨ÓÃ¸Ü¸Ë£©ÇË¶¯
-lexicographer     n ´Ê£¨×Ö£©µä±à×«Õß
-liberty     n ×ÔÓÉ£»Ğí¿É£»·ÅËÁ
-license     n Ğí¿É(Ö¤),Ö´ÕÕ£»vt ×¼Ğí
-likelihood     n ¿ÉÄÜ£»¿ÉÄÜĞÔ
-limb     n Ö«£¬±Û£»Ê÷Ö¦
-lime     n Ê¯»Ò
-limestone     n Ê¯»ÒÊ¯£¬Ê¯»ÒÑÒ
-limitation     n ÏŞÖÆ£»¾ÖÏŞ
-limited     a ÏŞÖÆµÄ
+issue     n é—®é¢˜ï¼›å‘è¡Œï¼›v å‘è¡Œï¼Œå‘å‡º
+itern     n æ¡æ¬¾ï¼Œé¡¹ç›®ï¼›ï¼ˆæ–°é—»ï¼‰ä¸€ä¾§
+jaw     n é¢Œï¼Œé¢š
+jealous     a å¦’å¿Œçš„ï¼ŒçŒœå¿Œçš„
+joint     n æ¥å¤´ï¼Œå…³èŠ‚ï¼›a è”ç»“çš„ï¼Œè”åˆçš„
+jostle     v æ‹¥æŒ¤ï¼ŒæŒ¤å¼€é“è·¯
+journal     n æ‚å¿—ï¼Œæ—¥å¿—ï¼Œæ—¥æŠ¥
+journant     n æ„è§ï¼›å®¡åˆ¤ï¼›åˆ¤æ–­
+judicious     a æ˜æ™ºçš„ï¼Œæœ‰è§è¯†çš„
+junction     n è¿æ¥ï¼Œè¿æ¥ç‚¹ï¼Œäº¤å‰è·¯å£
+jungle     n ä¸›æ—
+justice     n æ­£ä¹‰ï¼Œå…¬æ­£ï¼›å¸æ³•
+justify     vt è¯æ˜ã€‚ã€‚ã€‚æ­£å½“çš„ï¼›ä¸ºã€‚ã€‚è¾©æŠ¤
+juvenile     a å°‘å¹´çš„ï¼Œå¹¼ç¨šçš„ï¼›n æœªæˆå¹´äºº
+keen     a çƒ­å¿ƒçš„ï¼Œæ¿€çƒˆçš„ï¼ŒçŒ›çƒˆçš„ï¼Œæ•é”çš„
+kidney     n è‚¾ï¼Œè‚¾è„
+kit     n æˆå¥—å·¥å…·ï¼›vt è£…å¤‡
+kneel     vi è·ª
+knob     n çƒå½¢æŠŠæ‰‹ï¼›ï¼ˆæœºå™¨ç­‰ï¼‰æ—‹é’®
+kungfu     n åŠŸå¤«
+label     n æ ‡ç­¾ï¼Œæ ‡è®°ï¼›ç§°å·ï¼›v è´´æ ‡ç­¾äºï¼›æŠŠã€‚ã€‚ç§°ä¸º
+laboratory     n å®éªŒå®¤ï¼Œç ”ç©¶å®¤
+labour     n åŠ³åŠ¨ï¼›åŠ³åŠ¨åŠ›ï¼›v åŠ³åŠ¨ï¼›åŠªåŠ›
+lag     v èµ°å¾—æ…¢ï¼›è½åï¼›n æ»å
+landfill     n åƒåœ¾å †ï¼›åºŸæ¸£åŸ‹å¡«åœ°
+landmark     n è·¯æ ‡ï¼Œåœ°æ ‡
+landscape     n é£æš´ï¼›vt ç¾åŒ–ã€‚ã€‚æ™¯è§‚
+landward     a å‘é™†çš„ï¼Œè¿‘é™†çš„
+lane     n å°å··ï¼›è¡Œè½¦é“
+large-scale     a å¤§è§„æ¨¡çš„ï¼Œå¤§èŒƒå›´çš„
+larvae     n å¹¼è™«ï¼Œå¹¼ä½“
+laser     n æ¿€å…‰
+lateral     a ä¾§é¢çš„ï¼Œæ—è¾¹çš„ï¼›/lateralize   vt æŠŠã€‚ã€‚ç§»åˆ°ä¸€ä¾§ï¼›/
+latitude     n çº¬åº¦ï¼›çº¬åº¦åœ°åŒº
+launch     v æ¨å‡ºï¼ˆäº§å“ï¼‰ï¼›å‘å°„ï¼›nå‘å°„ï¼›ï¼ˆæ–°äº§å“ï¼‰æŠ•äº§ï¼›/launcher   n å‘å°„å™¨ï¼Œå‘å°„å°ï¼›/
+laundry     n æ´—è¡£æˆ¿ï¼›å¾…æ´—è¡£æœ
+lava     n å²©æµ†ï¼Œç†”å²©
+lavatory     n å•æ‰€
+lawsuit     nè¯‰è®¼
+layer     n å±‚ï¼Œå±‚æ¬¡
+layout     n å¸ƒå±€ï¼Œå®‰æ’ï¼Œè®¾è®¡
+lead to     å¯¼è‡´ï¼Œé€šå‘
+lead     v æŒ‡å¼•ï¼›é¢†å¯¼ï¼›è‡´ä½¿
+leadership     n é¢†å¯¼ï¼Œé¢†å¯¼å±‚ï¼›é¢†å¯¼èƒ½åŠ›
+leaflet     n ä¼ å•ï¼Œå°å¶
+leak     v ï¼ˆä½¿ï¼‰æ¼ï¼Œï¼ˆä½¿ï¼‰æ¸—å‡ºï¼›n æ³„éœ²
+leap     v è·³ï¼›å†²ï¼›n è·³è·ƒï¼›æ¿€å¢
+lease     n ç§Ÿçº¦ï¼›vt å‡ºç§Ÿï¼Œç§Ÿæœ‰
+leather     n çš®é©ï¼Œçš®é©åˆ¶å“
+lecture     n æ¼”è®²ï¼Œè®²è¯¾ï¼›/lecturer   n è®²å¸ˆï¼›/
+legacy     n é—äº§ï¼›é—èµ 
+legal     a  æ³•å¾‹çš„ï¼›åˆæ³•çš„
+leisure     n ç©ºé—²æ—¶é—´ï¼Œæ‚ é—²
+lens    n é€é•œï¼›é•œç‰‡ï¼›é•œå¤´
+leopard     n è±¹ï¼Œç¾æ´²è±¹
+less than     å°äºï¼Œå°‘äº
+lethal     a è‡´å‘½çš„ï¼Œæ¯ç­æ€§çš„ï¼›æœ‰å®³çš„
+leukaemia     n ç™½è¡€ç—…
+level     n é«˜åº¦ï¼›æ°´å¹³ï¼Œç­‰çº§
+lever     n æ æ†ï¼›vtï¼ˆç”¨æ æ†ï¼‰æ’¬åŠ¨
+lexicographer     n è¯ï¼ˆå­—ï¼‰å…¸ç¼–æ’°è€…
+liberty     n è‡ªç”±ï¼›è®¸å¯ï¼›æ”¾è‚†
+license     n è®¸å¯(è¯),æ‰§ç…§ï¼›vt å‡†è®¸
+likelihood     n å¯èƒ½ï¼›å¯èƒ½æ€§
+limb     n è‚¢ï¼Œè‡‚ï¼›æ ‘æ
+lime     n çŸ³ç°
+limestone     n çŸ³ç°çŸ³ï¼ŒçŸ³ç°å²©
+limitation     n é™åˆ¶ï¼›å±€é™
+limited     a é™åˆ¶çš„
 
-list 20
-innocent     a ÌìÕæµÄ
-innovation     n ¸ïĞÂ£¬´´ĞÂ
-input     n Í¶Èë£¬ÊäÈë£¬ÊäÈëµÄÊı¾İ£»vt °Ñ¡£¡£ÊäÈë¼ÆËã»ú
-insecure     a ²»°²È«µÄ£¬²»¿É¿¿£»/insecurity   n ²»°²È«£¬²»°²È«¸Ğ£»/
-insert     v ²åÈë£¬Ç¶Èë
-insight     n ¶´²ìÁ¦£¬Éî¿ÌµÄÁË½â
-insignificant     a ÎŞ¹Ø½ôÒªµÄ£¬ÎŞÒâÒåµÄ
-insist     v ¼á³Ö£¬¼á¾öÈÏÎª£»¶¨Òª
-inspect     vt ¼ì²é£¬¼ìÔÄ£»/inspector   n ¼ì²éÔ±£»/inspection   n ¼ì²é£¬ÊÓ²ì£»/
-inspiration    n Áé¸Ğ£»¹ÄÎèÈËĞÄµÄ£¨ÈË»òÎï£©£»/inspirational   a ¹ÄÎèÈËĞÄµÄ£¬ÊÜĞÄÁé¸ĞÖ§ÅäµÄ£»/
-install     vt °²×°£¬ÉèÖÃ£»ÈÎÃü
-installment     n ·ÖÆÚ¸¶¿î£»£¨Á¬²¥»òÁ¬ÔØµÄ£©Ò»¼¯£»
-instinct     n ±¾ÄÜ£¬Ö±¾õ
-institute     n ÑĞ¾¿Ëù£¬Ñ§Ôº£»v ½¨Á¢£¬ÉèÁ¢
-institution     n £¨ĞĞÒµ£©»ú¹¹£»ÍÅÌå£»»úÖÆ£»Ï°Ë×£»Ğ­»á
-instruct     vt ½Ìµ¼£»Ö¸Ê¾£¬Í¨Öª
-instrument     n ÒÇÆ÷£»ÊÖ¶Î£»¹¤¾ß
-instrumental     a Æğ×÷ÓÃµÄ£»ÓÃÀÖÆ÷Ñİ×àµÄ
-insulate     v Ê¹¾øÔµ£»¸ôÀë
-insurance     n ±£ÏÕ£¬±£ÏÕ·Ñ
-intact     a Î´±»Åö¹ıµÄ£»ÍêÕûÎŞÈ±µÄ
-integral     a ¹¹³ÉÕûÌåËù±ØĞèµÄ£»ÍêÕûµÄ
-integrate     v £¨Ê¹£©³ÉÕûÌå£¬£¨Ê¹£©³ÉÒ»Ìå£»/integration   n ½áºÏ£¬×ÛºÏ£»/disintegrate  v Ê¹·Ö½â£»Ê¹·ÖÁÑ£»/
-intellectual     a ÖÇÁ¦µÄ£¬ÓĞÖÇÁ¦µÄ£»nÖªÊ¶·Ö×Ó
-intelligence     n ÖÇÁ¦£»Àí½âÁ¦£»Çé±¨
-intelligent     a ´ÏÃ÷µÄ£¬ÀíÖÇµÄ
-intelligible     a ¿ÉÀí½âµÄ£¬Çå³şµÄ
-intend     v ÏëÒª£¬´òËã
-intense     a Ç¿ÁÒµÄ£»½ôÕÅµÄ£»ÈÏÕæµÄ
-intensify     vt Ê¹ÔöÇ¿£¬Ê¹¼Ó¾ç
-intensity     n Ç¿ÁÒ£¬¾çÁÒ£»Ç¿¶È
-intensive     a ¼ÓÇ¿µÄ£¬ÃÜ¼¯µÄ
-intent     n ÒâÍ¼£»a ×¨×¢µÄ£»¼±ÇĞµÄ                  
-intention     n ÒâÍ¼£¬Ä¿µÄ
-interact     vi Ïà»¥×÷ÓÃ£»Ïà»¥Ó°Ïì£»/interaction   n Ïà»¥×÷ÓÃ£»/
-interdependent     a Ïà»¥ÒÀÀµ£¬»¥ÖúµÄ
-interest     n ĞËÈ¤£»ÀûÒæ£»ÀûÏ¢£»vt Ê¹¸ĞĞËÈ¤
-interfere     v ¸ÉÉæ£»·Á°­£¬¸ÉÈÅ
-interior     a ÄÚµÄ£¬ÄÚµØµÄ£»ÄÚ²¿µÄ
-intermediate     a ÖĞ¼äµÄ£¬ÖĞ¼¶µÄ
-internal     a ÄÚ²¿µÄ£»¹úÄÚµÄ
-internationalist     n ¹ú¼ÊÖ÷ÒåÕß£»a ¹ú¼ÊÖ÷ÒåµÄ
-interplay     v&n Ïà»¥×÷ÓÃ£¬Ïà»¥Ó°Ïì
-interrelationship    n Ïà»¥×÷ÓÃ£¬Ïà»¥Ó°Ïì
-intersection     n µÀÂ·½»²æ¿Ú£»Ê®×ÖÂ·¿Ú
-interval     n ¼ä¸ô£¬Ä»¼äĞİÏ¢£»¼ä¾à
-intervene     vi ¸ÉÉæ£»¸ÉÈÅ£»½éÓÚÆä¼ä
-intimate     a Ç×ÃÜµÄ£¬¸öÈËµÄ£»vt °µÊ¾
-intrusion     n ´³Èë£»´ò½Á£»ÇÖÈÅ
-invader     n ÈëÇÖÕß
-invalid     a ÎŞĞ§µÄ£»²Ğ·ÏµÄ
-invaluable     a ÎŞ¼ÛµÄ
-invasion     n ÈëÇÖ£¬ÇÖÂÔ
-inventory     n Ä¿Â¼£»´æ»õ
-inversion     n µ¹ÖÃ£¬µßµ¹£»×ªÎ»
-invert     v £¨Ê¹£©µ¹ÖÃ£¬£¨Ê¹£©µßµ¹
-invest     v Í¶×Ê£»Í¶Èë£»ÊÚÓè
-investigate     v µ÷²é
-invisible     a ¿´²»¼ûµÄ£¬ÎŞĞÎµÄ
-invoice     n ·¢Æ±£»v ¸ø¿ª·¢Æ±
-involve     vt Ê¹¾íÈë£¬Ç£Éæ£»°üº¬£»/involvement   n °üº¬£¬Á¬ÀÛ£»/
-ion     n Àë×Ó£»/ionizer   n Àë×Ó·¢ÉúÆ÷£»/
-iris     n ºç£»£¨ÑÛÇò£©ºçÄ¤
-irony     n ·´»°£¬·í´Ì£»³öÈËÒâÁÏµÄÊÂÇé£»/ironically   ad ·í´ÌµØ£»³°·íµØ£»/
-irregularity     n ²»¹æÔò£¬ÎŞ¹æÂÉ
-irrelevant     a ²»Ïà¹ØµÄ£¬ÀëÌâµÄ                   
-irrevocable     a ÎŞ·¨È¡ÏûµÄ£¬ÎŞ·¨¸Ä±äµÄ
-irrigation     n ¹à¸È    
-irritate     v Ê¹·³Ôê£»Ê¹ÌÛÍ´
-isle     n Ğ¡µº£¬µº
-isolate     v Ê¹¸ôÀë£¬Ê¹¹ÂÁ¢
+innocent     a å¤©çœŸçš„
+innovation     n é©æ–°ï¼Œåˆ›æ–°
+input     n æŠ•å…¥ï¼Œè¾“å…¥ï¼Œè¾“å…¥çš„æ•°æ®ï¼›vt æŠŠã€‚ã€‚è¾“å…¥è®¡ç®—æœº
+insecure     a ä¸å®‰å…¨çš„ï¼Œä¸å¯é ï¼›/insecurity   n ä¸å®‰å…¨ï¼Œä¸å®‰å…¨æ„Ÿï¼›/
+insert     v æ’å…¥ï¼ŒåµŒå…¥
+insight     n æ´å¯ŸåŠ›ï¼Œæ·±åˆ»çš„äº†è§£
+insignificant     a æ— å…³ç´§è¦çš„ï¼Œæ— æ„ä¹‰çš„
+insist     v åšæŒï¼Œåšå†³è®¤ä¸ºï¼›å®šè¦
+inspect     vt æ£€æŸ¥ï¼Œæ£€é˜…ï¼›/inspector   n æ£€æŸ¥å‘˜ï¼›/inspection   n æ£€æŸ¥ï¼Œè§†å¯Ÿï¼›/
+inspiration    n çµæ„Ÿï¼›é¼“èˆäººå¿ƒçš„ï¼ˆäººæˆ–ç‰©ï¼‰ï¼›/inspirational   a é¼“èˆäººå¿ƒçš„ï¼Œå—å¿ƒçµæ„Ÿæ”¯é…çš„ï¼›/
+install     vt å®‰è£…ï¼Œè®¾ç½®ï¼›ä»»å‘½
+installment     n åˆ†æœŸä»˜æ¬¾ï¼›ï¼ˆè¿æ’­æˆ–è¿è½½çš„ï¼‰ä¸€é›†ï¼›
+instinct     n æœ¬èƒ½ï¼Œç›´è§‰
+institute     n ç ”ç©¶æ‰€ï¼Œå­¦é™¢ï¼›v å»ºç«‹ï¼Œè®¾ç«‹
+institution     n ï¼ˆè¡Œä¸šï¼‰æœºæ„ï¼›å›¢ä½“ï¼›æœºåˆ¶ï¼›ä¹ ä¿—ï¼›åä¼š
+instruct     vt æ•™å¯¼ï¼›æŒ‡ç¤ºï¼Œé€šçŸ¥
+instrument     n ä»ªå™¨ï¼›æ‰‹æ®µï¼›å·¥å…·
+instrumental     a èµ·ä½œç”¨çš„ï¼›ç”¨ä¹å™¨æ¼”å¥çš„
+insulate     v ä½¿ç»ç¼˜ï¼›éš”ç¦»
+insurance     n ä¿é™©ï¼Œä¿é™©è´¹
+intact     a æœªè¢«ç¢°è¿‡çš„ï¼›å®Œæ•´æ— ç¼ºçš„
+integral     a æ„æˆæ•´ä½“æ‰€å¿…éœ€çš„ï¼›å®Œæ•´çš„
+integrate     v ï¼ˆä½¿ï¼‰æˆæ•´ä½“ï¼Œï¼ˆä½¿ï¼‰æˆä¸€ä½“ï¼›/integration   n ç»“åˆï¼Œç»¼åˆï¼›/disintegrate  v ä½¿åˆ†è§£ï¼›ä½¿åˆ†è£‚ï¼›/
+intellectual     a æ™ºåŠ›çš„ï¼Œæœ‰æ™ºåŠ›çš„ï¼›nçŸ¥è¯†åˆ†å­
+intelligence     n æ™ºåŠ›ï¼›ç†è§£åŠ›ï¼›æƒ…æŠ¥
+intelligent     a èªæ˜çš„ï¼Œç†æ™ºçš„
+intelligible     a å¯ç†è§£çš„ï¼Œæ¸…æ¥šçš„
+intend     v æƒ³è¦ï¼Œæ‰“ç®—
+intense     a å¼ºçƒˆçš„ï¼›ç´§å¼ çš„ï¼›è®¤çœŸçš„
+intensify     vt ä½¿å¢å¼ºï¼Œä½¿åŠ å‰§
+intensity     n å¼ºçƒˆï¼Œå‰§çƒˆï¼›å¼ºåº¦
+intensive     a åŠ å¼ºçš„ï¼Œå¯†é›†çš„
+intent     n æ„å›¾ï¼›a ä¸“æ³¨çš„ï¼›æ€¥åˆ‡çš„
+intention     n æ„å›¾ï¼Œç›®çš„
+interact     vi ç›¸äº’ä½œç”¨ï¼›ç›¸äº’å½±å“ï¼›/interaction   n ç›¸äº’ä½œç”¨ï¼›/
+interdependent     a ç›¸äº’ä¾èµ–ï¼Œäº’åŠ©çš„
+interest     n å…´è¶£ï¼›åˆ©ç›Šï¼›åˆ©æ¯ï¼›vt ä½¿æ„Ÿå…´è¶£
+interfere     v å¹²æ¶‰ï¼›å¦¨ç¢ï¼Œå¹²æ‰°
+interior     a å†…çš„ï¼Œå†…åœ°çš„ï¼›å†…éƒ¨çš„
+intermediate     a ä¸­é—´çš„ï¼Œä¸­çº§çš„
+internal     a å†…éƒ¨çš„ï¼›å›½å†…çš„
+internationa  v&n ç›¸äº’ä½œç”¨ï¼Œç›¸äº’å½±å“
+interrelationship    n ç›¸äº’ä½œç”¨ï¼Œç›¸äº’å½±å“
+intersection     n é“è·¯äº¤å‰å£ï¼›åå­—è·¯å£
+interval     n é—´éš”ï¼Œå¹•é—´ä¼‘æ¯ï¼›é—´è·
+intervene     vi å¹²æ¶‰ï¼›å¹²æ‰°ï¼›ä»‹äºå…¶é—´
+intimate     a äº²å¯†çš„ï¼Œä¸ªäººçš„ï¼›vt æš—ç¤º
+intrusion     n é—¯å…¥ï¼›æ‰“æ…ï¼›ä¾µæ‰°
+invader     n å…¥ä¾µè€…
+invalid     a æ— æ•ˆçš„ï¼›æ®‹åºŸçš„
+invaluable     a æ— ä»·çš„
+invasion     n å…¥ä¾µï¼Œä¾µç•¥
+inventory     n ç›®å½•ï¼›å­˜è´§
+inversion     n å€’ç½®ï¼Œé¢ å€’ï¼›è½¬ä½
+invert     v ï¼ˆä½¿ï¼‰å€’ç½®ï¼Œï¼ˆä½¿ï¼‰é¢ å€’
+invest     v æŠ•èµ„ï¼›æŠ•å…¥ï¼›æˆäºˆ
+investigate     v è°ƒæŸ¥
+invisible     a çœ‹ä¸è§çš„ï¼Œæ— å½¢çš„
+invoice     n å‘ç¥¨ï¼›v ç»™å¼€å‘ç¥¨
+involve     vt ä½¿å·å…¥ï¼Œç‰µæ¶‰ï¼›åŒ…å«ï¼›/involvement   n åŒ…å«ï¼Œè¿ç´¯ï¼›/
+ion     n ç¦»å­ï¼›/ionizer   n ç¦»å­å‘ç”Ÿå™¨ï¼›/
+iris     n è™¹ï¼›ï¼ˆçœ¼çƒï¼‰è™¹è†œ
+irony     n åè¯ï¼Œè®½åˆºï¼›å‡ºäººæ„æ–™çš„äº‹æƒ…ï¼›/ironically   ad è®½åˆºåœ°ï¼›å˜²è®½åœ°ï¼›/
+irregularity     n ä¸è§„åˆ™ï¼Œæ— è§„å¾‹
+irrelevant     a ä¸ç›¸å…³çš„ï¼Œç¦»é¢˜çš„
+irrevocable     a æ— æ³•å–æ¶ˆçš„ï¼Œæ— æ³•æ”¹å˜çš„
+irrigation     n çŒæº‰
+irritate     v ä½¿çƒ¦èºï¼›ä½¿ç–¼ç—›
+isle     n å°å²›ï¼Œå²›
+isolate     v ä½¿éš”ç¦»ï¼Œä½¿å­¤ç«‹
 
-list 19
-ignorant     a ÎŞÖªµÄ    
-ignore     vt ²»¹Ë£¬ºöÊÓ
-illuminate     vt ÕÕÁÁ£¬Æô·¢
-illusion     n »Ã¾õ£¬´í¾õ
-illustrate     vt £¨ÓÃÍ¼µÈ£©ËµÃ÷
-illustration     n ²åÍ¼£¬ËµÃ÷
-image     n ĞÎÏó£»Ó¡Ïó£»Í¼Ïñ
-imagination     n ÏëÏó£¬ÏëÏó³öÀ´µÄÊÂÎï
-imaginative     a ¸»ÓĞÏëÏóÁ¦µÄ£»°®ÏëÏóµÄ
-imagine     vt ÏëÏó£¬²ÂÏë£»/imaginable   a ¿ÉÏëÏóµÄ£¬¿ÉÄÜµÄ£»/
-imitate     v Ä£·Â£¬·ÂĞ§
-imitation     n Ä£·Â£»·ÂÔì£»·ÄÖ¯Æ·
-immediately     ad Á¢¼´£¬ÂíÉÏ£»Ö±½ÓµØ
-immense     a ¾Ş´óµÄ£¬¹ã´óµÄ
-immigrant     n ÒÆÃñ£¬ÇÈÃñ
-immune     a ÃâÒßµÄ£»/autoimmune   a ×ÔÌåÃâÒßµÄ£»/
-impact     n Ó°Ïì£¬×÷ÓÃ£¬³å»÷
-impair     vt Ëğº¦£¬¼õÉÙ
-impart     vt ¸æÖª
-impede     v ×è°­£¬·Á°­
-implement     vt Ê¹ÉúĞ§£¬ÊµÊ©£»n ¹¤¾ß£»/implementation   n ÊµÊ©£¬Ö´ĞĞ£»/
-implication     n º¬Òå£¬°µÊ¾£¬¾íÈë
-impose     vt °Ñ¡£¡£Ç¿¼Ó£»Õ÷£¨Ë°£©
-impress     vt ¸ø£¬£¬ÁôÏÂÉî¿ÌÓ¡Ïó£»Ó¡
-improve     v ¸ÄÉÆ£¬¸Ä½ø                
-impulse     n ÍÆ¶¯Á¦£¬´Ì¼¤£»³å¶¯
-in accordance with     Óë¡£¡£Ò»ÖÂ£¬ÒÀÕÕ
-in addition to     ³ı¡£¡£Ö®Íâ
-in addition     ÁíÍâ£»¼ÓÖ®
-in comparison with     Óë¡£¡£±È½Ï
-in favour of     ÔŞÍ¬£¬Ö§³Ö
-in vain     Í½È»£¬ÎŞĞ§
-incendiary     a ·Å»ğµÄ£¬È¼ÉÕµÄ
-incentive     n ´Ì¼¤£¬¶¯»ú
-incident     n ·¢ÉúµÄÊÂ
-inclination     n °®ºÃ£¬Ç÷ÊÆ£¬ÇãĞ±
-incoming     n ½øÀ´£»ÊÕÈë£»a ½øÀ´µÄ
-incorporate     v °üº¬£¬°Ñ¡£¡£ºÏ²¢
-incredible     a ²»¿ÉĞÅµÄ£¬ÄÑÒÔÖÃĞÅµÄ
-incur     v ÕĞÖÂ£¬ÔâÊÜ
-independence     n ¶ÀÁ¢£¬×ÔÖ÷
-indicate    vt ±êÊ¾£¬±íÃ÷£¬±íÊ¾£»/indicator   n Ö¸Ê¾Æ÷£»/
-indication     n Ö¸Ê¾
-individual     a ¸ö±ğµÄ£»¶ÀÌØµÄ£»n ¸öÈË£»/individually   ad ¸÷×ÔµØ£¬¶ÀÌØµØ£»/individualistic   a ¸öÈËÖ÷ÒåµÄ£»/
-induction     n ¾ÍÖ°£¬¹éÄÉ£¬¸ĞÓ¦
-inductive reasoning     ¹éÄÉ£¬ÍÆÀí
-inductive     a ÓÕµ¼µÄ£¬¹éÄÉµÄ
-indulge     vi ³ÁÄç£¬×İÇé
-industrialise     v £¨Ê¹£©¹¤Òµ»¯£»/industrialization   a ¹¤Òµ»¯£¬²úÒµ»¯£»/
-inescapable     a ²»¿ÉÌÓ±ÜµÄ£»ÄÑÃâµÄ                     
-infection     n ´«È¾£¬¸ĞÈ¾
-infer     vt ÍÆ¶Ï£¬²ÂÏë
-inference     n ÂÛ¶Ï£¬ÍÆ¶Ï
-inferential     a ¿ÉÒÔÍÆ¶ÏµÄ
-inflammable     a Ò×È¼µÄ£¬Ò×Å­µÄ
-inflation     n Í¨»õÅòÕÍ
-influence     n Ó°ÏìÁ¦£¬²úÉúÓ°ÏìÁ¦µÄÈË£»vt Ó°Ïì
-influenza     n Á÷ĞĞĞÔ¸ĞÃ°
-inform     v Í¨¸æ£¬Ïò¡£¡£±¨¸æ
-infrastructure     n »ù´¡½á¹¹£»»ù´¡ÉèÊ©
-inhabitant     n ¾ÓÃñ£¬¾Ó×¡Õß
-inhale     v ÎüÑÌ£¬ÎüÆø£»/inhalation   n ÎüÈë£¬ÎüÈëÎï£»/
-inherent     a ÄÚÔÚµÄ£¬ÉúÀ´¾ÍÓĞµÄ    
-inherited     a ¼Ì³ĞµÄ£¬ÒÅ²úµÄ£»/inheritance   n ÒÅ²ú£¬ÒÅ´«£»/
-inhibit     vt ·Á°­£¬ÒÖÖÆ
-initial     a ×î³õµÄ£¬¿ªÊ¼µÄ;/initially   ad ×î³õ£¬¿ªÊ¼£»/
-initiative     n ²ÉÈ¡µÄĞĞ¶¯´ëÊ©£»Ö÷¶¯ĞÔ
-inject     vt ×¢Éä£»×¢Èë£»/injection   n ×¢Éä£»/
-inland     a ÄÚÂ½µÄ£»ad ÏòÄÚµØµØ
-inlet     n Èë¿Ú£¬½ø£¨Ë®£©¿Ú£»Ë®Íå  
+ignorant     a æ— çŸ¥çš„
+ignore     vt ä¸é¡¾ï¼Œå¿½è§†
+illuminate     vt ç…§äº®ï¼Œå¯å‘
+illusion     n å¹»è§‰ï¼Œé”™è§‰
+illustrate     vt ï¼ˆç”¨å›¾ç­‰ï¼‰è¯´æ˜
+illustration     n æ’å›¾ï¼Œè¯´æ˜
+image     n å½¢è±¡ï¼›å°è±¡ï¼›å›¾åƒ
+imagination     n æƒ³è±¡ï¼Œæƒ³è±¡å‡ºæ¥çš„äº‹ç‰©
+imaginative     a å¯Œæœ‰æƒ³è±¡åŠ›çš„ï¼›çˆ±æƒ³è±¡çš„
+imagine     vt æƒ³è±¡ï¼ŒçŒœæƒ³ï¼›/imaginable   a å¯æƒ³è±¡çš„ï¼Œå¯èƒ½çš„ï¼›/
+imitate     v æ¨¡ä»¿ï¼Œä»¿æ•ˆ
+imitation     n æ¨¡ä»¿ï¼›ä»¿é€ ï¼›çººç»‡å“
+immediately     ad ç«‹å³ï¼Œé©¬ä¸Šï¼›ç›´æ¥åœ°
+immense     a å·¨å¤§çš„ï¼Œå¹¿å¤§çš„
+immigrant     n ç§»æ°‘ï¼Œä¾¨æ°‘
+immune     a å…ç–«çš„ï¼›/autoimmune   a è‡ªä½“å…ç–«çš„ï¼›/
+impact     n å½±å“ï¼Œä½œç”¨ï¼Œå†²å‡»
+impair     vt æŸå®³ï¼Œå‡å°‘
+impart     vt å‘ŠçŸ¥
+impede     v é˜»ç¢ï¼Œå¦¨ç¢
+implement     vt ä½¿ç”Ÿæ•ˆï¼Œå®æ–½ï¼›n å·¥å…·ï¼›/implementation   n å®æ–½ï¼Œæ‰§è¡Œï¼›/
+implication     n å«ä¹‰ï¼Œæš—ç¤ºï¼Œå·å…¥
+impose     vt æŠŠã€‚ã€‚å¼ºåŠ ï¼›å¾ï¼ˆç¨ï¼‰
+impress     vt ç»™ï¼Œï¼Œç•™ä¸‹æ·±åˆ»å°è±¡ï¼›å°
+improve     v æ”¹å–„ï¼Œæ”¹è¿›
+impulse     n æ¨åŠ¨åŠ›ï¼Œåˆºæ¿€ï¼›å†²åŠ¨
+in accordance with     ä¸ã€‚ã€‚ä¸€è‡´ï¼Œä¾ç…§
+in addition to     é™¤ã€‚ã€‚ä¹‹å¤–
+in addition     å¦å¤–ï¼›åŠ ä¹‹
+in comparison with     ä¸ã€‚ã€‚æ¯”è¾ƒ
+in favour of     èµåŒï¼Œæ”¯æŒ
+in vain     å¾’ç„¶ï¼Œæ— æ•ˆ
+incendiary     a æ”¾ç«çš„ï¼Œç‡ƒçƒ§çš„
+incentive     n åˆºæ¿€ï¼ŒåŠ¨æœº
+incident     n å‘ç”Ÿçš„äº‹
+inclination     n çˆ±å¥½ï¼Œè¶‹åŠ¿ï¼Œå€¾æ–œ
+incoming     n è¿›æ¥ï¼›æ”¶å…¥ï¼›a è¿›æ¥çš„
+incorporate     v åŒ…å«ï¼ŒæŠŠã€‚ã€‚åˆå¹¶
+incredible     a ä¸å¯ä¿¡çš„ï¼Œéš¾ä»¥ç½®ä¿¡çš„
+incur     v æ‹›è‡´ï¼Œé­å—
+independence     n ç‹¬ç«‹ï¼Œè‡ªä¸»
+indicate    vt æ ‡ç¤ºï¼Œè¡¨æ˜ï¼Œè¡¨ç¤ºï¼›/indicator   n æŒ‡ç¤ºå™¨ï¼›/
+indication     n æŒ‡ç¤º
+individual     a ä¸ªåˆ«çš„ï¼›ç‹¬ç‰¹çš„ï¼›n ä¸ªäººï¼›/individually   ad å„è‡ªåœ°ï¼Œç‹¬ç‰¹åœ°ï¼›/individua
+inductive reasoning     å½’çº³ï¼Œæ¨ç†
+inductive     a è¯±å¯¼çš„ï¼Œå½’çº³çš„
+indulge     vi æ²‰æººï¼Œçºµæƒ…
+industrialise     v ï¼ˆä½¿ï¼‰å·¥ä¸šåŒ–ï¼›/industrialization   a å·¥ä¸šåŒ–ï¼Œäº§ä¸šåŒ–ï¼›/
+inescapable     a ä¸å¯é€ƒé¿çš„ï¼›éš¾å…çš„
+infection     n ä¼ æŸ“ï¼Œæ„ŸæŸ“
+infer     vt æ¨æ–­ï¼ŒçŒœæƒ³
+inference     n è®ºæ–­ï¼Œæ¨æ–­
+inferential     a å¯ä»¥æ¨æ–­çš„
+inflammable     a æ˜“ç‡ƒçš„ï¼Œæ˜“æ€’çš„
+inflation     n é€šè´§è†¨èƒ€
+influence     n å½±å“åŠ›ï¼Œäº§ç”Ÿå½±å“åŠ›çš„äººï¼›vt å½±å“
+influenza     n æµè¡Œæ€§æ„Ÿå†’
+inform     v é€šå‘Šï¼Œå‘ã€‚ã€‚æŠ¥å‘Š
+infrastructure     n åŸºç¡€ç»“æ„ï¼›åŸºç¡€è®¾æ–½
+inhabitant     n å±…æ°‘ï¼Œå±…ä½è€…
+inhale     v å¸çƒŸï¼Œå¸æ°”ï¼›/inhalation   n å¸å…¥ï¼Œå¸å…¥ç‰©ï¼›/
+inherent     a å†…åœ¨çš„ï¼Œç”Ÿæ¥å°±æœ‰çš„
+inherited     a ç»§æ‰¿çš„ï¼Œé—äº§çš„ï¼›/inheritance   n é—äº§ï¼Œé—ä¼ ï¼›/
+inhibit     vt å¦¨ç¢ï¼ŒæŠ‘åˆ¶
+initial     a æœ€åˆçš„ï¼Œå¼€å§‹çš„;/initially   ad æœ€åˆï¼Œå¼€å§‹ï¼›/
+initiative     n é‡‡å–çš„è¡ŒåŠ¨æªæ–½ï¼›ä¸»åŠ¨æ€§
+inject     vt æ³¨å°„ï¼›æ³¨å…¥ï¼›/injection   n æ³¨å°„ï¼›/
+inland     a å†…é™†çš„ï¼›ad å‘å†…åœ°åœ°
+inlet     n å…¥å£ï¼Œè¿›ï¼ˆæ°´ï¼‰å£ï¼›æ°´æ¹¾
 
-list18
-handy     a ·½±ãµÄ£»ÊÖ±ßµÄ£»ÊÖÇÉµÄ
-hang on     ×¥×¡£¨½ô£©£»¼á³ÖÏÂÈ¥£»±ğ¹Ò¶Ï
-haphazard     a Å¼È»µÄ£»ÎŞÖÈĞòµÄ
-harbour     n ¸Û¿Ú£»v Í£²´£»ÒşÄä
-harridan     n Ğ×¶ñµÄÀÏ¸¾£»ÀÏÎ×ÆÅ
-harsh     a ÑÏÀ÷µÄ£»´Ì¶úµÄ
-hassle     n ¼¤ÁÒµÄ±çÂÛ£»À§ÄÑ£¬Âé·³
-hasty     a ²İÂÊµÄ£»´ÒÃ¦µÄ
-hatch     vt ·õ³ö£»²ß»®£»vi ·õ³ö
-haul     v ÓÃÁ¦ÍÏ£»°áÔË
-hawk     n Ó¥
-hazard     n Î£ÏÕ£»¹«º¦£»v Ã°¡£¡£·çÏÕ£»/hazardous   a Î£ÏÕµÄ£¬Ã°ÏÕµÄ£»/
-headline     n ´ó×Ö±êÌâ£»Í·°æÍ·Ìõ
-headmaster     n £¨ÖĞĞ¡Ñ§£©Ğ£³¤
-headquarters     n ×Ü²¿£¬×Üµê£»Ö¸»Ó²¿
-heal     v ÖÎÓú£¬¿µ¸´£»µ÷Í£
-heap     n £¨Ò»£©¶Ñ£»´óÁ¿£»v £¨Ê¹£©³É¶Ñ
-hectare     n ¹«Çê
-height     n º£°Î£¬Éí¸ß
-heir     n ¼Ì³ĞÈË
-helicopter     n Ö±Éı·É»ú
-helix     n ÂİĞı£¨ĞÎ£©£¬ÂİĞı½á¹¹
-hemisphere     n £¨µØÇòµÄ£©°ëÇò£»´óÄÔ°ëÇò
-herbivore     n Ê³²İ¶¯Îï
-herdsman     n ÄÁÈË
-heritage     n ÒÅ²ú£»´«Í³
-hesitate     vi ÓÌÔ¥£»²»ÇéÔ¸£»/hesitation   n ÓÌÔ¥£»/
-hide     n Æ¤¸ï£¬ÊŞÆ¤£»v £¨¶ã£©²Ø
-hierarchy     n Áìµ¼²ã£»²ã´Î£¬µÈ¼¶
-highlight     vt Ç¿µ÷£¬Í»³ö
-high-tech     n ¸ß¿Æ¼¼
-highway     n ¹«Â·
-hike     v Í½²½ÂÃĞĞ£»vt Ìá¸ß£¨¼Û¸ñµÈ£©£»n ÃÍÔö
-hinge     n ºÏÒ³£»½ÂÁ´£»v ÒÀ¡£¡£¶ø¶¨
-hinterland     n ÄÚµØ£¬¸¹µØ£»ÄÚµØÃ³Ò×Çø
-hire     v&n ×âÓÃ£¬¹ÍÓ¶
-historian     n ÀúÊ·Ñ§¼Ò£»Ê·Ñ§¹¤×÷Õß
-hitherto     ad µ½Ä¿Ç°ÎªÖ¹£¬Æù½ñ
-hive     n ·ä·¿£¬·äÏä
-hockey     n Çú¹÷Çò£»±ùÇò
-hollow     a ¿ÕµÄ£¬¿Õ¶´µÄ£»vt ÍÚ¿Õ
-homogeneous     a Í¬ÖÖÀàµÄ
-honour     n ¹âÈÙ£»×ğÖØ£»vt Ïò¡£¡£Ê¾¾´Òâ
-horizon     n µØÆ½Ïß£»·¶Î§£»ÑÛ½ç£»/horizontal   a Ë®Æ½µÄ£»/horizontally   ad Ë®Æ½µØ£»/
-horror     n º¦ÅÂ£¬¿Ö²À
-hose     n Èí¹Ü£»v ÓÃÈí¹ÜÁÜ½½
-hospitality     n ºÃ¿Í£»Ê¢Çé£»ÕĞ´ıÀñ½Ú
-host     n Ö÷ÈË£¬¶«µÀÖ÷£»Ğí¶à£»v ÕĞ´ı
-hostel     n ÕĞ´ıËù£»¿ÍÕ»
-hostile     a µĞ·½µÄ£¬²»ÓÑÉÆµÄ
-hostility     n µĞÒâ
-household     n ¼ÒÍ¥£»a ¼ÒÓÃµÄ
-huddle     vt ¾Û¼¯ÔÚÒ»Æğ£»nÔÓÂÒµÄÒ»¶Ñ£¬Óµ¼·
-hug     n&v £¨ÈÈÁÒµÄ£©Óµ±§
-hum     vi ºáÇú×Ó£»·¢ÎËÎËÉù£»n ÎËÎËÉù£¬³³ÔÓÉù
-humanity     n ÈËÀà£»ÈËĞÔ
-humidity     n Êª¶È£¬³±Êª
-humour     n ÓÄÄ¬£¬ÓÄÄ¬¸Ğ
-hurdle     v Ô½¹ıÕÏ°­£»n ÕÏ°­£»ÌøÀ¸
-hurricane     n ì«·ç
-hybrid     n »ìºÏÎï£»a ÔÓÖÖµÄ£»»ìºÏµÄ
-hypothesis     n¼ÙÉè£¬¼ÙËµ
-ID card     Éí·İÖ¤£»±êÊ¾·û
-ideal     a ÀíÏëµÄ£»ÏëÏóµÄ£»n ÀíÏë£»ÀíÏëµÄ¶«Î÷£»/idealistic   a Î¨ĞÄÂÛµÄ£¬¿ÕÏëÖ÷ÒåµÄ£»/ideally   ad ÀíÏëµØ£¬ÍêÃÀµØ£»/
-identification     n Éí·İÖ¤Ã÷£»Ö¤Ã÷
-identify     vt ÈÏ³ö£¬Ê¶±ğ£»/identifiable   a ¿É±æÈÏµÄ£¬¿ÉÈ·ÈÏµÄ£»/
-identity     n Éí·İ£»ÌØÕ÷£»Í³Ò»ĞÔ
-ignorance     n ÎŞÖª£¬ÓŞÃÁ
+handy     a æ–¹ä¾¿çš„ï¼›æ‰‹è¾¹çš„ï¼›æ‰‹å·§çš„
+hang on     æŠ“ä½ï¼ˆç´§ï¼‰ï¼›åšæŒä¸‹å»ï¼›åˆ«æŒ‚æ–­
+haphazard     a å¶ç„¶çš„ï¼›æ— ç§©åºçš„
+harbour     n æ¸¯å£ï¼›v åœæ³Šï¼›éšåŒ¿
+harridan     n å‡¶æ¶çš„è€å¦‡ï¼›è€å·«å©†
+harsh     a ä¸¥å‰çš„ï¼›åˆºè€³çš„
+hassle     n æ¿€çƒˆçš„è¾©è®ºï¼›å›°éš¾ï¼Œéº»çƒ¦
+hasty     a è‰ç‡çš„ï¼›åŒ†å¿™çš„
+hatch     vt å­µå‡ºï¼›ç­–åˆ’ï¼›vi å­µå‡º
+haul     v ç”¨åŠ›æ‹–ï¼›æ¬è¿
+hawk     n é¹°
+hazard     n å±é™©ï¼›å…¬å®³ï¼›v å†’ã€‚ã€‚é£é™©ï¼›/hazardous   a å±é™©çš„ï¼Œå†’é™©çš„ï¼›/
+headline     n å¤§å­—æ ‡é¢˜ï¼›å¤´ç‰ˆå¤´æ¡
+headmaster     n ï¼ˆä¸­å°å­¦ï¼‰æ ¡é•¿
+headquarters     n æ€»éƒ¨ï¼Œæ€»åº—ï¼›æŒ‡æŒ¥éƒ¨
+heal     v æ²»æ„ˆï¼Œåº·å¤ï¼›è°ƒåœ
+heap     n ï¼ˆä¸€ï¼‰å †ï¼›å¤§é‡ï¼›v ï¼ˆä½¿ï¼‰æˆå †
+hectare     n å…¬é¡·
+height     n æµ·æ‹”ï¼Œèº«é«˜
+heir     n ç»§æ‰¿äºº
+helicopter     n ç›´å‡é£æœº
+helix     n èºæ—‹ï¼ˆå½¢ï¼‰ï¼Œèºæ—‹ç»“æ„
+hemisphere     n ï¼ˆåœ°çƒçš„ï¼‰åŠçƒï¼›å¤§è„‘åŠçƒ
+herbivore     n é£Ÿè‰åŠ¨ç‰©
+herdsman     n ç‰§äºº
+heritage     n é—äº§ï¼›ä¼ ç»Ÿ
+hesitate     vi çŠ¹è±«ï¼›ä¸æƒ…æ„¿ï¼›/hesitation   n çŠ¹è±«ï¼›/
+hide     n çš®é©ï¼Œå…½çš®ï¼›v ï¼ˆèº²ï¼‰è—
+hierarchy     n é¢†å¯¼å±‚ï¼›å±‚æ¬¡ï¼Œç­‰çº§
+highlight     vt å¼ºè°ƒï¼Œçªå‡º
+high-tech     n é«˜ç§‘æŠ€
+highway     n å…¬è·¯
+hike     v å¾’æ­¥æ—…è¡Œï¼›vt æé«˜ï¼ˆä»·æ ¼ç­‰ï¼‰ï¼›n çŒ›å¢
+hinge     n åˆé¡µï¼›é“°é“¾ï¼›v ä¾ã€‚ã€‚è€Œå®š
+hinterland     n å†…åœ°ï¼Œè…¹åœ°ï¼›å†…åœ°è´¸æ˜“åŒº
+hire     v&n ç§Ÿç”¨ï¼Œé›‡ä½£
+historian     n å†å²å­¦å®¶ï¼›å²å­¦å·¥ä½œè€…
+hitherto     ad åˆ°ç›®å‰ä¸ºæ­¢ï¼Œè¿„ä»Š
+hive     n èœ‚æˆ¿ï¼Œèœ‚ç®±
+hockey     n æ›²æ£çƒï¼›å†°çƒ
+hollow     a ç©ºçš„ï¼Œç©ºæ´çš„ï¼›vt æŒ–ç©º
+homogeneous     a åŒç§ç±»çš„
+honour     n å…‰è£ï¼›å°Šé‡ï¼›vt å‘ã€‚ã€‚ç¤ºæ•¬æ„
+horizon     n åœ°å¹³çº¿ï¼›èŒƒå›´ï¼›çœ¼ç•Œï¼›/horizontal   a æ°´å¹³çš„ï¼›/horizontally   ad æ°´å¹³åœ°ï¼›/
+horror     n å®³æ€•ï¼Œææ€–
+hose     n è½¯ç®¡ï¼›v ç”¨è½¯ç®¡æ·‹æµ‡
+hospitality     n å¥½å®¢ï¼›ç››æƒ…ï¼›æ‹›å¾…ç¤¼èŠ‚
+host     n ä¸»äººï¼Œä¸œé“ä¸»ï¼›è®¸å¤šï¼›v æ‹›å¾…
+hostel     n æ‹›å¾…æ‰€ï¼›å®¢æ ˆ
+hostile     a æ•Œæ–¹çš„ï¼Œä¸å‹å–„çš„
+hostility     n æ•Œæ„
+household     n å®¶åº­ï¼›a å®¶ç”¨çš„
+huddle     vt èšé›†åœ¨ä¸€èµ·ï¼›næ‚ä¹±çš„ä¸€å †ï¼Œæ‹¥æŒ¤
+hug     n&v ï¼ˆçƒ­çƒˆçš„ï¼‰æ‹¥æŠ±
+hum     vi æ¨ªæ›²å­ï¼›å‘å—¡å—¡å£°ï¼›n å—¡å—¡å£°ï¼Œåµæ‚å£°
+humanity     n äººç±»ï¼›äººæ€§
+humidity     n æ¹¿åº¦ï¼Œæ½®æ¹¿
+humour     n å¹½é»˜ï¼Œå¹½é»˜æ„Ÿ
+hurdle     v è¶Šè¿‡éšœç¢ï¼›n éšœç¢ï¼›è·³æ 
+hurricane     n é£“é£
+hybrid     n æ··åˆç‰©ï¼›a æ‚ç§çš„ï¼›æ··åˆçš„
+hypothesis     nå‡è®¾ï¼Œå‡è¯´
+ID card     èº«ä»½è¯ï¼›æ ‡ç¤ºç¬¦
+ideal     a ç†æƒ³çš„ï¼›æƒ³è±¡çš„ï¼›n ç†æƒ³ï¼›ç†æƒ³çš„ä¸œè¥¿ï¼›/idea
+identify     vt è®¤å‡ºï¼Œè¯†åˆ«ï¼›/identifiable   a å¯è¾¨è®¤çš„ï¼Œå¯ç¡®è®¤çš„ï¼›/
+identity     n èº«ä»½ï¼›ç‰¹å¾ï¼›ç»Ÿä¸€æ€§
+ignorance     n æ— çŸ¥ï¼Œæ„šæ˜§
 
-list17
-gelatin     n ½ºÖÊ£»°×Ã÷½º
-gender     n ĞÔ£¬ĞÔ±ğ
-generalize     v ¸ÅÀ¨£»ÍÆ¹ã
-generate     vt ·¢Éú£¬ÒıÆğ£»/generation   n ²úÉú£»Ò»´ú£»/
-generic     a ÖÖÀàµÄ£¬ÀàÊôµÄ
-generous     a ¿¶¿®µÄ£»´óÁ¿µÄ
-genetic     a ÒÅ´«µÄ£»n ÒÅ´«Ñ§£»/genetical   a ÒÅ´«µÄ£»ÆğÔ´µÄ£»/
-genuine     a ÕæÕıµÄ£»ÕæÊµµÄ
-geology     n µØÖÊÑ§£»µØÖÊ¸Å¿ö
-geometry     n ¼¸ºÎ£»¼¸ºÎÑ§
-germ     n Î¢ÉúÎï£»Ï¸¾ú£»Ó×Ñ¿
-gesture     n ×ËÊÆ£»ÊÖÊÆ£»×ËÌ¬£»v ×öÊÖÊÆ
-get off track     ÀëÌâ£¬Æ«ÀëÄ¿±ê
-gigantic     a ¾Ş´óµÄ£¬ÅÓ´óµÄ
-given     a ¹æ¶¨µÄ£¬ÌØĞíµÄ£¬¼ÙÉèµÄ
-glacial     a ±ù´¨µÄ£»º®ÀäµÄ
-glamor     n ÷ÈÁ¦£»ÓÕ»óÁ¦
-gland     n ÏÙ
-gleam     vi ÉÁË¸£»Á÷Â¶£»n ÉÁ¹â
-glide     n »¬ĞĞ£¬»¬Ïè
-glimpse     n&v Ò»Æ³£¬Ò»¿´
-glitter     n&vt ÉÁ¹â
-global     a È«ÇòµÄ£»×ÜµÄ
-glorious     a ¹âÈÙµÄ£»×³ÀöµÄ£»ÁîÈËÓä¿ìµÄ
-glossary     n ´Ê»ã±í£¬ÊõÓï±í
-glove     n ÊÖ±í
-glue     n ½ºË®
-goal     n Ä¿±ê
-google     v ÕöÑÛ¿´£»n »¤Ä¿¾µ
-goodwil     n ÓÑºÃ£¬ÉÆÒâ
-gorgeous     a »ªÀöµÄ£»¼«ºÃµÄ
-govern     v Í³ÖÎ£¬¹ÜÀí£»/goverment   n Õş¸®£»/
-grab     v ×¥£¬¶á
-graduate     n £¨ÓÉÖ¸´óÑ§£©±ÏÒµÉú£»ÑĞ¾¿Éú£»v £¨Ê¹£©±ÏÒµ
-grand     a ºêÎ°µÄ£¬È«²¿µÄ
-granite     n »¨¸ÚÑÒ£¬´óÀíÊ¯
-grant     n ÖúÑ§½ğ£¬½òÌù£»ÊÚÈ¨£»vt ÊÚÓè
-graphic     a Í¼½âµÄ£¬Éú¶¯µÄ
-graphology     n ±Ê¼£Ñ§£¬±ÊÏàÑ§
-grasp     vt ×¥½ô£»ÕÆÎÕ£»n ×¥
-grassy     a ²İÂÌµÄ£»ËÆ²İµÄ
-grateful     a ¸Ğ¼¤µÄ£¬¸ĞĞ»µÄ
-gravity     n ÖØÁ¦
-greasy     a ¶àÖ¬µÄ£»ÓÍ»¬µÄ
-greatly     ad ·Ç³££»¼«
-grid     n ¸ñ×Ó£¬Õ¤¸ñ
-grieve     v £¨Ê¹£©ÉËĞÄ
-grim     a ÑÏÀ÷µÄ£»¿ÉÅÂµÄ£»ÌÖÑáµÄ
-grin     n&v ßÖ×ìĞ¦
-grind     v Ä¥£¨Ëé£©£¬Äë£»ÕÛÄ¥
-grip     vt ÎÕ½ô£»ÎüÒı¡£¡£×¢ÒâÁ¦£»n ÎÕ½ô
-groan     vi ÉëÒ÷£»ÊÜÕÛÄ¥£»n ÉëÒ÷
-grope     v £¨°µÖĞ£©ÃşË÷
-gross     a ×ÜµÄ
-grove     n Ê÷´Ô£¬Ğ¡Ê÷ÁÖ
-guarantee     n ±£Ö¤£¬µ£±£Îï£»vt ±£Ö¤£»ÔÊÅµ
-guidance     n Ö¸Òı£¬Ö¸µ¼
-guideline     n Ö¸µ¼·½Õë
-guilty     a ÄÚ¾ÎµÄ£»ÓĞ×ïµÄ
-guinea     n »ùÄá£¨Ó¢¹ú¾É½ğ±Ò£¬ÖµÒ»°õÒ»ÏÈÁî£©
-gullibly     ad ÇáĞÅµØ£¬Ò×ÊÜÆÛÆ­µØ
-habitat     n ÆÜÏ¢µØ£¬×¡´¦
-hall     n ÃÅÌü£»ÀñÌÃ
-hallow     vt °Ñ¡£¡£ÊÓÎªÉñÊ¥£»×ğÖØ
-halt     n Í£×¡£»v ÔİÍ££»³ì³ù
-halve     v ¶şµÈ·Ö£¬¼õ°ë
-hamster     n ²ÖÊó
-handicapped     a ²Ğ·ÏµÄ£»n ²Ğ¼²µÄ
-handle     v ´¦Àí£»²Ù×÷£»n ÊÖ±ú£»/mishandle   v ´íÎóµØ´¦Àí£»/
-handout     n ´«µ¥£¬·Ö·¢µÄÓ¡Ë¢Æ·£»¾È¼ÃÆ·
+gelatin     n èƒ¶è´¨ï¼›ç™½æ˜èƒ¶
+gender     n æ€§ï¼Œæ€§åˆ«
+generalize     v æ¦‚æ‹¬ï¼›æ¨å¹¿
+generate     vt å‘ç”Ÿï¼Œå¼•èµ·ï¼›/generation   n äº§ç”Ÿï¼›ä¸€ä»£ï¼›/
+generic     a ç§ç±»çš„ï¼Œç±»å±çš„
+generous     a æ…·æ…¨çš„ï¼›å¤§é‡çš„
+genetic     a é—ä¼ çš„ï¼›n é—ä¼ å­¦ï¼›/genetical   a é—ä¼ çš„ï¼›èµ·æºçš„ï¼›/
+genuine     a çœŸæ­£çš„ï¼›çœŸå®çš„
+geology     n åœ°è´¨å­¦ï¼›åœ°è´¨æ¦‚å†µ
+geometry     n å‡ ä½•ï¼›å‡ ä½•å­¦
+germ     n å¾®ç”Ÿç‰©ï¼›ç»†èŒï¼›å¹¼èŠ½
+gesture     n å§¿åŠ¿ï¼›æ‰‹åŠ¿ï¼›å§¿æ€ï¼›v åšæ‰‹åŠ¿
+get off track     ç¦»é¢˜ï¼Œåç¦»ç›®æ ‡
+gigantic     a å·¨å¤§çš„ï¼Œåºå¤§çš„
+given     a è§„å®šçš„ï¼Œç‰¹è®¸çš„ï¼Œå‡è®¾çš„
+glacial     a å†°å·çš„ï¼›å¯’å†·çš„
+glamor     n é­…åŠ›ï¼›è¯±æƒ‘åŠ›
+gland     n è…º
+gleam     vi é—ªçƒï¼›æµéœ²ï¼›n é—ªå…‰
+glide     n æ»‘è¡Œï¼Œæ»‘ç¿”
+glimpse     n&v ä¸€ç¥ï¼Œä¸€çœ‹
+glitter     n&vt é—ªå…‰
+global     a å…¨çƒçš„ï¼›æ€»çš„
+glorious     a å…‰è£çš„ï¼›å£®ä¸½çš„ï¼›ä»¤äººæ„‰å¿«çš„
+glossary     n è¯æ±‡è¡¨ï¼Œæœ¯è¯­è¡¨
+glove     n æ‰‹è¡¨
+glue     n èƒ¶æ°´
+goal     n ç›®æ ‡
+google     v ççœ¼çœ‹ï¼›n æŠ¤ç›®é•œ
+goodwil     n å‹å¥½ï¼Œå–„æ„
+gorgeous     a åä¸½çš„ï¼›æå¥½çš„
+govern     v ç»Ÿæ²»ï¼Œç®¡ç†ï¼›/goverment   n æ”¿åºœï¼›/
+grab     v æŠ“ï¼Œå¤º
+graduate     n ï¼ˆç”±æŒ‡å¤§å­¦ï¼‰æ¯•ä¸šç”Ÿï¼›ç ”ç©¶ç”Ÿï¼›v ï¼ˆä½¿ï¼‰æ¯•ä¸š
+grand     a å®ä¼Ÿçš„ï¼Œå…¨éƒ¨çš„
+granite     n èŠ±å²—å²©ï¼Œå¤§ç†çŸ³
+grant     n åŠ©å­¦é‡‘ï¼Œæ´¥è´´ï¼›æˆæƒï¼›vt æˆäºˆ
+graphic     a å›¾è§£çš„ï¼Œç”ŸåŠ¨çš„
+graphology     n ç¬”è¿¹å­¦ï¼Œç¬”ç›¸å­¦
+grasp     vt æŠ“ç´§ï¼›æŒæ¡ï¼›n æŠ“
+grassy     a è‰ç»¿çš„ï¼›ä¼¼è‰çš„
+grateful     a æ„Ÿæ¿€çš„ï¼Œæ„Ÿè°¢çš„
+gravity     n é‡åŠ›
+greasy     a å¤šè„‚çš„ï¼›æ²¹æ»‘çš„
+greatly     ad éå¸¸ï¼›æ
+grid     n æ ¼å­ï¼Œæ …æ ¼
+grieve     v ï¼ˆä½¿ï¼‰ä¼¤å¿ƒ
+grim     a ä¸¥å‰çš„ï¼›å¯æ€•çš„ï¼›è®¨åŒçš„
+grin     n&v å’§å˜´ç¬‘
+grind     v ç£¨ï¼ˆç¢ï¼‰ï¼Œç¢¾ï¼›æŠ˜ç£¨
+grip     vt æ¡ç´§ï¼›å¸å¼•ã€‚ã€‚æ³¨æ„åŠ›ï¼›n æ¡ç´§
+groan     vi å‘»åŸï¼›å—æŠ˜ç£¨ï¼›n å‘»åŸ
+grope     v ï¼ˆæš—ä¸­ï¼‰æ‘¸ç´¢
+gross     a æ€»çš„
+grove     n æ ‘ä¸›ï¼Œå°æ ‘æ—
+guarantee     n ä¿è¯ï¼Œæ‹…ä¿ç‰©ï¼›vt ä¿è¯ï¼›å…è¯º
+guidance     n æŒ‡å¼•ï¼ŒæŒ‡å¯¼
+guideline     n æŒ‡å¯¼æ–¹é’ˆ
+guilty     a å†…ç–šçš„ï¼›æœ‰ç½ªçš„
+guinea     n åŸºå°¼ï¼ˆè‹±å›½æ—§é‡‘å¸ï¼Œå€¼ä¸€ç£…ä¸€å…ˆä»¤ï¼‰
+gullibly     ad è½»ä¿¡åœ°ï¼Œæ˜“å—æ¬ºéª—åœ°
+habitat     n æ –æ¯åœ°ï¼Œä½å¤„
+hall     n é—¨å…ï¼›ç¤¼å ‚
+hallow     vt æŠŠã€‚ã€‚è§†ä¸ºç¥åœ£ï¼›å°Šé‡
+halt     n åœä½ï¼›v æš‚åœï¼›è¸Œèº‡
+halve     v äºŒç­‰åˆ†ï¼Œå‡åŠ
+hamster     n ä»“é¼ 
+handicapped     a æ®‹åºŸçš„ï¼›n æ®‹ç–¾çš„
+handle     v å¤„ç†ï¼›æ“ä½œï¼›n æ‰‹æŸ„ï¼›/mishandle   v é”™è¯¯åœ°å¤„ç†ï¼›/
+handout     n ä¼ å•ï¼Œåˆ†å‘çš„å°åˆ·å“ï¼›æ•‘æµå“
 
-list16
-flint     n »ğÊ¯£¬´ò»ğ
-flip     v ÇáÅ×£»Çáµ¯
-flora     n Ö²ÎïÇøÏµ£»»¨Éñ£»/floral   a »¨µÄ£»Ö²ÎïµÄ£»/
-flourish     v ·±ÈÙ£¬»îÔ¾¶øÓĞÓ°Ïì
-fluctuate     vi ²¨¶¯
-flush     v ³åÏ´£¬£¨Ê¹£©·¢ºì£¬£¨Ê¹£©Á³ºì
-flutter     vi Õğ³á£»Æ®¶¯£»ÂÒÌø
-foam     n ÅİÄ­£»ÅİÄ­²ÄÁÏ£»vi ÆğÅİÄ­
-focus     n ½¹µã£»ÖĞĞÄ£»vt£¨Ê¹£©¾Û½¹
-foetus     n Ì¥¶ù£»ÅßÌ¥
-foil     n ²­£»½ğÊô±¡Æ¬
-fold     v ÕÛµş£»n Öå£»ÕÛ
-for instance     ÀıÈç
-for the sake of    ÎªÁË
-force     v Ç¿ÆÈ£»n ¾ü¶Ó£»Á¦Æø£»Ğ§Á¦
-forecast     v&n Ô¤±¨£»Ô¤²â£»Ô¤Ïë
-foreland     n Ç°ÑÔµØ£»áµ½Ç
-foremost     a ×îºÃµÄ£»×îÖØÒªµÄ
-foresee     vt Ô¤¼û£¬Ô¤Öª
-forfeit     v ±»·££»Ã»ÊÕ£»n ·£¿î
-form     n ĞÎÊ½£»ÍâĞÎ£»±í¸ñ£»v ĞÎ³É£»/formality   n ¾Ğ½÷£»Àñ½Ú£»/formability   n ¿É³ÉĞÍĞÔ£»/
-formal     a ÕıÊ½µÄ£»ÀñÒÇÉÏµÄ£»/informal   a ·ÇÕıÊ½µÄ£»/
-format     n ¸ñÊ½£»v Ê¹¸ñÊ½»¯£»/formation   n ¹¹³É£»/formative   a ¸ñÊ½»¯µÄ£»/
-former     a ÔÚÇ°µÄ£»n Ç°Õß£»/formerly   ad ´ÓÇ°£¬ÒÔÇ°£»/
-formidable     a ¿ÉÅÂµÄ£»¼«ºÃ£¬¼«Ç¿µÄ
-formula     n ¹«Ê½£»Åä·½£»a ¸ù¾İ¹«Ê½µÄ
-formulate     vt ÏµÍ³µØ²ûÊö£»Ã÷È·µÄ±í´ï
-forthcoming     a ¼´½«µ½À´µÄ
-fortnight     n Á½ĞÇÆÚ£¬Ê®ËÄÌì
-forum     n ÂÛÌ³£»ÌÖÂÛ»á
-fossil     n »¯Ê¯
-foul     a ·¢³ôµÄ£»°¹ÔàµÄ£»n ·¸¹æ£»Äæ¾³
-foundation     n »ù´¡£»µØ»ù£»´´Á¢
-fountain     n ÅçÈª
-fraction     n Ğ¡²¿·Ö£¬Æ¬¶Î
-fracture     v £¨Ê¹£©¶ÏÁÑ£»n ÕÛ¶Ï
-fragile     a ´àÈõµÄ£»ĞéÈõµÄ
-fragment     n ËéÆ¬£»v ·ÖÁÑ£»£¨Ê¹£©³ÉËéÆ¬
-fragrance     n ·¼Ïã£»ÏãË®
-frame     n ¿ò¼Ü£»¸ø¡£¡£Ïâ¿ò
-frank     a Ì¹°×µÄ£¬Ö±ÂÊµÄ
-fraud     n Õ©Æ­£»Æ­×Ó
-freefone     n Ãâ·Ñµç»°
-freight     n »õÎï
-frequent     a ³£¼ûµÄ£¬³£ÓÃµÄ£»/frequently   ad ³£ÓÃµØ£»/
-friction     n Ä¦²Á£¨Á¦);Ã¬¶Ü
-frightened     a ÊÜ¾ªµÄ£»ÊÜ¿ÖÏÅµÄ
-frock     n ÉÏÒÂ£»Á¬ÒÂÈ¹
-front-line     a Ç°ÏßµÄ£»µÚÒ»ÏßµÄ
-frown     v ÖåÃ¼£»·´¶Ô
-fruitful     a ¶à²úµÄ£¬¸»ÓĞ³ÉĞ§µÄ
-frustrate     vt Ê¹¾ÚÉ¥£»´ì°Ü
-fuel     n È¼ÁÏ£»vt ¸ø¡£¡£¼ÓÈ¼ÁÏ
-fulfill     vt ÊµÏÖ£¬Íê³É£»Âú×ã
-fume     v ·¢»ğ£»Ã°ÑÌ£»n ÑÌ£¬Æø
-function     n ¹¦ÄÜ£»×÷ÓÃ
-fund     n ×Ê½ğ£»vt Îª¡£¡£Ìá¹©×Ê½ğ
-fundamental     n »ù±¾Ô­Àí£»a »ù´¡µÄ£¬»ù±¾µÄ
-furious     a ¿ñÅ­µÄ£»¼¤ÁÒµÄ
-furnace     n Â¯×Ó
-furnish     vt ¹©Ó¦£»²¼ÖÃ£»/unfurnish   v ²ğ³ı¡£¡£µÄ¼Ò¾ß£»/
-furniture     n ¼Ò¾ß
-fuse     n ±£ÏÕË¿£»v ÈÛ»¯£»ÈÛºÏ
-fusion     n ÈÛ»¯£»ºË¾Û±ä£»ÈÛºÏ
-galaxy     n ÒøºÓ£»ĞÇÏµ
-gallery     n ÃÀÊõ¹İ
-gamble     v ¶Ä²©£»Í¶»ú£»Ã°ÏÕ
-gang     n Ò»°ï£»vi ½á³ÉÒ»»ï
-gather     v ¾Û¼¯£»ÊÕ¼¯£»ÍÆ²â
-gauge     n ²âÁ¿ÒÇ±í£»¹æ¸ñ£»vt ²âÁ¿
-gear     n ³İÂÖ£»vt Ê¹ÊÊÓ¦£¬µ÷Õû
+flint     n ç«çŸ³ï¼Œæ‰“ç«
+flip     v è½»æŠ›ï¼›è½»å¼¹
+flora     n æ¤ç‰©åŒºç³»ï¼›èŠ±ç¥ï¼›/floral   a èŠ±çš„ï¼›æ¤ç‰©çš„ï¼›/
+flourish     v ç¹è£ï¼Œæ´»è·ƒè€Œæœ‰å½±å“
+fluctuate     vi æ³¢åŠ¨
+flush     v å†²æ´—ï¼Œï¼ˆä½¿ï¼‰å‘çº¢ï¼Œï¼ˆä½¿ï¼‰è„¸çº¢
+flutter     vi éœ‡ç¿…ï¼›é£˜åŠ¨ï¼›ä¹±è·³
+foam     n æ³¡æ²«ï¼›æ³¡æ²«ææ–™ï¼›vi èµ·æ³¡æ²«
+focus     n ç„¦ç‚¹ï¼›ä¸­å¿ƒï¼›vtï¼ˆä½¿ï¼‰èšç„¦
+foetus     n èƒå„¿ï¼›èƒšèƒ
+foil     n ç®”ï¼›é‡‘å±è–„ç‰‡
+fold     v æŠ˜å ï¼›n çš±ï¼›æŠ˜
+for instance     ä¾‹å¦‚
+for the sake of    ä¸ºäº†
+force     v å¼ºè¿«ï¼›n å†›é˜Ÿï¼›åŠ›æ°”ï¼›æ•ˆåŠ›
+forecast     v&n é¢„æŠ¥ï¼›é¢„æµ‹ï¼›é¢„æƒ³
+foreland     n å‰è¨€åœ°ï¼›å²¬è§’
+foremost     a æœ€å¥½çš„ï¼›æœ€é‡è¦çš„
+foresee     vt é¢„è§ï¼Œé¢„çŸ¥
+forfeit     v è¢«ç½šï¼›æ²¡æ”¶ï¼›n ç½šæ¬¾
+form     n å½¢å¼ï¼›å¤–å½¢ï¼›è¡¨æ ¼ï¼›v å½¢æˆï¼›/formality   n æ‹˜è°¨ï¼›ç¤¼èŠ‚ï¼›/formability   n å¯æˆå‹æ€§ï¼›/
+formal     a æ­£å¼çš„ï¼›ç¤¼ä»ªä¸Šçš„ï¼›/informal   a éæ­£å¼çš„ï¼›/
+format     n æ ¼å¼ï¼›v ä½¿æ ¼å¼åŒ–ï¼›/formation   n æ„æˆï¼›/formative   a æ ¼å¼åŒ–çš„ï¼›/
+former     a åœ¨å‰çš„ï¼›n å‰è€…ï¼›/formerly   ad ä»å‰ï¼Œä»¥å‰ï¼›/
+formidable     a å¯æ€•çš„ï¼›æå¥½ï¼Œæå¼ºçš„
+formula     n å…¬å¼ï¼›é…æ–¹ï¼›a æ ¹æ®å…¬å¼çš„
+formulate     vt ç³»ç»Ÿåœ°é˜è¿°ï¼›æ˜ç¡®çš„è¡¨è¾¾
+forthcoming     a å³å°†åˆ°æ¥çš„
+fortnight     n ä¸¤æ˜ŸæœŸï¼Œåå››å¤©
+forum     n è®ºå›ï¼›è®¨è®ºä¼š
+fossil     n åŒ–çŸ³
+foul     a å‘è‡­çš„ï¼›è‚®è„çš„ï¼›n çŠ¯è§„ï¼›é€†å¢ƒ
+foundation     n åŸºç¡€ï¼›åœ°åŸºï¼›åˆ›ç«‹
+fountain     n å–·æ³‰
+fraction     n å°éƒ¨åˆ†ï¼Œç‰‡æ®µ
+fracture     v ï¼ˆä½¿ï¼‰æ–­è£‚ï¼›n æŠ˜æ–­
+fragile     a è„†å¼±çš„ï¼›è™šå¼±çš„
+fragment     n ç¢ç‰‡ï¼›v åˆ†è£‚ï¼›ï¼ˆä½¿ï¼‰æˆç¢ç‰‡
+fragrance     n èŠ³é¦™ï¼›é¦™æ°´
+frame     n æ¡†æ¶ï¼›ç»™ã€‚ã€‚é•¶æ¡†
+frank     a å¦ç™½çš„ï¼Œç›´ç‡çš„
+fraud     n è¯ˆéª—ï¼›éª—å­
+freefone     n å…è´¹ç”µè¯
+freight     n è´§ç‰©
+frequent     a å¸¸è§çš„ï¼Œå¸¸ç”¨çš„ï¼›/frequently   ad å¸¸ç”¨åœ°ï¼›/
+friction     n æ‘©æ“¦ï¼ˆåŠ›);çŸ›ç›¾
+frightened     a å—æƒŠçš„ï¼›å—æå“çš„
+frock     n ä¸Šè¡£ï¼›è¿è¡£è£™
+front-line     a å‰çº¿çš„ï¼›ç¬¬ä¸€çº¿çš„
+frown     v çš±çœ‰ï¼›åå¯¹
+fruitful     a å¤šäº§çš„ï¼Œå¯Œæœ‰æˆæ•ˆçš„
+frustrate     vt ä½¿æ²®ä¸§ï¼›æŒ«è´¥
+fuel     n ç‡ƒæ–™ï¼›vt ç»™ã€‚ã€‚åŠ ç‡ƒæ–™
+fulfill     vt å®ç°ï¼Œå®Œæˆï¼›æ»¡è¶³
+fume     v å‘ç«ï¼›å†’çƒŸï¼›n çƒŸï¼Œæ°”
+function     n åŠŸèƒ½ï¼›ä½œç”¨
+fund     n èµ„é‡‘ï¼›vt ä¸ºã€‚ã€‚æä¾›èµ„é‡‘
+fundamental     n åŸºæœ¬åŸç†ï¼›a åŸºç¡€çš„ï¼ŒåŸºæœ¬çš„
+furious     a ç‹‚æ€’çš„ï¼›æ¿€çƒˆçš„
+furnace     n ç‚‰å­
+furnish     vt ä¾›åº”ï¼›å¸ƒç½®ï¼›/unfurnish   v æ‹†é™¤ã€‚ã€‚çš„å®¶å…·ï¼›/
+furniture     n å®¶å…·
+fuse     n ä¿é™©ä¸ï¼›v ç†”åŒ–ï¼›ç†”åˆ
+fusion     n ç†”åŒ–ï¼›æ ¸èšå˜ï¼›ç†”åˆ
+galaxy     n é“¶æ²³ï¼›æ˜Ÿç³»
+gallery     n ç¾æœ¯é¦†
+gamble     v èµŒåšï¼›æŠ•æœºï¼›å†’é™©
+gang     n ä¸€å¸®ï¼›vi ç»“æˆä¸€ä¼™
+gather     v èšé›†ï¼›æ”¶é›†ï¼›æ¨æµ‹
+gauge     n æµ‹é‡ä»ªè¡¨ï¼›è§„æ ¼ï¼›vt æµ‹é‡
+gear     n é½¿è½®ï¼›vt ä½¿é€‚åº”ï¼Œè°ƒæ•´
 
-list15
-extra     a ¶îÍâµÄ£»ÌØ±ğµÄ£»ad ÌØ±ğµØ
-extract     vt È¡³ö£»ÌáÈ¡£»n ÕªÂ¼£»Ìá³öÎï
-extracurricular     a ¿ÎÍâµÄ
-extraordinary     a ²»Í¬Ñ°³£µÄ£»·Ç³£µÄ
-extreme     a ¼«¶ÈµÄ£»×îºóµÄ£»n ¼«¶Ë£¬¹ı·Ö
-extremely     ad ¼«¶ËµØ£»·Ç³£µØ
-eyesight     n ÊÓÁ¦
-facade     n ÕıÃæ£»£¨ĞéÎ±µÄ£©Íâ±í
-facilitate     vt Ê¹±ãÀû
-facility     n Éè±¸£¬ÉèÊ©£»±ãÀû
-factsheet     n £¨µçÊÓ½ÚÄ¿ÖĞ²åÈëµÄ£©×ÖÄ»ĞÂÎÅ
-faculty     n Ïµ£»È«Ìå½ÌÔ±
-fade     vi ÍÊÉ«£»µòĞ»£»Öğ½¥ÏûÊ§
-fair     a ¹«Æ½µÄ£»ad ¹«Æ½µØ£»/unfair   a ²»¹«Æ½µÄ£»/
-fairly    ad Ïàµ±£»ÉĞ¿É£»¹«Æ½µØ
-faith     n ĞÅÈÎ£¬ĞÅÑö
-fake     n ¼Ù»õ£»Æ­×Ó£»v Î±×°£»a ¼ÙµÄ
-fallow     n Ğİ¸ûµØ£»a £¨ÍÁµØ£©Ğİ¸ûµÄ
-fancy     n ÉèÏë£»°®ºÃ£»vt ÏëÏó£»a ±ğÖÂµÄ
-fantasy     n ÏëÏó
-fare     n ·Ñ£¬Æ±¼Û£»v ½øÕ¹
-farewell     n ¸æ±ğ£»»¶ËÍ»á
-fascinate     vt Ç¿ÁÒµØÎüÒı£¬Ê¹×ÅÃÔ£»vi ÈëÃÔ
-fascinating     a ÃÔÈËµÄ
-fashion     n ·½Ê½£»Á÷ĞĞ¿îÊ½£»Ê±×°£»/fashionable   a Ê±÷ÖµÄ£»/
-fasten     vt ÔúÀÎ£¬¿Û×¡
-fatal     a ÖÂÃüµÄ£»ÖØ´óµÄ
-fate     n ÃüÔË£¬ÃüÊı
-fatigue     n Æ£ÀÍ£¬ÀÍÀÛ£»v £¨Ê¹£©ÀÍÀÛ
-fault     n È±µã£¬è¦´Ã£¬Ã«²¡
-fauna     n £¨Ä³µØÇø»òÄ³Ê±ÆÚµÄ£©ËùÓĞ¶¯Îï
-favour     n ºÃ¸Ğ£»ÔŞÍ¬£»¶÷»İ£»vt ÔŞÍ¬£»Ï²°®£»ÓĞÀûÓÚ
-feasible     a ¿ÉĞĞµÄ£¬¿ÉÄÜµÄ
-feather     n ÓğÃ«
-feature     n ÌØÕ÷£»ÏàÃ²£»ÌØĞ´£»v ¸ø£¬£¬ÒÔÏÔÖøµØÎ»
-federal     a Áª°îµÄ£»ÁªÃËµÄ
-federation     n Áª°î£»Í¬ÃË
-feeble     a ĞéÈõµÄ£»ÎŞĞ§µÄ
-feed     v Î¹£¨Ñø£©£»³Ô£»n ËÇÁÏ
-feedback     n ·´À¡£»·´À¡ĞÅÏ¢
-female     n Å®×Ó£»aÅ®µÄ£»´ÆĞÔµÄ
-feminism     n ÄĞÅ®Æ½µÈÖ÷Òå£»ÕùÈ¡Å®È¨ÔË¶¯
+extra     a é¢å¤–çš„ï¼›ç‰¹åˆ«çš„ï¼›ad ç‰¹åˆ«åœ°
+extract     vt å–å‡ºï¼›æå–ï¼›n æ‘˜å½•ï¼›æå‡ºç‰©
+extracurricular     a è¯¾å¤–çš„
+extraordinary     a ä¸åŒå¯»å¸¸çš„ï¼›éå¸¸çš„
+extreme     a æåº¦çš„ï¼›æœ€åçš„ï¼›n æç«¯ï¼Œè¿‡åˆ†
+extremely     ad æç«¯åœ°ï¼›éå¸¸åœ°
+eyesight     n è§†åŠ›
+facade     n æ­£é¢ï¼›ï¼ˆè™šä¼ªçš„ï¼‰å¤–è¡¨
+facilitate     vt ä½¿ä¾¿åˆ©
+facility     n è®¾å¤‡ï¼Œè®¾æ–½ï¼›ä¾¿åˆ©
+factsheet     n ï¼ˆç”µè§†èŠ‚ç›®ä¸­æ’å…¥çš„ï¼‰å­—å¹•æ–°é—»
+faculty     n ç³»ï¼›å…¨ä½“æ•™å‘˜
+fade     vi è¤ªè‰²ï¼›å‡‹è°¢ï¼›é€æ¸æ¶ˆå¤±
+fair     a å…¬å¹³çš„ï¼›ad å…¬å¹³åœ°ï¼›/unfair   a ä¸å…¬å¹³çš„ï¼›/
+fairly    ad ç›¸å½“ï¼›å°šå¯ï¼›å…¬å¹³åœ°
+faith     n ä¿¡ä»»ï¼Œä¿¡ä»°
+fake     n å‡è´§ï¼›éª—å­ï¼›v ä¼ªè£…ï¼›a å‡çš„
+fallow     n ä¼‘è€•åœ°ï¼›a ï¼ˆåœŸåœ°ï¼‰ä¼‘è€•çš„
+fancy     n è®¾æƒ³ï¼›çˆ±å¥½ï¼›vt æƒ³è±¡ï¼›a åˆ«è‡´çš„
+fantasy     n æƒ³è±¡
+fare     n è´¹ï¼Œç¥¨ä»·ï¼›v è¿›å±•
+farewell     n å‘Šåˆ«ï¼›æ¬¢é€ä¼š
+fascinate     vt å¼ºçƒˆåœ°å¸å¼•ï¼Œä½¿ç€è¿·ï¼›vi å…¥è¿·
+fascinating     a è¿·äººçš„
+fashion     n æ–¹å¼ï¼›æµè¡Œæ¬¾å¼ï¼›æ—¶è£…ï¼›/fashionable   a æ—¶é«¦çš„ï¼›/
+fasten     vt æ‰ç‰¢ï¼Œæ‰£ä½
+fatal     a è‡´å‘½çš„ï¼›é‡å¤§çš„
+fate     n å‘½è¿ï¼Œå‘½æ•°
+fatigue     n ç–²åŠ³ï¼ŒåŠ³ç´¯ï¼›v ï¼ˆä½¿ï¼‰åŠ³ç´¯
+fault     n ç¼ºç‚¹ï¼Œç‘•ç–µï¼Œæ¯›ç—…
+fauna     n ï¼ˆæŸåœ°åŒºæˆ–æŸæ—¶æœŸçš„ï¼‰æ‰€æœ‰åŠ¨ç‰©
+favour     n å¥½æ„Ÿï¼›èµåŒï¼›æ©æƒ ï¼›vt èµåŒï¼›å–œçˆ±ï¼›æœ‰åˆ©äº
+feasible     a å¯è¡Œçš„ï¼Œå¯èƒ½çš„
+feather     n ç¾½æ¯›
+feature     n ç‰¹å¾ï¼›ç›¸è²Œï¼›ç‰¹å†™ï¼›v ç»™ï¼Œï¼Œä»¥æ˜¾è‘—åœ°ä½
+federal     a è”é‚¦çš„ï¼›è”ç›Ÿçš„
+federation     n è”é‚¦ï¼›åŒç›Ÿ
+feeble     a è™šå¼±çš„ï¼›æ— æ•ˆçš„
+feed     v å–‚ï¼ˆå…»ï¼‰ï¼›åƒï¼›n é¥²æ–™
+feedback     n åé¦ˆï¼›åé¦ˆä¿¡æ¯
+female     n å¥³å­ï¼›aå¥³çš„ï¼›é›Œæ€§çš„
+feminism     n ç”·å¥³å¹³ç­‰ä¸»ä¹‰ï¼›äº‰å–å¥³æƒè¿åŠ¨
 
-fertile     a ·ÊÎÖµÄ£¬¶à²úµÄ
-fibre     n ÏËÎ¬
-fickle     a ÈİÒ×±äµÃ£»ÎŞ³£µÄ
-fiction     n Ğ¡Ëµ
-fieldwork     n ÊµµØµ÷²é£»ÁÙÊ±Öş³ÉµÄ·ÀÓù¹¤ÊÂ
-fierce     a Ğ×ÃÍµÄ£»Ç¿ÁÒµÄ
-figure     n Êı×Ö£»Í¼ĞÎ£¬Í¼Ïñ£»v ÈÏÎª
-filter     n ¹ıÂËÆ÷£»v ¹ıÂË£»£¨ÏûÏ¢µÈ£©×ßÂ©
-finale     n ×îºó£»£¨Òô£©ÀÖÇúµÄ×îºó²¿·Ö
-finance     n ²ÆÕş£¬½ğÈÚ£»²ÆÎñÇé¿ö£»v Îª¡£¡£Ìá¹©×Ê½ğ£» /financial   a ²ÆÕşµÄ£¬½ğÈÚµÄ£»/financially   ad ²ÆÕşµØ£¬½ğÈÚÉÏ£»/
-fingerprint     n Ö¸ÎÆ£¬ÊÖÓ¡
-finite     a ÓĞÏŞµÄ£¬ÏŞ¶¨µÄ
-firm     n ¹«Ë¾£»a ¼áÊµµÄ£»ÎÈ¹ÌµÄ£»¼á¶¨µØ
-fitness     n ½¡¿µ£»¶ÍÁ¶£»ÊÊºÏÄ³ÊÂÎï
-fitting     n ÊÔ´©£»×°ÖÃ£»a ÊÊºÏµÄ
-flame     n »ğÑæ£»Ç¿ÁÒµÄ¸ĞÇé£»v ·¢»ğÑæ£¬È¼ÉÕ
-flap     vi £¨³á°ò£©ÅÄ¶¯£»n ±¡Æ¬£»¿Ú¸Ç
-flash     v ÉÁ¹â£»n ÉÁË¸£¬ÉÁ¹âµÆ£» /flashlight   n ÉÁ¹âĞÅºÅµÆ£»ÊÖµçÍ²£»/
-flask     n ³¤¾±Æ¿£»ÉÕÆ¿
-flat     a Æ½µÄ£»£¨¼Û¸ñ£©¹Ì¶¨µÄ£»n µ¥Ôª×¡Õ¬
-flavour     n  ·çÎ¶¡£×ÌÎ¶£»v ¸ø¡£¡£µ÷Î¶
-flaw     n È±µã£¬è¦´Ã
-flee     v ÌÓ×ß£»ÌÓ±Ü
-fleet     a ¿ìËÙµÄ£»v ÏûÄ¥£»¼²³Û£»n ½¢¶Ó
-flexibility     n ÈÍĞÔ£»ÊÊÓ¦ĞÔ
-flexible     a Ò×ÍäÇúµÄ£»ÈáÈÍµÄ£»Áé»îµÄ
-flexi-time     n µ¯ĞÔÉÏ°àÖÆ
-flicker     v&n ÉÁË¸£»Ò»ÉÁ¶ø¹ı
-flight     n º½°à
+fertile     a è‚¥æ²ƒçš„ï¼Œå¤šäº§çš„
+fibre     n çº¤ç»´
+fickle     a å®¹æ˜“å˜å¾—ï¼›æ— å¸¸çš„
+fiction     n å°è¯´
+fieldwork     n å®åœ°è°ƒæŸ¥ï¼›ä¸´æ—¶ç­‘æˆçš„é˜²å¾¡å·¥äº‹
+fierce     a å‡¶çŒ›çš„ï¼›å¼ºçƒˆçš„
+figure     n æ•°å­—ï¼›å›¾å½¢ï¼Œå›¾åƒï¼›v è®¤ä¸º
+filter     n è¿‡æ»¤å™¨ï¼›v è¿‡æ»¤ï¼›ï¼ˆæ¶ˆæ¯ç­‰ï¼‰èµ°æ¼
+finale     n æœ€åï¼›ï¼ˆéŸ³ï¼‰ä¹æ›²çš„æœ€åéƒ¨åˆ†
+finance     n è´¢æ”¿ï¼Œé‡‘èï¼›è´¢åŠ¡æƒ…å†µï¼›v ä¸ºã€‚ã€‚æä¾›èµ„é‡‘ï¼› /financial   a è´¢æ”¿çš„ï¼Œé‡‘èçš„ï¼›/financially   ad è´¢æ”¿åœ°ï¼Œé‡‘èä¸Šï¼›/
+fingerprint     n æŒ‡çº¹ï¼Œæ‰‹å°
+finite     a æœ‰é™çš„ï¼Œé™å®šçš„
+firm     n å…¬å¸ï¼›a åšå®çš„ï¼›ç¨³å›ºçš„ï¼›åšå®šåœ°
+fitness     n å¥åº·ï¼›é”»ç‚¼ï¼›é€‚åˆæŸäº‹ç‰©
+fitting     n è¯•ç©¿ï¼›è£…ç½®ï¼›a é€‚åˆçš„
+flame     n ç«ç„°ï¼›å¼ºçƒˆçš„æ„Ÿæƒ…ï¼›v å‘ç«ç„°ï¼Œç‡ƒçƒ§
+flap     vi ï¼ˆç¿…è†€ï¼‰æ‹åŠ¨ï¼›n è–„ç‰‡ï¼›å£ç›–
+flash     v é—ªå…‰ï¼›n é—ªçƒï¼Œé—ªå…‰ç¯ï¼› /flashlight   n é—ªå…‰ä¿¡å·ç¯ï¼›æ‰‹ç”µç­’ï¼›/
+flask     n é•¿é¢ˆç“¶ï¼›çƒ§ç“¶
+flat     a å¹³çš„ï¼›ï¼ˆä»·æ ¼ï¼‰å›ºå®šçš„ï¼›n å•å…ƒä½å®…
+flavour     n  é£å‘³ã€‚æ»‹å‘³ï¼›v ç»™ã€‚ã€‚è°ƒå‘³
+flaw     n ç¼ºç‚¹ï¼Œç‘•ç–µ
+flee     v é€ƒèµ°ï¼›é€ƒé¿
+fleet     a å¿«é€Ÿçš„ï¼›v æ¶ˆç£¨ï¼›ç–¾é©°ï¼›n èˆ°é˜Ÿ
+flexibility     n éŸ§æ€§ï¼›é€‚åº”æ€§
+flexible     a æ˜“å¼¯æ›²çš„ï¼›æŸ”éŸ§çš„ï¼›çµæ´»çš„
+flexi-time     n å¼¹æ€§ä¸Šç­åˆ¶
+flicker     v&n é—ªçƒï¼›ä¸€é—ªè€Œè¿‡
+flight     n èˆªç­
 
-list14
-equity     n ¹«Æ½£¬¹«Õı
-equivalent     a ÏàµÈµÄ¡£µÈÁ¿µÄ£»n ÏàµÈÎï£¬µÈ¼ÛÎï
-era    n ¼ÍÔª£»Ê±´ú
-erosion     n ¸¯Ê´£»Ä¥Ëğ
-eruption     n »ğÉ½±¬·¢
-escalator     n ×Ô¶¯·öÌİ
-essay     n ¶ÌÎÄ£¬ÆÀÂÛ
-essence     n ±¾ÖÊ£»¾«Ëè
-essential     a ±¾ÖÊµÄ£»·Ç³£ÖØÒªµÄ£»n ÒªËØ£»ÊµÖÊ;/essentially   ad ±¾ÖÊÉÏ£¬»ù±¾ÉÏ£»/
-establish     vt ½¨Á¢£»È·Á¢£»/establishment   n ½¨Á¢£¬È·Á¢£»/
-estate     n ÍÁµØ
-estimate     vt ¹À¼Û£¬ÆÀ¼Û
-eternal     a ÓÀºãµÄ
-evacuate     v ÊèÉ¢£»³·Àë£»/evacuation   n ³·Àë£»/
-evaluate     vt ÆÀ¼Û£¬¹À¼Û
-evaporate     v £¨Ê¹£©Õô·¢£»ÏûÊ§£»²»¸´´æÔÚ£»/evaporation   n Õô·¢£»ÏûÊ§£»/
-event     n ÊÂ¼ş£»±ÈÈüÏîÄ¿
-evidence     n ¸ù¾İ£¬Ö¤¾İ
-evoke     vt »½Æğ
-evolution     n ½ø»¯£¬Ñİ»¯£»·¢Õ¹
-evolve     v Ê¹Öğ½¥ĞÎ³É£»£¨Ê¹£©½ø»¯
-exacerbate     vt ¶ñ»¯£¬¼Ó¾ç
-exact     a ¾«È·µÄ£»×¼È·µÄ£»/exactly   ad ÕıÈ·µØ£»ÍêÈ«µØ£»/
-examine     vt ¼ì²é£»µ÷²é£¬ÑĞ¾¿£»²âÑé£»/examiner   n Ö÷¿¼Õß£»/examination   n ¿¼ÊÔ£»¼ì²é£»/
-excavate     vt ÍÚ¾ò£¬¾ò³ö
-exceed     vt ³¬³ö£¬Ê¤¹ı
-excellent     a ¼«ºÃµÄ£»½Ü³öµÄ
-except     v ½«¡£¡£³ıÍâ£»prep ³ı¡£¡£Íâ£»
-exceptional   a ÀıÍâµÄ£¬Òì³£µÄ
-excess     n ³¬Ô½£»¹ıÁ¿£»a ¹ıÁ¿µÄ£¬¶îÍâµÄ
-excessive     a ¹ı¶àµÄ£¬¼«¶ÈµÄ
-exchange     vt&n ½»»»£¬½»Á÷£¬½»Ò×
-excitement     n ¼¤¶¯£»ĞË·Ü£»ÁîÈËĞË·ÜµÄÊÂ
-exclude     vt °Ñ¡£¡£¡£ÅÅ³ıÔÚÍâ
-exclusive     n ¶À¼ÒĞÂÎÅ£»a Éİ»ªµÄ£»¶ÀÓĞµÄ£»ÅÅËûµÄ
-exclusively     ad ×¨ÓĞµØ£¬×¨ÃÅµØ
-excreta     n ÅÅĞ¹Îï
-excursion     n ¶ÌÍ¾ÂÃĞĞ
-execute     vt ½«¡£¡£´¦ËÀ£»ÊµÊ©£»/executive   a Ö´ĞĞµÄ£»ĞĞÕşµÄ£»n Ö´ĞĞÕß£»/
-execution     n Ö´ĞĞ
-exemplify     vt ×÷Îª¡£¡£µÄÀı×Ó
-exhale     v ºô³ö£¨Æø£©£»É¢·¢
-exhaust     vt £¨Ê¹£©·Ç³£Æ£¾ë£»ºÄ¾¡£»n ·ÏÆø
-exhaustion     n ¾«Æ£Á¦½ß£»ºÄ¾¡
-exhibit     n Õ¹ÀÀÆ·£»vt ³ÂÁĞ£»Õ¹ÀÀ£¬ÏÔÊ¾
-exhibition     n Õ¹ÀÀ
-exhilaration     n ¸ßĞË£»ĞËÈ¤
-exist     v ´æÔÚ£»Éú´æ
-existence     n ´æÔÚ£»Éú»î£»Éú»î·½Ê½£»/coexistence   n ¹²´æ£»¹²´¦;/
-exorbitant      a  ¹ı·ÖµÄ£¬²»ºÏÀíµÄ   
-exotic     a ÍâÀ´µÄ£»ÆæÒìµÄ
-expansion     n À©´ó
-expectation     n ÆÚ´ı£»Ç°³Ì
-expedition     n ÂÃĞĞ£¬Ô¶ĞĞ£»Ì½ÏÕ¶Ó£»Ñ¸ËÙ
-expel     vt °Ñ¡£¡£¿ª³ı£»ÇıÖğ
-expire     v ÆÚÂú£»ÖÕÖ¹£»/expiry   n ÆÚÂú£»ÖÕ½á£»/
-explode     v £¨Ê¹)±¬Õ¨£»¼¤Ôö£»/explosion   n ±¬Õ¨£»/
-exploit     vt °şÏ÷£»ÀûÓÃ£»¿ªÍØ£»/exploitation   n ÀûÓÃ£¬¿ª·¢£»/
-explore     v Ì½ÏÕ£¬Ì½Ë÷£»×ĞÏ¸²éÔÄ£¬Ì½¾¿£»/exploration   n Ì½¾¿£¬Ì½ÏÕ£»/exploratory   a Ì½ÏÕµÄ£¬Ì½²âµÄ£»/
-explorer     n ¿±Ì½Õß£¬Ì½ÏÕÕß
-explosive     n ±¬Õ¨Îï£»a ±¬Õ¨µÄ£»Ê¹ÈË³å¶¯µÄ
-expose     vt Ê¹±©Â¶£¬½ÒÂ¶£»/exposure   n ±©Â¶£¬ÆØ¹â£»/
-extend     v ÑÓ³¤£»À©´ó
-extension     n Éì³ö£»ÑÓ³¤²¿·Ö£»µç»°·Ö»ú
-extensive     a ¹ãÀ«µÄ£¬¹ã·ºµÄ
-exterior     a Íâ²¿µÄ£¬Íâ±íµÄ£»n Íâ²¿£¬Íâ±í
-external     a ÍâÃæµÄ£¬±íÃæµÄ
-externally     ad Íâ±íÉÏ£¬ÍâĞÎÉÏ
-extinct     a Ãğ¾øµÄ£»·ÏÆúµÄ£»/extinction   n Ãğ¾ø£»·ÏÖ¹£»/
-extinguisher     n Ãğ»ğÆ÷£»Ãğ»ğÕß
-extol     vt ÔŞËÌ£¬ÔŞÃÀ£¬ËÌÑï
+equity     n å…¬å¹³ï¼Œå…¬æ­£
+equivalent     a ç›¸ç­‰çš„ã€‚ç­‰é‡çš„ï¼›n ç›¸ç­‰ç‰©ï¼Œç­‰ä»·ç‰©
+era    n çºªå…ƒï¼›æ—¶ä»£
+erosion     n è…èš€ï¼›ç£¨æŸ
+eruption     n ç«å±±çˆ†å‘
+escalator     n è‡ªåŠ¨æ‰¶æ¢¯
+essay     n çŸ­æ–‡ï¼Œè¯„è®º
+essence     n æœ¬è´¨ï¼›ç²¾é«“
+essential     a æœ¬è´¨çš„ï¼›éå¸¸é‡è¦çš„ï¼›n è¦ç´ ï¼›å®è´¨;/essentially   ad æœ¬è´¨ä¸Šï¼ŒåŸºæœ¬ä¸Šï¼›/
+establish     vt å»ºç«‹ï¼›ç¡®ç«‹ï¼›/establishment   n å»ºç«‹ï¼Œç¡®ç«‹ï¼›/
+estate     n åœŸåœ°
+estimate     vt ä¼°ä»·ï¼Œè¯„ä»·
+eternal     a æ°¸æ’çš„
+evacuate     v ç–æ•£ï¼›æ’¤ç¦»ï¼›/evacuation   n æ’¤ç¦»ï¼›/
+evaluate     vt è¯„ä»·ï¼Œä¼°ä»·
+evaporate     v ï¼ˆä½¿ï¼‰è’¸å‘ï¼›æ¶ˆå¤±ï¼›ä¸å¤å­˜åœ¨ï¼›/evaporation   n è’¸å‘ï¼›æ¶ˆå¤±ï¼›/
+event     n äº‹ä»¶ï¼›æ¯”èµ›é¡¹ç›®
+evidence     n æ ¹æ®ï¼Œè¯æ®
+evoke     vt å”¤èµ·
+evolution     n è¿›åŒ–ï¼Œæ¼”åŒ–ï¼›å‘å±•
+evolve     v ä½¿é€æ¸å½¢æˆï¼›ï¼ˆä½¿ï¼‰è¿›åŒ–
+exacerbate     vt æ¶åŒ–ï¼ŒåŠ å‰§
+exact     a ç²¾ç¡®çš„ï¼›å‡†ç¡®çš„ï¼›/exactly   ad æ­£ç¡®åœ°ï¼›å®Œå…¨åœ°ï¼›/
+examine     vt æ£€æŸ¥ï¼›è°ƒæŸ¥ï¼Œç ”ç©¶ï¼›æµ‹éªŒï¼›/examiner   n ä¸»è€ƒè€…ï¼›/examination   n è€ƒè¯•ï¼›æ£€æŸ¥ï¼›/
+excavate     vt æŒ–æ˜ï¼Œæ˜å‡º
+exceed     vt è¶…å‡ºï¼Œèƒœè¿‡
+excellent     a æå¥½çš„ï¼›æ°å‡ºçš„
+except     v å°†ã€‚ã€‚é™¤å¤–ï¼›prep é™¤ã€‚ã€‚å¤–ï¼›
+exceptional   a ä¾‹å¤–çš„ï¼Œå¼‚å¸¸çš„
+excess     n è¶…è¶Šï¼›è¿‡é‡ï¼›a è¿‡é‡çš„ï¼Œé¢å¤–çš„
+excessive     a è¿‡å¤šçš„ï¼Œæåº¦çš„
+exchange     vt&n äº¤æ¢ï¼Œäº¤æµï¼Œäº¤æ˜“
+excitement     n æ¿€åŠ¨ï¼›å…´å¥‹ï¼›ä»¤äººå…´å¥‹çš„äº‹
+exclude     vt æŠŠã€‚ã€‚ã€‚æ’é™¤åœ¨å¤–
+exclusive     n ç‹¬å®¶æ–°é—»ï¼›a å¥¢åçš„ï¼›ç‹¬æœ‰çš„ï¼›æ’ä»–çš„
+exclusively     ad ä¸“æœ‰åœ°ï¼Œä¸“é—¨åœ°
+excreta     n æ’æ³„ç‰©
+excursion     n çŸ­é€”æ—…è¡Œ
+execute     vt å°†ã€‚ã€‚å¤„æ­»ï¼›å®æ–½ï¼›/executive   a æ‰§è¡Œçš„ï¼›è¡Œæ”¿çš„ï¼›n æ‰§è¡Œè€…ï¼›/
+execution     n æ‰§è¡Œ
+exemplify     vt ä½œä¸ºã€‚ã€‚çš„ä¾‹å­
+exhale     v å‘¼å‡ºï¼ˆæ°”ï¼‰ï¼›æ•£å‘
+exhaust     vt ï¼ˆä½¿ï¼‰éå¸¸ç–²å€¦ï¼›è€—å°½ï¼›n åºŸæ°”
+exhaustion     n ç²¾ç–²åŠ›ç«­ï¼›è€—å°½
+exhibit     n å±•è§ˆå“ï¼›vt é™ˆåˆ—ï¼›å±•è§ˆï¼Œæ˜¾ç¤º
+exhibition     n å±•è§ˆ
+exhilaration     n é«˜å…´ï¼›å…´è¶£
+exist     v å­˜åœ¨ï¼›ç”Ÿå­˜
+existence     n å­˜åœ¨ï¼›ç”Ÿæ´»ï¼›ç”Ÿæ´»æ–¹å¼ï¼›/coexistence   n å…±å­˜ï¼›å…±å¤„;/
+exorbitant      a  è¿‡åˆ†çš„ï¼Œä¸åˆç†çš„
+exotic     a å¤–æ¥çš„ï¼›å¥‡å¼‚çš„
+expansion     n æ‰©å¤§
+expectation     n æœŸå¾…ï¼›å‰ç¨‹
+expedition     n æ—…è¡Œï¼Œè¿œè¡Œï¼›æ¢é™©é˜Ÿï¼›è¿…é€Ÿ
+expel     vt æŠŠã€‚ã€‚å¼€é™¤ï¼›é©±é€
+expire     v æœŸæ»¡ï¼›ç»ˆæ­¢ï¼›/expiry   n æœŸæ»¡ï¼›ç»ˆç»“ï¼›/
+explode     v ï¼ˆä½¿)çˆ†ç‚¸ï¼›æ¿€å¢ï¼›/explosion   n çˆ†ç‚¸ï¼›/
+exploit     vt å‰¥å‰Šï¼›åˆ©ç”¨ï¼›å¼€æ‹“ï¼›/exploitation   n åˆ©ç”¨ï¼Œå¼€å‘ï¼›/
+explore     v æ¢é™©ï¼Œæ¢ç´¢ï¼›ä»”ç»†æŸ¥é˜…ï¼Œæ¢ç©¶ï¼›/exploration   n æ¢ç©¶ï¼Œæ¢é™©ï¼›/exploratory   a æ¢é™©çš„ï¼Œæ¢æµ‹çš„ï¼›/
+explorer     n å‹˜æ¢è€…ï¼Œæ¢é™©è€…
+explosive     n çˆ†ç‚¸ç‰©ï¼›a çˆ†ç‚¸çš„ï¼›ä½¿äººå†²åŠ¨çš„
+expose     vt ä½¿æš´éœ²ï¼Œæ­éœ²ï¼›/exposure   n æš´éœ²ï¼Œæ›å…‰ï¼›/
+extend     v å»¶é•¿ï¼›æ‰©å¤§
+extension     n ä¼¸å‡ºï¼›å»¶é•¿éƒ¨åˆ†ï¼›ç”µè¯åˆ†æœº
+extensive     a å¹¿é˜”çš„ï¼Œå¹¿æ³›çš„
+exterior     a å¤–éƒ¨çš„ï¼Œå¤–è¡¨çš„ï¼›n å¤–éƒ¨ï¼Œå¤–è¡¨
+external     a å¤–é¢çš„ï¼Œè¡¨é¢çš„
+externally     ad å¤–è¡¨ä¸Šï¼Œå¤–å½¢ä¸Š
+extinct     a ç­ç»çš„ï¼›åºŸå¼ƒçš„ï¼›/extinction   n ç­ç»ï¼›åºŸæ­¢ï¼›/
+extinguisher     n ç­ç«å™¨ï¼›ç­ç«è€…
+extol     vt èµé¢‚ï¼Œèµç¾ï¼Œé¢‚æ‰¬
 
 
-list13
-earthwork     n ÍÁ·½
-earthworm     n òÇò¾£»Ğ¡ÈË
-ecology     n ÉúÌ¬Ñ§£»¾ùºâÏµÍ³
-economic     a ¾­¼ÃµÄ£»n ¾­¼ÃÑ§
-economical     a ½ÚÔ¼µÄ£¬¾­¼ÃµÄ£»/economically     ad ½ÚÔ¼µØ£»¾­¼ÃÉÏ£»¾­¼ÃÑ§µØ£»/
-ecosystem     n ÉúÌ¬ÏµÍ³
-edible     a ¿ÉÊ³µÄ£»/inedible   a ²»¿ÉÊ³ÓÃµÄ£»/
-effect     v ÉúĞ§£»ÒıÆğ£»n Ó°Ïì£»½á¹û£»/effective   a ÓĞĞ§µÄ£»±»ÊµÊ©µÄ£»/effectively   ad ÓĞĞ§µØ£»/
-efficiency     n Ğ§ÂÊ£»¹¦Ğ§£¬Ğ§ÄÜ£»/effectiveness   n Ğ§Á¦£»/ineffective   a ÎŞĞ§µÄ£»/
-efficient     a Ğ§ÂÊ¸ßµÄ£»/efficiently   ad ÓĞĞ§ÂÊµØ£»ÓĞĞ§µØ£»/
-eject     v Öğ³ö£»ÅçÉä£»/ejection   n Åç³ö£»Åç³öÎï/
-elaborate     a ¸´ÔÓµÄ£¬¾«ĞÄÖÆ×÷µÄ£»v ÏêÊö£¬ÏêÏ¸ÖÆ¶¨
-elastic     n ËÉ½ô´ø£»a ÓĞµ¯ĞÔµÄ£»Áé»îµÄ
-elbow     n Öâ£»£¨ÒÂ·şµÄ£©Öâ²¿
-element     nÒªËØ£»ÔªËØ£»»ù±¾Ô­Àí£»/elementary   a ³õ²½µÄ£»»ù±¾µÄ£»/
-elevate     vt ÌáÉı¡£¡£¡£Ö°Î»£»¾ÙÆğ
-eligible     a ·ûºÏÌõ¼şµÄ£»ºÏÊÊµÄ
-eliminate     vt ÏûÃğ£¬Ïû³ı£»ÌÔÌ­
-elite     n ¾«Ó¢£»a×¿Ô½µÄ
-embankment     n µÌ°¶£¬Â·»ù
-embark     v £¨Ê¹£©ÉÏ´¬»ò·É»ú£»£¨Ê¹£©´ÓÊÂ
-emboss     vt Ê¹¡£¡£Í¹³ö£»Ñ¹»¨£¨ÎÆ£©
-embrace     vt&n Óµ±§£»°üÀ¨
-embryo     n Åß£¬ÅßÌ¥£»ÊÂÎïµÄÃÈÑ¿ÆÚ
-emerge     v ÏÖ³ö£»ÏÔÂ¶£¬£¨ÊÂÊµµÈ£©±©Â¶
-emergency     n ½ô¼±Çé¿ö£¬Í»·¢ÊÂ¼ş
-eminent     a ½Ü³öµÄ£¬ÏÔºÕµÄ
-emission     n (¹â£¬ÈÈµÈµÄ£©É¢·¢£»É¢·¢Îï
-emit     vt É¢·¢£¬ÅÅ·Å£»·¢±í
-emotion     n ¸ĞÇé£»ÇéĞ÷
-emperor     n »ÊµÛ£»¾ıÖ÷
-emphasize     vt Ç¿µ÷£¬×ÅÖØ
-empire     n µÛ¹ú
-empirical     a¾­ÑéÖ÷ÒåµÄ£¬¾­£¨Êµ£©ÑéµÄ
-encase     vt ×°Èë£¬°ü×¡
-enclose     vt Î§×¡£»¸½ÉÏ£»°Ñ¡£¡£×°ÈëĞÅ·â£»/enclosure   n Î§À¸£»/
-encounter     n&vt ÔâÓö£¬Óöµ½
-encourage     vt ¹ÄÀø£»´Ù½ø£¬¼¤·¢
-endeavour     vi&n Å¬Á¦£¬¾¡Á¦£»³¢ÊÔ
-endorse     vt Ö§³Ö£¬ÔŞÍ¬
-endure     v ÈÌÊÜ£»³Ö¾Ã£¬³ÖĞø
-enforce     vt ÊµÊ©£¬Ö´ĞĞ£»Ç¿ÖÆ£¬ÆÈÊ¹£»/enforcement   n ÊµÊ©£¬Ö´ĞĞ£»/
-enfranchise     vt ¸ø¡£¡£¹«ÃñÈ¨£¨»òÑ¡¾ÙÈ¨£©;/enfranchisement   n ÊÍ·Å£¬½â·Å£»/
-engage     v £¨Ê¹£©´ÓÊÂÓÚ£»Õ¼ÓÃ£»£¨Ê¹£©¶©»é
-enhance     vt Ìá¸ß£¬ÔöÇ¿
-enlarge     vt À©´ó£¬·Å´ó
-enlighten     vt Æô·¢£»¿ªµ¼
-enormous     a ¾Ş´óµÄ£¬ÅÓ´óµÄ£»/enormously   ad ¾Ş´óµØ£¬ÅÓ´óµØ£»/
-enquiry     n Ñ¯ÎÊ£»µ÷²é
-enrich     vt ³äÊµ£»Ê¹¸»Ô£
-enroll     vt µÇ¼Ç£»Ê¹¼ÓÈë
-enrolment     n µÇ¼Ç£»ÈëÑ§
-ensue     v ¼Ì¶ø·¢Éú£»½Ó×Å·¢Éú
-ensure     vt ±£Ö¤£¬±£»¤£»¸³Óè
-entail     vt Ç£Éæ£»ĞèÒª
-enterprise     n ¹«Ë¾£»ÊÂÒµ
-entertain     v £¨Ê¹£©»¶ÀÖ£¬£¨Ê¹£©ÓéÀÖ£»ÕĞ´ı£»/entertainment   n ÓéÀÖ£¬ÕĞ´ı£»/
-enthusiasm     n ÈÈÇé
-enthusiastic     a ÈÈÇé£»ÈÈĞÄµÄ
-entire     a È«²¿µÄ£¬Õû¸öµÄ£»/entirely   a È«²¿µÄ£¬Õû¸öµÄ£»/
-entitle     vt ¸ø¡£¡£È¨Àû£¨»ò×Ê¸ñ£©£»¸ø£¨Êé£¬ÎÄÕÂµÈ£©ÌâÃû
-entrepreneur     n ÆóÒµ¼Ò
-environment     n ÖÜÎ§»·¾³£»×´¿ö£»/environmental   a »·¾³µÄ£»/
-envisage     vt Õ¹Íû£¬ÏëÏó£»Ãæ¶Ô
-epidemic     n Á÷ĞĞ²¡£»a Á÷ĞĞĞÔµÄ
-epitomize     vt ¼¯ÖĞÌåÏÖ£»¸ÅÀ¨
-equal     a ÏàµÈµÄ£»vt ±ÈµÃÉÏ£»/equality   n Í¬µÈ£¬Æ½µÈ£»/equally   ad Æ½µÈµØ£¬ÏàµÈµØ£»/
-equation     n ·½³Ì£¨Ê½£©£»Æ½ºâ£¬ÉúÌ¬Æ½ºâ
-equator     n £¨µØÇò£©³àµÀ
-equipment     n Éè±¸£¬×°±¸
+earthwork     n åœŸæ–¹
+earthworm     n èš¯èš“ï¼›å°äºº
+ecology     n ç”Ÿæ€å­¦ï¼›å‡è¡¡ç³»ç»Ÿ
+economic     a ç»æµçš„ï¼›n ç»æµå­¦
+economical     a èŠ‚çº¦çš„ï¼Œç»æµçš„ï¼›/economically     ad èŠ‚çº¦åœ°ï¼›ç»æµä¸Šï¼›ç»æµå­¦åœ°ï¼›/
+ecosystem     n ç”Ÿæ€ç³»ç»Ÿ
+edible     a å¯é£Ÿçš„ï¼›/inedible   a ä¸å¯é£Ÿç”¨çš„ï¼›/
+effect     v ç”Ÿæ•ˆï¼›å¼•èµ·ï¼›n å½±å“ï¼›ç»“æœï¼›/effective   a æœ‰æ•ˆçš„ï¼›è¢«å®æ–½çš„ï¼›/effectively   ad æœ‰æ•ˆåœ°ï¼›/
+efficiency     n æ•ˆç‡ï¼›åŠŸæ•ˆï¼Œæ•ˆèƒ½ï¼›/effectiveness   n æ•ˆåŠ›ï¼›/ineffective   a æ— æ•ˆçš„ï¼›/
+efficient     a æ•ˆç‡é«˜çš„ï¼›/efficiently   ad æœ‰æ•ˆç‡åœ°ï¼›æœ‰æ•ˆåœ°ï¼›/
+eject     v é€å‡ºï¼›å–·å°„ï¼›/ejection   n å–·å‡ºï¼›å–·å‡ºç‰©/
+elaborate     a å¤æ‚çš„ï¼Œç²¾å¿ƒåˆ¶ä½œçš„ï¼›v è¯¦è¿°ï¼Œè¯¦ç»†åˆ¶å®š
+elastic     n æ¾ç´§å¸¦ï¼›a æœ‰å¼¹æ€§çš„ï¼›çµæ´»çš„
+elbow     n è‚˜ï¼›ï¼ˆè¡£æœçš„ï¼‰è‚˜éƒ¨
+element     nè¦ç´ ï¼›å…ƒç´ ï¼›åŸºæœ¬åŸç†ï¼›/elementary   a åˆæ­¥çš„ï¼›åŸºæœ¬çš„ï¼›/
+elevate     vt æå‡ã€‚ã€‚ã€‚èŒä½ï¼›ä¸¾èµ·
+eligible     a ç¬¦åˆæ¡ä»¶çš„ï¼›åˆé€‚çš„
+eliminate     vt æ¶ˆç­ï¼Œæ¶ˆé™¤ï¼›æ·˜æ±°
+elite     n ç²¾è‹±ï¼›aå“è¶Šçš„
+embankment     n å ¤å²¸ï¼Œè·¯åŸº
+embark     v ï¼ˆä½¿ï¼‰ä¸Šèˆ¹æˆ–é£æœºï¼›ï¼ˆä½¿ï¼‰ä»äº‹
+emboss     vt ä½¿ã€‚ã€‚å‡¸å‡ºï¼›å‹èŠ±ï¼ˆçº¹ï¼‰
+embrace     vt&n æ‹¥æŠ±ï¼›åŒ…æ‹¬
+embryo     n èƒšï¼Œèƒšèƒï¼›äº‹ç‰©çš„èŒèŠ½æœŸ
+emerge     v ç°å‡ºï¼›æ˜¾éœ²ï¼Œï¼ˆäº‹å®ç­‰ï¼‰æš´éœ²
+emergency     n ç´§æ€¥æƒ…å†µï¼Œçªå‘äº‹ä»¶
+eminent     a æ°å‡ºçš„ï¼Œæ˜¾èµ«çš„
+emission     n (å…‰ï¼Œçƒ­ç­‰çš„ï¼‰æ•£å‘ï¼›æ•£å‘ç‰©
+emit     vt æ•£å‘ï¼Œæ’æ”¾ï¼›å‘è¡¨
+emotion     n æ„Ÿæƒ…ï¼›æƒ…ç»ª
+emperor     n çš‡å¸ï¼›å›ä¸»
+emphasize     vt å¼ºè°ƒï¼Œç€é‡
+empire     n å¸å›½
+empirical     aç»éªŒä¸»ä¹‰çš„ï¼Œç»ï¼ˆå®ï¼‰éªŒçš„
+encase     vt è£…å…¥ï¼ŒåŒ…ä½
+enclose     vt å›´ä½ï¼›é™„ä¸Šï¼›æŠŠã€‚ã€‚è£…å…¥ä¿¡å°ï¼›/enclosure   n å›´æ ï¼›/
+encounter     n&vt é­é‡ï¼Œé‡åˆ°
+encourage     vt é¼“åŠ±ï¼›ä¿ƒè¿›ï¼Œæ¿€å‘
+endeavour     vi&n åŠªåŠ›ï¼Œå°½åŠ›ï¼›å°è¯•
+endorse     vt æ”¯æŒï¼ŒèµåŒ
+endure     v å¿å—ï¼›æŒä¹…ï¼ŒæŒç»­
+enforce     vt å®æ–½ï¼Œæ‰§è¡Œï¼›å¼ºåˆ¶ï¼Œè¿«ä½¿ï¼›/enforcement   n å®æ–½ï¼Œæ‰§è¡Œï¼›/
+enfranchise     vt ç»™ã€‚ã€‚å…¬æ°‘æƒï¼ˆæˆ–é€‰ä¸¾æƒï¼‰;/enfranchisement   n é‡Šæ”¾ï¼Œè§£æ”¾ï¼›/
+engage     v ï¼ˆä½¿ï¼‰ä»äº‹äºï¼›å ç”¨ï¼›ï¼ˆä½¿ï¼‰è®¢å©š
+enhance     vt æé«˜ï¼Œå¢å¼º
+enlarge     vt æ‰©å¤§ï¼Œæ”¾å¤§
+enlighten     vt å¯å‘ï¼›å¼€å¯¼
+enormous     a å·¨å¤§çš„ï¼Œåºå¤§çš„ï¼›/enormously   ad å·¨å¤§åœ°ï¼Œåºå¤§åœ°ï¼›/
+enquiry     n è¯¢é—®ï¼›è°ƒæŸ¥
+enrich     vt å……å®ï¼›ä½¿å¯Œè£•
+enroll     vt ç™»è®°ï¼›ä½¿åŠ å…¥
+enrolment     n ç™»è®°ï¼›å…¥å­¦
+ensue     v ç»§è€Œå‘ç”Ÿï¼›æ¥ç€å‘ç”Ÿ
+ensure     vt ä¿è¯ï¼Œä¿æŠ¤ï¼›èµ‹äºˆ
+entail     vt ç‰µæ¶‰ï¼›éœ€è¦
+enterprise     n å…¬å¸ï¼›äº‹ä¸š
+entertain     v ï¼ˆä½¿ï¼‰æ¬¢ä¹ï¼Œï¼ˆä½¿ï¼‰å¨±ä¹ï¼›æ‹›å¾…ï¼›/entertainment   n å¨±ä¹ï¼Œæ‹›å¾…ï¼›/
+enthusiasm     n çƒ­æƒ…
+enthusiastic     a çƒ­æƒ…ï¼›çƒ­å¿ƒçš„
+entire     a å…¨éƒ¨çš„ï¼Œæ•´ä¸ªçš„ï¼›/entirely   a å…¨éƒ¨çš„ï¼Œæ•´ä¸ªçš„ï¼›/
+entitle     vt ç»™ã€‚ã€‚æƒåˆ©ï¼ˆæˆ–èµ„æ ¼ï¼‰ï¼›ç»™ï¼ˆä¹¦ï¼Œæ–‡ç« ç­‰ï¼‰é¢˜å
+entrepreneur     n ä¼ä¸šå®¶
+environment     n å‘¨å›´ç¯å¢ƒï¼›çŠ¶å†µï¼›/environmental   a ç¯å¢ƒçš„ï¼›/
+envisage     vt å±•æœ›ï¼Œæƒ³è±¡ï¼›é¢å¯¹
+epidemic     n æµè¡Œç—…ï¼›a æµè¡Œæ€§çš„
+epitomize     vt é›†ä¸­ä½“ç°ï¼›æ¦‚æ‹¬
+equal     a ç›¸ç­‰çš„ï¼›vt æ¯”å¾—ä¸Šï¼›/equality   n åŒç­‰ï¼Œå¹³ç­‰ï¼›/equally   ad å¹³ç­‰åœ°ï¼Œç›¸ç­‰åœ°ï¼›/
+equation     n æ–¹ç¨‹ï¼ˆå¼ï¼‰ï¼›å¹³è¡¡ï¼Œç”Ÿæ€å¹³è¡¡
+equator     n ï¼ˆåœ°çƒï¼‰èµ¤é“
+equipment     n è®¾å¤‡ï¼Œè£…å¤‡
 
-list12
-disfigure     v »ÙÈİ
-disharmony     n ²»Ò»ÖÂ£»²»ºÍĞ³
-disillusionment     n »ÃÃğ£¬¾õĞÑ
-disintegrate     v £¨Ê¹£©ÆÆËé£¬Ê¹Íß½â
-dismantle     vt ²ğ³ı£»·Ï³ı
-dismiss     vt ½â¹Í£»½âÉ¢
-disorder     n »ìÂÒ£»Ê§µ÷£»v ÈÅÂÒ£¬Ê¹Ê§µ÷£»/disorderly   a »ìÂÒµÄ£»ÎŞ´ÎĞòµÄ/
-dispenser     n ×Ô¶¯ÊÛ»õ»ú
-displace     vt È¡´ú£»Ê¹Àë¿ªÔ­Î»
-display     n&vt ³ÂÁĞ£¬ÏÔÊ¾
-dispute     n&v ÕùÂÛ£»Õù³³
-disqualify     vt Ê¹É¥Ê§×Ê¸ñ
-disregard     vt Ä®ÊÓ£»n Ä®ÊÓ
-disrupt     vt Ê¹ÖĞ¶Ï£»ÈÅÂÒ£»/disruption   n ÈÅÂÒ£»ÖĞ¶Ï£»/disruptive   a ÖĞ¶ÏµÄ£»/
-dissatisfied     a ²»ÂúÒâµÄ£¬²»Âú×ãµÄ
-dissemination     n É¢²½£¬´«²¥
-dissertation     n ×¨ÌâÂÛÎÄ
-dissolve     v ÈÜ½â£»½âÉ¢£»½áÊø
-distance     n ¾àÀë£»Ô¶·½£»Ò»¶ÎÊ±¼ä
-distill     v £¨Ê¹£©ÕôÁó£¬ÌáÈ¡
-distinct     a ÓëÆäËû²»Í¬µÄ£»Çå³şµÄ£»Ã÷È·µÄ£»/distinction   n ²î±ğ£¬²»Í¬£»/
-distinctive     a ³öÖÚµÄ£»ÓĞÌØÉ«µÄ
-distinguish     vt Çø±ğ£¬±æ±ğ
-distort     vt Å¤Çú£»vi ±äĞÎ
-distract     vt ×ªÒÆ£¨×¢ÒâÁ¦£©£»Ê¹·ÖĞÄ£»/distraction   n ·ÖĞÄ£»ÓéÀÖ£»/
-distribute     vt ·Ö·¢£¬·ÖËÍ£»·Ö²½
-distribution     n ·ÖÅä£»·Ö²¼
-district     n Çø
-disturb     v ÈÅÂÒ£»´òÈÅ
-diversify     v £¨Ê¹£©¶àÑù»¯£»/diversification   n ±ä»¯£¬¶àÑù»¯£»/
-diversity     n ¶àÑù£¬Ç§±äÍò»¯
-divert     vt ×ªÒÆ£»Ê¹ÏûÇ²£»/diversion   n ×ªÒÆ£»ÏûÇ²/
-divide     v ·Ö¿ª£»»®·Ö£»n ·Ö¿ª£»·ÖË®Áë
-dividend     n ±»³ıÊı£»ºìÀû£»¹ÉÏ¢
-divine     a ÉñµÄ£»ÉñÊÚµÄ£¬Ìì´ÍµÄ
-division     n ·Ö¿ª£¬·ÖÅä£»²¿ÃÅ£»·ÖÆç£»/divisional   a ·Ö¿ªµÄ/
-dizzy     a Í·ÔÎÄ¿Ñ£µÄ
-dock     n ÂëÍ·£»v £¨Ê¹£©¿¿½üÂëÍ·
-document     n ¹«ÎÄ£»µµ°¸£»v ÓÃÎÄ¼şµÈÖ¤Ã÷£»¼ÇÔØ
-dolphin     n º£ëà
-dome     n Ô²Îİ¶¥£»ñ·¶¥
-domestic     a ±¾¹úµÄ£»¼ÒÍ¥µÄ£»Ñ±ÑøµÄ£»/domesticate   v Ñ±Ñø£¬½Ì»¯£»/
-dominant     a Õ¼ÓÅÊÆµÄ£»Í³ÖÎµÄ£»¾Ó¸ßÁÙÏÂµÄ
-dominate     v Ö§Åä£¬Í³ÖÎ£»ËÊÁ¢ÓÚ
-donation     n ¾è¿î£»¾èÔù
-dorm     n ËŞÉá
-dormant     a ĞİÃßµÄ£¬¾²Ö¹µÄ
-dose     n ¼ÁÁ¿£¬Ò»¼Á
-downpour     n ±©Óê
-downsize     v ËõĞ¡£¬Ëõ½ô
-draft     n ²İ¸å£»vt Æğ²İ
-drainage     n ÅÅË®£¨ÏµÍ³)
-dramatic     a ÒıÈË×¢Ä¿µÄ£»Ï·¾çµÄ£»/dramatically   ad ÒıÈË×¢Ä¿µØ£»Ï·¾çµØ£»/
-drawback     n È±µã£»²»ÀûÌõ¼ş
-dreadful     a ¿ÉÅÂµÄ£»ÁîÈË²»¿ìµÄ
-dredge     v ÍÚ¾ò£»Êè¿££»ÍÚ³ö£»/dredger   n ÍÚÄà´¬£»/
-drill     n&v ×ê£»ÑµÁ·
-droplet     n Ğ¡µÎ
-drought     n ¸Éºµ£¬ºµÔÖ
-drum     n ¹Ä£¬¹Ä×´Îï
-dubious     a »³ÒÉµÄ£»¿¿²»×¡µÄ
-due     a Ô¤ÆÚµÄ£»Ó¦µÃµÄ£»Õıµ±µÄ
-dull     a ·¦Î¶µÄ£»Òõ³ÁµÄ
-dump     v ÇãĞ¶¡£Çãµ¹£»n À¬»ø³¡
-durable     a ÄÍ¾ÃµÄ£¬ÄÍÓÃµÄ£»n ÄÍÓÃÆ·
-duration     n ³ÖĞøµÄÊ±¼ä
-dusk     n ±¡Äº£¬»Æ»è
-dweller     n ¾Ó×¡Õß£¬¾ÓÃñ
-dynamic     a ¶¯Á¦µÄ£¬»îÔ¾µÄ
-dystrophy     n ÓªÑøÕÏ°­£»ÓªÑø²»Á¼
-earthquake     n µØÕğ
+disfigure     v æ¯å®¹
+disharmony     n ä¸ä¸€è‡´ï¼›ä¸å’Œè°
+disillusionment     n å¹»ç­ï¼Œè§‰é†’
+disintegrate     v ï¼ˆä½¿ï¼‰ç ´ç¢ï¼Œä½¿ç“¦è§£
+dismantle     vt æ‹†é™¤ï¼›åºŸé™¤
+dismiss     vt è§£é›‡ï¼›è§£æ•£
+disorder     n æ··ä¹±ï¼›å¤±è°ƒï¼›v æ‰°ä¹±ï¼Œä½¿å¤±è°ƒï¼›/disorderly   a æ··ä¹±çš„ï¼›æ— æ¬¡åºçš„/
+dispenser     n è‡ªåŠ¨å”®è´§æœº
+displace     vt å–ä»£ï¼›ä½¿ç¦»å¼€åŸä½
+display     n&vt é™ˆåˆ—ï¼Œæ˜¾ç¤º
+dispute     n&v äº‰è®ºï¼›äº‰åµ
+disqualify     vt ä½¿ä¸§å¤±èµ„æ ¼
+disregard     vt æ¼ è§†ï¼›n æ¼ è§†
+disrupt     vt ä½¿ä¸­æ–­ï¼›æ‰°ä¹±ï¼›/disruption   n æ‰°ä¹±ï¼›ä¸­æ–­ï¼›/disruptive   a ä¸­æ–­çš„ï¼›/
+dissatisfied     a ä¸æ»¡æ„çš„ï¼Œä¸æ»¡è¶³çš„
+dissemination     n æ•£æ­¥ï¼Œä¼ æ’­
+dissertation     n ä¸“é¢˜è®ºæ–‡
+dissolve     v æº¶è§£ï¼›è§£æ•£ï¼›ç»“æŸ
+distance     n è·ç¦»ï¼›è¿œæ–¹ï¼›ä¸€æ®µæ—¶é—´
+distill     v ï¼ˆä½¿ï¼‰è’¸é¦ï¼Œæå–
+distinct     a ä¸å…¶ä»–ä¸åŒçš„ï¼›æ¸…æ¥šçš„ï¼›æ˜ç¡®çš„ï¼›/distinction   n å·®åˆ«ï¼Œä¸åŒï¼›/
+distinctive     a å‡ºä¼—çš„ï¼›æœ‰ç‰¹è‰²çš„
+distinguish     vt åŒºåˆ«ï¼Œè¾¨åˆ«
+distort     vt æ‰­æ›²ï¼›vi å˜å½¢
+distract     vt è½¬ç§»ï¼ˆæ³¨æ„åŠ›ï¼‰ï¼›ä½¿åˆ†å¿ƒï¼›/distraction   n åˆ†å¿ƒï¼›å¨±ä¹ï¼›/
+distribute     vt åˆ†å‘ï¼Œåˆ†é€ï¼›åˆ†æ­¥
+distribution     n åˆ†é…ï¼›åˆ†å¸ƒ
+district     n åŒº
+disturb     v æ‰°ä¹±ï¼›æ‰“æ‰°
+diversify     v ï¼ˆä½¿ï¼‰å¤šæ ·åŒ–ï¼›/diversification   n å˜åŒ–ï¼Œå¤šæ ·åŒ–ï¼›/
+diversity     n å¤šæ ·ï¼Œåƒå˜ä¸‡åŒ–
+divert     vt è½¬ç§»ï¼›ä½¿æ¶ˆé£ï¼›/diversion   n è½¬ç§»ï¼›æ¶ˆé£/
+divide     v åˆ†å¼€ï¼›åˆ’åˆ†ï¼›n åˆ†å¼€ï¼›åˆ†æ°´å²­
+dividend     n è¢«é™¤æ•°ï¼›çº¢åˆ©ï¼›è‚¡æ¯
+divine     a ç¥çš„ï¼›ç¥æˆçš„ï¼Œå¤©èµçš„
+division     n åˆ†å¼€ï¼Œåˆ†é…ï¼›éƒ¨é—¨ï¼›åˆ†æ­§ï¼›/divisional   a åˆ†å¼€çš„/
+dizzy     a å¤´æ™•ç›®çœ©çš„
+dock     n ç å¤´ï¼›v ï¼ˆä½¿ï¼‰é è¿‘ç å¤´
+document     n å…¬æ–‡ï¼›æ¡£æ¡ˆï¼›v ç”¨æ–‡ä»¶ç­‰è¯æ˜ï¼›è®°è½½
+dolphin     n æµ·è±š
+dome     n åœ†å±‹é¡¶ï¼›ç©¹é¡¶
+domestic     a æœ¬å›½çš„ï¼›å®¶åº­çš„ï¼›é©¯å…»çš„ï¼›/domesticate   v é©¯å…»ï¼Œæ•™åŒ–ï¼›/
+dominant     a å ä¼˜åŠ¿çš„ï¼›ç»Ÿæ²»çš„ï¼›å±…é«˜ä¸´ä¸‹çš„
+dominate     v æ”¯é…ï¼Œç»Ÿæ²»ï¼›è€¸ç«‹äº
+donation     n ææ¬¾ï¼›æèµ 
+dorm     n å®¿èˆ
+dormant     a ä¼‘çœ çš„ï¼Œé™æ­¢çš„
+dose     n å‰‚é‡ï¼Œä¸€å‰‚
+downpour     n æš´é›¨
+downsize     v ç¼©å°ï¼Œç¼©ç´§
+draft     n è‰ç¨¿ï¼›vt èµ·è‰
+drainage     n æ’æ°´ï¼ˆç³»ç»Ÿ)
+dramatic     a å¼•äººæ³¨ç›®çš„ï¼›æˆå‰§çš„ï¼›/dramatically   ad å¼•äººæ³¨ç›®åœ°ï¼›æˆå‰§åœ°ï¼›/
+drawback     n ç¼ºç‚¹ï¼›ä¸åˆ©æ¡ä»¶
+dreadful     a å¯æ€•çš„ï¼›ä»¤äººä¸å¿«çš„
+dredge     v æŒ–æ˜ï¼›ç–æµšï¼›æŒ–å‡ºï¼›/dredger   n æŒ–æ³¥èˆ¹ï¼›/
+drill     n&v é’»ï¼›è®­ç»ƒ
+droplet     n å°æ»´
+drought     n å¹²æ—±ï¼Œæ—±ç¾
+drum     n é¼“ï¼Œé¼“çŠ¶ç‰©
+dubious     a æ€€ç–‘çš„ï¼›é ä¸ä½çš„
+due     a é¢„æœŸçš„ï¼›åº”å¾—çš„ï¼›æ­£å½“çš„
+dull     a ä¹å‘³çš„ï¼›é˜´æ²‰çš„
+dump     v å€¾å¸ã€‚å€¾å€’ï¼›n åƒåœ¾åœº
+durable     a è€ä¹…çš„ï¼Œè€ç”¨çš„ï¼›n è€ç”¨å“
+duration     n æŒç»­çš„æ—¶é—´
+dusk     n è–„æš®ï¼Œé»„æ˜
+dweller     n å±…ä½è€…ï¼Œå±…æ°‘
+dynamic     a åŠ¨åŠ›çš„ï¼Œæ´»è·ƒçš„
+dystrophy     n è¥å…»éšœç¢ï¼›è¥å…»ä¸è‰¯
+earthquake     n åœ°éœ‡
 
-list11
-demolish     v ÆÆ³ı£¬²ğ³ı
-demonstrate     vt ËµÃ÷£¬ÂÛÖ¤£»±íÂ¶£»/demonstration     n ±íÑİ£¬Ê¾·¶£»/
-denote     v ±íÊ¾£¬Ö¸Ê¾
-dense     a ÃÜ¼¯µÄ£»Å¨ºñµÄ
-density     n ÃÜ¼¯£»ÃÜ¶È
-depart     v Àë¿ª£¬Æô³Ì
-depict     vt Ãè»æ£»ÃèÊö
-deplete     v µ¹¿Õ£»£¨Ê¹£©¿İ½ß£»ÏûºÄ£»/depletion   n ÏûºÄ£¬¿İ½ß£»/
-deploy     v ²¿Êğ£»Ê¹ÓÃ£¬ÔËÓÃ
-deposit     vt ´æ·Å£»´¢Ğî£»n Ñº½ğ£»´æ¿î
-depress     v £¨Ê¹£©¾ÚÉ¥£»£¨Ê¹)²»¾°Æø£»/depression   n Ïû³Á£¬ÏôÌõ£»/
-deprive     vt °ş¶á£»Ê¹É¥Ê§
-deputy     n ´úÀíÈË£»´ú±í
-derive     v È¡µÃ£»ÆğÔ´
-desert     n É³Ä®£»»ÄµØ£»a É³Ä®µÄ£»»ÄÁ¹µÄ£»v ÉáÆú£»
-deserve     v Ó¦µÃ£»ÖµµÃ
-design     n Éè¼Æ£»Í¼°¸£»v Éè¼Æ£»¹¹Ë¼£»/designer   n Éè¼ÆÊ¦£»/
-desirable     a ÖµµÃÓµÓĞµÄ£»ºÏÒâµÄ
-desire     n&vt ¿ÊÍû£¬ÆÚÍû£»ÒªÇó
-desperate     a Æ´ÃüµÄ£¬¼«¶È¿ÊÍûµÄ
-despite     p ²»¹Ü£»¾¡¹Ü
-destination     n Ä¿µÄµØ£¬ÖÕµã£»Ä¿±ê
-destiny     n ÃüÔË£¬¶¨Êı£»/destined   a ÃüÖĞ×¢¶¨µÄ£»/
-destruction     n ÆÆ»µ£¬»ÙÃğ     
-destructive     a ÆÆ»µ£¨ĞÔ£©µÄ
-detach     v ·Ö¿ª£¬·ÖÀë
-detail     n Ï¸½Ú£¬ÏêÇé£»v ÏêÊö
-detect     vt Õì²é£¬Ì½²â£»²ì¾õ£»/undetected   a Î´±»·¢ÏÖµÄ£»/
-detective     n ÕìÌ½£»a ÕìÌ½µÄ
-deter     v ÍşÉå£¬ÏÅ×¡£¬£¨Ê¹£©¶ÏÄî
-deteriorate     v ±ä»µ£»¶ñ»¯    
-determine     v È·¶¨£»¾ö¶¨£»£¨Ê¹£©ÏÂ¾öĞÄ
-detour     n ÍäÂ·£¬±ãµÀ£»v ÓØ»Ø£¬ÈÆµÀ
-detract     v È¥µô£¬¼õËğ
-detrimental     a Ëğº¦µÄ£¬ÓĞº¦µÄ
-devastating     a »ÙÃğĞÔµÄ£»Ç¿ÓĞÁ¦µÄ
-develop     v ·¢Õ¹£»Éú³¤£¬ĞÎ³É£»/development   n ·¢Õ¹£»/undeveloped   a Ç··¢´ïµÄ£»/developing   a ·¢Õ¹ÖĞµÄ£»/
-deviance     n Æ«³£ÕßµÄĞĞÎª£¨»òÌØÕ÷£©£»/deviant   a Ô½³ö³£¹æµÄ£»/
-device     n Æ÷Ğµ£¬×°ÖÃ£»ÊÖ¶Î
-devise     vt Éè¼Æ£¬·¢Ã÷
-devote    vt ½«¡£¡£¡£·îÏ×¸ø£»°Ñ¡£¡£×¨ÓÃ£¨ÓÚ£©
-diagnose     vt Õï¶Ï£»ÅĞ¶Ï
-diagram     n Í¼±í£¬Í¼½â
-dialect     n ·½ÑÔ£¬ÍÁÓï
-diameter     n Ö±¾¶
-dictation     n ÌıĞ´
-differ     vi ²»Í¬
-digest     n Ïû»¯£»Áì»á£»vt ÎÄÕª£»
-digital     a Êı×ÖµÄ£»¼ÆÊıµÄ
-dimension     n ³ß´ç£»·½Ãæ£»Ãæ»ı£»/dimensional   a ¿Õ¼äµÄ£»/
-diminish     v ¼õÉÙ£»½µµÍ
-dioxide     n ¶şÑõ»¯Îï
-diploma     n ±ÏÒµÎÄÆ¾£»×Ê¸ñÖ¤Êé
-direction     n ·½Ïò£»ÓÃ·¨ÖªµÀ£»Ö¸µ¼
-directory     n ÈËÃûµØÖ·Â¼£»£¨µç»°£©ºÅÂë²¾
-disadvantage     n È±µã£¬²»Àû
-disagree     v ²»Í¬Òâ£»²»Ò»ÖÂ£»/disagreement   n ÕùÂÛ£¬²»ºÍ£»/
-disappointing     a ÁîÈËÊ§ÍûµÄ£»/disappointment   n Ê§Íû£»/
-disapprove     v ²»ÔŞ³É£¬·´¶Ô
-discard     vt ¶ªÆú£¬ÒÅÆú
-discipline     n ¼ÍÂÉ£»ÑµÁ·£»Ñ§¿Æ
-disclose     vt ½ÒÂ¶£»Í¸Â¶
-discount     n ÕÛ¿Û£»vt °Ñ¡£¡£´òÕÛ¿Û£»²»£¨È«£©ĞÅ
-discourage     vt Ê¹Ğ¹Æø£¬Ê¹»ÒĞÄ£»×èÖ¹
-discover     vt ·¢ÏÖ£¬ÕÒµ½£»·¢¾õ£»
-discovery     n ·¢ÏÖ£»
-discredit     v »³ÒÉ£»É¥Ê§ĞÅÓş£¬£¨Ê¹£©¶ªÁ³
-discretion     n ÅĞ¶ÏÁ¦£»½÷É÷£¬ÉóÉ÷£»
-discriminate     v Çø±ğ£»ÆçÊÓ
+demolish     v ç ´é™¤ï¼Œæ‹†é™¤
+demonstrate     vt è¯´æ˜ï¼Œè®ºè¯ï¼›è¡¨éœ²ï¼›/demonstration     n è¡¨æ¼”ï¼Œç¤ºèŒƒï¼›/
+denote     v è¡¨ç¤ºï¼ŒæŒ‡ç¤º
+dense     a å¯†é›†çš„ï¼›æµ“åšçš„
+density     n å¯†é›†ï¼›å¯†åº¦
+depart     v ç¦»å¼€ï¼Œå¯ç¨‹
+depict     vt æç»˜ï¼›æè¿°
+deplete     v å€’ç©ºï¼›ï¼ˆä½¿ï¼‰æ¯ç«­ï¼›æ¶ˆè€—ï¼›/depletion   n æ¶ˆè€—ï¼Œæ¯ç«­ï¼›/
+deploy     v éƒ¨ç½²ï¼›ä½¿ç”¨ï¼Œè¿ç”¨
+deposit     vt å­˜æ”¾ï¼›å‚¨è“„ï¼›n æŠ¼é‡‘ï¼›å­˜æ¬¾
+depress     v ï¼ˆä½¿ï¼‰æ²®ä¸§ï¼›ï¼ˆä½¿)ä¸æ™¯æ°”ï¼›/depression   n æ¶ˆæ²‰ï¼Œè§æ¡ï¼›/
+deprive     vt å‰¥å¤ºï¼›ä½¿ä¸§å¤±
+deputy     n ä»£ç†äººï¼›ä»£è¡¨
+derive     v å–å¾—ï¼›èµ·æº
+desert     n æ²™æ¼ ï¼›è’åœ°ï¼›a æ²™æ¼ çš„ï¼›è’å‡‰çš„ï¼›v èˆå¼ƒï¼›
+deserve     v åº”å¾—ï¼›å€¼å¾—
+design     n è®¾è®¡ï¼›å›¾æ¡ˆï¼›v è®¾è®¡ï¼›æ„æ€ï¼›/designer   n è®¾è®¡å¸ˆï¼›/
+desirable     a å€¼å¾—æ‹¥æœ‰çš„ï¼›åˆæ„çš„
+desire     n&vt æ¸´æœ›ï¼ŒæœŸæœ›ï¼›è¦æ±‚
+desperate     a æ‹¼å‘½çš„ï¼Œæåº¦æ¸´æœ›çš„
+despite     p ä¸ç®¡ï¼›å°½ç®¡
+destination     n ç›®çš„åœ°ï¼Œç»ˆç‚¹ï¼›ç›®æ ‡
+destiny     n å‘½è¿ï¼Œå®šæ•°ï¼›/destined   a å‘½ä¸­æ³¨å®šçš„ï¼›/
+destruction     n ç ´åï¼Œæ¯ç­
+destructive     a ç ´åï¼ˆæ€§ï¼‰çš„
+detach     v åˆ†å¼€ï¼Œåˆ†ç¦»
+detail     n ç»†èŠ‚ï¼Œè¯¦æƒ…ï¼›v è¯¦è¿°
+detect     vt ä¾¦æŸ¥ï¼Œæ¢æµ‹ï¼›å¯Ÿè§‰ï¼›/undetected   a æœªè¢«å‘ç°çš„ï¼›/
+detective     n ä¾¦æ¢ï¼›a ä¾¦æ¢çš„
+deter     v å¨æ…‘ï¼Œå“ä½ï¼Œï¼ˆä½¿ï¼‰æ–­å¿µ
+deteriorate     v å˜åï¼›æ¶åŒ–
+determine     v ç¡®å®šï¼›å†³å®šï¼›ï¼ˆä½¿ï¼‰ä¸‹å†³å¿ƒ
+detour     n å¼¯è·¯ï¼Œä¾¿é“ï¼›v è¿‚å›ï¼Œç»•é“
+detract     v å»æ‰ï¼Œå‡æŸ
+detrimental     a æŸå®³çš„ï¼Œæœ‰å®³çš„
+devastating     a æ¯ç­æ€§çš„ï¼›å¼ºæœ‰åŠ›çš„
+develop     v å‘å±•ï¼›ç”Ÿé•¿ï¼Œå½¢æˆï¼›/development   n å‘å±•ï¼›/undeveloped   a æ¬ å‘è¾¾çš„ï¼›/developing   a å‘å±•ä¸­çš„ï¼›/
+deviance     n åå¸¸è€…çš„è¡Œä¸ºï¼ˆæˆ–ç‰¹å¾ï¼‰ï¼›/deviant   a è¶Šå‡ºå¸¸è§„çš„ï¼›/
+device     n å™¨æ¢°ï¼Œè£…ç½®ï¼›æ‰‹æ®µ
+devise     vt è®¾è®¡ï¼Œå‘æ˜
+devote    vt å°†ã€‚ã€‚ã€‚å¥‰çŒ®ç»™ï¼›æŠŠã€‚ã€‚ä¸“ç”¨ï¼ˆäºï¼‰
+diagnose     vt è¯Šæ–­ï¼›åˆ¤æ–­
+diagram     n å›¾è¡¨ï¼Œå›¾è§£
+dialect     n æ–¹è¨€ï¼ŒåœŸè¯­
+diameter     n ç›´å¾„
+dictation     n å¬å†™
+differ     vi ä¸åŒ
+digest     n æ¶ˆåŒ–ï¼›é¢†ä¼šï¼›vt æ–‡æ‘˜ï¼›
+digital     a æ•°å­—çš„ï¼›è®¡æ•°çš„
+dimension     n å°ºå¯¸ï¼›æ–¹é¢ï¼›é¢ç§¯ï¼›/dimensional   a ç©ºé—´çš„ï¼›/
+diminish     v å‡å°‘ï¼›é™ä½
+dioxide     n äºŒæ°§åŒ–ç‰©
+diploma     n æ¯•ä¸šæ–‡å‡­ï¼›èµ„æ ¼è¯ä¹¦
+direction     n æ–¹å‘ï¼›ç”¨æ³•çŸ¥é“ï¼›æŒ‡å¯¼
+directory     n äººååœ°å€å½•ï¼›ï¼ˆç”µè¯ï¼‰å·ç ç°¿
+disadvantage     n ç¼ºç‚¹ï¼Œä¸åˆ©
+disagree     v ä¸åŒæ„ï¼›ä¸ä¸€è‡´ï¼›/disagreement   n äº‰è®ºï¼Œä¸å’Œï¼›/
+disappointing     a ä»¤äººå¤±æœ›çš„ï¼›/disappointment   n å¤±æœ›ï¼›/
+disapprove     v ä¸èµæˆï¼Œåå¯¹
+discard     vt ä¸¢å¼ƒï¼Œé—å¼ƒ
+discipline     n çºªå¾‹ï¼›è®­ç»ƒï¼›å­¦ç§‘
+disclose     vt æ­éœ²ï¼›é€éœ²
+discount     n æŠ˜æ‰£ï¼›vt æŠŠã€‚ã€‚æ‰“æŠ˜æ‰£ï¼›ä¸ï¼ˆå…¨ï¼‰ä¿¡
+discourage     vt ä½¿æ³„æ°”ï¼Œä½¿ç°å¿ƒï¼›é˜»æ­¢
+discover     vt å‘ç°ï¼Œæ‰¾åˆ°ï¼›å‘è§‰ï¼›
+discovery     n å‘ç°ï¼›
+discredit     v æ€€ç–‘ï¼›ä¸§å¤±ä¿¡èª‰ï¼Œï¼ˆä½¿ï¼‰ä¸¢è„¸
+discretion     n åˆ¤æ–­åŠ›ï¼›è°¨æ…ï¼Œå®¡æ…ï¼›
+discriminate     v åŒºåˆ«ï¼›æ­§è§†
 
-list10
-crown     n Íõ¹Ú£» »¨¹Ú£»³İ¹Ú
-crucial     a ÖÁ¹ØÖØÒªµÄ£»¾ö¶¨ĞÔµÄ
-crude     a ÌìÈ»µÄ£»´Ö²ÚµÄ£»´ÖË×µÄ
-cruel     a ²ĞÈÌµÄ£¬²Ğ±©µÄ
-cruise     v&n Ñ²ÓÎ£»º½ĞĞ
-crush     v ÄëËé£»Ñ¹¿å
-cube     n Á¢·½ĞÎ£»Á¢·½
-cucumber     n »Æ¹Ï
-cue     n °µÊ¾£¬ÌáÊ¾
-cultivate     vt ÖÖÖ²£»ÅàÑø
-curative     a ÓĞÁÆĞ§µÄ£»Ò½ÁÆµÄ
-curiosity     n ºÃÆæ£»ºÃÆæĞÄ
-curious     a ºÃÆæµÄ£»Ææ¹ÖµÄ
-curly     a ¾íÇúµÄ£»²¨ÀËÊ½µÄ
-currency     n »õ±Ò£»Á÷ĞĞ
-current     n Ë®Á÷£»ÆøÁ÷£»a µ±Ç°µÄ£»Á÷¶¯µÄ
-currently     ad µ±Ç°£»Í¨³£µØ
-curriculum     n ¿Î³Ì£¬£¨Ñ§Ğ£µÈµÄ£©È«²¿¿Î³Ì
-curry     n ¿§à¬
-curtain     n ´°Á±£¬ÃÅÁ±
-cylinder     n Ô²ÖùÌå£»Æû¸×
-dairy     n Å£ÄÌ³¡£»ÄÌÖÆÆ·
-damage     n Ëğº¦£»Åâ³¥½ğ£»vt Ëğº¦
-damp      a ³±ÊªµÄ£»vt Ê¹³±Êª
-darkroom     n °µÊÒ
-dash     n ÃÍ³å£»v £¨Ê¹£©ÃÍ³å£»´ÒÃ¦Íê³É
-data     n Êı¾İ£»×ÊÁÏ
-database     n Êı¾İ¿â
-dazzle     vt Ê¹ìÅÄ¿£»n Ò«ÑÛµÄ¹â
-deadline     n ×îºóÆÚÏŞ
-dealer     n ÉÌÈË£¬¾­ÏúÉÌ
-dean      n £¨»ù¶½½ÌµÄ£©½Ì³¤£»£¨´óÑ§µÄ£©Ôº³¤
-debate     n&vi ÕùÂÛ£¬±çÂÛ
-debris     n ·ÏĞæ£¬²Ğº¡£»ËéÆ¬
-decade     n Ê®Äê£¬Ê®ÄêÆÚ
-decapitate     vt Õ¶Ê×
-decay     v&n ¸¯ÀÃ£¬¸¯Ğà
-deceive     v ÆÛÆ­£¬ÃÉ±Î£»/deceptively     ad ÃÔ»óµØ£»ĞéÎ±µØ£»/
-decent     a ´ó·½µÄ£»ºÏÊÊµÄ£¬ÏñÑùµÄ
-decibel     n ·Ö±´
-decipher     v ÆÆÒë£¬½âÊÍ
-decisive     a ¾ö¶¨ĞÔµÄ£»¹û¶ÏµÄ
-declaration     n Ğû²¼£»ĞûÑÔ£¬ÉùÃ÷
-declare     v ÕıÊ½Ğû²¼£»ÉùÃ÷£»¶ÏÑÔ
-decline     n&v ÏÂ½µ£¬¼õÉÙ£»Ë¥ÍË
-decompose     v ·Ö½â£¬£¨Ê¹£©¸¯ÀÃ
-decompression     n ¼õÑ¹£»¼õÑ¹ÊÒ
-decorate     vt ×°ÊÎ£¬×°äê£»/decoration   n ×°ÊÎ£¬×°äê£»/
-decouple     v ¼õÈõ£¬¼õÉÙ
-decrease     v&n ¼õÉÙ
-decrepit     a ÆÆ¾ÉµÄ£»Ë¥ÀÏµÄ
-dedicate     v Ï×£¨Éí£©
-deem     vt ÈÏÎª
-defeat     v »÷°Ü£»´ì°Ü£»n Õ½Ê¤£¬»÷°Ü
-defect     n È±µã£¬²»×ãÖ®´¦£»v ÅÑ±ä
-£»/defective   a ÓÅÈ±µãµÄ£»/
-defendant     n ±»¸æ
-deficiency     n È±·¦£¬²»×ã
-define     v ÏÂ¶¨Òå£»ÏŞ¶¨
-definite     a Ã÷È·µÄ£¬¿Ï¶¨µÄ
-definition     n ¶¨Òå£¬ÊÍÒå£»ÇåÎú£¨¶È£©
-degrade     v £¨Ê¹£©½µ¼¶£»£¨Ê¹£©¶éÂä
-delegate     n ´ú±í£»vt Î¯ÅÉ¡£¡£Îª´ú±í
-deliberate     a ¹ÊÒâµÄ£»ÉîË¼ÊìÂÇµÄ
-delicate     a ÏËÏ¸µÄ£»¾«ÇÉµÄ£»Î¢ÃîµÄ
-delinquency     n Ê§Ö°£»ĞĞÎª²»Á¼
-delivery     n Í¶µİ£¬½»¸¶£»·ÖÃä
-delta     n Èı½ÇÖŞ
-demand     n ÒªÇó£»ĞèÇó£¨Á¿£©£»v ÒªÇó£»ĞèÇó£»Ñ¯ÎÊ
-democratic     a ÃñÖ÷µÄ£¬ÃñÖ÷¾«ÉñµÄ
-demographic     a ÈË¿ÚÍ³¼ÆÑ§µÄ£»ÈË¿Ú
+crown     n ç‹å† ï¼› èŠ±å† ï¼›é½¿å† 
+crucial     a è‡³å…³é‡è¦çš„ï¼›å†³å®šæ€§çš„
+crude     a å¤©ç„¶çš„ï¼›ç²—ç³™çš„ï¼›ç²—ä¿—çš„
+cruel     a æ®‹å¿çš„ï¼Œæ®‹æš´çš„
+cruise     v&n å·¡æ¸¸ï¼›èˆªè¡Œ
+crush     v ç¢¾ç¢ï¼›å‹å®
+cube     n ç«‹æ–¹å½¢ï¼›ç«‹æ–¹
+cucumber     n é»„ç“œ
+cue     n æš—ç¤ºï¼Œæç¤º
+cultivate     vt ç§æ¤ï¼›åŸ¹å…»
+curative     a æœ‰ç–—æ•ˆçš„ï¼›åŒ»ç–—çš„
+curiosity     n å¥½å¥‡ï¼›å¥½å¥‡å¿ƒ
+curious     a å¥½å¥‡çš„ï¼›å¥‡æ€ªçš„
+curly     a å·æ›²çš„ï¼›æ³¢æµªå¼çš„
+currency     n è´§å¸ï¼›æµè¡Œ
+current     n æ°´æµï¼›æ°”æµï¼›a å½“å‰çš„ï¼›æµåŠ¨çš„
+currently     ad å½“å‰ï¼›é€šå¸¸åœ°
+curriculum     n è¯¾ç¨‹ï¼Œï¼ˆå­¦æ ¡ç­‰çš„ï¼‰å…¨éƒ¨è¯¾ç¨‹
+curry     n å’–å–±
+curtain     n çª—å¸˜ï¼Œé—¨å¸˜
+cylinder     n åœ†æŸ±ä½“ï¼›æ±½ç¼¸
+dairy     n ç‰›å¥¶åœºï¼›å¥¶åˆ¶å“
+damage     n æŸå®³ï¼›èµ”å¿é‡‘ï¼›vt æŸå®³
+damp      a æ½®æ¹¿çš„ï¼›vt ä½¿æ½®æ¹¿
+darkroom     n æš—å®¤
+dash     n çŒ›å†²ï¼›v ï¼ˆä½¿ï¼‰çŒ›å†²ï¼›åŒ†å¿™å®Œæˆ
+data     n æ•°æ®ï¼›èµ„æ–™
+database     n æ•°æ®åº“
+dazzle     vt ä½¿ç‚«ç›®ï¼›n è€€çœ¼çš„å…‰
+deadline     n æœ€åæœŸé™
+dealer     n å•†äººï¼Œç»é”€å•†
+dean      n ï¼ˆåŸºç£æ•™çš„ï¼‰æ•™é•¿ï¼›ï¼ˆå¤§å­¦çš„ï¼‰é™¢é•¿
+debate     n&vi äº‰è®ºï¼Œè¾©è®º
+debris     n åºŸå¢Ÿï¼Œæ®‹éª¸ï¼›ç¢ç‰‡
+decade     n åå¹´ï¼Œåå¹´æœŸ
+decapitate     vt æ–©é¦–
+decay     v&n è…çƒ‚ï¼Œè…æœ½
+deceive     v æ¬ºéª—ï¼Œè’™è”½ï¼›/deceptively     ad è¿·æƒ‘åœ°ï¼›è™šä¼ªåœ°ï¼›/
+decent     a å¤§æ–¹çš„ï¼›åˆé€‚çš„ï¼Œåƒæ ·çš„
+decibel     n åˆ†è´
+decipher     v ç ´è¯‘ï¼Œè§£é‡Š
+decisive     a å†³å®šæ€§çš„ï¼›æœæ–­çš„
+declaration     n å®£å¸ƒï¼›å®£è¨€ï¼Œå£°æ˜
+declare     v æ­£å¼å®£å¸ƒï¼›å£°æ˜ï¼›æ–­è¨€
+decline     n&v ä¸‹é™ï¼Œå‡å°‘ï¼›è¡°é€€
+decompose     v åˆ†è§£ï¼Œï¼ˆä½¿ï¼‰è…çƒ‚
+decompression     n å‡å‹ï¼›å‡å‹å®¤
+decorate     vt è£…é¥°ï¼Œè£…æ½¢ï¼›/decoration   n è£…é¥°ï¼Œè£…æ½¢ï¼›/
+decouple     v å‡å¼±ï¼Œå‡å°‘
+decrease     v&n å‡å°‘
+decrepit     a ç ´æ—§çš„ï¼›è¡°è€çš„
+dedicate     v çŒ®ï¼ˆèº«ï¼‰
+deem     vt è®¤ä¸º
+defeat     v å‡»è´¥ï¼›æŒ«è´¥ï¼›n æˆ˜èƒœï¼Œå‡»è´¥
+defect     n ç¼ºç‚¹ï¼Œä¸è¶³ä¹‹å¤„ï¼›v å›å˜
+ï¼›/defective   a ä¼˜ç¼ºç‚¹çš„ï¼›/
+defendant     n è¢«å‘Š
+deficiency     n ç¼ºä¹ï¼Œä¸è¶³
+define     v ä¸‹å®šä¹‰ï¼›é™å®š
+definite     a æ˜ç¡®çš„ï¼Œè‚¯å®šçš„
+definition     n å®šä¹‰ï¼Œé‡Šä¹‰ï¼›æ¸…æ™°ï¼ˆåº¦ï¼‰
+degrade     v ï¼ˆä½¿ï¼‰é™çº§ï¼›ï¼ˆä½¿ï¼‰å •è½
+delegate     n ä»£è¡¨ï¼›vt å§”æ´¾ã€‚ã€‚ä¸ºä»£è¡¨
+deliberate     a æ•…æ„çš„ï¼›æ·±æ€ç†Ÿè™‘çš„
+delicate     a çº¤ç»†çš„ï¼›ç²¾å·§çš„ï¼›å¾®å¦™çš„
+delinquency     n å¤±èŒï¼›è¡Œä¸ºä¸è‰¯
+delivery     n æŠ•é€’ï¼Œäº¤ä»˜ï¼›åˆ†å¨©
+delta     n ä¸‰è§’æ´²
+demand     n è¦æ±‚ï¼›éœ€æ±‚ï¼ˆé‡ï¼‰ï¼›v è¦æ±‚ï¼›éœ€æ±‚ï¼›è¯¢é—®
+democratic     a æ°‘ä¸»çš„ï¼Œæ°‘ä¸»ç²¾ç¥çš„
+demographic     a äººå£ç»Ÿè®¡å­¦çš„ï¼›äººå£
 
-list9
-contempt     n ÇáÊÓ£»ÃïÊÓ
-content     a ÂúÒâµÄ£»n ÄÚÈİ£»ÂúÒâ£»vt Ê¹ÂúÒâ
-continent     n ´óÂ½/continental   a ´óÂ½µÄ£»n Å·ÖŞÈË/
-contingency     n Å¼È»£¬¿ÉÄÜĞÔ£»ÒâÍâÊÂ¼ş£»½ô¼±ÊÂ¼ş
-continually     ad Á¬ĞøµØ£¬³ÖĞøµØ
-continuity     n Á¬Ğø£¨ĞÔ£©£»³ÖĞø£¨ĞÔ£©
-continuous     a Á¬Ğø²»¶ÏµÄ£»/continuously   ad ²»¶ÏµØ£¬Á¬ĞøµØ/
-contract     n ÆõÔ¼£¬ºÏÍ¬£»v ËõĞ¡£»Ç©Ô¼
-contradict     vt ·´²µ£»Óë¡£¡£·¢ÉúÃ¬¶Ü
-contrary     a Ïà·´µÄ£»n Ïà·´
-contrast     n ¶Ô±È£»¶ÔÕÕ£»vt ¶Ô±È£»¶ÔÕÕ£»vi ĞÎ³É¶Ô±È
-contribute     v Æğ×÷ÓÃ£¬Ó°Ïì£»´Ù³É¡£¡£¡£ÒòËØ;/contribution   n ×÷ÓÃ£¬Ó°Ïì£»/contributor   n ´Ù³ÉÒòËØ£»/  
-contrived     a ÈËÎªµÄ
-controversial     a ÕùÂÛµÄ
-convenience     n ·½±ã£»±ãÀûÉèÊ©;/inconvenience   n Âé·³£»/
-convenient     a ·½±ãµÄ
-conventional     a Ï°¹ßµÄ£¬³£¹æµÄ£»´«Í³µÄ
-conversion     n ×ª»¯£»¶Ò»»
-convert     v ¸Ä±ä£»×ª±ä£»¸Ä×°
-convey     vt ±í´ï£¬´«µİ£»ÔËËÍ
-conviction     n ÅĞ×ï
-convince     v £¨Ê¹£©È·ĞÅ£»Ëµ·ş
-cookery     n Åëµ÷·¨
-cooperate     vi ºÏ×÷£»Ğ­×÷£»/cooperation   n ºÏ×÷£¬Ğ­×÷£»/cooperative   a ºÏ×÷µÄ£»/
-coordinate     vt Ğ­µ÷£»µ÷½Ú£»ÅäºÏ
-coordinator     n Ğ­µ÷Õß
-cope     vi £¨³É¹¦µØ£©Ó¦¸¶£»(Í×ÉÆµØ£©´¦Àí
-cord     n Ïß£»´ø
-cork     n ÈíÄ¾Èû£»vt ÓÃÈíÄ¾ÈûÈû×¡
-corporate     a ÍÅÌåµÄ£»·¨ÈËµÄ£¬¹«Ë¾µÄ£»/corporation   n ¹«Ë¾£»ÉçÍÅ/
-corps     n ²¿¶Ó£»±øÖÖ
-corpus     n È«¼¯£¬È«²¿×ÊÁÏ
-correspond     vi ÏàÒ»ÖÂ£¬Ïà·ûºÏ£»/correspondence   n Í¨Ñ¶£»·ûºÏ£»/corresponding   a ÏàÓ¦µÄ£»/
-corridor     n ×ßÀÈ
-corrode     v ¸¯Ê´£»ÇÖÊ´
-cosmopolitan     a ÊÀ½çĞÔµÄ£¬È«ÇòµÄ
-cosset     vt ³è°®£¬Äç°®
-costume     n Ï·×°£»£¨ÌØ¶¨³¡ºÏ´©µÄ)³ÉÌ×·ş×° 
-council     n ÀíÊÂ»á£¬Î¯Ô±»á
-counsel     n ÂÉÊ¦£¬·¨ÂÉ¹ËÎÊ£»ÖÒ¸æ
-counter     n ¹ñÌ¨£»ad Ïà·´µØ
-counterpart     n Óë¶Ô·½µØÎ»Ïàµ±µÄÈË£»Åä¶ÔÎï
-county     n £¨Ó¢£©¿¤£¬£¨ÃÀ£©ÏØ
-coupon     n ÓÅ»İÈ¯£»Æ±Ö¤¡¢
-courageous     a ÓÂ¸ÒµÄ£¬ÓĞµ¨Á¿µÄ
-cover     v ¸²¸Ç£»°üº¬
-coverage     n ĞÂÎÅ±¨µÀ£»¸²¸Ç·¶Î§
-crack     v £¨Ê¹£©ÆÆÁÑ£»n ÁÑ·ì
-craft     n ¹¤ÒÕ£¬ÊÖÒÕ£»´¬£»º½¿ÕÆ÷
-crank     n Çú±ú£¬ÇúÖá£»v ÓÃÇú±ú×ª¶¯Ä³Îï
-crash     n&v Åö×²£»×¹Âä£»a  ËÙ³ÉµÄ
-crater     n »ğÉ½¿Ú£»¿Ó
-crawl     vi ÅÀ¡£ÅÀĞĞ£»»ºÂıµØ½øĞĞ
-create     vt ´´Ôì£»²úÉú
-creation     n ´´Ôì£»×÷Æ·£»/creation   n ÏûÇ²£»/
-creative     a ´´ÔìĞÔµÄ£¬´´×÷µÄ
-credible     a ¿ÉĞÅµÄ£¬¿É¿¿µÄ
-credit     n ĞÅÈÎ£¬ĞÅÓÃ£»ĞÅ´û£»v ¼ÇÈë´û·½£»°Ñ¡£¡£¹éÓÚ;/discredit   v ²»ĞÅÈÎ£¬»³ÒÉ/
-crescent     n ĞÂÔÂĞÎ£¨Îï£©£»a ĞÂÔÂĞÎµÄ
-crew     n È«Ìå´¬Ô±£»Ò»¶Ó¹¤×÷ÈËÔ±
-cricket     n °åÇòÔË¶¯£»ó¬ó°
-crime     n ×ïĞĞ£»·¸×ï
-criminal     n ×ï·¸£»a ·¸×ïµÄ£»ĞÌÊÂµÄ
-crisis     n Î£»ú£»¹Ø¼üÊ±¿Ì
-crisp     a ´àµÄ£»ÀûÂäµÄ£»n ÓÍÕ¨ÍÁ¶¹Æ¬
-critic     n ÅúÆÀ¼Ò£»°®ÌôÌŞµÄ
-criticize     vt ÅúÆÀ£»ÆÀÂÛ
-crockery     n ÌÕÆ÷£»ÍßÆ÷
-crossword     n Ìî×ÖÓÎÏ·
-crowded     a Óµ¼·µÄ£»ÈûÂúµÄ
+contempt     n è½»è§†ï¼›è”‘è§†
+content     a æ»¡æ„çš„ï¼›n å†…å®¹ï¼›æ»¡æ„ï¼›vt ä½¿æ»¡æ„
+continent     n å¤§é™†/continental   a å¤§é™†çš„ï¼›n æ¬§æ´²äºº/
+contingency     n å¶ç„¶ï¼Œå¯èƒ½æ€§ï¼›æ„å¤–äº‹ä»¶ï¼›ç´§æ€¥äº‹ä»¶
+continually     ad è¿ç»­åœ°ï¼ŒæŒç»­åœ°
+continuity     n è¿ç»­ï¼ˆæ€§ï¼‰ï¼›æŒç»­ï¼ˆæ€§ï¼‰
+continuous     a è¿ç»­ä¸æ–­çš„ï¼›/continuously   ad ä¸æ–­åœ°ï¼Œè¿ç»­åœ°/
+contract     n å¥‘çº¦ï¼ŒåˆåŒï¼›v ç¼©å°ï¼›ç­¾çº¦
+contradict     vt åé©³ï¼›ä¸ã€‚ã€‚å‘ç”ŸçŸ›ç›¾
+contrary     a ç›¸åçš„ï¼›n ç›¸å
+contrast     n å¯¹æ¯”ï¼›å¯¹ç…§ï¼›vt å¯¹æ¯”ï¼›å¯¹ç…§ï¼›vi å½¢æˆå¯¹æ¯”
+contribute     v èµ·ä½œç”¨ï¼Œå½±å“ï¼›ä¿ƒæˆã€‚ã€‚ã€‚å› ç´ ;/contribution   n ä½œç”¨ï¼Œå½±å“ï¼›/contributor   n ä¿ƒæˆå› ç´ ï¼›/
+contrived     a äººä¸ºçš„
+controversial     a äº‰è®ºçš„
+convenience     n æ–¹ä¾¿ï¼›ä¾¿åˆ©è®¾æ–½;/inconvenience   n éº»çƒ¦ï¼›/
+convenient     a æ–¹ä¾¿çš„
+conventional     a ä¹ æƒ¯çš„ï¼Œå¸¸è§„çš„ï¼›ä¼ ç»Ÿçš„
+conversion     n è½¬åŒ–ï¼›å…‘æ¢
+convert     v æ”¹å˜ï¼›è½¬å˜ï¼›æ”¹è£…
+convey     vt è¡¨è¾¾ï¼Œä¼ é€’ï¼›è¿é€
+conviction     n åˆ¤ç½ª
+convince     v ï¼ˆä½¿ï¼‰ç¡®ä¿¡ï¼›è¯´æœ
+cookery     n çƒ¹è°ƒæ³•
+cooperate     vi åˆä½œï¼›åä½œï¼›/cooperation   n åˆä½œï¼Œåä½œï¼›/cooperative   a åˆä½œçš„ï¼›/
+coordinate     vt åè°ƒï¼›è°ƒèŠ‚ï¼›é…åˆ
+coordinator     n åè°ƒè€…
+cope     vi ï¼ˆæˆåŠŸåœ°ï¼‰åº”ä»˜ï¼›(å¦¥å–„åœ°ï¼‰å¤„ç†
+cord     n çº¿ï¼›å¸¦
+cork     n è½¯æœ¨å¡ï¼›vt ç”¨è½¯æœ¨å¡å¡ä½
+corporate     a å›¢ä½“çš„ï¼›æ³•äººçš„ï¼Œå…¬å¸çš„ï¼›/corporation   n å…¬å¸ï¼›ç¤¾å›¢/
+corps     n éƒ¨é˜Ÿï¼›å…µç§
+corpus     n å…¨é›†ï¼Œå…¨éƒ¨èµ„æ–™
+correspond     vi ç›¸ä¸€è‡´ï¼Œç›¸ç¬¦åˆï¼›/correspondence   n é€šè®¯ï¼›ç¬¦åˆï¼›/corresponding   a ç›¸åº”çš„ï¼›/
+corridor     n èµ°å»Š
+corrode     v è…èš€ï¼›ä¾µèš€
+cosmopolitan     a ä¸–ç•Œæ€§çš„ï¼Œå…¨çƒçš„
+cosset     vt å® çˆ±ï¼Œæººçˆ±
+costume     n æˆè£…ï¼›ï¼ˆç‰¹å®šåœºåˆç©¿çš„)æˆå¥—æœè£…
+council     n ç†äº‹ä¼šï¼Œå§”å‘˜ä¼š
+counsel     n å¾‹å¸ˆï¼Œæ³•å¾‹é¡¾é—®ï¼›å¿ å‘Š
+counter     n æŸœå°ï¼›ad ç›¸ååœ°
+counterpart     n ä¸å¯¹æ–¹åœ°ä½ç›¸å½“çš„äººï¼›é…å¯¹ç‰©
+county     n ï¼ˆè‹±ï¼‰éƒ¡ï¼Œï¼ˆç¾ï¼‰å¿
+coupon     n ä¼˜æƒ åˆ¸ï¼›ç¥¨è¯ã€
+courageous     a å‹‡æ•¢çš„ï¼Œæœ‰èƒ†é‡çš„
+cover     v è¦†ç›–ï¼›åŒ…å«
+coverage     n æ–°é—»æŠ¥é“ï¼›è¦†ç›–èŒƒå›´
+crack     v ï¼ˆä½¿ï¼‰ç ´è£‚ï¼›n è£‚ç¼
+craft     n å·¥è‰ºï¼Œæ‰‹è‰ºï¼›èˆ¹ï¼›èˆªç©ºå™¨
+crank     n æ›²æŸ„ï¼Œæ›²è½´ï¼›v ç”¨æ›²æŸ„è½¬åŠ¨æŸç‰©
+crash     n&v ç¢°æ’ï¼›å è½ï¼›a  é€Ÿæˆçš„
+crater     n ç«å±±å£ï¼›å‘
+crawl     vi çˆ¬ã€‚çˆ¬è¡Œï¼›ç¼“æ…¢åœ°è¿›è¡Œ
+create     vt åˆ›é€ ï¼›äº§ç”Ÿ
+creation     n åˆ›é€ ï¼›ä½œå“ï¼›/creation   n æ¶ˆé£ï¼›/
+creative     a åˆ›é€ æ€§çš„ï¼Œåˆ›ä½œçš„
+credible     a å¯ä¿¡çš„ï¼Œå¯é çš„
+credit     n ä¿¡ä»»ï¼Œä¿¡ç”¨ï¼›ä¿¡è´·ï¼›v è®°å…¥è´·æ–¹ï¼›æŠŠã€‚ã€‚å½’äº;/discredit   v ä¸ä¿¡ä»»ï¼Œæ€€ç–‘/
+crescent     n æ–°æœˆå½¢ï¼ˆç‰©ï¼‰ï¼›a æ–°æœˆå½¢çš„
+crew     n å…¨ä½“èˆ¹å‘˜ï¼›ä¸€é˜Ÿå·¥ä½œäººå‘˜
+cricket     n æ¿çƒè¿åŠ¨ï¼›èŸ‹èŸ€
+crime     n ç½ªè¡Œï¼›çŠ¯ç½ª
+criminal     n ç½ªçŠ¯ï¼›a çŠ¯ç½ªçš„ï¼›åˆ‘äº‹çš„
+crisis     n å±æœºï¼›å…³é”®æ—¶åˆ»
+crisp     a è„†çš„ï¼›åˆ©è½çš„ï¼›n æ²¹ç‚¸åœŸè±†ç‰‡
+critic     n æ‰¹è¯„å®¶ï¼›çˆ±æŒ‘å‰”çš„
+criticize     vt æ‰¹è¯„ï¼›è¯„è®º
+crockery     n é™¶å™¨ï¼›ç“¦å™¨
+crossword     n å¡«å­—æ¸¸æˆ
+crowded     a æ‹¥æŒ¤çš„ï¼›å¡æ»¡çš„
 
-list8
-complex     a ¸´ÔÓµÄ£»n ×ÛºÏÌå
-complicated     a ¸´ÔÓµÄ£¬ÄÑ¶®µÄ
-compliment     n ÔŞÃÀ
-comply     vi ×ñ´Ó£»·ş´Ó
-component     n ³É·Ö£»Áã²¿¼ş£»a ¹¹³ÉµÄ
-compose     v ×é³É£¬¹¹³É£»´´×÷£¨ÀÖÇúµÈ£©
-compound     n »¯ºÏÎï£»a ¸´ºÏµÄ£¬×ÛºÏµÄ£»vt Ê¹¶ñ»¯£»Ê¹ºÏ³É
-comprehension     n Àí½â£»Àí½âÁ¦
-comprehensive     a È«ÃæµÄ£¬×ÛºÏµÄ
-compress     vt Ñ¹½ô£»Ñ¹Ëõ
-comprise     vt °üº¬£»ÓÉ¡£¡£×é³É
-compromise     n Í×Ğ­
-compulsively     ad Ç¿ÖÆµØ£»½û²»×¡µØ
-compulsory     a ÒåÎñµÄ£»±ØĞë×öµÄ
-conceal     v Òş²Ø£»ÒşÂ÷
-concede     v (²»ÇéÔ¸µØ£©³ĞÈÏ£»ÈÃ²½
-conceive     vt £¨¹¹£©Ïë³ö£»»³£¨Ì¥£©£»vi £¨of£©ÉèÏë£»»³ÔĞ
-concentrate     v È«Éñ¹á×¢£»¾Û¼¯
-concentration     n ¼¯ÖĞ£¬¾Û¼¯£¬¼¯ºÏ£»×¨×¢
-concept     n ¸ÅÄî£»¹ÛÄî£»ÉèÏë
-conception     n ¹ÛÄî£»¸ÅÄî/misconception   n Îó½â/
-concern     n ¹ØĞÄ£»¹Ø×¢£»vt Éæ¼°£»Ê¹¹ØĞÄ
-concert     n ÒôÀÖ»á£¬Ñİ×à»á
-concession     n ÈÃ²½£»ÌØĞíÈ¨£»³ĞÈÏ
-conclude     v ÍÆ¶Ï³ö£»×ö½áÂÛ
-conclusion     n ½áÂÛ
-concrete     a ÊµÔÚµÄ£¬¾ßÌåµÄ£»n »ìÄıÍÁ
-condense     v (Ê¹£©Ñ¹Ëõ£¬¾«¼ò
-condition     n Ìõ¼ş£»×´¿ö£»»·¾³
-conduct     n ¾ÙÖ¹£»Ö¸µ¼£»¹ÜÀí£»vt Ö¸µ¼£»¹ÜÀí£¬ÊµÊ©
-conference     n £¨ÕıÊ½£©»áÒé
-confidence     n ĞÅÈÎ£»ĞÅĞÄ
-confine     v ÏŞÖÆ¡£½öÏŞÓÚ£»n ½çÏŞ
-confirm     vt Ö¤Êµ£¬¿Ï¶¨£»Åú×¼/confirmation   n Ö¤Êµ£»Åú×¼/
-conflict     n&vi ³åÍ»
-conform     vi  ×ñÊØ£»Ïà·û
-confront     vt ÔâÓö£»Ãæ¶Ô£¬ÕıÊÓ
-confusion     n À§»ó£»»ìÏı£»É§ÂÒ
-congested     a Óµ¼·²»¿°µÄ£»³äÈûµÄ/congestion   n Óµ¼·£¬Óµ¶Â/
-congratulate     vt ×£ºØ
-conjunction     n Á¬½Ó£»Á¬´Ê
-connect     v Á¬½Ó£»¹ØÁª£»ÁªÏµ
-connection     n Á¬½Ó£»¹ØÏµ
-conscious     a×Ô¾õµÄ£»ÒâÊ¶µ½µÄ£»ÉñÖ¾ÇåĞÑµÄ
-consequence     n ½á¹û£»Ó°Ïì£»ÖØÒªÒâÒå
-consequent     a ×÷Îª½á¹ûµÄ£»ËæÖ®·¢ÉúµÄ/consequential   a ½á¹ûµÄ/
-consequently     ad Òò´Ë£¬Òò¶ø
-conservation     n ±£´æ£»±£»¤
-conservative     a ±£ÊØµÄ£»´«Í³µÄ£»n ±£ÊØµÄÈË
-conserve     vt ±£»¤£»±£´æ£¬Öü´æ
-considerable     a Ïàµ±´ó£¨»ò¶à£©µÄ£»ÖØÒªµÄ
-consideration     n Ë¼¿¼£»¿¼ÂÇ
-consist     vi ÓÉ¡£¡£×é³É£»Ò»ÖÂ/consistency   n Ò»ÖÂĞÔ£»/consistent   a Ò»ÖÂµÄ£»Ïà·ûµÄ£»/consistently   ad Ê¼ÖÕÈçÒ»µØ/
-consolation     n °²Î¿
-consolidation     n ºÏ²¢¡£¹®¹Ì
-consortium     n ¼¯ÍÅ£»²ÆÍÅ
-constantly     ad ¾­³££»²»¶ÏµØ
-constitute     vt ×é³É£»¹¹³É£»ÉèÁ¢£»ÈÎÃü
-constitution     n ÏÜ·¨£»ÕÂ³Ì£»×é³É£»ÉèÁ¢
-constrain     vt ÆÈÊ¹£»Ô¼Êø
-construction     n ½¨Ôì£»½¨ÖşÎï£»¹¹Ôì
-consult     vt Çë½Ì£»²éÔÄ£»ÉÌÒé/consultation   n Çë½Ì£»×ÉÑ¯/
-consultant     n ¹ËÎÊ£»×¨¿ÆÒ½Éú
-consumer     n Ïû·ÑÕß£»ÓÃ»§£»/consumerism   n Ïû·Ñ£¬Ïû·ÑÖ÷Òå/
-consumption     n ÏûºÄ£¨Á¿£©£»Ïû·Ñ£¨Á¿£©
-contact     n ½Ó´¥£»ÁªÏµ£»vt Óë¡£¡£È¡µÃÁªÏµ
-contain     v °üº¬/container   n ÈİÆ÷/
-contaminate     vt ÎÛÈ¾
-contemplate     vt Ë¼Á¿£»ÄıÊÓ£»´òËã
-contemporary     a µ±´úµÄ£»Í¬Ê±´úµÄ£»nÍ¬´úÈË£¬µ±´úÈË
+complex     a å¤æ‚çš„ï¼›n ç»¼åˆä½“
+complicated     a å¤æ‚çš„ï¼Œéš¾æ‡‚çš„
+compliment     n èµç¾
+comply     vi éµä»ï¼›æœä»
+component     n æˆåˆ†ï¼›é›¶éƒ¨ä»¶ï¼›a æ„æˆçš„
+compose     v ç»„æˆï¼Œæ„æˆï¼›åˆ›ä½œï¼ˆä¹æ›²ç­‰ï¼‰
+compound     n åŒ–åˆç‰©ï¼›a å¤åˆçš„ï¼Œç»¼åˆçš„ï¼›vt ä½¿æ¶åŒ–ï¼›ä½¿åˆæˆ
+comprehension     n ç†è§£ï¼›ç†è§£åŠ›
+comprehensive     a å…¨é¢çš„ï¼Œç»¼åˆçš„
+compress     vt å‹ç´§ï¼›å‹ç¼©
+comprise     vt åŒ…å«ï¼›ç”±ã€‚ã€‚ç»„æˆ
+compromise     n å¦¥å
+compulsively     ad å¼ºåˆ¶åœ°ï¼›ç¦ä¸ä½åœ°
+compulsory     a ä¹‰åŠ¡çš„ï¼›å¿…é¡»åšçš„
+conceal     v éšè—ï¼›éšç’
+concede     v (ä¸æƒ…æ„¿åœ°ï¼‰æ‰¿è®¤ï¼›è®©æ­¥
+conceive     vt ï¼ˆæ„ï¼‰æƒ³å‡ºï¼›æ€€ï¼ˆèƒï¼‰ï¼›vi ï¼ˆofï¼‰è®¾æƒ³ï¼›æ€€å­•
+concentrate     v å…¨ç¥è´¯æ³¨ï¼›èšé›†
+concentration     n é›†ä¸­ï¼Œèšé›†ï¼Œé›†åˆï¼›ä¸“æ³¨
+concept     n æ¦‚å¿µï¼›è§‚å¿µï¼›è®¾æƒ³
+conception     n è§‚å¿µï¼›æ¦‚å¿µ/misconception   n è¯¯è§£/
+concern     n å…³å¿ƒï¼›å…³æ³¨ï¼›vt æ¶‰åŠï¼›ä½¿å…³å¿ƒ
+concert     n éŸ³ä¹ä¼šï¼Œæ¼”å¥ä¼š
+concession     n è®©æ­¥ï¼›ç‰¹è®¸æƒï¼›æ‰¿è®¤
+conclude     v æ¨æ–­å‡ºï¼›åšç»“è®º
+conclusion     n ç»“è®º
+concrete     a å®åœ¨çš„ï¼Œå…·ä½“çš„ï¼›n æ··å‡åœŸ
+condense     v (ä½¿ï¼‰å‹ç¼©ï¼Œç²¾ç®€
+condition     n æ¡ä»¶ï¼›çŠ¶å†µï¼›ç¯å¢ƒ
+conduct     n ä¸¾æ­¢ï¼›æŒ‡å¯¼ï¼›ç®¡ç†ï¼›vt æŒ‡å¯¼ï¼›ç®¡ç†ï¼Œå®æ–½
+conference     n ï¼ˆæ­£å¼ï¼‰ä¼šè®®
+confidence     n ä¿¡ä»»ï¼›ä¿¡å¿ƒ
+confine     v é™åˆ¶ã€‚ä»…é™äºï¼›n ç•Œé™
+confirm     vt è¯å®ï¼Œè‚¯å®šï¼›æ‰¹å‡†/confirmation   n è¯å®ï¼›æ‰¹å‡†/
+conflict     n&vi å†²çª
+conform     vi  éµå®ˆï¼›ç›¸ç¬¦
+confront     vt é­é‡ï¼›é¢å¯¹ï¼Œæ­£è§†
+confusion     n å›°æƒ‘ï¼›æ··æ·†ï¼›éªšä¹±
+congested     a æ‹¥æŒ¤ä¸å ªçš„ï¼›å……å¡çš„/congestion   n æ‹¥æŒ¤ï¼Œæ‹¥å µ/
+congratulate     vt ç¥è´º
+conjunction     n è¿æ¥ï¼›è¿è¯
+connect     v è¿æ¥ï¼›å…³è”ï¼›è”ç³»
+connection     n è¿æ¥ï¼›å…³ç³»
+conscious     aè‡ªè§‰çš„ï¼›æ„è¯†åˆ°çš„ï¼›ç¥å¿—æ¸…é†’çš„
+consequence     n ç»“æœï¼›å½±å“ï¼›é‡è¦æ„ä¹‰
+consequent     a ä½œä¸ºç»“æœçš„ï¼›éšä¹‹å‘ç”Ÿçš„/consequential   a ç»“æœçš„/
+consequently     ad å› æ­¤ï¼Œå› è€Œ
+conservation     n ä¿å­˜ï¼›ä¿æŠ¤
+conservative     a ä¿å®ˆçš„ï¼›ä¼ ç»Ÿçš„ï¼›n ä¿å®ˆçš„äºº
+conserve     vt ä¿æŠ¤ï¼›ä¿å­˜ï¼Œè´®å­˜
+considerable     a ç›¸å½“å¤§ï¼ˆæˆ–å¤šï¼‰çš„ï¼›é‡è¦çš„
+consideration     n æ€è€ƒï¼›è€ƒè™‘
+consist     vi ç”±ã€‚ã€‚ç»„æˆï¼›ä¸€è‡´/consistency   n ä¸€è‡´æ€§ï¼›/consistent   a ä¸€è‡´çš„ï¼›ç›¸ç¬¦çš„ï¼›/consistently   ad å§‹ç»ˆå¦‚ä¸€åœ°/
+consolation     n å®‰æ…°
+consolidation     n åˆå¹¶ã€‚å·©å›º
+consortium     n é›†å›¢ï¼›è´¢å›¢
+constantly     ad ç»å¸¸ï¼›ä¸æ–­åœ°
+constitute     vt ç»„æˆï¼›æ„æˆï¼›è®¾ç«‹ï¼›ä»»å‘½
+constitution     n å®ªæ³•ï¼›ç« ç¨‹ï¼›ç»„æˆï¼›è®¾ç«‹
+constrain     vt è¿«ä½¿ï¼›çº¦æŸ
+construction     n å»ºé€ ï¼›å»ºç­‘ç‰©ï¼›æ„é€ 
+consult     vt è¯·æ•™ï¼›æŸ¥é˜…ï¼›å•†è®®/consultation   n è¯·æ•™ï¼›å’¨è¯¢/
+consultant     n é¡¾é—®ï¼›ä¸“ç§‘åŒ»ç”Ÿ
+consumer     n æ¶ˆè´¹è€…ï¼›ç”¨æˆ·ï¼›/consumerism   n æ¶ˆè´¹ï¼Œæ¶ˆè´¹ä¸»ä¹‰/
+consumption     n æ¶ˆè€—ï¼ˆé‡ï¼‰ï¼›æ¶ˆè´¹ï¼ˆé‡ï¼‰
+contact     n æ¥è§¦ï¼›è”ç³»ï¼›vt ä¸ã€‚ã€‚å–å¾—è”ç³»
+contain     v åŒ…å«/container   n å®¹å™¨/
+contaminate     vt æ±¡æŸ“
+contemplate     vt æ€é‡ï¼›å‡è§†ï¼›æ‰“ç®—
+contemporary     a å½“ä»£çš„ï¼›åŒæ—¶ä»£çš„ï¼›nåŒä»£äººï¼Œå½“ä»£äºº
 
-list7
-circulation     n Ñ­»·£»Á÷Í¨
-circumstance     n »·¾³£»pl ¾³¿ö£¬Çé¿ö
-circus     n ÂíÏ·ÍÅ£»»·ĞÎ¹ã³¡
-cite     vt ÒıÓÃ£»ÒıÖ¤
-civil     a ¹«ÃñµÄ£»ÃñÓÃµÄ
-civilization     n ÎÄÃ÷£¨Éç»á£©£»ÎÄ»¯
-claim     n ÒªÇó£»ÉùÃ÷£»v Éù³Æ£»ÒªÇó
-clamp     vt £¨ÓÃ¼Ğ¾ßµÈ£©¼Ó½ô£»n ¼ĞÇ¯
-clarify     v ³ÎÇå£»²ûÃ÷/clarification   n ³ÎÇå£¬²ûÃ÷/
-clarity     n Çå³ş
-clash     n ³åÍ»£»²»Ğ­µ÷
-classical     a ¹ÅµäµÄ£»´«Í³µÄ£»¾­µäµÄ
-classification     n ·ÖÀà£»¼¶±ğ
-classify     vt °Ñ¡£¡£¹éÀà£¬°Ñ¡£¡£·Ö¼¶
-clay     n ÄàÍÁ£¬ğ¤ÍÁ
-clench     v ÎÕ½ô£»Ò§½ô£¨ÑÀ¹ØµÈ£©£»n ÀÎÀÎ×¥×¡£»¶¢½ô
-clerk     n °ìÊÂÔ±£»Ö°Ô±/clerical   a Êé¼ÇµÄ£¬Ö°Ô±µÄ/
-client     n Î¯ÍĞÈË£»¹Ë¿Í£¬¿Í»§
-climate     n Æøºò£»·çÆø£¬Ë¼³±
-clinic     n ÃÅÕï²¿
-clip     n ¼Ğ×Ó£»µçÓ°Æ¬¶Î£»vt ¼Ğ×¡
-cloakroom     n ÒÂÃ±¼ä£»
-clockwise     a Ë³Ê±Õë·½ÏòµÄ£»ad Ë³Ê±Õë·½ÏòµØ
-clot     n Äı¿é£»vt Ê¹Äı½á³É¿é
-clue     n ÏßË÷£»ÌáÊ¾
-clumsy     a ±¿×¾µÄ£»²»µÃÌåµÄ
-cluster     n ´®£»Êø£»Èº
-clutch     vi ÆóÍ¼×¥£»vt ×¥½ô£»n ÀëºÏÆ÷
-coach     n ½ÌÁ·£»Ö¸µ¼£»³¤Í¾Æû³µ£»vt ÑµÁ·£»¸¨µ¼
-coarse     a ´ÖµÄ£»´Ö²ÚµÄ£»´ÖÁÓµÄ
-code     n ÃÜÂë£»´úÂë£»vt °Ñ¡£¡£±àÂë
-coffer     n ±£ÏÕÏä
-cohesion     n ½áºÏ£»Äı¾ÛÁ¦
-coincide     vi Í¬Ê±·¢Éú£»Ò»ÖÂ/coincidence   n Í¬Ê±·¢ÉúµÄÊÂÇé£»Ò»ÖÂ/
-collaboration     n ºÏ×÷£»¹´½á
-collapse     v&n±ÀÀ££»ĞéÍÑ
-collate     v ¶ÔÕÕ£»ºË¶Ô
-collection     n ÊÕ¼¯£¬»ı¾Û£»ÊÕ²Ø£¨Æ·£©
-colony     n Ö³ÃñµØ£»£¨¶¯Ö²ÎïµÄ£©ÈºÌå
-colour-blind     a É«Ã¤µÄ
-column     n Öù£»×¨À¸£¨ÎÄÕÂ£©
-comb     n Êá×Ó£»·ä³²
-combine     v ÁªºÏ£¬½áºÏ/combination   n ½áºÏ/
-combustion     n È¼ÉÕ£»È¼ÉÕ¹ı³Ì/combustibility   n È¼ÉÕĞÔ£¬¿ÉÈ¼ĞÔ/
-comedy     n Ï²¾ç£»Ï²¾çĞÔ£¨ÊÂ¼ş£©
-comet     n åçĞÇ
-commence     v ¿ªÊ¼
-commencement     n ¿ªÊ¼£»±ÏÒµµäÀñ
-comment     n ÆÀÂÛ£»Òâ¼û£»v ÆÀÂÛ/commentator   n ½²½âÔ±£»ÆÀÂÛÔ±/
-commercial     a ÉÌÒµµÄ£»ÉÌÆ·»¯µÄ
-commission     n Ó¶½ğ£»Î¯ÍĞ£»vt ÊÚÈ¨£¬Î¯ÍĞ
-commitment     n Î¯ÍĞ£»ĞíÅµ£»³Ğµ£ÒåÎñ
-commodity     n ÉÌÆ·£¬»õÎï
-commonwealth     n Ó¢Áª°î£»ÍÅÌå
-community     n Éç»á£»ÉçÇø£»ÍÅÌå
-companion     n¹²ÊÂÕß£»Í¬°é
-comparatively     ad Ïàµ±µØ£»±È½ÏµØ
-compare     vt ±È½Ï£»¶Ô±È/comparable   a ¿É±È½ÏµÄ/comparison   n ±È½Ï£¬¶Ô±È/
-compatible     a ¼æÈİµÄ£»ºÏµÃÀ´µÄ
-compatriot     n Í¬°û£»Í¬¹úÈË
-compel     v Ç¿ÆÈ
-compendium     n ¼òÒª£¬¸ÅÂÔ
-compensate     v ²¹³¥£»µÖÏû
-compensation     n ²¹³¥£»Åâ³¥
-compete     vi ¾ºÕù£»±ÈÈü/competitive   a ¾ºÕùµÄ/competitor   n ¾ºÕùÕß£¬¶ÔÊÖ/
-competent     a ÓĞÄÜÁ¦µÄ£»ÄÜÊ¤ÈÎµÄ
-competition     n ¾ºÕù£¬±ÈÈü
-compile     vt »ã±à£»±à×«
-complain     v ±§Ô¹£¬Í¶Ëß
-complaint     n ±§Ô¹£»¿Ø¸æ£»²»ÊÊ
-complete     a ³¹µ×µÄ£»Íê³ÉµÄ£»¾ø¶ÔµÄ£»vt Íê³É£»½áÊø/completion   n Íê³É£»ÊµÏÖ/completely   ad Ê®·ÖµØ£»ÍêÈ«/
+circulation     n å¾ªç¯ï¼›æµé€š
+circumstance     n ç¯å¢ƒï¼›pl å¢ƒå†µï¼Œæƒ…å†µ
+circus     n é©¬æˆå›¢ï¼›ç¯å½¢å¹¿åœº
+cite     vt å¼•ç”¨ï¼›å¼•è¯
+civil     a å…¬æ°‘çš„ï¼›æ°‘ç”¨çš„
+civilization     n æ–‡æ˜ï¼ˆç¤¾ä¼šï¼‰ï¼›æ–‡åŒ–
+claim     n è¦æ±‚ï¼›å£°æ˜ï¼›v å£°ç§°ï¼›è¦æ±‚
+clamp     vt ï¼ˆç”¨å¤¹å…·ç­‰ï¼‰åŠ ç´§ï¼›n å¤¹é’³
+clarify     v æ¾„æ¸…ï¼›é˜æ˜/clarification   n æ¾„æ¸…ï¼Œé˜æ˜/
+clarity     n æ¸…æ¥š
+clash     n å†²çªï¼›ä¸åè°ƒ
+classical     a å¤å…¸çš„ï¼›ä¼ ç»Ÿçš„ï¼›ç»å…¸çš„
+classification     n åˆ†ç±»ï¼›çº§åˆ«
+classify     vt æŠŠã€‚ã€‚å½’ç±»ï¼ŒæŠŠã€‚ã€‚åˆ†çº§
+clay     n æ³¥åœŸï¼Œé»åœŸ
+clench     v æ¡ç´§ï¼›å’¬ç´§ï¼ˆç‰™å…³ç­‰ï¼‰ï¼›n ç‰¢ç‰¢æŠ“ä½ï¼›ç›¯ç´§
+clerk     n åŠäº‹å‘˜ï¼›èŒå‘˜/clerical   a ä¹¦è®°çš„ï¼ŒèŒå‘˜çš„/
+client     n å§”æ‰˜äººï¼›é¡¾å®¢ï¼Œå®¢æˆ·
+climate     n æ°”å€™ï¼›é£æ°”ï¼Œæ€æ½®
+clinic     n é—¨è¯Šéƒ¨
+clip     n å¤¹å­ï¼›ç”µå½±ç‰‡æ®µï¼›vt å¤¹ä½
+cloakroom     n è¡£å¸½é—´ï¼›
+clockwise     a é¡ºæ—¶é’ˆæ–¹å‘çš„ï¼›ad é¡ºæ—¶é’ˆæ–¹å‘åœ°
+clot     n å‡å—ï¼›vt ä½¿å‡ç»“æˆå—
+clue     n çº¿ç´¢ï¼›æç¤º
+clumsy     a ç¬¨æ‹™çš„ï¼›ä¸å¾—ä½“çš„
+cluster     n ä¸²ï¼›æŸï¼›ç¾¤
+clutch     vi ä¼å›¾æŠ“ï¼›vt æŠ“ç´§ï¼›n ç¦»åˆå™¨
+coach     n æ•™ç»ƒï¼›æŒ‡å¯¼ï¼›é•¿é€”æ±½è½¦ï¼›vt è®­ç»ƒï¼›è¾…å¯¼
+coarse     a ç²—çš„ï¼›ç²—ç³™çš„ï¼›ç²—åŠ£çš„
+code     n å¯†ç ï¼›ä»£ç ï¼›vt æŠŠã€‚ã€‚ç¼–ç 
+coffer     n ä¿é™©ç®±
+cohesion     n ç»“åˆï¼›å‡èšåŠ›
+coincide     vi åŒæ—¶å‘ç”Ÿï¼›ä¸€è‡´/coincidence   n åŒæ—¶å‘ç”Ÿçš„äº‹æƒ…ï¼›ä¸€è‡´/
+collaboration     n åˆä½œï¼›å‹¾ç»“
+collapse     v&nå´©æºƒï¼›è™šè„±
+collate     v å¯¹ç…§ï¼›æ ¸å¯¹
+collection     n æ”¶é›†ï¼Œç§¯èšï¼›æ”¶è—ï¼ˆå“ï¼‰
+colony     n æ®–æ°‘åœ°ï¼›ï¼ˆåŠ¨æ¤ç‰©çš„ï¼‰ç¾¤ä½“
+colour-blind     a è‰²ç›²çš„
+column     n æŸ±ï¼›ä¸“æ ï¼ˆæ–‡ç« ï¼‰
+comb     n æ¢³å­ï¼›èœ‚å·¢
+combine     v è”åˆï¼Œç»“åˆ/combination   n ç»“åˆ/
+combustion     n ç‡ƒçƒ§ï¼›ç‡ƒçƒ§è¿‡ç¨‹/combustibility   n ç‡ƒçƒ§æ€§ï¼Œå¯ç‡ƒæ€§/
+comedy     n å–œå‰§ï¼›å–œå‰§æ€§ï¼ˆäº‹ä»¶ï¼‰
+comet     n å½—æ˜Ÿ
+commence     v å¼€å§‹
+commencement     n å¼€å§‹ï¼›æ¯•ä¸šå…¸ç¤¼
+comment     n è¯„è®ºï¼›æ„è§ï¼›v è¯„è®º/commentator   n è®²è§£å‘˜ï¼›è¯„è®ºå‘˜/
+commercial     a å•†ä¸šçš„ï¼›å•†å“åŒ–çš„
+commission     n ä½£é‡‘ï¼›å§”æ‰˜ï¼›vt æˆæƒï¼Œå§”æ‰˜
+commitment     n å§”æ‰˜ï¼›è®¸è¯ºï¼›æ‰¿æ‹…ä¹‰åŠ¡
+commodity     n å•†å“ï¼Œè´§ç‰©
+commonwealth     n è‹±è”é‚¦ï¼›å›¢ä½“
+community     n ç¤¾ä¼šï¼›ç¤¾åŒºï¼›å›¢ä½“
+companion     nå…±äº‹è€…ï¼›åŒä¼´
+comparatively     ad ç›¸å½“åœ°ï¼›æ¯”è¾ƒåœ°
+compare     vt æ¯”è¾ƒï¼›å¯¹æ¯”/comparable   a å¯æ¯”è¾ƒçš„/comparison   n æ¯”è¾ƒï¼Œå¯¹æ¯”/
+compatible     a å…¼å®¹çš„ï¼›åˆå¾—æ¥çš„
+compatriot     n åŒèƒï¼›åŒå›½äºº
+compel     v å¼ºè¿«
+compendium     n ç®€è¦ï¼Œæ¦‚ç•¥
+compensate     v è¡¥å¿ï¼›æŠµæ¶ˆ
+compensation     n è¡¥å¿ï¼›èµ”å¿
+compete     vi ç«äº‰ï¼›æ¯”èµ›/competitive   a ç«äº‰çš„/competitor   n ç«äº‰è€…ï¼Œå¯¹æ‰‹/
+competent     a æœ‰èƒ½åŠ›çš„ï¼›èƒ½èƒœä»»çš„
+competition     n ç«äº‰ï¼Œæ¯”èµ›
+compile     vt æ±‡ç¼–ï¼›ç¼–æ’°
+complain     v æŠ±æ€¨ï¼ŒæŠ•è¯‰
+complaint     n æŠ±æ€¨ï¼›æ§å‘Šï¼›ä¸é€‚
+complete     a å½»åº•çš„ï¼›å®Œæˆçš„ï¼›ç»å¯¹çš„ï¼›vt å®Œæˆï¼›ç»“æŸ/completion   n å®Œæˆï¼›å®ç°/completely   ad ååˆ†åœ°ï¼›å®Œå…¨/
 
-list6
-cancel     v È¡Ïû£»µÖÏû£»É¾È¥
-candidate     n ºòÑ¡ÈË£»ÉêÇëÇóÖ°Õß
-cannon     n ¼ÓÅ©ÅÚ£¬´óÅÚ
-canoe     n ¶ÀÄ¾ÖÛ
-canteen     n ²ÍÌü£¬Ê³ÌÃ
-cantonese     n ¹ã¶«ÈË£»¹ã¶«»°
-cap     n Ã±×Ó£»v¸ÇÔÚ¡£¡£ÉÏÃæ
-capable     a ÓĞÄÜÁ¦µÄ£»ÄÜ¹»µÄ
-capacity     n ÄÜÁ¦£¬²ÅÄÜ
-capsule     n ½ºÄÒ£»ÃÜ·â²Õ
-captive     a ±»·ıµÄ£¬±»²¶»ñµÄ
-capture     vt ²¶»ñ£¬·ı»ñ£»ÒıÆğ
-cardiovascular     a ĞÄÑª¹ÜµÄ
-career     n ÉúÑÄ£»¾­Àú£»Ö°Òµ
-carousel     n Ğı×ªÊ½´«ËÍ´ø
-carve     vt ÇĞ£»µñ¿Ì
-cascade     n Ğ¡ÆÙ²¼
-cash     n ÏÖ½ğ£¬ÏÖ¿î£»vt °Ñ¡£¡£¶ÒÏÖ
-cassette     n ºĞÊ½Â¼Òô´ø
-cast     vt Í¶£¬ÈÓ
-casualty     n ÉËÍö£¨ÈËÔ±£©£»ËğÊ§µÄ¶«Î÷/casual   a Å¼È»µÄ/
-catastrophe     n ´óÔÖÄÑ/catastrophic   a ±¯²ÒµÄ£»ÔÖÄÑµÄ/
-category     n ÖÖÀà£»Àà±ğ
-cater     v Âú×ãĞèÒª£¨»òÓûÍû£©£»Ìá¹©ÒûÊ³¼°·şÎñ/catering   n ²ÍÒûÒµ/
-caution     n ½÷É÷£¬Ğ¡ĞÄ£»vt ¾¯¸æ
-cautious     a Ê®·ÖĞ¡ĞÄµÄ£¬½÷É÷µÄ
-cease     v Í£Ö¹£¬ÖÕÖ¹
-celebrate     v ÔŞÑï£¬¸èËÌ£»Çì×£/celebration   n Çì×££¬Çìµä/
-celebrity     n ÃûÉù£¬ÖªÃûÈËÊ¿
-cell     n Ï¸°û£»Ğ¡·¿¼ä£»µç³Ø/cellular   a Ï¸°ûµÄ/
-censor     vt Éó²é¡£¼ì²é£¨Êé°ü£©£»n ¼ì²éÔ±/censorship   n Éó²éÖÆ¶È/
-censure     v&n ÔğÄÑ£¬·ÇÄÑ
-centigrade     a °Ù·Ö¶ÈµÄ£»ÉãÊÏµÄ
-centrifugal force     ÀëĞÄÁ¦
-ceramic     aÌÕÆ÷µÄ£»n ÌÕ´ÉÆ÷
-cereal     n ¹ÈÀàÊ³Îï£»¹ÈÎï
-ceremony     n µäÀñ£»ÒÇÊ½
-certificate     n Ö¤Êé£¬Ö´ÕÕ
-cervical     a ×Ó¹¬¾±µÄ£»¾±²¿µÄ
-chain     n Ò»ÏµÁĞ£»Á¬Ëøµê£»vt ÓÃÁ´ÌõË©×¡
-challenge     n&vt ÌôÕ½£»ÖÊÒÉ
-chamber     n ÊÒ£»¶´Ñ¨£»£¨Ç¹£©ÌÅ
-champion     n ¹Ú¾ü
-chancellor     n ´ó³¼£»×ÜÀí£»Ê×Ï¯·¨¹Ù£»´óÑ§Ğ£³¤
-channel     n º£Ï¿£»Ë®µÀ£»Í¾¾¶£»ÆµµÀ
-chapel     n Ğ¡½ÌÌÃ£»Æíµ»ÊÒ
-character     n ĞÔ¸ñ£»ĞÔÖÊ£»ÈËÎï
-characteristic     n ÌØĞÔ£»ÌØÕ÷£»a ÌØÓĞµÄ£»µäĞÍµÄ
-charcoal     n Ì¿£¬Ä¾Ì¿
-charge     n ·ÑÓÃ£»¹ÜÀí£»v ÊÕ·Ñ£»¿Ø¸æ
-charity     n ´ÈÉÆ£»Ê©Éá£»´ÈÉÆ»ú¹¹
-chart     n Í¼£¬Í¼±í
-charter     n £¨¹«Ë¾£©Ö´ÕÕ£»ÏÜÕÂ£»vt °ü×â³µ´¬
-chase     v ×·²¶£»×·Çó£»µñïÎ
-cheat     v ÆÛÆ­£»×÷±×£»n ÆÛÆ­£»Æ­×Ó
-check-up     n ¼ì²é£»²éÌå
-chef     n ³øÊ¦³¤£¬³øÊ¦
-chemical     a »¯Ñ§µÄ£»n »¯Ñ§ÖÆÆ·
-cherry     n Ó£ÌÒ
-chest     n ĞØ£»×Ê½ğ
-chew     v ¾×½À£»»ØÎ¶£»ÊìË¼
-chief     a Ö÷ÒªµÄ£»ÎªÊ×µÄ
-chink     n ÁÑ·ì£¬ÁÑ¿Ú
-chip     n ËéÆ¬£»Ğ¾Æ¬£»è¦´Ã£»v Ï÷£¨»òÔä£©ÏÂ£¨Ğ¼Æ¬»òËéÆ¬£©
-cholesterol     n µ¨¹Ì´¼
-chorus     n ºÏ³ª¶Ó£»ºÏ³ª£»vt ÆëÉùËµ
-chronic     a £¨¼²²¡£©ÂıĞÔµÄ£»»ıÏ°ÄÑ¸ÄµÄ
-chunk     n ´ó¿é£»Ïàµ±´óµÄ²¿·Ö£¨»òÊıÁ¿£©
-cinematography     n µçÓ°ÉãÓ°Êõ
-circle     n Ô²£»È¦×Ó£»½×²ã£»v È¦³ö£»»·ÈÆ¡£¡£ÒÆ¶¯
+cancel     v å–æ¶ˆï¼›æŠµæ¶ˆï¼›åˆ å»
+candidate     n å€™é€‰äººï¼›ç”³è¯·æ±‚èŒè€…
+cannon     n åŠ å†œç‚®ï¼Œå¤§ç‚®
+canoe     n ç‹¬æœ¨èˆŸ
+canteen     n é¤å…ï¼Œé£Ÿå ‚
+cantonese     n å¹¿ä¸œäººï¼›å¹¿ä¸œè¯
+cap     n å¸½å­ï¼›vç›–åœ¨ã€‚ã€‚ä¸Šé¢
+capable     a æœ‰èƒ½åŠ›çš„ï¼›èƒ½å¤Ÿçš„
+capacity     n èƒ½åŠ›ï¼Œæ‰èƒ½
+capsule     n èƒ¶å›Šï¼›å¯†å°èˆ±
+captive     a è¢«ä¿˜çš„ï¼Œè¢«æ•è·çš„
+capture     vt æ•è·ï¼Œä¿˜è·ï¼›å¼•èµ·
+cardiovascular     a å¿ƒè¡€ç®¡çš„
+career     n ç”Ÿæ¶¯ï¼›ç»å†ï¼›èŒä¸š
+carousel     n æ—‹è½¬å¼ä¼ é€å¸¦
+carve     vt åˆ‡ï¼›é›•åˆ»
+cascade     n å°ç€‘å¸ƒ
+cash     n ç°é‡‘ï¼Œç°æ¬¾ï¼›vt æŠŠã€‚ã€‚å…‘ç°
+cassette     n ç›’å¼å½•éŸ³å¸¦
+cast     vt æŠ•ï¼Œæ‰”
+casualty     n ä¼¤äº¡ï¼ˆäººå‘˜ï¼‰ï¼›æŸå¤±çš„ä¸œè¥¿/casual   a å¶ç„¶çš„/
+catastrophe     n å¤§ç¾éš¾/catastrophic   a æ‚²æƒ¨çš„ï¼›ç¾éš¾çš„/
+category     n ç§ç±»ï¼›ç±»åˆ«
+cater     v æ»¡è¶³éœ€è¦ï¼ˆæˆ–æ¬²æœ›ï¼‰ï¼›æä¾›é¥®é£ŸåŠæœåŠ¡/catering   n é¤é¥®ä¸š/
+caution     n è°¨æ…ï¼Œå°å¿ƒï¼›vt è­¦å‘Š
+cautious     a ååˆ†å°å¿ƒçš„ï¼Œè°¨æ…çš„
+cease     v åœæ­¢ï¼Œç»ˆæ­¢
+celebrate     v èµæ‰¬ï¼Œæ­Œé¢‚ï¼›åº†ç¥/celebration   n åº†ç¥ï¼Œåº†å…¸/
+celebrity     n åå£°ï¼ŒçŸ¥åäººå£«
+cell     n ç»†èƒï¼›å°æˆ¿é—´ï¼›ç”µæ± /cellular   a ç»†èƒçš„/
+censor     vt å®¡æŸ¥ã€‚æ£€æŸ¥ï¼ˆä¹¦åŒ…ï¼‰ï¼›n æ£€æŸ¥å‘˜/censorship   n å®¡æŸ¥åˆ¶åº¦/
+censure     v&n è´£éš¾ï¼Œééš¾
+centigrade     a ç™¾åˆ†åº¦çš„ï¼›æ‘„æ°çš„
+centrifugal force     ç¦»å¿ƒåŠ›
+ceramic     aé™¶å™¨çš„ï¼›n é™¶ç“·å™¨
+cereal     n è°·ç±»é£Ÿç‰©ï¼›è°·ç‰©
+ceremony     n å…¸ç¤¼ï¼›ä»ªå¼
+certificate     n è¯ä¹¦ï¼Œæ‰§ç…§
+cervical     a å­å®«é¢ˆçš„ï¼›é¢ˆéƒ¨çš„
+chain     n ä¸€ç³»åˆ—ï¼›è¿é”åº—ï¼›vt ç”¨é“¾æ¡æ‹´ä½
+challenge     n&vt æŒ‘æˆ˜ï¼›è´¨ç–‘
+chamber     n å®¤ï¼›æ´ç©´ï¼›ï¼ˆæªï¼‰è†›
+champion     n å† å†›
+chancellor     n å¤§è‡£ï¼›æ€»ç†ï¼›é¦–å¸­æ³•å®˜ï¼›å¤§å­¦æ ¡é•¿
+channel     n æµ·å³¡ï¼›æ°´é“ï¼›é€”å¾„ï¼›é¢‘é“
+chapel     n å°æ•™å ‚ï¼›ç¥ˆç¥·å®¤
+character     n æ€§æ ¼ï¼›æ€§è´¨ï¼›äººç‰©
+characteristic     n ç‰¹æ€§ï¼›ç‰¹å¾ï¼›a ç‰¹æœ‰çš„ï¼›å…¸å‹çš„
+charcoal     n ç‚­ï¼Œæœ¨ç‚­
+charge     n è´¹ç”¨ï¼›ç®¡ç†ï¼›v æ”¶è´¹ï¼›æ§å‘Š
+charity     n æ…ˆå–„ï¼›æ–½èˆï¼›æ…ˆå–„æœºæ„
+chart     n å›¾ï¼Œå›¾è¡¨
+charter     n ï¼ˆå…¬å¸ï¼‰æ‰§ç…§ï¼›å®ªç« ï¼›vt åŒ…ç§Ÿè½¦èˆ¹
+chase     v è¿½æ•ï¼›è¿½æ±‚ï¼›é›•é•‚
+cheat     v æ¬ºéª—ï¼›ä½œå¼Šï¼›n æ¬ºéª—ï¼›éª—å­
+check-up     n æ£€æŸ¥ï¼›æŸ¥ä½“
+chef     n å¨å¸ˆé•¿ï¼Œå¨å¸ˆ
+chemical     a åŒ–å­¦çš„ï¼›n åŒ–å­¦åˆ¶å“
+cherry     n æ¨±æ¡ƒ
+chest     n èƒ¸ï¼›èµ„é‡‘
+chew     v å’€åš¼ï¼›å›å‘³ï¼›ç†Ÿæ€
+chief     a ä¸»è¦çš„ï¼›ä¸ºé¦–çš„
+chink     n è£‚ç¼ï¼Œè£‚å£
+chip     n ç¢ç‰‡ï¼›èŠ¯ç‰‡ï¼›ç‘•ç–µï¼›v å‰Šï¼ˆæˆ–å‡¿ï¼‰ä¸‹ï¼ˆå±‘ç‰‡æˆ–ç¢ç‰‡ï¼‰
+cholesterol     n èƒ†å›ºé†‡
+chorus     n åˆå”±é˜Ÿï¼›åˆå”±ï¼›vt é½å£°è¯´
+chronic     a ï¼ˆç–¾ç—…ï¼‰æ…¢æ€§çš„ï¼›ç§¯ä¹ éš¾æ”¹çš„
+chunk     n å¤§å—ï¼›ç›¸å½“å¤§çš„éƒ¨åˆ†ï¼ˆæˆ–æ•°é‡ï¼‰
+cinematography     n ç”µå½±æ‘„å½±æœ¯
+circle     n åœ†ï¼›åœˆå­ï¼›é˜¶å±‚ï¼›v åœˆå‡ºï¼›ç¯ç»•ã€‚ã€‚ç§»åŠ¨
 
-list5
-bolster     n µæ×Ó£»vt Ö§³Ö£»Ö§³Å
-bonus     n ½±½ğ£¬ºìÀû£»ºÃ´¦
-booklet     n Ğ¡²á×Ó
-bookrest     n ÔÄÊé¼Ü
-booming     a Ñ¸ËÙ·¢Õ¹µÄ£»¼¤ÔöµÄ
-boot     n £¨³¤Í²£©Ñ¥×Ó£»£¨Æû³µºó²¿µÄ£©ĞĞÀîÏä£»
-booth     n £¨¸ô¿ªµÄ£©Ğ¡·¿¼ä£»¹«ÓÃµç»°Í¤£»ÊÛ»õÅï
-border     n ±ßÔµ£»±ß½ç£»v ½ÓÈÀ£¬½Ó½ü
-bore     vt Ê¹Ñá·³£»×ê£¨¿×£©£»n ÁîÈËÑá·³µÄÈË£¨»òÊÂ£©
-boulder     n ´óÊ¯Í·£»¶ìÂÑÊ¯
-bounce     v µ¯Æğ£¬·´µ¯
-bound     a ¸ºÓĞÒåÎñµÄ£»Ò»¶¨µÄ£»±ØÈ»µÄ
-boundary     n ·Ö½çÏß£»±ß½ç
-bow     n ¹­£»v µÍÏÂ£¨Í·£©£»Ñ¹Íä£»¾Ï¹ª
-branch     n Ê÷Ö¦£»·Ö²¿£¬·Ö¿Æ
-brand     n ÉÌ±ê£»Æ·ÅÆ£»vt Ãú¿Ì£»´óÀÓÓ¡ÓÚ
-brass     n »ÆÍ­£»»ÆÍ­Æ÷£»Í­¹ÜÀÖÆ÷
-breakdown     n µ¹Ëú£»£¨½¡¿µ£¬¾«ÉñµÈ£©Ë¥½ß£»·ÖÁÑ
-breakthrough     n Í»ÆÆ£»ÖØÒªµÄĞÂ·¢ÏÖ
-breakwater     n ·ÀÀËµÌ
-breed     n Æ·ÖÖ£»v ½ÌÑø£»·±Ö³£»Äğ³É
-breeze     n Î¢·ç£¬ºÍ·ç
-brew     v ÄğÔì£»³åÅİ£»ÔÍÄğ/brewery   n Äğ¾Æ³§/
-brief     n ¸ÅÒª£»a ¼ò¶ÌµÄ
-briefcase     n ¹«ÎÄ°ü
-briefly     ad ÔİÊ±µØ£»¼òÒªµØ
-brilliant     a ¹â»Ô²ÓÀÃµÄ£»×¿Ô½µÄ
-bring around/round     Ëµ·ş£»Ê¹»Ö¸´Öª¾õ£¨»ò½¡¿µ£©
-bring out     ³ö°æ£»¼¤Æğ£»¹ÄÀø
-brochure     n Ğ¡²á×Ó£»ËµÃ÷Êé
-bronchitis     n Ö§Æø¹ÜÑ×
-brood     vi ³ÁË¼£»·õµ°£»n£¨³û¼¦µÈ£©Ò»ÎÑ
-broom     n É¨Öã
-brunt     n ³å»÷£»³åÁ¦
-bubble     n ÆøÅİ£»Ë®Åİ£»v ·ĞÌÚ£»äıäıµÄÁ÷
-bucket     n Ë®Í°
-buckle     n Æ¤´ø¿Û»·£»v ¿Û½ô£»£¨Ê¹£©±äĞÎ£»ÍäÇú
-budget     n Ô¤Ëã£¬Ô¤Ëã²¦¿î
-buffalo     n Ë®Å££»£¨±±ÃÀ£©Ò°Å£
-bulb     n µÆÅİ
-bulge     n&v ÅòÕÍ£»Í¹³ö£»ÈûÂú
-bulk     n ´óÁ¿£»´óÅú
-bullet     n Ç¹µ¯£¬×Óµ¯
-bulletin     n ¼òÃ÷ĞÂÎÅ£»¹«¸æ£»Ñ§±¨
-bump into     ²»ÆÚ¶øÓö£¬åâåË
-bunch     n Êø
-bungalow     n (´ø×ßÀÈµÄ£©Æ½·¿
-bureau     n ¾Ö£»´¦£»Ëù
-bureaucracy     n ¹ÙÁÅÖ÷Òå£»¹ÙÁÅ»ú¹¹
-burgeon     v Ñ¸ËÙ³É³¤£»·¢Õ¹
-burglar     n ÇÔÔô/burglary   n Ò¹µÁĞĞÎª£»Ò¹µÁ×ï/
-burrow     v ÍÚ¾ò£»·­Ñ°£»n µØ¶´
-burst     v ±¬Õ¨£»Í»È»·¢×÷£»n ±¬Õ¨
-bury     vÂñÔá£»Âñ²Ø£¬ÑÚ²Ø/burial   n ÂñÔá£¬Âñ²Ø/
-bypass     n £¨ÈÆ¹ıÊĞÕòµÄ£©ÅÔµÀ£»vt ÈÆ¹ı
-cable     n ÀÂÏß£»µçÀÂ£»µç±¨£»v ·¢µç±¨
-cafeteria     n ×ÔÖú²Í¹İ
-calcium     n ¸Æ
-calculate     vt ¼ÆËã£»Í³¼Æ
-calender     n ÈÕÀú£»ÔÂÀú£»ÈÕ³Ì±í
-calf     n Å£¶¿£¬Ó×áÌ
-calibre     n ²Å¸É£¬ÄÜÁ¦£»¿Ú¾¶
-calm     a Õò¾²µÄ£»Æ½¾²µÄ£»v£¨Ê¹£©Æ½¾²£»£¨Ê¹£©Õò¾²
-calorie     n ¿¨Â·Àï
-camel     n ÂæÍÕ
-cameral     n £¨Á¢·¨»ú¹Ø£©
-campaign     n Õ½ÒÛ£¬»î¶¯£»v ²Î¼Ó»î¶¯£»×÷Õ½
-camper     n Â¶ÓªÕß£¬ËŞÓªÕß
-campfire     n Óª»ğ£»
-campus     n Ğ£Ô°£¬Ñ§Ğ£³¡µØ
+bolster     n å«å­ï¼›vt æ”¯æŒï¼›æ”¯æ’‘
+bonus     n å¥–é‡‘ï¼Œçº¢åˆ©ï¼›å¥½å¤„
+booklet     n å°å†Œå­
+bookrest     n é˜…ä¹¦æ¶
+booming     a è¿…é€Ÿå‘å±•çš„ï¼›æ¿€å¢çš„
+boot     n ï¼ˆé•¿ç­’ï¼‰é´å­ï¼›ï¼ˆæ±½è½¦åéƒ¨çš„ï¼‰è¡Œæç®±ï¼›
+booth     n ï¼ˆéš”å¼€çš„ï¼‰å°æˆ¿é—´ï¼›å…¬ç”¨ç”µè¯äº­ï¼›å”®è´§æ£š
+border     n è¾¹ç¼˜ï¼›è¾¹ç•Œï¼›v æ¥å£¤ï¼Œæ¥è¿‘
+bore     vt ä½¿åŒçƒ¦ï¼›é’»ï¼ˆå­”ï¼‰ï¼›n ä»¤äººåŒçƒ¦çš„äººï¼ˆæˆ–äº‹ï¼‰
+boulder     n å¤§çŸ³å¤´ï¼›é¹…åµçŸ³
+bounce     v å¼¹èµ·ï¼Œåå¼¹
+bound     a è´Ÿæœ‰ä¹‰åŠ¡çš„ï¼›ä¸€å®šçš„ï¼›å¿…ç„¶çš„
+boundary     n åˆ†ç•Œçº¿ï¼›è¾¹ç•Œ
+bow     n å¼“ï¼›v ä½ä¸‹ï¼ˆå¤´ï¼‰ï¼›å‹å¼¯ï¼›é èº¬
+branch     n æ ‘æï¼›åˆ†éƒ¨ï¼Œåˆ†ç§‘
+brand     n å•†æ ‡ï¼›å“ç‰Œï¼›vt é“­åˆ»ï¼›å¤§çƒ™å°äº
+brass     n é»„é“œï¼›é»„é“œå™¨ï¼›é“œç®¡ä¹å™¨
+breakdown     n å€’å¡Œï¼›ï¼ˆå¥åº·ï¼Œç²¾ç¥ç­‰ï¼‰è¡°ç«­ï¼›åˆ†è£‚
+breakthrough     n çªç ´ï¼›é‡è¦çš„æ–°å‘ç°
+breakwater     n é˜²æµªå ¤
+breed     n å“ç§ï¼›v æ•™å…»ï¼›ç¹æ®–ï¼›é…¿æˆ
+breeze     n å¾®é£ï¼Œå’Œé£
+brew     v é…¿é€ ï¼›å†²æ³¡ï¼›é…é…¿/brewery   n é…¿é…’å‚/
+brief     n æ¦‚è¦ï¼›a ç®€çŸ­çš„
+briefcase     n å…¬æ–‡åŒ…
+briefly     ad æš‚æ—¶åœ°ï¼›ç®€è¦åœ°
+brilliant     a å…‰è¾‰ç¿çƒ‚çš„ï¼›å“è¶Šçš„
+bring around/round     è¯´æœï¼›ä½¿æ¢å¤çŸ¥è§‰ï¼ˆæˆ–å¥åº·ï¼‰
+bring out     å‡ºç‰ˆï¼›æ¿€èµ·ï¼›é¼“åŠ±
+brochure     n å°å†Œå­ï¼›è¯´æ˜ä¹¦
+bronchitis     n æ”¯æ°”ç®¡ç‚
+brood     vi æ²‰æ€ï¼›å­µè›‹ï¼›nï¼ˆé›é¸¡ç­‰ï¼‰ä¸€çª
+broom     n æ‰«å¸š
+brunt     n å†²å‡»ï¼›å†²åŠ›
+bubble     n æ°”æ³¡ï¼›æ°´æ³¡ï¼›v æ²¸è…¾ï¼›æ½ºæ½ºçš„æµ
+bucket     n æ°´æ¡¶
+buckle     n çš®å¸¦æ‰£ç¯ï¼›v æ‰£ç´§ï¼›ï¼ˆä½¿ï¼‰å˜å½¢ï¼›å¼¯æ›²
+budget     n é¢„ç®—ï¼Œé¢„ç®—æ‹¨æ¬¾
+buffalo     n æ°´ç‰›ï¼›ï¼ˆåŒ—ç¾ï¼‰é‡ç‰›
+bulb     n ç¯æ³¡
+bulge     n&v è†¨èƒ€ï¼›å‡¸å‡ºï¼›å¡æ»¡
+bulk     n å¤§é‡ï¼›å¤§æ‰¹
+bullet     n æªå¼¹ï¼Œå­å¼¹
+bulletin     n ç®€æ˜æ–°é—»ï¼›å…¬å‘Šï¼›å­¦æŠ¥
+bump into     ä¸æœŸè€Œé‡ï¼Œé‚‚é€…
+bunch     n æŸ
+bungalow     n (å¸¦èµ°å»Šçš„ï¼‰å¹³æˆ¿
+bureau     n å±€ï¼›å¤„ï¼›æ‰€
+bureaucracy     n å®˜åƒšä¸»ä¹‰ï¼›å®˜åƒšæœºæ„
+burgeon     v è¿…é€Ÿæˆé•¿ï¼›å‘å±•
+burglar     n çªƒè´¼/burglary   n å¤œç›—è¡Œä¸ºï¼›å¤œç›—ç½ª/
+burrow     v æŒ–æ˜ï¼›ç¿»å¯»ï¼›n åœ°æ´
+burst     v çˆ†ç‚¸ï¼›çªç„¶å‘ä½œï¼›n çˆ†ç‚¸
+bury     våŸ‹è‘¬ï¼›åŸ‹è—ï¼Œæ©è—/burial   n åŸ‹è‘¬ï¼ŒåŸ‹è—/
+bypass     n ï¼ˆç»•è¿‡å¸‚é•‡çš„ï¼‰æ—é“ï¼›vt ç»•è¿‡
+cable     n ç¼†çº¿ï¼›ç”µç¼†ï¼›ç”µæŠ¥ï¼›v å‘ç”µæŠ¥
+cafeteria     n è‡ªåŠ©é¤é¦†
+calcium     n é’™
+calculate     vt è®¡ç®—ï¼›ç»Ÿè®¡
+calender     n æ—¥å†ï¼›æœˆå†ï¼›æ—¥ç¨‹è¡¨
+calf     n ç‰›çŠŠï¼Œå¹¼å´½
+calibre     n æ‰å¹²ï¼Œèƒ½åŠ›ï¼›å£å¾„
+calm     a é•‡é™çš„ï¼›å¹³é™çš„ï¼›vï¼ˆä½¿ï¼‰å¹³é™ï¼›ï¼ˆä½¿ï¼‰é•‡é™
+calorie     n å¡è·¯é‡Œ
+camel     n éª†é©¼
+cameral     n ï¼ˆç«‹æ³•æœºå…³ï¼‰
+campaign     n æˆ˜å½¹ï¼Œæ´»åŠ¨ï¼›v å‚åŠ æ´»åŠ¨ï¼›ä½œæˆ˜
+camper     n éœ²è¥è€…ï¼Œå®¿è¥è€…
+campfire     n è¥ç«ï¼›
+campus     n æ ¡å›­ï¼Œå­¦æ ¡åœºåœ°
 
-list4
-average     n Æ½¾ù£¨Êı£©£»a Æ½¾ùµÄ£»Æ½³£µÄ
-avoid     vt ±ÜÃâ£»¶ã¿ª/avoidance     n ±ÜÃâ/
-award     n ½±£»ÆÀÅĞ£»vt ÊÚÓè£»¸øÓè
-aware     a ÖªµÀµÄ£»ÒâÊ¶µ½µÄ/unaware  a ²»ÖªµÀµÄ£¬Ã»ÒâÊ¶µ½µÄ/awareness   n ÖªµÀ/
-awful     a Ôã¸âµÄ
-bachelor     n Ñ§Ê¿£»µ¥Éíºº
-backbone     n ¼¹×µ£»¹Ç¸É£»Ö§Öù
-bacterial     a Ï¸¾úµÄ
-badge     n »ÕÕÂ£»±ê¼Ç£»ÏóÕ÷
-badminton     n ÓğÃ«Çò
-balance     n Æ½ºâ£»Óà¶î£»vt Æ½ºâ
-balcony     n ÑôÌ¨£»Â¥×ù
-bamboo     n Öñ×Ó
-band     n ÀÖ¶Ó£»´ø×Ó£»²¨¶Î£»v ÓÃ´ø°óÔú
-bankrupt     a ÆÆ²úµÄ 
-bankruptcy     n ÆÆ²ú
-banner     n ºá·ù£»ÆìÖÄ
-bar     n ¾Æ°É£»Õ¤À¸£»°ô£¬Ìõ×´Îï£»vt ×èÀ¹£»¹Ø£¨ÃÅ£¬´°£©
-barbecue     n ½ğÊô¿¾Èâ¼Ü£»ÉÕ¿¾Ò°²Í
-bare     a ³àÂãÂãµÄ£¬¹âÍºµÄ
-barely     ad ½ö½ö £¬¼¸ºõ²»
-bargain     vi ÌÖ¼Û»¹¼Û£»n ÆõÔ¼£»±ãÒË»õ
-barge     n ²µ´¬£»v ÃÍ×²£»´³
-bark     vi ·Í½Ğ£»n È®·ÍÉí£¬Ê÷Æ¤
-baron     n ¹ó×å£»ÄĞ¾ô
-barrier     n Õ¤À¸£»¼ìÆ±¿Ú£»ÕÏ°­£»ÆÁÕÏ
-basis     n »ù´¡£»¸ù¾İ£»Ô­Ôò
-batch     n Ò»Åú£»Ò»ÅúÉú²úÁ¿
-battery     n µç³Ø£¨×é£©£¬Ğîµç³Ø£¨×é£©
-bay     n º£Íå
-beam     n Êø£»Áº£»Ğ¦Èİ£»vÃæÂ¶Ï²É«£»¶¨Ïò·¢³ö
-beehive     n ·äÎÑ£»·äÏä
-beforehand     ad Ô¤ÏÈ£¬ÊÂÏÈ
-behalf     n ÎªÁË¡£¡£µÄÀûÒæ£»´ú±í
-behave     vi ±íÏÖ£¬¾ÙÖ¹
-belief     n ĞÅÑö£¬ĞÅÌõ£»ÏàĞÅ
-belt     n µØ´ø£»Ñü´ø
-beneath     ad ÔÚÏÂ·½£¬ÔÚµ×ÏÂ
-beneficial     a ÓĞÀûµÄ£¬ÓĞÒæµÄ
-benefit     n ÀûÒæ£»ºÃ´¦ vt ÓĞÒæÓÚ£»µÃÒæ
-besides     ad ¶øÇÒ£»prep ³ı¡£¡£Ö®Íâ
-betray     vt ³öÂô£»¹¼¸º£»Ğ¹Â¶£¨ÃØÃÜ£©£»ÏÔÂ¶
-beverage     n ÒûÁÏ
-beware     v ½÷É÷£»µ±ĞÄ
-eyond     prep ³¬³ö
-bibliography     n ²Î¿¼ÊéÄ¿£»ÊéÄ¿
-bid     n&vt ³ö¼Û£»±ê¼Û
-bilateral     a Ë«±ßµÄ£»Ë«·½µÄ
-bin     n ´óÏä×Ó£»²Ö 
-bind     vt À¦°ó£»Ô¼Êø
-biography     n ´«¼Ç
-biometrics     n ÉúÎï²â¶¨Ñ§
-bistro     n Ğ¡¾Æ¹İ£»Ğ¡²Í¹İ
-bit     n ÉÙĞí£»Ğ¡Æ¬£»Ğ¡¿é
-bizarre     a ÆæĞÎ¹Ö×´µÄ£»¹Öµ®µÄ
-blade     n µ¶Æ¬£»²İÒ¶
-blame     vt Ôğ¹Ö£¬Ôğ±¸
-blank     a ¿Õ°×µÄ
-blanket     n Ìº×Ó£»ºñµÄ¸²¸ÇÎï
-blast     n Ò»Õó£¨·ç£©£»³å»÷£»vt ±¬ÆÆ£»¿İÎ®
-blaze     viĞÜĞÜÈ¼ÉÕ£»·¢Ç¿¹â£»±Å·¢£»n »ğÑæ
-blend     v £¨Ê¹£©»ìºÏ£»n »ìºÏÎï£»»ìºÏ
-block     vt ×è°­£»¶ÂÈû£»n ´ó¿é£»½ÖÇø /blockage   n ÕÏ°­Îï/
-blonde     a °×·ô½ğ·¢µÄ£»n ½ğ·¢±ÌÑÛµÄÅ®ÈË
-bloom     n »¨£»¿ª»¨£¨ÆÚ£©£»Çà´º»À·¢£¨µÄÊ±ÆÚ£©£»v £¨Ê¹£©¿ª»¨
-blueprint     n À¶Í¼£¬·½°¸
-blunt     a ¶ÛµÄ£»ÂÊÖ±µÄ£»vt °Ñ¡£¡£Åª¶Û£»¼õÈõ
-board     n °å£»Î¯Ô±»á
-boast     v&n ×Ô¿ä£»¿äÒ«
-bold     a ´Ö£¨×Ó£©ÌåµÄ£»´óµ¨µÄ£¬Â³Ã§µÄ
+average     n å¹³å‡ï¼ˆæ•°ï¼‰ï¼›a å¹³å‡çš„ï¼›å¹³å¸¸çš„
+avoid     vt é¿å…ï¼›èº²å¼€/avoidance     n é¿å…/
+award     n å¥–ï¼›è¯„åˆ¤ï¼›vt æˆäºˆï¼›ç»™äºˆ
+aware     a çŸ¥é“çš„ï¼›æ„è¯†åˆ°çš„/unaware  a ä¸çŸ¥é“çš„ï¼Œæ²¡æ„è¯†åˆ°çš„/awareness   n çŸ¥é“/
+awful     a ç³Ÿç³•çš„
+bachelor     n å­¦å£«ï¼›å•èº«æ±‰
+backbone     n è„Šæ¤ï¼›éª¨å¹²ï¼›æ”¯æŸ±
+bacterial     a ç»†èŒçš„
+badge     n å¾½ç« ï¼›æ ‡è®°ï¼›è±¡å¾
+badminton     n ç¾½æ¯›çƒ
+balance     n å¹³è¡¡ï¼›ä½™é¢ï¼›vt å¹³è¡¡
+balcony     n é˜³å°ï¼›æ¥¼åº§
+bamboo     n ç«¹å­
+band     n ä¹é˜Ÿï¼›å¸¦å­ï¼›æ³¢æ®µï¼›v ç”¨å¸¦ç»‘æ‰
+bankrupt     a ç ´äº§çš„
+bankruptcy     n ç ´äº§
+banner     n æ¨ªå¹…ï¼›æ——å¸œ
+bar     n é…’å§ï¼›æ …æ ï¼›æ£’ï¼Œæ¡çŠ¶ç‰©ï¼›vt é˜»æ‹¦ï¼›å…³ï¼ˆé—¨ï¼Œçª—ï¼‰
+barbecue     n é‡‘å±çƒ¤è‚‰æ¶ï¼›çƒ§çƒ¤é‡é¤
+bare     a èµ¤è£¸è£¸çš„ï¼Œå…‰ç§ƒçš„
+barely     ad ä»…ä»… ï¼Œå‡ ä¹ä¸
+bargain     vi è®¨ä»·è¿˜ä»·ï¼›n å¥‘çº¦ï¼›ä¾¿å®œè´§
+barge     n é©³èˆ¹ï¼›v çŒ›æ’ï¼›é—¯
+bark     vi å å«ï¼›n çŠ¬å èº«ï¼Œæ ‘çš®
+baron     n è´µæ—ï¼›ç”·çˆµ
+barrier     n æ …æ ï¼›æ£€ç¥¨å£ï¼›éšœç¢ï¼›å±éšœ
+basis     n åŸºç¡€ï¼›æ ¹æ®ï¼›åŸåˆ™
+batch     n ä¸€æ‰¹ï¼›ä¸€æ‰¹ç”Ÿäº§é‡
+battery     n ç”µæ± ï¼ˆç»„ï¼‰ï¼Œè“„ç”µæ± ï¼ˆç»„ï¼‰
+bay     n æµ·æ¹¾
+beam     n æŸï¼›æ¢ï¼›ç¬‘å®¹ï¼›vé¢éœ²å–œè‰²ï¼›å®šå‘å‘å‡º
+beehive     n èœ‚çªï¼›èœ‚ç®±
+beforehand     ad é¢„å…ˆï¼Œäº‹å…ˆ
+behalf     n ä¸ºäº†ã€‚ã€‚çš„åˆ©ç›Šï¼›ä»£è¡¨
+behave     vi è¡¨ç°ï¼Œä¸¾æ­¢
+belief     n ä¿¡ä»°ï¼Œä¿¡æ¡ï¼›ç›¸ä¿¡
+belt     n åœ°å¸¦ï¼›è…°å¸¦
+beneath     ad åœ¨ä¸‹æ–¹ï¼Œåœ¨åº•ä¸‹
+beneficial     a æœ‰åˆ©çš„ï¼Œæœ‰ç›Šçš„
+benefit     n åˆ©ç›Šï¼›å¥½å¤„ vt æœ‰ç›Šäºï¼›å¾—ç›Š
+besides     ad è€Œä¸”ï¼›prep é™¤ã€‚ã€‚ä¹‹å¤–
+betray     vt å‡ºå–ï¼›è¾œè´Ÿï¼›æ³„éœ²ï¼ˆç§˜å¯†ï¼‰ï¼›æ˜¾éœ²
+beverage     n é¥®æ–™
+beware     v è°¨æ…ï¼›å½“å¿ƒ
+eyond     prep è¶…å‡º
+bibliography     n å‚è€ƒä¹¦ç›®ï¼›ä¹¦ç›®
+bid     n&vt å‡ºä»·ï¼›æ ‡ä»·
+bilateral     a åŒè¾¹çš„ï¼›åŒæ–¹çš„
+bin     n å¤§ç®±å­ï¼›ä»“
+bind     vt æ†ç»‘ï¼›çº¦æŸ
+biography     n ä¼ è®°
+biometrics     n ç”Ÿç‰©æµ‹å®šå­¦
+bistro     n å°é…’é¦†ï¼›å°é¤é¦†
+bit     n å°‘è®¸ï¼›å°ç‰‡ï¼›å°å—
+bizarre     a å¥‡å½¢æ€ªçŠ¶çš„ï¼›æ€ªè¯çš„
+blade     n åˆ€ç‰‡ï¼›è‰å¶
+blame     vt è´£æ€ªï¼Œè´£å¤‡
+blank     a ç©ºç™½çš„
+blanket     n æ¯¯å­ï¼›åšçš„è¦†ç›–ç‰©
+blast     n ä¸€é˜µï¼ˆé£ï¼‰ï¼›å†²å‡»ï¼›vt çˆ†ç ´ï¼›æ¯è
+blaze     viç†Šç†Šç‡ƒçƒ§ï¼›å‘å¼ºå…‰ï¼›è¿¸å‘ï¼›n ç«ç„°
+blend     v ï¼ˆä½¿ï¼‰æ··åˆï¼›n æ··åˆç‰©ï¼›æ··åˆ
+block     vt é˜»ç¢ï¼›å µå¡ï¼›n å¤§å—ï¼›è¡—åŒº /blockage   n éšœç¢ç‰©/
+blonde     a ç™½è‚¤é‡‘å‘çš„ï¼›n é‡‘å‘ç¢§çœ¼çš„å¥³äºº
+bloom     n èŠ±ï¼›å¼€èŠ±ï¼ˆæœŸï¼‰ï¼›é’æ˜¥ç„•å‘ï¼ˆçš„æ—¶æœŸï¼‰ï¼›v ï¼ˆä½¿ï¼‰å¼€èŠ±
+blueprint     n è“å›¾ï¼Œæ–¹æ¡ˆ
+blunt     a é’çš„ï¼›ç‡ç›´çš„ï¼›vt æŠŠã€‚ã€‚å¼„é’ï¼›å‡å¼±
+board     n æ¿ï¼›å§”å‘˜ä¼š
+boast     v&n è‡ªå¤¸ï¼›å¤¸è€€
+bold     a ç²—ï¼ˆå­ï¼‰ä½“çš„ï¼›å¤§èƒ†çš„ï¼Œé²è½çš„
 
-list3
-approval     n ÔŞ³É£¬Í¬Òâ£»ÕıÊ½Åú×¼
-approve     vt Åú×¼£¬Í¬Òâ
-approximate     a ½üËÆµÄ£»vt ½üËÆ/approximately   ad ½üËÆµØ£¬´óÔ¼/
-apt     a Ò×ÓÚ¡£¡£µÄ£»ÊÊÒËµÄ£»Ãô½İµÄ
-aptitude     n ÊÊÒË£»²ÅÄÜ
-aquarium     n ÑøÓã³Ø£»²£Á§¸×£»Ë®×å¹İ
-arable     a ¿É¸û×öµÄ£»n ¸ûµØ
-arboreal     a Ê÷Ä¾µÄ£»ÆÜÓÚÊ÷Ä¾µÄ
-architect     n ½¨ÖşÊ¦
-architecture     n ½¨Öş£¨Ñ§£©£»½¨ÖşÊ½Ñù£¨·ç¸ñ£©/architectural   a ½¨ÖşµÄ/
-archive     n µµ°¸ÎÄ¼ş£»µµ°¸ÊÒ£»vt ´æµµ
-argue     v ÕùÂÛ£¬Ëµ·ş/arguably   ad ¿ÉÂÛÖ¤µØ£¬¿É±ç½âµØ/
-argument     n ÕùÂÛ£»¹Ûµã
-aridity     n ¸Éºµ£»·¦Î¶
-arithmetic     n ËãÊõ
-arrange     v °²ÅÅ£»ÅÅÁĞ
-arrangement     n °²ÅÅ
-array     v ²¿Êğ£»n ³ÂÁĞ£»´óÅú
-arrogance     n °ÁÂı£¬×Ô´ó
-artefact     n ÈË¹¤ÖÆÆ·
-artery     n ¶¯Âö£»ÒªµÀ
-arthritis     n ¹Ø½ÚÑ×
-artificial     a ÈË¹¤µÄ£¬ÈËÔìµÄ
-as for/to     ÖÁÓÚ£¬¹ØÓÚ
-as if/though     ºÃÏñ£¬·Â·ğ
-ash     n »Ò½ı£»»Ò
-aspect     n ·½Ãæ£»Íâ¹Û£¬Ñù×Ó
-aspiration     n Ç¿ÁÒµÄÔ¸Íû£»Ö¾Ïò£»¿ÊÍû´ïµ½µÄÄ¿µÄ
-assemble     vt ¼¯ºÏ£»×°Åä/assembly  n ¼¯»á£»×é×°/
-assess     v ÆÀ¶¨£»¹É¼Û/assessment  n ÆÀ¶¨£¬ºË¶¨µÄ¸¶¿îÏî/
-asset     n ²Æ²ú£»ÓÅµã
-assign     vt Ö¸ÅÉ£¬·ÖÅä
-assignment     n ÈÎÎñ
-assimilate     vtÎüÊÕ£»Ê¹Í¬»¯
-assistance     n Ğ­Öú£¬Ô®Öú
-assistant     n ÖúÀí
-associate     vt Ê¹ÁªºÏ£»Ê¹ÓĞÁªÏµ£»vi ½»Íù£»n »ï°é£»Í¬ÊÂ£»a ¸±µÄ
-association     n Ğ­»á
-assume     v ¼Ù¶¨£¬ÉèÏë
-assumption     n¼Ù¶¨£¬¼ÙÉè
-assurance     n ĞÅĞÄ£»±£Ö¤£»£¨ÈËÊÙ£©±£ÏÕ
-asthma     n Ïø´­Ö¢
-astonish     vt Ê¹¾ªÑÈ£¬Ê¹³Ô¾ª
-astound     v Õğ¾ª
-astray     adÃÔÂ·µØ£»ÎóÈëÃÔÍ¾µØ
-astrology     n Õ¼ĞÇÊõ£»Õ¼ĞÇÑ§
-astronaut     n Óîº½Ô±
-asymmetry     n ²»¶Ô³Æ/asymmetric   a ²»¶Ô³ÆµÄ£¬²»ÔÈ³ÆµÄ/
-at least    ÖÁÉÙ
-at random     Ëæ±ãµØ£¬ÈÎÒâµØ
-athlete     n ÔË¶¯Ô±£»ÌåÓı¼Ò/athletic   a ÔË¶¯µÄ£¬ÔË¶¯Ô±µÄ/
-atmosphere     n ´óÆø£»Æø·Õ£»»·¾³/atmospheric   a ´óÆøµÄ/
-atomic     a Ô­×ÓÄÜµÄ
-attach     vt ÌùÉÏ£»Ê¹Ï²°®£»Ê¹¸½Êô
-attack     v&n ½ø¹¥£»Åê»÷£»£¨¼²²¡µÈ£©Í»È»·¢×÷
-attain     vt ´ïµ½£»»ñµÃ
-attempt     n&vt ³¢ÊÔ£»ÊÔÍ¼£»Å¬Á¦
-attend     vt ³öÏ¯£»ÕÕÁÏ£»vi ×¨ĞÄÓÚ£»ÖÂÁ¦ÓÚ/attendance   n ³öÏ¯£»ÕÕÁÏ/attention   n ×¢Òâ£»¹ØĞÄ/
-attraction     n ÎüÒı£¨Á¦£©
-attribute     n ÊôĞÔ£»Æ·ÖÊ£»vt °Ñ¡£¡£¹éÓÚ
-audacious     a ´óµ¨µÄ£»ÓĞÃ°ÏÕ¾«ÉñµÄ£»Â³Ã§µÄ
-audio     a Ìı¾õµÄ£»ÉùÒôµÄ
-audition     n ÊÔÑİ£»ÌıÁ¦
-authority     n È¨Àû£¬È¨Íş£»È¨Á¦»ú¹Ø
-authorize     vt Åú×¼£¬ÈÏ¿É£»ÊÚÈ¨/unauthorised   a Î´¾­ÊÚÈ¨µÄ£¬Î´Åú×¼µÄ/authoritative  a ÓĞÈ¨ÍşµÄ£»ÃüÁîÊ½µÄ/
-automatically     ad ×Ô¶¯µØ£»ÎŞÒâÊ¶µØ
-avail     n Ğ§ÓÃ£»ÀûÒæ£»v ÀûÓÃ
-available     a ¿É»ñµÃµÄ£»¿ÉÓÃµÄ
-avalanche     n&v Ñ©±À
-avenue     nÁÖÒñ´óµÀ£¬´ó½Ö£»·½·¨£¬Í¾¾¶
+approval     n èµæˆï¼ŒåŒæ„ï¼›æ­£å¼æ‰¹å‡†
+approve     vt æ‰¹å‡†ï¼ŒåŒæ„
+approximate     a è¿‘ä¼¼çš„ï¼›vt è¿‘ä¼¼/approximately   ad è¿‘ä¼¼åœ°ï¼Œå¤§çº¦/
+apt     a æ˜“äºã€‚ã€‚çš„ï¼›é€‚å®œçš„ï¼›æ•æ·çš„
+aptitude     n é€‚å®œï¼›æ‰èƒ½
+aquarium     n å…»é±¼æ± ï¼›ç»ç’ƒç¼¸ï¼›æ°´æ—é¦†
+arable     a å¯è€•åšçš„ï¼›n è€•åœ°
+arboreal     a æ ‘æœ¨çš„ï¼›æ –äºæ ‘æœ¨çš„
+architect     n å»ºç­‘å¸ˆ
+architecture     n å»ºç­‘ï¼ˆå­¦ï¼‰ï¼›å»ºç­‘å¼æ ·ï¼ˆé£æ ¼ï¼‰/architectural   a å»ºç­‘çš„/
+archive     n æ¡£æ¡ˆæ–‡ä»¶ï¼›æ¡£æ¡ˆå®¤ï¼›vt å­˜æ¡£
+argue     v äº‰è®ºï¼Œè¯´æœ/arguably   ad å¯è®ºè¯åœ°ï¼Œå¯è¾©è§£åœ°/
+argument     n äº‰è®ºï¼›è§‚ç‚¹
+aridity     n å¹²æ—±ï¼›ä¹å‘³
+arithmetic     n ç®—æœ¯
+arrange     v å®‰æ’ï¼›æ’åˆ—
+arrangement     n å®‰æ’
+array     v éƒ¨ç½²ï¼›n é™ˆåˆ—ï¼›å¤§æ‰¹
+arrogance     n å‚²æ…¢ï¼Œè‡ªå¤§
+artefact     n äººå·¥åˆ¶å“
+artery     n åŠ¨è„‰ï¼›è¦é“
+arthritis     n å…³èŠ‚ç‚
+artificial     a äººå·¥çš„ï¼Œäººé€ çš„
+as for/to     è‡³äºï¼Œå…³äº
+as if/though     å¥½åƒï¼Œä»¿ä½›
+ash     n ç°çƒ¬ï¼›ç°
+aspect     n æ–¹é¢ï¼›å¤–è§‚ï¼Œæ ·å­
+aspiration     n å¼ºçƒˆçš„æ„¿æœ›ï¼›å¿—å‘ï¼›æ¸´æœ›è¾¾åˆ°çš„ç›®çš„
+assemble     vt é›†åˆï¼›è£…é…/assembly  n é›†ä¼šï¼›ç»„è£…/
+assess     v è¯„å®šï¼›è‚¡ä»·/assessment  n è¯„å®šï¼Œæ ¸å®šçš„ä»˜æ¬¾é¡¹/
+asset     n è´¢äº§ï¼›ä¼˜ç‚¹
+assign     vt æŒ‡æ´¾ï¼Œåˆ†é…
+assignment     n ä»»åŠ¡
+assimilate     vtå¸æ”¶ï¼›ä½¿åŒåŒ–
+assistance     n ååŠ©ï¼Œæ´åŠ©
+assistant     n åŠ©ç†
+associate     vt ä½¿è”åˆï¼›ä½¿æœ‰è”ç³»ï¼›vi äº¤å¾€ï¼›n ä¼™ä¼´ï¼›åŒäº‹ï¼›a å‰¯çš„
+association     n åä¼š
+assume     v å‡å®šï¼Œè®¾æƒ³
+assumption     nå‡å®šï¼Œå‡è®¾
+assurance     n ä¿¡å¿ƒï¼›ä¿è¯ï¼›ï¼ˆäººå¯¿ï¼‰ä¿é™©
+asthma     n å“®å–˜ç—‡
+astonish     vt ä½¿æƒŠè®¶ï¼Œä½¿åƒæƒŠ
+astound     v éœ‡æƒŠ
+astray     adè¿·è·¯åœ°ï¼›è¯¯å…¥è¿·é€”åœ°
+astrology     n å æ˜Ÿæœ¯ï¼›å æ˜Ÿå­¦
+astronaut     n å®‡èˆªå‘˜
+asymmetry     n ä¸å¯¹ç§°/asymmetric   a ä¸å¯¹ç§°çš„ï¼Œä¸åŒ€ç§°çš„/
+at least    è‡³å°‘
+at random     éšä¾¿åœ°ï¼Œä»»æ„åœ°
+athlete     n è¿åŠ¨å‘˜ï¼›ä½“è‚²å®¶/athletic   a è¿åŠ¨çš„ï¼Œè¿åŠ¨å‘˜çš„/
+atmosphere     n å¤§æ°”ï¼›æ°”æ°›ï¼›ç¯å¢ƒ/atmospheric   a å¤§æ°”çš„/
+atomic     a åŸå­èƒ½çš„
+attach     vt è´´ä¸Šï¼›ä½¿å–œçˆ±ï¼›ä½¿é™„å±
+attack     v&n è¿›æ”»ï¼›æŠ¨å‡»ï¼›ï¼ˆç–¾ç—…ç­‰ï¼‰çªç„¶å‘ä½œ
+attain     vt è¾¾åˆ°ï¼›è·å¾—
+attempt     n&vt å°è¯•ï¼›è¯•å›¾ï¼›åŠªåŠ›
+attend     vt å‡ºå¸­ï¼›ç…§æ–™ï¼›vi ä¸“å¿ƒäºï¼›è‡´åŠ›äº/attendance   n å‡ºå¸­ï¼›ç…§æ–™/attention   n æ³¨æ„ï¼›å…³å¿ƒ/
+attraction     n å¸å¼•ï¼ˆåŠ›ï¼‰
+attribute     n å±æ€§ï¼›å“è´¨ï¼›vt æŠŠã€‚ã€‚å½’äº
+audacious     a å¤§èƒ†çš„ï¼›æœ‰å†’é™©ç²¾ç¥çš„ï¼›é²è½çš„
+audio     a å¬è§‰çš„ï¼›å£°éŸ³çš„
+audition     n è¯•æ¼”ï¼›å¬åŠ›
+authority     n æƒåˆ©ï¼Œæƒå¨ï¼›æƒåŠ›æœºå…³
+authorize     vt æ‰¹å‡†ï¼Œè®¤å¯ï¼›æˆæƒ/unauthorised   a æœªç»æˆæƒçš„ï¼Œæœªæ‰¹å‡†çš„/authoritative  a æœ‰æƒå¨çš„ï¼›å‘½ä»¤å¼çš„/
+automatically     ad è‡ªåŠ¨åœ°ï¼›æ— æ„è¯†åœ°
+avail     n æ•ˆç”¨ï¼›åˆ©ç›Šï¼›v åˆ©ç”¨
+available     a å¯è·å¾—çš„ï¼›å¯ç”¨çš„
+avalanche     n&v é›ªå´©
+avenue     næ—è«å¤§é“ï¼Œå¤§è¡—ï¼›æ–¹æ³•ï¼Œé€”å¾„
 
-list2
-afford     vt ¸ºµ£µÃÆğ
-agency     n »ú¹¹£»´úÀí£¬´ú°ì
-agenda     n Òé³Ì£»Òé³Ì±í
-aggravation     n ¼ÓÖØ£»¶ñ»¯
-aggressive     a ÇÖÂÔµÄ£¬¹¥»÷ĞÔµÄ£»ÓĞ´³¾¢µÄ
-aggressiveness     n ÇÖÂÔ£»Õù¶·£»¹¥»÷
-agriculture     n Å©Òµ£»Å©Ñ§
-ailment     n ¼²²¡
-airtight     a ÃÜ±ÕµÄ£»ÎŞĞ¸¿É»÷µÄ
-aisle     n ¹ıµÀ£»Í¨µÀ
-alarm     n ±¨¾¯Æ÷£»ÄÖÖÓ£»¾¯±¨ vt £¨Ê¹£©¾ª¿Ö£»£¨Ê¹£©µ£ĞÄ
-alchemist     n Á¶½ğÊõÊ¿
-alcohol     n ¾Æ¾«
-alert     a ¾¯ÌèµÄ£»n ¾¯½ä£»¾¯±¨ vt ¾¯¸æ
-alienation     n ÊèÔ¶£»Àë¼ä
-alight     vi ÂäÏÂ a µã×ÅµÄ
-alignment     n ÅÅ³ÉÖ±Ïß£»ÁªÃË
-alley     n Ğ¡Ïï£»ºúÍ¬
-allocate     vt ·ÖÅä£»·ÖÅÉ
-allowance     n ½òÌù£»ÔÊĞí£¬ÈİÈÌ
-alluvial     a ³å»ıµÄ£»ÓÙ»ıµÄ
-almond     n ĞÓÊ÷£»ĞÓÈÊ
-alter     vt ¸Ä±ä£»±ä¶¯
-alternative     n ¶şÑ¡Ò»£¬Ñ¡Ôñ£»a Á½ÕßÑ¡Ò»µÄ
-altitude     n º£°Î£»
-aluminium     n ÂÁ
-amass     vt »ı¾Û
-amateur     n ÍâĞĞ£»ÒµÓà°®ºÃÕß£»a ÒµÓàµÄ
-amaze     vt Ê¹¾ªÆæ£¬Ê¹¾ªãµ
-ambassador     n ´óÊ¹£¬ÊĞ½Ö
-ambiguous     a º¬ºıÆä´ÇµÄ£»²»Ã÷È·µÄ
-ambitious     a ÓĞ±§¸ºµÄ£»ÓĞÒ°ĞÄµÄ
-ambulance     n ¾È»¤³µ£»Ò°Õ½Ò½Ôº
-amorphous     a ÎŞ¶¨ĞÎµÄ£»ÎŞ×éÖ¯µÄ£»·Ç½á¾§ÖÊµÄ
-amount     n ×Ü¶î£»vi ºÏ¼Æ
-amplify     vt·Å´ó£¨ÉùÒô£©£»vi ÏêÊö
-analogous     a ÀàËÆµÄ
-analyse     vt ·ÖÎö£»·Ö½â /analyst  n ·ÖÎöÔ±/analysis   a ·ÖÎöµÄ/
-anatomy     n ½âÆÊÑ§£»½âÆÊ½á¹¹ /anatomical   a ½âÆÊµÄ£¬½âÆÊÑ§µÄ/
-ancient     a ¹ÅÀÏµÄ£»ÄêÀÏµÄ
-and so forth     µÈµÈ
-anecdotal      a ÒİÎÅÈ¤ÊÂµÄ
-announce     vt Ğû³Æ£»Éù³Æ /announcement   n Ğû¸æ£»·¢±í/announcer   n ¹ã²¥Ô±£¬²¥±¨Ô±/
-annoy     vt Ê¹·³ÄÕ£»´ò½Á
-annual     a Ã¿ÄêµÄ¡£Ò»ÄêÒ»´ÎµÄ/annually   ad Ò»ÄêÒ»´ÎµØ/
-anthropologist     n ÈËÀàÑ§¼Ò
-anticipate     v ÏÈÓÚ¡£¡£ĞĞ¶¯£»Ô¤¼û/anticipation   n Ô¤ÁÏ/
-antidote     n ½â¶¾Ò©
-antiquity     n ¹Å´ú£»¹Å¼£
-anxious     a ¿ÊÍûµÄ£»ÓÇÂÇµÄ
-apace     ad ¿ìËÙµØ£¬¼±ËÙµØ
-apart     ad Ïà¼ä¸ôµØ£»·ÖÀëµØ£»³öÈ¥µØ£» a ·ÖÀëµÄ
-ape     n Ô³£» vt Ä£·Â
-apparatus     n Æ÷Ğµ£»×éÖ¯
-apparent     a ÏÔÈ»µÄ£»±íÃæÉÏµÄ
-apparently     ad ÏÔÈ»µØ£»¿´À´
-appeal     vi ºôÓõ£»ÎüÒı£»n ¸ĞÈ¾Á¦£¬ÎüÒıÁ¦
-appearance     n ³öÏÖ£»Íâ¹Û
-appetite     n Ê³Óû£»Î¸¿Ú
-applaud     v £¨Ïò¡£¡££©¹ÄÕÆºÈ²Ê£»³ÆÔŞ
-appliance     n ÓÃ¾ß£¬Æ÷¾ß
-application     n ÉêÇë£»Ó¦ÓÃ£¬ÔËÓÃ
-apply     v Ó¦ÓÃ£¬Ê¹ÓÃ£»ÉêÇë
-appoint     vt ÈÎÃü£¬Î¯ÈÎ£»Ö¸¶¨£¨Ê±¼ä£¬µØµãµÈ£©
-appointment      n Ô¼»á
-appraisal     n ¹À¼Æ£»ÆÀ¼Û
-approach     vt Ïò¡£¡£¿¿½ü£¬À´ÁÙ£»n ·½·¨£¬Í¾¾¶
-appropriate     a ÊÊµ±µÄ£»v Å²ÓÃ£»²¦³ö£¨¿îÏî£©
+afford     vt è´Ÿæ‹…å¾—èµ·
+agency     n æœºæ„ï¼›ä»£ç†ï¼Œä»£åŠ
+agenda     n è®®ç¨‹ï¼›è®®ç¨‹è¡¨
+aggravation     n åŠ é‡ï¼›æ¶åŒ–
+aggressive     a ä¾µç•¥çš„ï¼Œæ”»å‡»æ€§çš„ï¼›æœ‰é—¯åŠ²çš„
+aggressiveness     n ä¾µç•¥ï¼›äº‰æ–—ï¼›æ”»å‡»
+agriculture     n å†œä¸šï¼›å†œå­¦
+ailment     n ç–¾ç—…
+airtight     a å¯†é—­çš„ï¼›æ— æ‡ˆå¯å‡»çš„
+aisle     n è¿‡é“ï¼›é€šé“
+alarm     n æŠ¥è­¦å™¨ï¼›é—¹é’Ÿï¼›è­¦æŠ¥ vt ï¼ˆä½¿ï¼‰æƒŠæï¼›ï¼ˆä½¿ï¼‰æ‹…å¿ƒ
+alchemist     n ç‚¼é‡‘æœ¯å£«
+alcohol     n é…’ç²¾
+alert     a è­¦æƒ•çš„ï¼›n è­¦æˆ’ï¼›è­¦æŠ¥ vt è­¦å‘Š
+alienation     n ç–è¿œï¼›ç¦»é—´
+alight     vi è½ä¸‹ a ç‚¹ç€çš„
+alignment     n æ’æˆç›´çº¿ï¼›è”ç›Ÿ
+alley     n å°å··ï¼›èƒ¡åŒ
+allocate     vt åˆ†é…ï¼›åˆ†æ´¾
+allowance     n æ´¥è´´ï¼›å…è®¸ï¼Œå®¹å¿
+alluvial     a å†²ç§¯çš„ï¼›æ·¤ç§¯çš„
+almond     n ææ ‘ï¼›æä»
+alter     vt æ”¹å˜ï¼›å˜åŠ¨
+alternative     n äºŒé€‰ä¸€ï¼Œé€‰æ‹©ï¼›a ä¸¤è€…é€‰ä¸€çš„
+altitude     n æµ·æ‹”ï¼›
+aluminium     n é“
+amass     vt ç§¯èš
+amateur     n å¤–è¡Œï¼›ä¸šä½™çˆ±å¥½è€…ï¼›a ä¸šä½™çš„
+amaze     vt ä½¿æƒŠå¥‡ï¼Œä½¿æƒŠæ„•
+ambassador     n å¤§ä½¿ï¼Œå¸‚è¡—
+ambiguous     a å«ç³Šå…¶è¾çš„ï¼›ä¸æ˜ç¡®çš„
+ambitious     a æœ‰æŠ±è´Ÿçš„ï¼›æœ‰é‡å¿ƒçš„
+ambulance     n æ•‘æŠ¤è½¦ï¼›é‡æˆ˜åŒ»é™¢
+amorphous     a æ— å®šå½¢çš„ï¼›æ— ç»„ç»‡çš„ï¼›éç»“æ™¶è´¨çš„
+amount     n æ€»é¢ï¼›vi åˆè®¡
+amplify     vtæ”¾å¤§ï¼ˆå£°éŸ³ï¼‰ï¼›vi è¯¦è¿°
+analogous     a ç±»ä¼¼çš„
+analyse     vt åˆ†æï¼›åˆ†è§£ /analyst  n åˆ†æå‘˜/analysis   a åˆ†æçš„/
+anatomy     n è§£å‰–å­¦ï¼›è§£å‰–ç»“æ„ /anatomical   a è§£å‰–çš„ï¼Œè§£å‰–å­¦çš„/
+ancient     a å¤è€çš„ï¼›å¹´è€çš„
+and so forth     ç­‰ç­‰
+anecdotal      a é€¸é—»è¶£äº‹çš„
+announce     vt å®£ç§°ï¼›å£°ç§° /announcement   n å®£å‘Šï¼›å‘è¡¨/announcer   n å¹¿æ’­å‘˜ï¼Œæ’­æŠ¥å‘˜/
+annoy     vt ä½¿çƒ¦æ¼ï¼›æ‰“æ…
+annual     a æ¯å¹´çš„ã€‚ä¸€å¹´ä¸€æ¬¡çš„/annually   ad ä¸€å¹´ä¸€æ¬¡åœ°/
+anthropologist     n äººç±»å­¦å®¶
+anticipate     v å…ˆäºã€‚ã€‚è¡ŒåŠ¨ï¼›é¢„è§/anticipation   n é¢„æ–™/
+antidote     n è§£æ¯’è¯
+antiquity     n å¤ä»£ï¼›å¤è¿¹
+anxious     a æ¸´æœ›çš„ï¼›å¿§è™‘çš„
+apace     ad å¿«é€Ÿåœ°ï¼Œæ€¥é€Ÿåœ°
+apart     ad ç›¸é—´éš”åœ°ï¼›åˆ†ç¦»åœ°ï¼›å‡ºå»åœ°ï¼› a åˆ†ç¦»çš„
+ape     n çŒ¿ï¼› vt æ¨¡ä»¿
+apparatus     n å™¨æ¢°ï¼›ç»„ç»‡
+apparent     a æ˜¾ç„¶çš„ï¼›è¡¨é¢ä¸Šçš„
+apparently     ad æ˜¾ç„¶åœ°ï¼›çœ‹æ¥
+appeal     vi å‘¼åï¼›å¸å¼•ï¼›n æ„ŸæŸ“åŠ›ï¼Œå¸å¼•åŠ›
+appearance     n å‡ºç°ï¼›å¤–è§‚
+appetite     n é£Ÿæ¬²ï¼›èƒƒå£
+applaud     v ï¼ˆå‘ã€‚ã€‚ï¼‰é¼“æŒå–å½©ï¼›ç§°èµ
+appliance     n ç”¨å…·ï¼Œå™¨å…·
+application     n ç”³è¯·ï¼›åº”ç”¨ï¼Œè¿ç”¨
+apply     v åº”ç”¨ï¼Œä½¿ç”¨ï¼›ç”³è¯·
+appoint     vt ä»»å‘½ï¼Œå§”ä»»ï¼›æŒ‡å®šï¼ˆæ—¶é—´ï¼Œåœ°ç‚¹ç­‰ï¼‰
+appointment      n çº¦ä¼š
+appraisal     n ä¼°è®¡ï¼›è¯„ä»·
+approach     vt å‘ã€‚ã€‚é è¿‘ï¼Œæ¥ä¸´ï¼›n æ–¹æ³•ï¼Œé€”å¾„
+appropriate     a é€‚å½“çš„ï¼›v æŒªç”¨ï¼›æ‹¨å‡ºï¼ˆæ¬¾é¡¹ï¼‰
 
-list1
-abandon     vt ·ÅÆú£¬ÒÅÆú
-abate     v ¼õÇá£»½µ¼Û
-ability      n ÄÜÁ¦£»±¾ÄÜ£»²ÅÄÜ
-abolish     vt ·ÏÖ¹£¬·Ï³ı
-abound     vi ¸»ÓÚ£»³äÂú
-absent      a ²»ÔÚ³¡µÄ;ĞÄ²»ÔÚÑÉµÄ
-absenteeism      n ¿õ¿Î£»¿õ¹¤   
-absorb     v ÎüÒı£»ÎüÒı¡£¡£¡£µÄ×¢Òâ
-abstraction     n ³éÏó
-absurb      a »ÄÃıµÄ£¬»ÄÌÆµÄ
-abuse     vt/n ÀÄÓÃ£»Å°´ı£»ÈèÂî
-academic     a Ñ§ÑĞµÄ£»Ñ§ÊõµÄ£»²»ÇĞÊµ¼ÊµÄn  ´óÑ§½ÌÊ¦
-accelerate     vt/vi ¼ÓËÙ£»´Ù½ø
-access     n ½Ó½ü£»½øÈë£»Í¨µÀ  vt   ½øÈë£»Ê¹ÓÃ
-accessible     a ÄÜ½Ó½üµÄ£»¿ÉÒÔ´ïµ½µÄ
-accessory     n ¸½¼ş£»×°ÊÎÆ·
-accommodation      n ×¡´¦£¬ÉÅÊ³
-accompany     vt/vi Åã°é£»°é×à
-accomplish     vt ´ïµ½£¨Ä¿µÄ£©£¬Íê³É
-account     n ÕÊ£¬ÕË»§ v ËµÃ÷¡£¡£¡£¡£µÄÔ­Òò£»Õ¼
-accountant     n »á¼ÆÊ¦
-accreditation     n ĞÅÈÎ£»Î¯ÅÉ£»¼ø¶¨ºÏ¸ñ
-accumulate     v »ıÀÛ£»¶Ñ»ı
-accuracy     n ×¼È·£¨ĞÔ£©
-accurate     a ÕıÈ·ÎŞÎóµÄ£»¾«È·µÄ
-achievement     n ³É¾Í£¬³É¼¨
-acid     n Ëá£»a ËáµÄ£»¼â¿ÌµÄ
-acknowledge     vt ³ĞÈÏ£¬È·ÈÏ£»¸ĞĞ»
-acoustic     a ÉùÒô£¨Ñ§£©µÄ£»Ìı¾õµÄ
-acquaint     vt£¨Ê¹£©ÈÏÊ¶£»£¨Ê¹£©ÊìÏ¤
-acquaintance     n ÈÏÊ¶£»ÁË½â
-acquire     vt È¡µÃ£¬»ñµÃ
-acquisition     n È¡µÃ£»»ñµÃÎï
-acrobat     n ÌØ¼¼ÑİÔ±£»ÔÓ¼¼ÑİÔ±
-activate      vt/vi ¼¤»î£»¼ÓËÙ·´Ó¦
-actual     a Êµ¼ÊµÄ£»ÕæÊµµÄ
-acumen     n ÃôÈñ£»¾«Ã÷
-acute     a ÁéÃôµÄ£»¾çÁÒµÄ£»ÃÍÁÒµÄ
-adapt     vt&vi Ê¹ºÏÊÊ£»¸Ä±ä
-adaptation     n ÊÊÓ¦£»¸Ä±à
-addict     n ÓĞñ«µÄÈË vÊ¹ÉÏñ«
-additional     a ¸½¼ÓµÄ£»×·¼ÓµÄ
-address     n µØÖ·£»ÑİËµ vtËµ»°£»¶Ô¸¶
-adequate     a ³ä×ãµÄ£»ºÏÊÊµÄ£¬Ê¤ÈÎµÄ
-adhere     vi Õ³¸½£»×ñÊØ£»¼á³Ö
-adjacent     a ÁÚ½üµÄ£¬ÅşÁ¬µÄ
-adjust     v Ğ£×¼£»µ÷½Ú£»Ê¹¡£¡£¡£ÊÊÓ¦
-administer     vt&vi ÕÆ¹Ü£»¸øÓè
-administration     n¹ÜÀí£¨²¿ÃÅ);ĞĞÕş£¨»ú¹Ø£©
-admission     n ÔÊĞí½øÈë£»Ğí¿ÉÈëÑ§
-admit     v ³ĞÈÏ£»×¼Ğí¡£¡£¡£½øÈë£»×¼Ğí¡£¡£¼ÓÈë
-adolescent     n ÇàÉÙÄê a Çà´ºÆÚµÄ£¬ÇàÉÙÄêµÄ
-adopt     vt ²ÉÓÃ£¬²ÉÈ¡£»ÊÕÑø
-advance     v&n Ç°½ø£»Ô¤¸¶£»a Ô¤ÏÈµÄ£»ÏÈĞĞµÄ
-advanced     a ÏÈ½øµÄ
-advantage     n ÓÅÊÆ£¬ÓÅµã
-adventure     n Ã°ÏÕ£¬Ã°ÏÕ»î¶¯
-advent     n µ½À´£¬³öÏÖ
-adverse     a ²»ÀûµÄ£¬ÓĞº¦µÄ
-advertise     vt Îª¡£¡£×ö¹ã¸æ£»Ğû´«
-advocate     vt Ìá³« n   Óµ»¤Õß£»Ìá³«Õß
-aeration     n Í¨·ç
-aerobics     n ÓĞÑõÔË¶¯·¨£»½¡ÃÀ²Ù
-aeronautics     n º½¿ÕÑ§
-aeroplane     n ·É»ú
-aerospace     n ÓîÖæ¿Õ¼ä£»º½¿ÕÓîÖæ
-aesthetic     a ÃÀÑ§µÄ£»ÉóÃÀµÄ
-affect     v Ó°Ïì£»¸ĞÈ¾
-afflict     vt Ê¹¿àÄÕ£»ÕÛÄ¥
+abandon     vt æ”¾å¼ƒï¼Œé—å¼ƒ
+abate     v å‡è½»ï¼›é™ä»·
+ability      n èƒ½åŠ›ï¼›æœ¬èƒ½ï¼›æ‰èƒ½
+abolish     vt åºŸæ­¢ï¼ŒåºŸé™¤
+abound     vi å¯Œäºï¼›å……æ»¡
+absent      a ä¸åœ¨åœºçš„;å¿ƒä¸åœ¨ç„‰çš„
+absenteeism      n æ—·è¯¾ï¼›æ—·å·¥
+absorb     v å¸å¼•ï¼›å¸å¼•ã€‚ã€‚ã€‚çš„æ³¨æ„
+abstraction     n æŠ½è±¡
+absurb      a è’è°¬çš„ï¼Œè’å”çš„
+abuse     vt/n æ»¥ç”¨ï¼›è™å¾…ï¼›è¾±éª‚
+academic     a å­¦ç ”çš„ï¼›å­¦æœ¯çš„ï¼›ä¸åˆ‡å®é™…çš„n  å¤§å­¦æ•™å¸ˆ
+accelerate     vt/vi åŠ é€Ÿï¼›ä¿ƒè¿›
+access     n æ¥è¿‘ï¼›è¿›å…¥ï¼›é€šé“  vt   è¿›å…¥ï¼›ä½¿ç”¨
+accessible     a èƒ½æ¥è¿‘çš„ï¼›å¯ä»¥è¾¾åˆ°çš„
+accessory     n é™„ä»¶ï¼›è£…é¥°å“
+accommodation      n ä½å¤„ï¼Œè†³é£Ÿ
+accompany     vt/vi é™ªä¼´ï¼›ä¼´å¥
+accomplish     vt è¾¾åˆ°ï¼ˆç›®çš„ï¼‰ï¼Œå®Œæˆ
+account     n å¸ï¼Œè´¦æˆ· v è¯´æ˜ã€‚ã€‚ã€‚ã€‚çš„åŸå› ï¼›å 
+accountant     n ä¼šè®¡å¸ˆ
+accreditation     n ä¿¡ä»»ï¼›å§”æ´¾ï¼›é‰´å®šåˆæ ¼
+accumulate     v ç§¯ç´¯ï¼›å †ç§¯
+accuracy     n å‡†ç¡®ï¼ˆæ€§ï¼‰
+accurate     a æ­£ç¡®æ— è¯¯çš„ï¼›ç²¾ç¡®çš„
+achievement     n æˆå°±ï¼Œæˆç»©
+acid     n é…¸ï¼›a é…¸çš„ï¼›å°–åˆ»çš„
+acknowledge     vt æ‰¿è®¤ï¼Œç¡®è®¤ï¼›æ„Ÿè°¢
+acoustic     a å£°éŸ³ï¼ˆå­¦ï¼‰çš„ï¼›å¬è§‰çš„
+acquaint     vtï¼ˆä½¿ï¼‰è®¤è¯†ï¼›ï¼ˆä½¿ï¼‰ç†Ÿæ‚‰
+acquaintance     n è®¤è¯†ï¼›äº†è§£
+acquire     vt å–å¾—ï¼Œè·å¾—
+acquisition     n å–å¾—ï¼›è·å¾—ç‰©
+acrobat     n ç‰¹æŠ€æ¼”å‘˜ï¼›æ‚æŠ€æ¼”å‘˜
+activate      vt/vi æ¿€æ´»ï¼›åŠ é€Ÿååº”
+actual     a å®é™…çš„ï¼›çœŸå®çš„
+acumen     n æ•é”ï¼›ç²¾æ˜
+acute     a çµæ•çš„ï¼›å‰§çƒˆçš„ï¼›çŒ›çƒˆçš„
+adapt     vt&vi ä½¿åˆé€‚ï¼›æ”¹å˜
+adaptation     n é€‚åº”ï¼›æ”¹ç¼–
+addict     n æœ‰ç˜¾çš„äºº vä½¿ä¸Šç˜¾
+additional     a é™„åŠ çš„ï¼›è¿½åŠ çš„
+address     n åœ°å€ï¼›æ¼”è¯´ vtè¯´è¯ï¼›å¯¹ä»˜
+adequate     a å……è¶³çš„ï¼›åˆé€‚çš„ï¼Œèƒœä»»çš„
+adhere     vi ç²˜é™„ï¼›éµå®ˆï¼›åšæŒ
+adjacent     a é‚»è¿‘çš„ï¼Œæ¯—è¿çš„
+adjust     v æ ¡å‡†ï¼›è°ƒèŠ‚ï¼›ä½¿ã€‚ã€‚ã€‚é€‚åº”
+administer     vt&vi æŒç®¡ï¼›ç»™äºˆ
+administration     nç®¡ç†ï¼ˆéƒ¨é—¨);è¡Œæ”¿ï¼ˆæœºå…³ï¼‰
+admission     n å…è®¸è¿›å…¥ï¼›è®¸å¯å…¥å­¦
+admit     v æ‰¿è®¤ï¼›å‡†è®¸ã€‚ã€‚ã€‚è¿›å…¥ï¼›å‡†è®¸ã€‚ã€‚åŠ å…¥
+adolescent     n é’å°‘å¹´ a é’æ˜¥æœŸçš„ï¼Œé’å°‘å¹´çš„
+adopt     vt é‡‡ç”¨ï¼Œé‡‡å–ï¼›æ”¶å…»
+advance     v&n å‰è¿›ï¼›é¢„ä»˜ï¼›a é¢„å…ˆçš„ï¼›å…ˆè¡Œçš„
+advanced     a å…ˆè¿›çš„
+advantage     n ä¼˜åŠ¿ï¼Œä¼˜ç‚¹
+adventure     n å†’é™©ï¼Œå†’é™©æ´»åŠ¨
+advent     n åˆ°æ¥ï¼Œå‡ºç°
+adverse     a ä¸åˆ©çš„ï¼Œæœ‰å®³çš„
+advertise     vt ä¸ºã€‚ã€‚åšå¹¿å‘Šï¼›å®£ä¼ 
+advocate     vt æå€¡ n   æ‹¥æŠ¤è€…ï¼›æå€¡è€…
+aeration     n é€šé£
+aerobics     n æœ‰æ°§è¿åŠ¨æ³•ï¼›å¥ç¾æ“
+aeronautics     n èˆªç©ºå­¦
+aeroplane     n é£æœº
+aerospace     n å®‡å®™ç©ºé—´ï¼›èˆªç©ºå®‡å®™
+aesthetic     a ç¾å­¦çš„ï¼›å®¡ç¾çš„
+affect     v å½±å“ï¼›æ„ŸæŸ“
+afflict     vt ä½¿è‹¦æ¼ï¼›æŠ˜ç£¨

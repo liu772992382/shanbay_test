@@ -1,0 +1,5207 @@
++abnormal
+#adj.反常的, 异常的; 变态的
+&æbˈnɔ:məl
+$1
++abroad
+#adv.到国外, 在国外，到处, 广泛流传，在户外, 在室外
+&əˈbrɔ:d
+$1
++absent
+#adj.缺席的, 不在场的，缺乏的, 不存在的，心不在焉的, 恍惚的
+&ˈæbsənt
+$0
++absorb
+#vt.吸收，把…并入, 同化，吸引…的注意力, 使全神贯注
+&əbˈsɔ:b
+$1
++abstract
+#adj.抽象的，抽象派的#n.抽象, 抽象概念, 抽象性，抽象派艺术作品，摘要, 梗概#vt.提取, 抽取，做…的摘要
+&ˈæbstrækt
+$0
++abundant
+#adj.大量的, 充足的
+&əˈbʌndənt
+$0
++abuse
+#n.滥用, 妄用, 虐待恶习, 不正之风，恶言, 辱骂#vt.滥用, 妄用，虐待, 伤害，辱骂, 毁谤
+&əˈbju:s
+$0
++academy
+#n.专科学校，研究院, 学会
+&əˈkædəmi
+$0
++access
+#n.通道, 入口接近[取得]…的方法[权利等]#vt.存取(计算机文件)
+&ˈækses
+$0
++accident
+#n.意外，遭遇, 事故，机遇, 命运, 造化
+&ˈæksidənt
+$0
++acclaim
+#n.热烈，欢迎或赞同; 称赞#vt.向…欢呼, 向…喝彩，称赞…欢呼或拥戴(某人)为…
+&əˈkleim
+$0
++accommodate
+#vt.容纳，向…提供住处,使适应, 顺应
+&əˈkɔmədeit
+$0
++accompany
+#vt.陪伴, 陪同，伴随…同时，发生，伴奏
+&əˈkʌmpəni
+$3
++accomplish
+#vt.完成, 实现, 做成功
+&əˈkɔmpliʃ
+$3
++accord
+#n.一致, 符合, (尤指国与国之间的)谅解, 协议#vi.符合, 一致#vt.给予, 赠予
+&əˈkɔ:d
+$3
++accumulate
+#vt. & vi.堆积; 积累
+&əˈkju:mjuleit
+$3
++acoustic
+#adj.声音的, 听觉的
+&əˈku:stik
+$3
++acquaint
+#vt.使熟悉, 使了解, 通知, 告知
+&əˈkweint
+$3
++adapt
+#vt.改编, 改写#vt. & vi.(使)适应, (使)适合
+&əˈdæpt
+$3
++address
+#n.演说, 演讲, 住址, 地址#vt.向…讲话, 向…发表演说; 写信给…称呼，在(信封或包裹等)上写上收信人的姓名、地址
+&əˈdres
+$3
++admission
+#n.准许，进入, 入场费, 入场券, 承认, 供认
+&ədˈmiʃən
+$3
++admit
+#vt. & vi.许可，进入，承认, 供认
+&ədˈmit
+$3
++adolescent
+#adj.青春期的, 青少年的#n.青少年
+&ˌædəuˈlesnt
+$3
++adverse
+#adj.不利的, 有害的，逆的, 相反的, 敌对的
+&ˈædvə:s
+$3
++affair
+#n.发生的事情; 大事; 事件，事务, 事态
+&əˈfɛə
+$3
++aggressive
+#adj.好争斗的, 挑衅的, 侵略性的
+&əˈɡresiv
+$3
++alarm
+#n.警钟, 警报器, 闹钟，警报，惊恐, 忧虑#vt.警告，使惊慌
+&əˈlɑ:m
+$3
++alien
+#adj.外国的, 外国人的，陌生的，性质不同的#n.外国人, 外侨, 局外人，外星人
+&ˈeiljən
+$3
++alternate
+#adj.轮流的, 交替的，间隔的，代替的#vt. & vi.(使)交替, (使)轮换
+&ɔ:lˈtə:nit
+$3
++amateur
+#adj.业余的, 非职业的，外行的#n.业余爱好者，外行, 生手
+&ˈæmətə
+$3
++amazing
+#adj.令人惊异的
+&əˈmeiziŋ
+$3
++ambition
+#n.抱负, 雄心, 野心，渴望得到的东西
+&æmˈbiʃən
+$3
++amendment
+#n.修改, 改动; 修正案
+&əˈmendmənt
+$3
++ample
+#adj.足够的，大量的, 丰富的
+&ˈæmpl
+$3
++analogy
+#n.类似, 相似类推, 类推法
+&əˈnælədʒi
+$3
++analyze
+#vt.〈美〉分析, 分解, 解释
+&ˈænəlaiz
+$3
++ancestor
+#n.祖先, 祖宗，原型, 先驱
+&ˈænsistə
+$3
++angle
+#n.角, 角度，观点#vi.垂钓, 钓鱼#vt.把…放置成一角度，使(新闻、报道等)带有倾向性
+&ˈæŋɡl
+$3
++apprentice
+#n.学徒, 徒弟
+&əˈprentis
+$3
++approach
+#n.靠近, 接近, 临近，通路, 入口, 途径，方式, 方法#vt.接洽, 交涉; 着手处理#vt. & vi.接近, 走近, 靠近
+&əˈprəutʃ
+$3
++arch
+#n.拱, 拱门，拱形物#vt. & vi.(使)弯成拱形
+&ɑ:tʃ
+$3
++arise
+#vi.起身, 起来, 起立#vi. & link v.呈现; 出现; 发生
+&əˈraiz
+$3
++array
+#n.展示, 陈列, 一系列衣服, 服装数组, 阵列#vt.部署兵力; 排列, 整队盛装, 打扮, 装饰
+&əˈrei
+$3
++arrest
+#vt.逮捕; 拘捕，制止; 阻止，吸引
+&əˈrest
+$3
++artery
+#n.〈解〉动脉，干线, 要道
+&ˈɑ:təri
+$3
++artisan
+#n.技工; 工匠
+&ˌɑ:tiˈzæn
+$3
++assemble
+#vt.装配, 组合
+#vt. & vi.集合, 收集
+&əˈsembl
+$3
++assert
+#vt.声称, 断言，维护, 坚持
+&əˈsə:t
+$3
++assign
+#vt.分配; 交给指派, 选派指定, 订出
+&əˈsain
+$3
++astonishing
+#adj. 使人吃惊的, 惊人的
+&əsˈtɔniʃiŋ
+$3
++attach
+#vt. & vi.贴上; 系; 附上
+&əˈtætʃ
+$3
++attain
+#vt. & vi.实现, 达到, 得到
+&əˈtein
+$3
++attribute
+#n.属性, 特性
+#vt.认为…是; 归因于…，认为某作品出自某人之手，认为某事[物]属于某人[物]
+&əˈtribju:t
+$3
++avenue
+#n.林阴道, 大街途径, 手段
+&ˈævinju:
+$3
++awkward
+#adj.笨拙的, 不灵活的，难操纵的, 使用不便的，尴尬的, 棘手的
+&ˈɔ:kwəd
+$3
++backbone
+#n.脊骨, 脊柱，骨干, 支柱, 主力, 中坚，骨气; 毅力
+&ˈbækbəun
+$3
++background
+#n.(画等的)背景, 底色，背景情况，个人背景资料
+&ˈbækɡraund
+$3
++backward
+#adv.,adj.向后地[的],相反地[的],追溯,退步,由好变坏
+&ˈbækwəd
+$3
++balcony
+#n.阳台，(电影院等的)楼厅, 楼座
+&ˈbælkəni
+$3
++bare
+#adj.光秃秃的, 无遮蔽的，赤裸的，刚好够的, 勉强的
+#vt.使赤裸, 使露出, 使暴露
+&bɛə
+$0
++barrier
+#n.栅栏, 关卡，障碍, 隔阂
+&ˈbæriə
+$0
++barter
+#n.物物交换, 易货#vt. & vi.作物物交换, 以货换货
+&ˈbɑ:tə
+$0
++basement
+#n.地下室, 地下层
+&ˈbeismənt
+$0
++battle
+#n.战斗, 战役; 交战#vt. & vi.与[对]…作战, 争斗
+&ˈbætl
+$0
++beam
+#n.梁, 横梁，束, 柱#vi.发出光与热，面露喜色#vt.播送
+&bi:m
+$0
++behave
+#vi.(行为或举止)表现工作#vt. & vi.(使)守规矩
+&biˈheiv
+$0
++belief
+#n.相信, 信任，信念, 信仰
+&biˈli:f
+$0
++belong
+#vi.属于; 是…的成员，应被放在, 应归入，适应, 合得来
+&biˈlɔŋ
+$0
++belt
+#n.腰带, 带子，区域, 地带
+&belt
+$0
++bend
+#n.弯曲(处)#vt. & vi.(使)弯曲; 屈身
+&bend
+$0
++beneficial
+#adj.有益的, 有利的
+&ˌbeniˈfiʃəl
+$0
++bind
+#vt.捆绑, 捆扎，约束，装订#vt. & vi.(使)结合
+&baind
+$0
++bite
+#n.咬，咬伤, 叮伤#vt. & vi.咬, 叮
+&bait
+$0
++blast
+#n.爆炸一阵(疾风等), 一股(强烈的气流)#vt. & vi.炸, 炸掉
+&blɑ:st
+$0
++blazing
+#adj. 酷热的; 炽热的#极其愤怒的; 感情强烈的
+&ˈbleiziŋ
+$0
++blossom
+#n.(尤指果树的)花，花丛, 花簇#vi.(植物)开花，发展, 长成
+&ˈblɔsəm
+$0
++blow
+#n.一击, 打击#vt. & vi.吹; 吹气; 刮风，吹响, 吹奏; (使)鸣响，(使)爆炸
+&bləu
+$0
++boil
+#n.煮沸#vt.用开水煮, 在沸水中煮#vt. & vi.(使)沸腾; 开
+&bɔil
+$0
++boom
+#n.(营业等的)激增, (经济等的)繁荣, 迅速发展，隆隆声#vi.激增, 猛涨, 兴隆，发出隆隆声
+&bu:m
+$0
++boost
+#n.推起，增加, 改进，促进, 激励#vt.向上推起, 提升，增加, 提高，促进, 改善, 激励，吹捧, 大肆宣传
+&bu:st
+$0
++border
+#n.边, 边缘，边界, 边境#vt. & vi.与…接界, 在…的边上
+&ˈbɔ:də
+$0
++boundary
+#n.分界线，界线, 范围
+&ˈbaundəri
+$0
++bow
+#n.弓, 弓形物，鞠躬, 低头#vi.(向…)弯腰; 鞠躬#vt.低头, 俯首
+&bəu
+$0
++breakdown
+#n.损坏, 故障，垮台, 破裂，衰竭, 衰弱，统计分析
+&ˈbreikdaun
+$3
++breed
+#n.种, 品种#vt.饲养, 培养，引起, 招致#vt. & vi.生育; 繁殖
+&bri:d
+$3
++breeze
+#n.微风, 轻风#vi.吹，微风，漫不经心地行动
+&bri:z
+$3
++brick
+#n.砖, 砖块#vt.用砖砌, 用砖堵住
+&brik
+$3
++brim
+#n.边, 边缘#vi.注满
+&brim
+$3
++broadcast
+#n.广播; 播音广播节目#vt.传播, 乱传(消息等)#vt. & vi.广播, 播放
+&ˈbrɔ:dkɑ:st
+$3
++bubble
+#n.泡, 水泡, 气泡，泡影, 幻想#vt. & vi.起泡, 使冒气泡
+&ˈbʌbl
+$3
++bunch
+#n.束, 串, 捆群, 伙#vt. & vi.(使)…成束[捆]
+&bʌntʃ
+$3
++burial
+#n.葬, 掩埋, 葬礼
+&ˈberiəl
+$3
++cabinet
+#n.橱, 陈列柜，内阁, 内阁，会议
+&ˈkæbinit
+$3
++cable
+#n.(船只、桥梁等上的)巨缆, 钢索，电缆#vt. & vi.给(某人)发电报, 打电报告诉(某人)
+&ˈkeibl
+$3
++calorie
+#n.大卡, 千卡(食物所产生的能量单位)卡路里, 卡(热量单位)
+&ˈkæləri
+$3
++camp
+#n.营地，收容所，阵营; 集团#vt. & vi.宿营, 露营
+&kæmp
+$3
++campaign
+#n.运动，战役#vi.参加[发起]运动, 参加竞选
+&kæmˈpein
+$3
++campus
+#n.(大学)校园大学或其分校
+&ˈkæmpəs
+$3
++can
+#aux. v.能, 能够，可以，可能, 会#n.罐, 罐头#vt.将…装入密封罐中，保存
+&kæn, kən
+$3
++canal
+#n.运河，管道
+&kəˈnæl
+$3
++candidate
+#n.申请，求职者, 候选人，报考者
+&ˈkændidit
+$3
++capable
+#adj.有能力的, 有技能的
+&ˈkeipəbl
+$3
++capture
+#vt.俘获，夺取, 占领
+&ˈkæptʃə
+$3
++career
+#n.职业生涯, 履历
+&kəˈriə
+$3
++cargo
+#n.货物(量)
+&ˈkɑ:ɡəu
+$3
++carpenter
+#n.木工, 木匠
+&ˈkɑ:pintə
+$3
++carriage
+#n.四轮马车; 车辆车厢，举止, 仪态
+&ˈkæridʒ
+$3
++cart
+#n.运货马车; 手推车#vt.用马车载运
+&kɑ:t
+$3
++cartoon
+#n.漫画，动画片, 卡通片
+&kɑ:ˈtu:n
+$3
++carve
+#vt. & vi.切, 切碎，雕刻
+&kɑ:v
+$3
++cast
+#n.投, 掷, 抛, 扔，铸造物; 塑件石膏，演员表, 全体演员#vt.投射, 加…于分配(演戏剧等的)角色#vt. & vi.投, 掷, 扔，浇铸
+&kɑ:st
+$3
++casual
+#adj.漠不关心的, 冷淡的，随便的, 非正式的，偶然的, 碰巧的，临时的, 不定期的
+&ˈkæʒjuəl
+$3
++casualty
+#n.伤亡者，受害者, 牺牲品
+&ˈkæʒjuəlti
+$3
++category
+#n.种类, 类别
+&ˈkætiɡəri
+$3
++cater
+#vt. & vi.提供饮食及服务
+&ˈkeitə
+$3
++cautious
+#adj.小心的, 谨慎的
+&ˈkɔ:ʃəs
+$3
++cease
+#vt. & vi.停止, 终止, 结束
+&si:s
+$3
++ceiling
+#n.天花板, 顶棚，最高限度, 上限高度, 上升限度; 云幕高度
+&ˈsi:liŋ
+$3
++celebrated
+#adj.有名的, 著名的
+&ˈselibreitid
+$3
++census
+#n.人口普查, 统计
+&ˈsensəs
+$3
++ceremony
+#n.典礼, 仪式，礼节, 礼仪
+&ˈseriməni
+$3
++challenge
+#n.挑战, 邀请比赛，怀疑, 质问，艰巨的任务#vt.挑战，质疑，考验
+&ˈtʃælindʒ
+$3
++chamber
+#n.房间(作特殊用途的)房间会议厅, 会所
+&ˈtʃeimbə
+$3
++chance
+#n.机会; 时机，某事发生的可能性; 碰运气的事; 运气#vi.偶然发生，冒险
+&tʃɑ:ns
+$3
++chief
+#adj.级别最高的; 总的，主要的, 最重要的#n.族长, 酋长，首领, 首长
+&tʃi:f
+$3
++chip
+#n.碎片，缺口，炸马铃薯条，集成电路片#vt. & vi.(使)切掉，碎片
+&tʃip
+$3
++chunk
+#n.厚厚的一块，(某物)相当大的数量或部分
+&tʃʌŋk
+$3
++circuit
+#n.电路, 线路，环行, 环行道
+&ˈsə:kit
+$3
++circular
+#adj.圆形的, 环形的; 循环的#n.通知, 通告
+&ˈsə:kjulə
+$3
++circumstance
+#n.环境, 条件, 情况，境遇, 经济状况
+&ˈsə:kəmstəns
+$3
++cite
+#vt.引用, 举例，表彰, 嘉奖，传唤, 传讯
+&sait
+$3
++civic
+#adj.城市的，公民的, 市民的
+&ˈsivik
+$3
++civilian
+#n.平民, 百姓
+&siˈviljən
+$3
++classify
+#vt.分类; 归类
+&ˈklæsifai
+$3
++clerk
+#n.〈英〉办事员, 职员〈美〉店员, 接待员
+&klɑ:k
+$3
++cling
+#vi.附着于，抓紧或抱住，坚持
+&kliŋ
+$3
++clip
+#n.夹子, 回纹针, 别针剪, 修剪，剪报, 电影或电视片段〈非正〉猛打#vt.剪, 剪短, 修剪#vt. & vi.用别针别在某物上, 用夹子夹在某物上
+&klip
+$3
++clue
+#n.线索, 提示#vt.〈非正〉为…提供最新情况(消息等)
+&klu:
+$3
++clumsy
+#adj.笨拙的, 笨重的
+&ˈklʌmzi
+$3
++coach
+#n.长途客运汽车，(铁路)旅客车厢，教练, 指导#vt. & vi.训练; 辅导
+&kəutʃ
+$3
++coat
+#n.上衣, 外套#vt.为某物涂抹
+&kəut
+$3
++collective
+#adj.集体的, 共同的, 共有的
+&kəˈlektiv
+$3
++colony
+#n.殖民地(侨民等)聚居区, 聚居地; 聚居的，同国籍侨民; 聚居的同类人(动植物的)群体, 集群
+&ˈkɔləni
+$3
++comedy
+#n.喜剧，喜剧性
+&ˈkɔmidi
+$3
++commerce
+#n.商业, 贸易
+&ˈkɔmə:s
+$3
++commodity
+#n.商品, 货物，有用的东西
+&kəˈmɔditi
+$3
++commonsense
+#adj.具有常识的#n.常识
+&ˌkɔmənˈsens
+$3
++comparative
+#adj.比较的, 相比的
+&kəmˈpærətiv
+$3
++compass
+#n.罗盘, 指南针，圆规，界限
+&ˈkʌmpəs
+$3
++component
+#n.成分, 组成部分, 部件, 元件
+&kəmˈpəunənt
+$3
++compose
+#vt.组成, 构成，使安定, 使镇静#vt. & vi.创作(乐曲、诗歌等); 为…谱曲
+&kəmˈpəuz
+$3
++comprehensive
+#adj.广泛的, 综合的
+&ˌkɔmpriˈhensiv
+$3
++compress
+#vt.压紧, 压缩
+&kəmˈpres
+$3
++comprise
+#vt.包含, 包括, 由…组成组成, 构成
+&kəmˈpraiz
+$3
++concerning
+#prep.(表示论及)关于, 有关, 就…而论
+&kənˈsə:niŋ
+$3
++conclusive
+#adj.令人信服的, 确凿的
+&kənˈklu:siv
+$3
++concrete
+#adj.实体的, 有形的，确实的, 明确的
+&ˈkɔnkri:t
+$3
++conduct
+#n.举止, 行为管理(方式), 实施(方式)#vt. & vi.引导, 带领, 担任指挥，控制, 管理，传导
+&kənˈdʌkt
+$3
++confine
+#n.界限, 范围#vt.限制; 局限于，禁闭; 管制; 关起来
+&kənˈfain
+$3
++confirm
+#vt.证实, 证明; 肯定, 确认，使巩固, 加强，批准; 认可
+&kənˈfə:m
+$3
++conflict
+#n.战斗, 斗争，冲突, 抵触, 争论#vi.抵触, 冲突
+&ˈkɔnflikt
+$3
++conform
+#vi.遵守, 符合，顺应, 一致
+&kənˈfɔ:m
+$3
++confront
+#vt.勇敢地面对, 正视，迎面遇到, 遭遇，使对质, 使当面对证
+&kənˈfrʌnt
+$3
++congress
+#n.代表大会，国会, 议会
+&ˈkɔŋɡres
+$3
++conjunction
+#n.连词，结合; 联合
+&kənˈdʒʌŋkʃən
+$3
++conquer
+#vi.得胜#vt.攻克, 征服，破除, 克服
+&ˈkɔŋkə
+$3
++consecutive
+#adj.连续的, 连贯的
+&kənˈsekjutiv
+$3
++consequence
+#n.结果, 后果，重要(性), 重大
+&ˈkɔnsikwəns
+$3
++conservation
+#n.保存, 保护, 避免浪费，对自然环境的保护
+&ˌkɔnsəˈveiʃən
+$3
++conservative
+#adj.保守的, 守旧的，(式样等)不时新的, 传统的#n.保守的人
+&kənˈsə:vətiv
+$3
++consist
+#vi.组成, 构成，在于, 存在于
+&kənˈsist
+$3
++consistent
+#adj.一贯的, 始终如一的，一致的, 符合的
+&kənˈsistənt
+$3
++constant
+#adj.始终如一的, 恒久不变的，不断的, 连续发生的，忠实的, 忠诚的
+&ˈkɔnstənt
+$3
++constituent
+#n.选民成分, 构成部分, 要素
+&kənˈstitjuənt
+$3
++constitute
+#vt.构成, 组成，建立, 制定，选定, 任命
+&ˈkɔnstitju:t
+$3
++constitution
+#n.宪法, 法规, 章程，体格, 体质, 心理素质，构成方式, 构造，制定, 设立, 组成, 任命
+&ˌkɔnstiˈtju:ʃən
+$3
++contact
+#n.接触，联系, 联络, 交往，社会关系, 熟人, 门路触点, 接头#vt. & vi.联系
+&ˈkɔntækt
+$3
++contemporary
+#adj.当代的，同时代的, 同属一个时期的#n.同代人, 同龄人
+&kənˈtempərəri
+$3
++content
+#adj.满足的, 满意的#n.所容纳之物, 所含之物(书等的)内容, 目录容量, 含量#vt.使满足, 使满意
+&ˈkɔntent
+$3
++context
+#n.背景, 环境，上下文, 语境
+&ˈkɔntekst
+$3
++continual
+#adj.不间断的, 不停的，多次重复的, 频繁的
+&kɔnˈtinjuəl
+$3
++continuous
+#adj.连续的, 没有中断的
+&kənˈtinjuəs
+$3
++contribute
+#vi.起促成作用#vt. & vi.捐献, 捐助, 贡献，出撰稿, 投稿
+&kənˈtribjut
+$3
++convention
+#n.(某一职业、政党等的人士召开的)大会，习俗, 惯例，协议, 协定
+&kənˈvenʃən
+$3
++convey
+#vt.运输; 运送，表达, 转达
+&kənˈvei
+$3
++convict
+#n.囚犯#vt.宣判有罪
+&kənˈvikt
+$3
++convince
+#vt.使相信; 使明白
+&kənˈvins
+$3
++coordinate
+#adj.同等的, 并列的#n.〈数〉坐标#vt.使协调; 使调和
+&kəuˈɔ:dineit
+$3
++correlate
+#vt. & vi.有相关性
+&ˈkɔrileit
+$3
++correspond
+#vi.相符合, 相一致，相当, 相类似，通信
+&ˌkɔrisˈpɔnd
+$3
++corridor
+#n.走廊, 通道
+&ˈkɔridɔ:
+$3
++corrosion
+#n.腐蚀; 受腐蚀的部位
+&kəˈrəuʒən
+$3
++costume
+#n.服装, 服装，式样，女外套, 女装
+&ˈkɔstju:m
+$3
++counterpart
+#n.与对方地位相当的人, 与另一方作用相当的物
+&ˈkauntəpɑ:t
+$3
++craft
+#n.工艺, 手艺行业, 职业，诡计, 手腕，小船, 船，飞机, 飞船
+&krɑ:ft
+$3
++credit
+#n.赊购; 赊购制度，存款; 存款数额，借款; 贷款，赞扬, 荣誉, 功劳，信任, 相信，学分#vt.相信, 信任，把…记入贷方, 存入(账户)
+&ˈkredit
+$3
++crisscross
+#n. 十字形图案; 纵横交错的网
+&ˈkriskrɔs
+$3
++crowd
+#n.人群听众, 观众，一群, 一批; 一堆#vt.挤满, 塞满，催，逼#vt. & vi.群集, 拥挤
+&kraud
+$3
++crucial
+#adj.决定性的, 紧要关头的
+&ˈkru:ʃəl
+$3
++crystal
+#adj.水晶制的，水晶般的, 透彻的, 清澈的，清楚的, 明显的#n.水晶，结晶(体)
+&ˈkristəl
+$3
++cube
+#n .立方形的东西, 立方体〈数〉立方
+&kju:b
+$3
++cue
+#n.尾白, 提示，暗示, 暗号, 指示#vt.向…发出指示，信号
+&kju:
+$3
++curious
+#adj.好奇的, 好求知的，奇妙的, 稀奇的
+&ˈkjuəriəs
+$3
++curriculum
+#n.总课程
+&kəˈrikjuləm
+$3
++curtain
+#n.窗帘, 门帘幕, 帷幕
+&ˈkə:tn
+$3
++curve
+#n.曲线, 弧线，曲线状物, 弯曲物#vt. & vi.(使)弯成弧形
+&kə:v
+$3
++dairy
+#n.牛奶场，乳品店
+&ˈdɛəri
+$3
++daring
+#adj.勇敢的, 无畏的#n.勇敢, 鲁莽
+&ˈdɛəriŋ
+$3
++dawn
+#n.黎明, 拂晓，开端, 萌芽#vi.破晓; (天)刚亮，开始出现
+&dɔ:n
+$3
++dazzling
+#adj. 眼花缭乱的,耀眼的
+&ˈdæzliŋ
+$3
++dealer
+#n.商人
+&ˈdi:lə
+$3
++debate
+#n.讨论, 辩论#vt. & vi.辩论, 争论
+&diˈbeit
+$3
++declare
+#vi.申报#vt.宣布, 宣告; 声明，断言, 宣称
+&diˈklɛə
+$3
++decline
+#n.下降, 减少, 衰退#vi.(太阳)落下#vt. & vi.辞谢; 谢绝(邀请等)
+&diˈklain
+$3
++decorate
+#vt.装饰，授予(某人)勋章
+&ˈdekəreit
+$3
++dedicate
+#vt.奉献; 贡献
+&ˈdedikeit
+$3
++defeat
+#n.战胜, 挫败，战败, 失败#vt.击败, 战胜，挫败, 使落空，使困惑, 难住
+&diˈfi:t
+$3
++defend
+#vt. & vi.保卫，辩护; 辩解
+&diˈfend
+$3
++deficient
+#adj.有缺点的，有缺陷的，缺乏的, 不足的
+&diˈfiʃənt
+$3
++definite
+#adj.明确的, 确切的，一定的, 肯定的
+&ˈdefinit
+$3
++degrade
+#vt.使降级, 使降低身份，使丢脸
+&diˈɡreid
+$3
++deity
+#n.神; 女神
+&ˈdi:ɪti
+$3
++delicate
+#adj.娇弱的, 纤细的，易碎的, 脆弱的，微妙的, 有技巧的, 得当的，精美的, 雅致的
+&ˈdelikit
+$3
++democrat
+#n.民主主义者, 民主人士
+&ˈdeməkræt
+$3
++dense
+#adj.密集的, 稠密的, 浓密的，密度大的，愚笨的
+&dens
+$3
++depict
+#vt.描绘; 描画，描述
+&diˈpikt
+$3
++depress
+#vt.压下; 推下; 拉下，使愁苦; 使沮丧，使跌价; 使萧条
+&diˈpres
+$3
++deprive
+#vt.剥夺, 夺去, 使丧失
+&diˈpraiv
+$3
++derive
+#vt. & vi.得到，源于
+&diˈraiv
+$3
++descend
+#vt. & vi.下来, 下去
+&diˈsend
+$3
++deserve
+#vt.应受, 应得, 值得
+&diˈzə:v
+$3
++desirable
+#adj.可取的, 值得拥有的, 合意的
+&diˈzaiərəbl
+$3
++destructive
+#adj.破坏性的, 毁灭性的
+&disˈtrʌktiv
+$3
++detect
+#vt.发现; 发觉, 查明
+&diˈtekt
+$3
++determine
+#vt.确定, 测定，限定; 制定; 支配#vt. & vi.(使)下决心, (使)做出决定
+&diˈtə:min
+$3
++devoid
+#adj.缺乏, 没有
+&diˈvɔid
+$3
++dictate
+#n.命令, 规定, 要求#vt.指示; 指定; 指令#vt. & vi.大声讲或读; 口授
+&dikˈteit
+$3
++differentiate
+#vi.区别对待#vt. & vi.区分, 区别, 辨别
+&ˌdifəˈrenʃieit
+$3
++dilemma
+#n.左右为难
+&diˈlemə
+$3
++dim
+#adj.暗淡的, 昏暗的, 不明亮的，隐约的, 模糊不清的#vt. & vi.(使)变暗淡, (使)变模糊
+&dim
+$3
++dime
+#n.(美国、加拿大的)10分铸币
+&daim
+$3
++dimension
+#n.尺寸, 度量方面, 部分，规模, 程度
+&diˈmenʃən
+$3
++disaster
+#n.灾难, 灾祸，彻底的失败
+&diˈzɑ:stə
+$3
++discard
+#n.打出的牌，废弃的东西#vt.丢弃, 抛弃，不再使用
+&disˈkɑ:d
+$3
++discern
+#vt.看见，辨明
+&diˈsə:n
+$3
++discipline
+#n.训练, 锻炼, 训导，纪律,处罚, 处分，学科#vt.训练, 训导，处罚, 惩罚
+&ˈdisiplin
+$3
++discriminate
+#vi.歧视, 有差别地对待#vt. & vi.分别, 辨别, 区分
+&disˈkrimineit
+$3
++disperse
+#vt. & vi.(使)散开, 驱散
+&disˈpə:s
+$3
++dispute
+#n.辩论, 争端, 争执#vt.怀疑…的真实性或妥当性#vt. & vi.辩论; 争论
+&disˈpju:t
+$3
++disrepute
+#n.丧失名誉, 坏名声
+&ˈdisriˈpju:t
+$3
++disseminate
+#vt.散布, 传播
+&diˈsemineit
+$3
++dissolve
+#vt. & vi.(使)溶解，结束
+&diˈzɔlv
+$3
++distant
+#adj.(时间或空间)远隔的, 遥远的，远亲的，不太友好, 不太热情
+&ˈdistənt
+$3
++distinct
+#adj.截然不同的, 完全分开的，清晰的, 明白的, 明显的
+&disˈtiŋkt
+$3
++distinguish
+#vt.显扬自己, 使自己扬名#vt. & vi.辨别, 区别
+&disˈtiŋɡwiʃ
+$3
++distort
+#vt.歪曲, 曲解，扭曲, 使变形
+&disˈtɔ:t
+$3
++distract
+#vt.使(人)分心, 分散(注意力)
+&disˈtrækt
+$3
++district
+#n.地区, 区域行政区
+&ˈdistrikt
+$3
++disturb
+#vt.打扰, 妨碍，使焦虑, 使烦恼，扰乱, 弄乱
+&disˈtə:b
+$3
++dive
+#n.潜水, 跳水#vi.跳水，潜水，头向下钻, 猛冲
+&daiv
+$3
++diverse
+#adj.不同的, 多种多样的
+&daiˈvəs
+$3
++divert
+#vt.使转移[向]，使得到消遣
+&daiˈvə:t
+$3
++doctrine
+#n.教条, 教义, 学说
+&ˈdɔktrin
+$3
++domain
+#n.范围, 领域，版图, 领土，地产, 产业
+&dəuˈmein
+$3
++domestic
+#adj.本国的, 国内的，家庭的, 家用的，驯养的
+&dəˈmestik
+$3
++dominate
+#vt.耸立于, 俯临#vt. & vi.控制, 支配, 统治在…中，占首要地位
+&ˈdɔmineit
+$3
++dot
+#n.点, 小圆点#vt.以小圆点标出，分布，各处，打击(某人)
+&dɔt
+$3
++draft
+#n.草稿, 草案, 草图，汇票，应召入伍者; 特遣队#vt.起草, 画草图, 草拟选派, 抽调，征募, 征召…入伍
+&drɑ:ft
+$3
++drain
+#n.排水沟, 排水管，流尽, 用光#vt.喝光, 喝干#vt. & vi.(使)流干, (使)逐渐流走
+&drein
+$3
++drift
+#n.漂移, 漂流，吹积物; 堆积物，趋势, 动向, 倾向，大意, 要点, 主旨#vi.漂, 漂流，漂泊, 流浪
+&drift
+$3
++drip
+#vi.滴出, 漏下#vt. & vi.(使)滴下
+&drip
+$3
++droplet
+#n.小滴
+&ˈdrɔplit
+$3
++dull
+#adj.不鲜明的, 不清楚的, 晦暗的，迟钝的, 呆笨的，枯燥无味的，钝的, 不锋利的，萧条的, 清淡的
+&dʌl
+$3
++dumb
+#adj.哑的，说不出话的，愚蠢的
+&dʌm
+$3
++dwell
+#vi.居住, 住
+&dwel
+$3
++dye
+#n.染料, 染色#vt. & vi.给…上色; 着色，能染上颜色
+&dai
+$3
++dynamic
+#adj.有活力的, 强有力的，不断变化的，动力的, 动态的
+&daiˈnæmik
+$3
++eager
+#adj.热切的, 渴望的
+&ˈi:ɡə
+$3
++earnest
+#adj.郑重其事的, 非常认真的#n.订金, 保证金，预示, 预兆
+&ˈə:nist
+$3
++earthenware
+#n.陶器
+&ˈə:θnˌwɛə
+$3
++echo
+#n.回声; 共鸣#vt.重复; 随声附和#vt. & vi.回响
+&ˈekəu
+$3
++eclipse
+#n.(日、月)食消失, 黯然失色#vt.(日、月)食使黯然失色; 使蒙上阴影
+&iˈklips
+$3
++elaborate
+#adj.复杂的; 精心制作的#vi.详尽说明#vt.详细制定
+&iˈlæbəreit
+$3
++electron
+#n.电子
+&iˈlektrɔn
+$3
++elegance
+#n.高雅,典雅,优雅,雅致
+&ˈeliɡəns
+$3
++elevate
+#vt.举起, 提高，提升，鼓舞, 使更有修养
+&ˈeliveit
+$3
++eligible
+#adj.有资格当选的, 有条件被选中的，合适的, 适当的
+&ˈelidʒəbl
+$3
++eloquent
+#adj.雄辩的, 有口才的，清楚表现出来
+&ˈeləkwənt
+$3
++elusive
+#adj.难以捉摸的; 难以找到的; 不易记住的
+&iˈlu:siv
+$3
++embody
+#vt.表现, 象征, 具体表现，包括; 包含
+&imˈbɔdi
+$3
++embrace
+#n.拥抱, 怀抱#vt.包括; 包含，接受信奉, 皈依#vt. & vi.拥抱
+&imˈbreis
+$3
++emerge
+#vi.出现; 显出; 暴露
+&iˈmə:dʒ
+$3
++emit
+#vt.发出; 放出
+&iˈmit
+$3
++emphasize
+#vt.强调; 加强语气; 重读
+&ˈemfəsaiz
+$3
++enclose
+#vt.把…围起来，把…装入信封, 附入
+&inˈkləuz
+$3
++encompass
+#vt.围绕; 包围
+&inˈkʌmpəs
+$3
++encounter
+#n.突然遇到#vt.遇到, 遭遇，偶然碰到, 邂逅
+&inˈkauntə
+$3
++endangered
+#adj. (生命等)有危险的,有灭绝危险的,将要绝种的
+&inˈdeindʒəd
+$3
++endeavor
+#n.〈正〉努力, 尽力#vt. & vi.尝试, 试图
+&inˈdevə
+$3
++endure
+#vi.持续, 持久, 坚持下去#vt. & vi.(长时间地)忍受, 忍耐, 容忍
+&inˈdjuə
+$3
++energetic
+#adj.精力充沛的, 充满活力的
+&ˌenəˈdʒetik
+$3
++engage
+#vt.吸引, 占用雇, 聘答应, 保证#vt. & vi.(使)从事于, (使)忙于
+&inˈɡeidʒ
+$3
++engrave
+#vt.在(硬物)上雕刻(字, 画等)，将某事物深深印在(记忆或头脑中)
+&inˈɡreiv
+$3
++enhance
+#vt.提高, 增加, 加强
+&inˈhɑ:ns
+$3
++enormous
+#adj.巨大的, 极大的, 庞大的
+&iˈnɔ:məs
+$3
++enroll
+#v.[亦作enrol];登记,招收,使入伍(或入会、入学等),参加,成为成员
+&inˈrəul
+$3
++entail
+#vt.使…成为必要, 需要限定继承
+&inˈteil
+$3
++enterprise
+#n.事业, 计划事业心, 进取心企[事]业单位, 公司
+&ˈentəpraiz
+$3
++enthusiasm
+#n.热情, 热心，巨大兴趣, 热衷的事物
+&inˈθju:ziæzəm
+$3
++entity
+#n.实体, 独立存在体, 实际存在物
+&ˈentiti
+$3
++entrance
+#n.入口, 大门口，进入; 登场; 入学
+&ˈentrəns
+$3
++entrepreneur
+#n.〈法〉企业家，主办人
+&ˌɔntrəprəˈnə:
+$3
++entry
+#n.进入，入场权，入口处登记, 条目, 词条，参赛的人[物]，参加比赛的名单或总(人)数
+&ˈentri
+$3
++epoch
+#n.纪元, 时期, 时代
+&ˈi:pɔk
+$3
++equip
+#vt.装备, 配备使有能力, 使胜任
+&iˈkwip
+$3
++equivalent
+#adj.相等的, 相当的
+&iˈkwivələnt
+$3
++era
+#n.纪元，历史时期, 时代
+&ˈiərə
+$3
++erect
+#adj.竖立的, 直立的, 挺立的#vt.使直立; 竖起〈正〉建立
+&iˈrekt
+$3
++escape
+#n.逃走, 逃脱; 逃避消遣, 解闷#vi.逃脱, 逃跑，漏出, 泄漏#vt. & vi.逃避, 避开; 免除
+&isˈkeip
+$3
++essence
+#n.本质, 实质, 要素(植物, 药物等)精髓, 精华
+&ˈesns
+$3
++estimate
+#n.估计, 估价，报价，判断#vt. & vi.估计; 评价, 评估
+&ˈestimeit
+$3
++ethic
+#n.道德，规范,伦理
+&ˈeθik
+$3
++evaporate
+#vi.消失, 不复存在#vt. & vi.(使某物)蒸发掉
+&iˈvæpəreit
+$3
++evoke
+#vt.产生, 引起, 唤起
+&iˈvəuk
+$3
++evolve
+#vt. & vi.演变; 进化
+&iˈvɔlv
+$3
++exaggerate
+#vt. & vi.(使)扩大, (使)增加，夸大, 夸张
+&iɡˈzædʒəreit
+$3
++execute
+#vt.处决，执行, 实现; 使生效
+&ˈeksikju:t
+$3
++exert
+#vt.用(力); 尽(力)运用, 发挥, 施加
+&iɡˈzə:t
+$3
++exhaustion
+#n.精疲力竭; 疲劳
+&iɡˈzɔ:stʃən
+$3
++exhibit
+#n.展览品, 陈列品，在法庭提出的证物#vt.显示, 显出#vt. & vi.陈列; 展览
+&iɡˈzibit
+$3
++exotic
+#adj.由外国引进的, 非本地的，奇异的, 醒目的, 吸引人的
+&iɡˈzɔtik
+$3
++expertise
+#n.专门知识或技能
+&ˌekspəˈti:z
+$3
++explode
+#vi.爆[突]发, 发怒，激增, 迅速扩大#vt. & vi.(使)爆炸
+&iksˈpləud
+$3
++expose
+#vt.曝光，暴露; 显露，揭露, 袒露
+&iksˈpəuz
+$3
++expressive
+#adj.表示的, 表现的, 表达的
+&iksˈpresiv
+$3
++extend
+#vt.延长; 扩展; 达到(某一点)，尽可能地伸开(身体某部)，给予, 提供, 发出#vt. & vi.(空间、时间等)延伸; 延续
+&iksˈtend
+$3
++extent
+#n.长度, 面积, 范围，程度, 限度
+&iksˈtent
+$3
++external
+#adj.外面的, 外部的，外观的, 表面的，外国的
+&eksˈtə:nl
+$3
++extinct
+#adj.灭绝的, 绝种的，消逝的, 破灭的
+&iksˈtiŋkt
+$3
++extraordinary
+#adj.非常奇怪的，非同寻常的, 特别的，额外安排的, 临时的
+&iksˈtrɔ:dnəri
+$3
++faint
+#adj.微弱的, 模糊的, 暗淡的(体力)无力的, 虚弱的; 易失去知觉的, 昏眩的(动作等)无力的, 似无太大效果的#n.昏倒#vi.晕倒, 昏倒
+&feint
+$3
++fairly
+#adv.公平地, 诚实地，相当地, 适度地，完全地, 简直
+&ˈfɛəli
+$3
++faith
+#n.信任; 信仰; 信心，宗教信仰
+&feiθ
+$3
++fame
+#n.名声, 名望
+&feim
+$3
++fantasy
+#n.想像, 幻想，空想的产物, 怪念头#vt. & vi.想像, 幻想
+&ˈfæntəsi
+$3
++fascinate
+#vt.使着迷, 使极感兴趣，慑住…，使动弹不得
+&ˈfæsineit
+$3
++fatal
+#adj.致命的，灾难性的，重大的, 决定性的
+&ˈfeitəl
+$3
++fatigue
+#n.疲劳, 劳累〈军〉杂役
+&fəˈti:ɡ
+$3
++federal
+#adj.联邦(制)的，联邦政府的
+&ˈfedərəl
+$3
++fertile
+#adj.多产的, 富饶的
+&ˈfə:tail
+$3
++fiber
+#n.光纤
+&ˈfaibə
+$3
++fist
+#n.拳, 拳头
+&fist
+$3
++flake
+#n.小而轻的薄片
+&fleik
+$3
++flap
+#n.片状垂悬物，拍打, 拍击，激动, 慌乱状态#vi.焦急, 焦虑#vt. & vi.(使)上下左右移动，轻拍
+&flæp
+$3
++flash
+#vt.闪耀, 闪现#vt. & vi.发出闪光
+&flæʃ
+$3
++flat
+#adj.平的, 扁平的, 平坦的，单调的, 沉闷的#n.一套房间, 公寓，套房
+&flæt
+$3
++flavor
+#n.情味,风味,滋味,香料#vt.加味于
+&ˈfleivə
+$3
++flaw
+#n.缺点, 瑕疵, 缺陷
+&flɔ:
+$3
++flee
+#vi.逃走, 逃掉#vt.逃离, 逃避
+&fli:
+$3
++flexible
+#adj.易弯曲的, 柔韧的，灵活的, 可变通的
+&ˈfleksəbl
+$3
++float
+#n.漂浮物; 鱼漂浮有冰淇淋的饮料彩车备用零钱#vi.游荡#vt.提出, 提请，考虑#vt. & vi.(使)漂浮[飘动]，(使)浮动
+&fləut
+$3
++flood
+#n.洪水, 水灾，大量, 大批#vi.泛滥, 溢出#vt. & vi.(使)为水淹没，大量涌来，充满
+&flʌd
+$3
++flour
+#n.面粉
+&ˈflauə
+$3
++fluid
+#adj.流体的, 流动的，易变的, 不固定的#n.液体, 流体
+&ˈflu:ɪd
+$3
++folk
+#adj.民间的, 普通平民的#n.人们，大伙儿, 各位亲属, 父母
+&fəuk
+$3
++formation
+#n.形成, 构成，形成物，编队, 排列
+&fɔ:ˈmeiʃən
+$3
++fossil
+#n.化石老顽固, 食古不化的人
+&ˈfɔsl
+$3
++foster
+#vt.培养, 促进#vt. & vi.收养, 养育
+&ˈfɔstə
+$3
++fountain
+#n.喷水; 喷泉，来源, 根源, 源泉
+&ˈfauntin
+$3
++fraction
+#n.小部分, 一点儿〈数〉分数
+&ˈfrækʃən
+$3
++fragment
+#n.碎片; 片断
+&ˈfræɡmənt
+$3
++frame
+#n.框架，骨架, 构架#vt.给…加框，陷害, 诬告，表达, 构造
+&freim
+$3
++frequent
+#adj.时常发生的, 常见的#vt.常到, 光顾, 常与…交往
+&ˈfri:kwənt
+$3
++friction
+#n.摩擦; 摩擦力，冲突, 不和
+&ˈfrikʃən
+$3
++frustrate
+#vt.使不成功, 挫败, 阻止，使受挫折, 令人沮丧
+&ˈfrʌstreit
+$3
++fuel
+#n.燃料, 燃烧剂#vi.补充燃料#vt.给…加燃料, 给…加油激起
+&fjuəl
+$3
++fur
+#n.软毛，毛皮，毛皮衣服
+&fə:
+$3
++furniture
+#n.家具
+&ˈfə:nitʃə
+$3
++gallery
+#n.画廊, 美术馆，楼座, (议会的)旁听席，走廊
+&ˈɡæləri
+$3
++garbage
+#n.〈美〉垃圾, 废物〈口〉废话
+&ˈɡɑ:bidʒ
+$3
++gear
+#n.用具, 设备, 衣服，齿轮; 传动装置; (排)挡#vi.换挡#vt.使兴奋起来; 使准备好#vt. & vi.(使)搭配; (使)适合
+&ɡiə
+$3
++generalization
+#n.一般化, 普通化, 归纳, 概论
+&ˌdʒe-nərəlaiˈzeiʃən
+$3
++generate
+#vt.生成, 产生，引起, 导致
+&ˈdʒenəreit
+$3
++generous
+#adj.慷慨的, 大方的，善良的, 宽宏大量的，大量的, 丰富的
+&ˈdʒenərəs
+$3
++genetic
+#adj.遗传(学)的
+&dʒiˈnetik
+$3
++genius
+#n.天才, 天赋，天才人物
+&ˈdʒi:njəs
+$3
++genre
+#n.〈法〉(文学、艺术等的)类型, 体裁, 风格
+&ʒɑ:r
+$3
++gentle
+#adj.温和的, 和蔼的, 有礼貌的，轻的, 柔和的; 和缓的，高尚的; 出身名门的
+&ˈdʒentl
+$3
++genuine
+#adj.真的, 非人造的，真诚的, 真心的
+&ˈdʒenjuin
+$3
++genus
+#n. (动植物的)属#类; 种; 型
+&ˈdʒi:nəs
+$3
++giant
+#adj.特大的, 巨大的#n.巨人, 大力士，伟人, 卓越人物
+&ˈdʒaiənt
+$3
++gifted
+#adj.有天赋的, 有才华的
+&ˈɡiftid
+$3
++gigantic
+#adj.巨大的, 庞大的
+&dʒaiˈɡæntik
+$3
++grasp
+#n.抓住; 理解#vt.抓住, 抓紧，理解, 领会
+&ɡrɑ:sp
+$3
++gravity
+#n.万有引力; 地心引力; 重力，严重性; 严肃, 庄严
+&ˈɡræviti
+$3
++graze
+#n.擦伤#vt.擦过, 掠过#vt. & vi.(让动物)吃草，轻擦; 擦破
+&ɡreiz
+$3
++guarantee
+#n.保证, 保障; 保证书; 保用期，担保, 担保人，担保品, 抵押品#vt.保证; 担保，使(事情)可能发生
+&ˌɡærənˈti:
+$3
++habitat
+#n.(动物的)栖息地, 住处
+&ˈhæbitæt
+$3
++hall
+#n.门厅，礼堂, 会堂; 大厅，食堂; 宿舍走廊，办公大楼
+&hɔ:l
+$3
++hallmark
+#n.(金银制品上的)纯度印记，特点, 特征, 标志#vt.给(金、银)打上纯度印记
+&ˈhɔ:lmɑ:k
+$3
++halt
+#n.停住, 停止, 暂停#vt. & vi.(使)停下来
+&hɔ:lt
+$3
++hammer
+#n.锤, 铁榔头#vt.击败#vt. & vi.锤打
+&ˈhæmə
+$3
++handcrafted
+#手 工的,手工艺的
+&
+$3
++handful
+#adj.一把少数
+&ˈhændful
+$3
++handle
+#n.手柄, 把手#vi.易于操作#vt.处理, 应付, 对待，拿, 触, 摸
+&ˈhændl
+$3
++hang
+#vt. & vi.悬, 挂, 垂下(被)绞死, 吊死贴, 固定, 安装
+&hæŋ
+$3
++harden
+#vt. & vi.(使)变硬; (使)坚固; (使)硬化，(使)变得坚强，(使)变得冷酷无情
+&ˈhɑ:dn
+$3
++hardness
+#n. 硬,硬度,艰难,难度
+&ˈhɑ:dnis
+$3
++hardship
+#n.艰难, 困苦，艰难情况
+&ˈhɑ:dʃip
+$3
++hardware
+#n.五金器具，硬件
+&ˈhɑ:dwɛə
+$3
++harm
+#n.损害, 危害, 伤害#vt.(使)受到损害, 伤害
+&hɑ:m
+$3
++harmonious
+#adj. 和谐的, 和睦的#协调的, 调和的#音调优美的; 悦耳的
+&hɑ:ˈməunjəs
+$3
++harness
+#n.马具, 挽具#vt.给(马等)装上挽具，治理, 利用
+&ˈhɑ:nis
+$3
++harsh
+#adj.刺耳的, 刺眼的, 粗糙的，严厉的, 严酷的
+&hɑ:ʃ
+$3
++haunt
+#n.某人常去的地方#vt.经常出没于，缠绕, 萦绕
+&hɔ:nt
+$3
++hazard
+#n.危险; 公害#vt.尝试着做[提出]冒风险
+&ˈhæzəd
+$3
++heal
+#vt.调停, 消除#vt. & vi.(使)愈合, 治愈, (使)恢复健康
+&hi:l
+$3
++heed
+#vt.听某人的劝告, 听从
+&hi:d
+$3
++height
+#n.高度, 身高高处, 高地顶点, 极度
+&hait
+$3
++hence
+#adv.从此时起, 从此处因此, 所以
+&hens
+$3
++herd
+#n.兽群, 牧群人群, 群众#vt.放牧#vt. & vi.群集, 纠结
+&hə:d
+$3
++hesitate
+#vi.犹豫; 踌躇#vt.不情愿; 对…犹豫
+&ˈheziteit
+$3
++hexagon
+#n.六边形; 六角形
+&ˈheksəɡən
+$3
++highlight
+#n.最精彩的部分, 最重要的事情#vt.强调, 突出, 使显著
+&ˈhailait
+$3
++hinge
+#n.铰链#vt. & vi.用铰链连接(某物), 给(某物)装上铰链
+&hindʒ
+$3
++hollow
+#adj.空的，凹的，空洞的，虚伪的#n.洞, 坑, 凹地#vt.挖洞
+&ˈhɔləu
+$3
++honor
+#n.尊敬,敬意,荣誉,光荣#vt.尊敬,给以荣誉
+&ˈɔnə
+$3
++hook
+#n.挂钩; 鱼钩，钩拳，转弯处#vt.弯成钩形#vt. & vi.钩住, 吊住, 挂住
+&huk
+$3
++horizon
+#n.地平线，范围, 界限, 眼界
+&həˈraizən
+$3
++horsepower
+#n.〈物〉马力
+&ˈhɔ:sˌpauə
+$3
++hostile
+#adj.怀有敌意的, 不友善的，敌人的, 敌方的
+&ˈhɔstail
+$3
++household
+#adj.家庭的, 家用的#n.同住在一所房子里的人, 一家人, 户
+&ˈhaushəuld
+$3
++humorous
+#adj.富幽默感的,滑稽的,诙谐的,想入非非的,异想天开的
+&ˈhju:mərəs
+$3
++hunger
+#n.饿, 饥饿，欲望#vi.渴望#vt. & vi.(使)饥饿
+&ˈhʌŋɡə
+$3
++hypothesis
+#n.假说, 假设, 前提
+&haiˈpɔθisis
+$3
++identify
+#vt.认出, 识别支持, 同情#vt. & vi.等同于; 有关联
+&aiˈdentifai
+$3
++ideology
+#n.思想(体系), 思想意识
+&ˌaidiˈɔlədʒi
+$3
++ignorant
+#adj.无知的, 愚昧的
+&ˈiɡnərənt
+$3
++ignore
+#vt.不顾, 不理, 忽视
+&iɡˈnɔ:
+$3
++illuminate
+#vt.使明亮; 照亮，装饰，说明, 阐明
+&iˈlju:mineit
+$3
++illusion
+#n.错觉, 幻想, 错误观念，假象
+&iˈlju:ʒən
+$3
++imagine
+#vt.想像, 设想料想, 猜想想
+&iˈmædʒin
+$3
++immediate
+#adj.立即的, 即刻的; 紧迫的，目前的, 当前的，直接的，最接近的
+&iˈmi:diət
+$3
++immigrant
+#n.移民
+&ˈimiɡrənt
+$3
++immobilize
+#vt. 使不动, 使固定
+&iˈməubilaiz
+$3
++immortal
+#adj.不朽的; 流芳百世的#n.不朽的，人物永生不朽者
+&iˈmɔ:tl
+$3
++immune
+#adj.免疫的, 有免疫力的; 不受影响的，免除…的, 豁免的
+&iˈmju:n
+$3
++impact
+#n.影响, 作用冲击(力), 碰撞#vt. & vi.对某事物有影响
+&ˈimpækt
+$3
++imply
+#vt.暗示, 暗指，必然，包含
+&imˈplai
+$3
++impose
+#vi.利用, 占便宜; 欺骗#vt.强迫, 强加，课税, 惩罚
+&imˈpəuz
+$3
++impulse
+#n.凭冲动行事, 突如其来的念头，推动, 冲力, 刺激, 推动力
+&ˈimpʌls
+$3
++inability
+#n.无能, 无力
+&ˌɪnəˈbiliti
+$3
++inevitable
+#adj.不可避免的, 必然发生的〈非正〉总会发生的, 照例必有的, 惯常的
+&inˈevitəbl
+$3
++infant
+#n.婴儿, 幼儿
+&ˈinfənt
+$3
++infect
+#vt.(受)传染，污染，影响
+&inˈfekt
+$3
++inflation
+#n.(充气而引起的)膨胀通货，膨胀
+&inˈfleiʃən
+$0
++ingenious
+#adj.灵巧的, 善于创造发明的，设计独特的, 制作精巧的
+&inˈdʒi:njəs
+$0
++inherent
+#adj.固有的; 内在的
+&inˈhiərənt
+$3
++inherit
+#vt. & vi.继承
+&inˈherit
+$3
++inhibit
+#vt.阻止; 抑制
+&inˈhibit
+$3
++initial
+#adj.最初的, 开头的
+&iˈniʃəl
+$3
++inject
+#vt.注射, 注入
+&inˈdʒekt
+$3
++injury
+#n.伤害, 损害，受伤处
+&ˈindʒəri
+$3
++inland
+#adj.内地的, 内陆的#adv.向内地, 在内陆
+&ˈinlənd
+$3
++inner
+#adj.内部的, 里面的，内心的
+&ˈinə
+$3
++innocent
+#adj.清白的, 无罪的, 无辜的，无害的, 没有恶意的，涉世不深的; 天真的, 单纯的，头脑简单的; 愚钝的
+&ˈinəsnt
+$3
++innumerable
+#adj.无数的, 数不清的
+&iˈnju:mərəbl
+$3
++insert
+#n.添入物(尤指一页印刷品图中插入或套印的小图)#vt.插入, 嵌入
+&inˈsə:t
+$3
++insight
+#n.洞察力, 洞悉, 深刻的，见解，领悟, 顿悟
+&ˈinsait
+$3
++inspect
+#vt.检查, 检验，视察
+&inˈspekt
+$3
++inspire
+#vt.鼓舞, 激励，赋予某人灵感; 启迪
+&inˈspaiə
+$3
++install
+#vt.安装，安顿, 安置，使…正式就职
+&inˈstɔ:l
+$3
++instant
+#adj.立即的，即食的, 立即可冲食的#n.片刻, 顷刻, 刹那
+&ˈinstənt
+$3
++instinct
+#n.本能; 天性; 直觉
+&ˈinstiŋkt
+$3
++institute
+#n.协会, 学会; 学院, 研究院#vt.建立, 制定; 开始, 着手
+&ˈinstitju:t
+$3
++institution
+#n.惯例, 习俗; 制度，为人熟知，常在某处的人，知名人士, 名流，慈善机构，建立, 制定
+&ˌɪnstiˈtju:ʃən
+$3
++instruct
+#vt.命令, 指示教, 指导，通知
+&inˈstrʌkt
+$3
++instrument
+#n.器具, 仪器，乐器，被外界所利用的人[物], 傀儡，正式的文件, 文书
+&ˈinstrumənt
+$3
++interact
+#vi.相互作用[影响], 互相配合
+&ˌɪntərˈækt
+$3
++interfere
+#vi.干预; 调停，妨碍
+&ˌɪntəˈfiə
+$3
++interior
+#adj.内部的，内地的, 国内的#n.内部，内地
+&inˈtiəriə
+$3
++interpret
+#vt.解释; 说明#vt. & vi.口译; 翻译
+&inˈtə:prit
+$3
++interrupt
+#vt. & vi.打断
+&ˌɪntəˈrʌpt
+$3
++intimate
+#adj.亲密的, 密切的; 有性关系的(尤指婚外的)私人的, 个人的，详尽的, 精通的#n.至交, 密友#vt.示意, 暗示
+&ˈintimit
+$3
++intrinsic
+#adj.固有的, 内在的, 本质的
+&inˈtrinsik
+$3
++invariable
+#adj.恒定的; 不变的; 始终如一的
+&inˈvɛəriəbl
+$3
++investigate
+#vt.调查; 审查
+&inˈvestiɡeit
+$3
++involve
+#vt.使某事物成为必要条件或结果; 需要，使参与, 牵涉
+&inˈvɔlv
+$3
++irony
+#n.反语, 冷嘲，具有讽刺意味的事, 嘲弄
+&ˈaiərəni
+$3
++irresistible
+#adj.无法抗拒的，诱惑人的
+&ˌɪriˈzistəbl
+$3
++irreverent
+#adj.不敬的; 无礼的
+&iˈrevərənt
+$3
++irrigate
+#vt.灌溉冲洗(伤口)
+&ˈiriɡeit
+$3
++isolate
+#vt.使隔离, 使孤立, 使脱离
+&ˈaisəleit
+$3
++jewel
+#n.宝石, 宝石饰物，受珍视的人[物]
+&ˈdʒu:əl
+$3
++join
+#vt. & vi.连接, 联结，加入, 参加, 同…一起做某事
+&dʒɔin
+$3
++journal
+#n.杂志, 期刊，日志, 日记
+&ˈdʒə:nl
+$3
++keen
+#adj.锋利的，热衷的, 热心的, 渴望(做某事)，激烈的, 紧张的，良好的; 敏锐的, 敏捷的
+&ki:n
+$3
++kerosene
+#n.煤油; 火油
+&ˈkerəsi:n
+$3
++kingdom
+#n.王国，界，领域
+&ˈkiŋdəm
+$3
++label
+#n.标签, 标记，称号; 符号; 标示#vt.贴标签，于把…列为
+&ˈleibəl
+$3
++laboratory
+#n.实验室
+&ləˈbɔrətəri
+$3
++lace
+#n.蕾丝, 透孔织品, 花边鞋带, 系带#vt. & vi.系牢, 系紧
+&leis
+$3
++landmark
+#n.界标，目标, 明显的，标志里程碑
+&ˈlændmɑ:k
+$3
++lash
+#n.鞭挞, 鞭打，鞭子，突然猛烈的一击; 急速挥动#vt.鞭打紧系, 捆扎煽动, 激起#vt. & vi.突然冲击, 猛烈打击
+&læʃ
+$3
++latter
+#adj.后半的, 接近终了的，后者的
+&ˈlætə
+$3
++launch
+#n.发射; (船)下水; (新产品)投产，汽艇, 游艇#vt.使(船)下水发动; 发出; 发射
+&lɔ:ntʃ
+$3
++lawn
+#n.草地, 草坪
+&lɔ:n
+$3
++layout
+#n.布局; 安排; 版面设计
+&ˈleiaut
+$3
++lean
+#adj.瘦的; 少脂肪的，贫瘠的; 收益差的#vt.倚, 靠; 依赖#vt. & vi.(使)倾斜, 屈身
+&li:n
+$3
++lease
+#n.租约, 租契#vt.租, 租借
+&li:s
+$3
++leather
+#n.皮, 皮革
+&ˈleðə
+$3
++legal
+#adj.法律上的; 合法的; 法定的
+&ˈli:ɡəl
+$3
++legend
+#n.传说, 传奇故事，传奇人物
+&ˈledʒənd
+$3
++leisure
+#n.空闲时间, 闲暇，悠闲, 安逸
+&ˈleʒə
+$3
++lengthen
+#vt. & vi.(时间或空间)延长, 伸长
+&ˈleŋθən
+$3
++liberty
+#n.自由, 自主〈正式〉许可权
+&ˈlibəti
+$3
++lighthouse
+#n.灯塔
+&ˈlaithaus
+$3
++limb
+#n.肢，大树枝
+&lim
+$3
++limitation
+#n.限制，局限, 极限
+&ˌlimiˈteiʃən
+$3
++linear
+#adj.线的，长度的
+&ˈliniə
+$3
++linguistic
+#adj.语言的, 语言学的, 语言研究的
+&liŋˈɡwistik
+$3
++lip
+#n.嘴唇，边缘
+&lip
+$3
++livelihood
+#n. 生计,谋生
+&ˈlaivlihud
+$3
++locomotion
+#n. 运动, 移动; 运动力, 移动力
+&ˌləukəˈməuʃən
+$3
++log
+#n.原木, 木材, 木料，航海[飞行]日志#vt.把…记入航海日志，航行(…距离), 飞行(…小时)#vt. & vi.砍伐
+&lɔɡ
+$3
++logical
+#adj.逻辑(上)的, 符合逻辑的，推理正确的, 合乎常理的
+&ˈlɔdʒikəl
+$3
++lone
+#adj. 孤单的, 孤独的, 人迹罕至的
+&ləun
+$3
++longing
+#adj.渴望的#n.渴望; 盼望
+&ˈlɔŋiŋ
+$3
++loosely
+#adv. 宽松地,松散地
+&ˈlu:sli
+$3
++loyal
+#adj.忠诚的, 忠心的
+&ˈlɔiəl
+$3
++luminous
+#adj.发光的, 发亮的; 光明的，明白易懂的
+&ˈlu:minəs
+$3
++lump
+#n.块肿块〈非正〉傻大个, 笨拙的人#vi.结成块#vt.把…归并在一起(考虑); 将人[物]同等对待[分类]
+&lʌmp
+$3
++lung
+#adj.肺的#n.肺
+&lʌŋ
+$3
++luxury
+#n.奢侈, 豪华奢侈品
+&ˈlʌkʃəri
+$3
++magical
+#adj.魔力的, 不可思议的, 迷人的
+&ˈmædʒikəl
+$3
++maintenance
+#n.维持; 维护; 保养; 维修赡养费
+&ˈmeintinəns
+$3
++majestic
+#adj.雄伟的, 威严的，壮丽的
+&məˈdʒestik
+$0
++makeup
+#n.天性,化妆品,补充,虚构,组成,结构,补考,体格
+&ˈmeikʌp
+$3
++manifestation
+#n.表明; 表现; 显现
+&ˌmænifesˈteiʃən
+$3
++manipulate
+#vt.熟练控制[操作]
+&məˈnipjuleit
+$0
++mansion
+#n.宅第, 公馆; 大厦
+&ˈmænʃən
+$3
++manual
+#adj.用手的, 手工的#n.手册, 指南
+&ˈmænjuəl
+$3
++marvelous
+#adj.引起惊异的,不可思议的,非凡的
+&
+$3
++mason
+#n.石匠, 砖瓦匠
+&ˈmeisn
+$3
++massive
+#adj.大而重的, 大块的，可观的, 巨大的, 大量的
+&ˈmæsiv
+$3
++masterpiece
+#n.杰作, 名作
+&ˈmɑ:stəpi:s
+$3
++match
+#n.比赛, 竞赛对手, 敌手，相似之物, 相配之物，婚姻; 婚姻对象#vt.使较量, 使比赛#vt. & vi.(使)相配; (使)相称
+&mætʃ
+$3
++maternal
+#adj.母亲的; 母亲般的
+&məˈtə:nl
+$3
++mature
+#adj.成熟的, 成年人的，深思的; 慎重的#vi.成熟, 长成
+&məˈtjuə
+$3
++maximum
+#adj.最大值的, 最大量的#n.最大的，量、体积、强度等
+&ˈmæksiməm
+$3
++mechanism
+#n.机械，装置，构造, 机制，办法, 技巧, 途径
+&ˈmekənizəm
+$3
++medicine
+#n.药, 内服药，医术, 医学
+&ˈmedisin
+$3
++medieval
+#adj.中古的, 中世纪的
+&ˌmediˈi:vəl
+$3
++medium
+#adj.中等的, 适中的#n.媒介, 手段, 方法, 工具折中, 中间物，生活条件, 环境通灵的人
+&ˈmi:djəm
+$3
++memorable
+#adj.值得纪念的, 值得记忆的
+&ˈmemərəbl
+$3
++mental
+#adj.精神的, 头脑的, 心理的, 智力的，精神病的
+&ˈmentl
+$3
++merchant
+#n.商人
+&ˈmə:tʃənt
+$3
++mention
+#n.提及, 说起#vt.提到, 说起
+&ˈmenʃən
+$3
++merciless
+#adj.无情的, 残忍的
+&ˈmə:silis
+$3
++mere
+#adj.仅仅, 只不过，纯粹的
+&miə
+$3
++microscopic
+#adj. 显微镜的, 用显微镜可看见的#微小的, 细微的
+&ˌmaikrəsˈkɔpik
+$3
++midair
+#n. 半空中
+&midˈɛə
+$3
++migrate
+#vi.迁移; 移往
+&maiˈɡreit
+$3
++mild
+#adj.温柔的, 温和的, 和善的，轻微的, 不严重的，温暖的, 暖和的
+&maild
+$3
++military
+#adj.军事的, 军用的; 军人的#n.军人; 军队, 武装力量
+&ˈmilitəri
+$3
++mill
+#n.磨坊; 磨粉机，作坊, 工厂
+&mil
+$3
++millennium
+#n.一千年, 千年期，千禧年, 全人类未来的幸福时代, 太平盛世
+&miˈleniəm
+$3
++mimic
+#adj.模拟的，假的, 伪装的#n.模仿名人言行的娱乐演员, 滑稽剧演员，善于模仿的人或物#vt.(尤指为了逗乐而)模仿酷似
+&ˈmimik
+$3
++miniature
+#adj.小型的, 微小的#n.微型复制品, 微小模型，微型画, 微型人像画
+&ˈminiətʃə
+$3
++ministry
+#n.(政府的)部
+&ˈministri
+$3
++mission
+#n.使命, 任务, 天职，代表团, 使节团
+&ˈmiʃən
+$3
++mobility
+#n.活动性,灵活性,迁移率,机动性
+&məuˈbiliti
+$3
++mock
+#adj.仿制的; 模拟的#vt.使受挫折#vt. & vi.愚弄; 嘲弄
+&mɔk
+$0
++mode
+#n.方式, 样式，风格
+&məud
+$3
++modem
+#n.调制解调器
+&ˈməudem
+$3
++moderate
+#adj.中等的, 适度的, 不很大的，温和的; 有节制的，中庸的, 稳健的, 不走极端的#vt. & vi.(使)减轻[缓和]; 节制
+&ˈmɔdərit
+$3
++modest
+#adj.谦虚的, 谦恭的，适中的, 适度的
+&ˈmɔdist
+$3
++moisture
+#n.水分, 水气, 湿气#vt.使防潮
+&ˈmɔistʃə
+$3
++mold
+#n.模子,铸型#vt.浇铸,塑造
+&məuld
+$3
++moment
+#n.瞬间, 片刻，时刻, 时机
+&ˈməumənt
+$3
++monetary
+#adj.货币的; 金融的
+&ˈmʌnitəri
+$3
++monster
+#adj.巨大的, 庞大的#n.怪物坏人, 恶人
+&ˈmɔnstə
+$3
++monument
+#n.纪念碑遗迹, 遗址, 名胜古迹
+&ˈmɔnjumənt
+$0
++mood
+#n.心情, 情绪语气
+&mu:d
+$3
++moral
+#adj.道德上的, 有道德的，道义上的#n.教育意义, 寓意，道德, 品行, 道德规范
+&ˈmɔ:rəl
+$3
++mud
+#n.泥, 烂泥
+&mʌd
+$3
++multiple
+#adj.多重的, 多种多样的#n.〈数〉倍数
+&ˈmʌltipl
+$3
++mutual
+#adj.相互的, 彼此的，共同的, 共有的
+&ˈmju:tʃuəl
+$3
++mystery
+#n.神秘(性), 秘密(性)神秘的事, 难以理解的事物，来历不明[难探究竟]的人
+&ˈmistəri
+$3
++myth
+#n.神话，杜撰出来的人[事物]
+&miθ
+$3
++nail
+#n.钉子, 钉状物，指甲, 趾甲#vt.钉住, 钉牢抓住, 逮住
+&neil
+$3
++naked
+#adj.裸露的，赤裸裸的, 无遮蔽的，不加掩饰的; 坦白的, 明显的
+&ˈneikid
+$3
++narration
+#n.叙述事情的经过; 故事
+&næˈreiʃən
+$3
++narrow
+#adj.狭窄的; 狭隘的，勉强的; 险胜的#vt. & vi.(使)变窄
+&ˈnærəu
+$3
++nationwide
+#adj. & adv.全国范围的; 全国性的; 在全国
+&ˌneiʃnˈwaid
+$3
++navigate
+#vt.(从海上、空中等)横越; 横渡; 飞跃#vt. & vi.给(船舶、飞机等)引航; 导航
+&ˈnæviɡeit
+$3
++necessity
+#n.必要(性); (迫切)需要，必需品，自然规律
+&niˈsesiti
+$3
++neck
+#n.颈, 脖子领圈, 领口
+&nek
+$3
++neglect
+#n.忽略, 疏忽, 玩忽，被忽略的状态#vt.疏忽; 忽略; 遗漏
+&niˈɡlekt
+$3
++negotiate
+#vt.兑现(支票等)#vt. & vi.谈判; 协商; 议定
+&niˈɡəuʃieit
+$3
++neighbor
+#n.〈美〉邻居,邻国
+&ˈneibə
+$3
++neoclassical
+#adj.新古典主义的
+&ˈni:əuklæsikəl
+$3
++net
+#adj.净的, 纯的#n.网眼织物网网状系统#vt.用网捕; 布网于净得, 净赚
+&net
+$3
++neutral
+#adj.中立的, 不偏不倚的，中立(国家)的，暗淡的; 非彩色的，(化学中)中性的，不带电的#n.(汽车或其他机器的)空挡位置，中立人士; 中立国
+&ˈnju:trəl
+$3
++nickname
+#n.绰号, 诨名; 昵称
+&ˈnikneim
+$3
++nonetheless
+#adv.虽然，如此,但是
+&ˌnʌnðəˈles
+$3
++nonsense
+#n.胡说; 废话，愚蠢的行为; 无聊的事物
+&ˈnɔnsəns
+$3
++normal
+#adj.正常的, 平常的，正规的; 标准的
+&ˈnɔ:məl
+$3
++notable
+#adj.值得注意的, 显著的; 著名的#n.名人, 要人
+&ˈnəutəbl
+$3
++notion
+#n.概念, 观念, 看法，突然的念头, 奇想; 意图, 打算
+&ˈnəuʃən
+$3
++nourishing
+#adj. 有营养的,滋养多的
+&ˈnʌriʃiŋ
+$3
++nuclear
+#adj.核的, 原子核的，使用或生产核能的
+&ˈnju:kliə
+$3
++numerical
+#adj.数字的, 用数字表示的, 数值的
+&nju:ˈmerikəl
+$3
++nurse
+#n.护士，保育员; 保姆#vt. & vi.护理, 照料喂, 吃奶
+&nə:s
+$3
++nutrition
+#n.营养
+&nju:ˈtriʃən
+$3
++objective
+#adj.客观的; 不带偏见的#n.目标; 目的
+&əbˈdʒektiv
+$3
++obscure
+#adj.不出名的; 不重要的，费解的; 模糊不清的，不易看清的, 暗淡的#vt.使…模糊不清; 掩盖
+&əbˈskjuə
+$3
++obstacle
+#n.障碍(物), 妨碍
+&ˈɔbstəkl
+$3
++occupy
+#vt.占领; 占有，使从事; 使忙于
+&ˈɔkjupai
+$3
++occurrence
+#n.发生, 出现事件; 发生的事
+&əˈkʌrəns
+$3
++odd
+#adj.奇怪的; 古怪的，单的，奇数的，临时的，余下的; 零头的
+&ɔd
+$3
++offensive
+#adj.讨厌的; 令人不快的，攻击的#n.进攻, 攻势
+&əˈfensiv
+$3
++official
+#adj.公务的, 公职的, 职权的官方的, 正式的, 官方认可的#n.行政官员
+&əˈfiʃəl
+$3
++offspring
+#n.子女, 子孙, 后代(动物的)崽
+&ˈɔfspriŋ
+$3
++ooze
+#n.泥浆, (河底的)淤泥#vi.(浓液等)慢慢地冒出, 渗出#vt.使(液体)缓缓流出
+&u:z
+$3
++operate
+#vi.开刀, (对…)动手术#vt. & vi.运转; 操作，经营, 管理
+&ˈɔpəreit
+$3
++opinion
+#n.意见, 看法, 主张舆论评价, 印象专业性的鉴定, 劝告
+&əˈpinjən
+$3
++opportunity
+#n.机会, 时机
+&ˌɔpəˈtju:niti
+$3
++oppose
+#vt. & vi.反对; 使相对
+&əˈpəuz
+$3
++optical
+#adj.视觉的, 视力的，光学的, 光的
+&ˈɔptikəl
+$3
++oral
+#adj.口头的, 口述的，口服的
+&ˈɔrəl
+$3
++orbit
+#n.轨道#vt. & vi.在…轨道上运行, 环绕轨道运行
+&ˈɔ:bit
+$3
++orchid
+#adj.淡紫色的#n.兰,兰花,淡紫色
+&ˈɔ:kid
+$3
++orderly
+#adj.安排好的; 整齐的; 有秩序的
+&ˈɔ:dəli
+$3
++organic
+#adj.器官的; 器质性的，有机(体)的, 有机物的
+&ɔ:ˈɡænik
+$3
++orientation
+#n.方向, 目标熟悉情况; 适应
+&ˌɔ:rienˈteiʃən
+$0
++ornament
+#n.装饰; 点缀装饰品, 点缀品#vt.装饰, 点缀, 美化
+&ˈɔ:nəmənt
+$3
++outermost
+#adj. 最外面的; 离中心最远的
+&ˈautəˌməust
+$3
++outgoing
+#adj.对人友好的; 开朗的，即将离职的
+&ˈautˌɡəuiŋ
+$3
++output
+#n.产量输出, 输出功率
+&ˈautput
+$3
++outward
+#adj.外出的, 往外的，外表的, 表面的
+&ˈautwəd
+$3
++outweigh
+#vt.在重量上超过，在重要性或价值方面超过
+&autˈwei
+$3
++overall
+#adj.总体的; 全面的; 综合的，全面考虑的#adv.大体上, 总的来说，一切包括在内, 全部的#n.长罩，衣工装裤; 工作裤
+&ˈəuvərɔ:l
+$3
++overcome
+#vt.被(烟、感情等)熏[压]倒, 使受不了#vt. & vi.战胜; 克服
+&ˌəuvəˈkʌm
+$3
++overturn
+#vt.使垮台; 推翻#vt. & vi.(使)翻倒
+&ˌəuvəˈtə:n
+$3
++overwhelm
+#vt.覆盖, 淹没压倒, 制服; 打败，使某人不知所措
+&ˌəuvəˈhwelm
+$3
++pack
+#n.包裹; 背包小纸盒, 小纸包一群; 一伙; 一堆(纸牌的)一副#vt.装罐把…裹起来携带; 装备有挑选…使之偏袒自己#vt. & vi.(把…)打包, 收拾行李塞进; 拥进(使)聚集成团
+&pæk
+$3
++pale
+#adj.苍白的, 灰白的，浅色的; 淡的#vi.变得苍白, 失色, 变得暗淡
+&peil
+$3
++pamphlet
+#n.小册子
+&ˈpæmflit
+$0
++paradox
+#n.似非而是的隽语, 看似矛盾而实际却可能正确的说法，用于语言文学中的上述隽语有矛盾特点的人[事物, 情况]
+&ˈpærədɔks
+$3
++paraphrase
+#n.释义, 意译
+&ˈpærəfreiz
+$3
++partially
+#adv. 部分地
+&ˈpɑ:ʃəli
+$3
++participate
+#vt. & vi.参加, 参与
+&pɑ:ˈtisipeit
+$3
++particle
+#n.微粒, 颗粒, 〈物〉粒子，极少，量小
+&ˈpɑ:tikl
+$3
++passage
+#n.通道, 过道(文章的)一段, 一节，经过, 通过; 消逝
+&ˈpæsidʒ
+$3
++passion
+#n.激情, 热情，狂怒, 盛怒，爱好, 酷爱
+&ˈpæʃən
+$3
++patch
+#n.补丁, 补片，眼罩斑, 块，小块, 小片，小块土地#vt.补，修理，调停, 解决
+&pætʃ
+$3
++patent
+#adj.专利的, 特评的，公开的, 明显的#n.专利, 专利权，专利品#vt.获得…专利, 给予…专利权
+&ˈpeitənt
+$3
++patience
+#n.耐性, 忍耐力, 耐心，坚忍, 坚持, 毅力
+&ˈpeiʃəns
+$3
++patriot
+#n.爱国者; 爱国主义者
+&ˈpeitriət
+$3
++payment
+#n.支付, 付款, 缴纳, 报酬，付出的[要付出的]款项，报答, 报偿
+&ˈpeimənt
+$3
++pearl
+#n.珍珠，珠状物，珍品
+&pə:l
+$3
++percentage
+#n.百分比, 百分率比例
+&pəˈsentidʒ
+$3
++performance
+#n.演出, 表演，履行, 执行，表现, 行为, 成就，性能, 工作情况
+&pəˈfɔ:məns
+$3
++periodic
+#adj.周期的; 定期的, 定期发生的
+&ˌpiəriˈɔdik
+$3
++permanent
+#adj.永久(性)的, 固定的
+&ˈpə:mənənt
+$3
++perpetuate
+#vt.使永存; 使人记住不忘
+&pəˈpetʃueit
+$0
++petroleum
+#n.石油
+&piˈtrəuliəm
+$3
++phase
+#n.阶段, 时期(月亮、行星的)位相#vt.分阶段计划[安排]
+&feiz
+$3
++phenomenon
+#n.现象特殊的人[事物]
+&fiˈnɔminən
+$3
++photograph
+#n.照片, 相片#vt. & vi.(给…)拍照
+&ˈfəutəɡrɑ:f
+$3
++phrase
+#n.〈语〉短语, 词组; 成语，说法, 简洁的语句, 警句#vt.叙述; 措词
+&freiz
+$3
++pilot
+#adj.试验性的; 引导的#n.飞行员, 宇航员，引航员; 舵手#vt.驾驶，带领, 指引, 引导，试验, 试用
+&ˈpailət
+$3
++plantation
+#n.种植园, 大农场
+&plænˈteiʃən
+$3
++plastic
+#adj.(指物品)塑料的，(指材料或物质)可塑的#n.塑料; 塑料制品〈口〉信用卡
+&ˈplɑ:stik
+$3
++plaza
+#n.广场, 集市，场所
+&ˈplɑ:zə
+$3
++plentiful
+#adj.丰富的, 大量的
+&ˈplentiful
+$3
++plow
+#n.犁#v.耕,犁,犁耕,费力穿过,艰苦前进,在考试中淘汰
+&plau
+$3
++pollutant
+#n.污染物质(尤指工业废物)
+&pəˈlu:tənt
+$3
++popularity
+#n.普遍, 流行，受欢迎; 有声望
+&ˌpɔpjuˈlæriti
+$3
++populous
+#adj.人口众多的; 人口稠密的
+&ˈpɔpjuləs
+$3
++pore
+#n.(皮肤上的)毛孔, 微孔#vi.仔细阅读, 熟读
+&pɔ:
+$3
++portable
+#adj.便于携带的; 手提式的; 轻便的
+&ˈpɔ:təbl
+$3
++portion
+#n.一部分, 一份#vt.把…分成份额, 分配
+&ˈpɔ:ʃən
+$3
++positive
+#adj.确实的, 明确的，积极的; 肯定的，表现得有信心和有希望的, 确信的〈数〉〈电〉正的, 阳性的完全的; 纯粹的#n.〈语〉原级形容词，确实; 正量, 正数正片
+&ˈpɔzitiv
+$3
++possess
+#vt.具有占据
+&pəˈzes
+$3
++postage
+#n. 邮费, 邮资
+&ˈpəustidʒ
+$3
++potent
+#adj.(药等)效力大的; 威力大的，强有力的; 有说服力的
+&ˈpəutənt
+$3
++pottery
+#n.陶器, 陶器器皿，陶器制造(术)，陶器厂
+&ˈpɔtəri
+$3
++powder
+#n.粉, 粉末，粉状物质#vt.在…搽粉
+&ˈpaudə
+$3
++practical
+#adj.实际的, 实践的，实用的，注重实际的; 有实际工作能力的
+&ˈpræktikəl
+$3
++preach
+#vt. & vi.讲道，劝诫; 说教
+&pri:tʃ
+$0
++precede
+#vt. & vi.在…之前, 先于
+&ˌpriˈsi:d
+$3
++precious
+#adj.宝贵的, 珍贵的, 贵重的, 珍爱的，矫揉造作的#adv.〈口〉很, 非常
+&ˈpreʃəs
+$3
++precise
+#adj.精确的, 准确的，恰好的; 正是的，周密的, 细密的, 精细的
+&priˈsais
+$3
++precursor
+#n.先驱; 先行者; 先兆, 前兆，初期形式
+&priˈkə:sə
+$3
++predict
+#vt. & vi.预言; 预测; 预示
+&priˈdikt
+$3
++predominant
+#adj.占主导地位的, 显著的
+&priˈdɔminənt
+$3
++pregnant
+#adj.怀孕的, 怀胎的，含蓄的, 意味深长的，孕育着…的, 预示着…前景的
+&ˈpreɡnənt
+$3
++prejudice
+#n.成见, 偏见, 歧视#vt.使有偏见不利于, 损害
+&ˈpredʒudis
+$3
++presence
+#n.出席, 到场, 存在，仪表, 仪态
+&ˈprezəns
+$3
++preservation
+#n.保存, 保藏, 储藏, 保持
+&ˌprezəˈveiʃən
+$3
++prestige
+#adj.炫耀的, 讲究排场的, 摆阔气的#n.威信, 威望, 声望
+&presˈti:ʒ
+$3
++prey
+#n.被捕食的动物, 猎物, 牺牲品捕食(习性), 掠食#vi.捕食, 掠食折磨(人)靠欺诈为生
+&prei
+$3
++pride
+#n.得意, 自豪，自尊，骄傲; 傲慢#vt.以…而自豪, 得意于…
+&praid
+$3
++primal
+#adj. (似乎)原始的; 最初的#主要的, 首要的
+&ˈpraiməl
+$3
++private
+#adj.私人的; 个人的，秘密的，私有的, 私营的#n.列兵, 士兵
+&ˈpraivit
+$3
++procedure
+#n.程序, 步骤，手续
+&prəˈsi:dʒə
+$3
++proceed
+#vi.前进; 行进，进行; 继续下去
+&prəˈsi:d
+$3
++profession
+#n.职业, 自由职业，同业, 同行
+&prəˈfeʃən
+$3
++proficiency
+#n.熟练, 精通
+&prəˈfiʃənsi
+$3
++profit
+#n.利润, 收益, 赢利，益处, 得益#vt. & vi.获益; 得利于
+&ˈprɔfit
+$3
++profound
+#adj.深度的; 深切的; 深远的，，知识渊博的, 见解深刻的, 深奥的
+&prəˈfaund
+$3
++progress
+#n.前进; 进展进步, 发展#vt. & vi.(使)进步; (使)进行
+&ˈprəuɡres
+$3
++promise
+#n.承诺, 诺言，希望, 前途#vt. & vi.允诺; 答应有…希望; 预示
+&ˈprɔmis
+$3
++promote
+#vt.提升, 提拔，筹划, 发起, 创立，推销〈正〉促进; 推动; 增进
+&prəˈməut
+$3
++prompt
+#adj.立刻的, 迅速的, 准时的，准时到达的; 行动迅速的#vt.促使, 推动, 引起为(发言者)提示#vt. & vi.为(演员)提示台词
+&prɔmpt
+$3
++propel
+#vt.推进; 推动
+&prəˈpel
+$3
++province
+#n.省份, 大行政区范围, 职责, 领域
+&ˈprɔvins
+$3
++provision
+#n.供应, 提供, 供给准备, 防备食物和饮料规定, 条款, 条件
+&prəˈviʒən
+$3
++provoke
+#vt.激起; 惹怒
+&prəˈvəuk
+$3
++pry
+#vi. 打听, 刺探(他人的私事)#vt. 撬开
+&prai
+$3
++publication
+#n.发表, 公布，出版, 刊行, 发行，出版物, 书刊
+&ˌpʌbliˈkeiʃən
+$3
++publicize
+#vt. 宣传(某事物)(尤指用广告)
+&ˈpʌblisaiz
+$3
++pull
+#n.拖, 拉, 拔爬, 攀登，影响力, 吸引力#vt.赢得, 招来, 吸引#vt. & vi.拉, 扯, 拔拉过来, 拉动, 移动划(船)
+&pul
+$3
++pulse
+#n.脉搏脉冲#vi.(心脏)跳动; 脉动
+&pʌls
+$3
++pump
+#n.泵, 打气筒#vt. & vi.用抽水机汲水; 给…打气
+&pʌmp
+$3
++purchase
+#n.购买, 购置，买到的东西#vt.购买
+&ˈpə:tʃəs
+$3
++pure
+#adj.纯的; 纯净的; 贞洁的，血统纯的, 纯种的，纯理论的; 非实用的，单纯的; 仅仅的; 完全的
+&pjuə
+$3
++puzzle
+#n.智力测验, 智力玩具, 谜难题; 令人费解的事[人]; 谜一般的事物#vt.使迷惑, 使难解#vt. & vi.为难, 伤脑筋, 苦思
+&ˈpʌzl
+$3
++pyramid
+#n.金字塔棱锥(体), 角锥(体)
+&ˈpirəmid
+$3
++qualify
+#vt.限定, 修饰#vt. & vi.(使)具有资格, (使)合格
+&ˈkwɔlifai
+$3
++quarry
+#n.采石场，猎取的目标, 猎物#vt.采(石), 挖(沙)
+&ˈkwɔri
+$3
++quotation
+#n.引用, 引述引文, 引语, 语录时价, 报价, 行情
+&kwəuˈteiʃən
+$3
++race
+#n.人种, 种族(速度)比赛, 赛跑; 竞争#vt. & vi.和…比速度; (使)参加比赛(使)快速移动
+&reis
+$3
++radar
+#n.雷达，雷达装置
+&ˈreidə
+$3
++radiate
+#vi.射出, 向四周伸出#vt.发射出(光、热等)
+&ˈreidieit
+$3
++radiation
+#n.辐射(能); 放射，放射物
+&ˌreidiˈeiʃən
+$3
++radical
+#adj.根本的, 基本的; 彻底的, 完全的，激进的, 激进派的
+&ˈrædikəl
+$3
++raft
+#n.木筏
+&rɑ:ft
+$3
++rage
+#n.狂怒, 盛怒#vi.大发脾气, 动怒，猛烈地，继续下去
+&reidʒ
+$3
++ragged
+#adj.衣着破烂的; 褴褛的，参差不齐的, 凹凸不平的
+&ˈræɡid
+$3
++rainfall
+#n.下雨雨量
+&ˈreinfɔ:l
+$3
++rank
+#n.军衔, 职衔地位; 社会阶层排; 横列; 行列#vt.超过; 高于#vt. & vi.分属某类
+&ræŋk
+$3
++rat
+#n.大老鼠卑鄙小人, 叛徒
+&ræt
+$3
++rational
+#adj.神智清楚的，理性的; 理智的; 合理的; 出于理性的
+&ˈræʃənl
+$3
++raven
+#adj.(指头发)乌亮的#n.渡鸦
+&ˈreivən
+$3
++react
+#vi.起反应; 有影响反对; 对抗
+&riˈækt
+$3
++realize
+#vt.实现了解; 认识到#vt. & vi.变卖; 赚得
+&ˈriəlaiz
+$3
++realm
+#n.领域; 范围，王国, 国度
+&relm
+$3
++rear
+#n.后部, 背臀部#vt.饲养; 养育#vt. & vi.抬起
+&riə
+$3
++rearrange
+#vt.重新安排, 重新布置，改变既定的(计划等)
+&ˌri:əˈreindʒ
+$3
++rebel
+#n.反政府的人; 反叛者; 造反者，叛逆者#vi.反抗政府; 造反，反抗权威; 叛逆
+&ˈrebəl
+$3
++rebuild
+#vt.重建, 重新组装，再形成某事物; 恢复
+&ˌri:ˈbild
+$3
++recall
+#n.召回, 唤回记忆力#vt.召回, 收回#vt. & vi.回忆起, 回想
+&riˈkɔ:l
+$3
++receiver
+#n.接受者，听筒, 接收器
+&riˈsi:və
+$3
++reception
+#n.接待, 接见招待会, 欢迎会接待处, 服务台, 问询处接收效果
+&riˈsepʃən
+$3
++recognition
+#n.认识; 认出; 承认〈正〉酬谢, 酬劳
+&ˌrekəɡˈniʃən
+$3
++recommendation
+#n.推荐, 劝告, 建议(尤做法)推荐信, 介绍信
+&ˌrekəmenˈdeiʃən
+$3
++recording
+#n.(音像的)录制; 录音; 录像，录制的音像; 录音; 录像
+&riˈkɔ:diŋ
+$3
++recover
+#vi.恢复健康(体力、能力等)#vt.恢复; 重新获得, 找回〈正〉恢复(适当的状态或位置)
+&riˈkʌvə
+$3
++recreation
+#n.娱乐(方式); 消遣(方式)
+&ˌrekriˈeiʃn
+$3
++recycle
+#vt.回收，利用
+&ˌri:ˈsaikl
+$3
++reddish
+#adj.淡红色的, 微红的
+&ˈrediʃ
+$3
++reel
+#n.卷轴; 卷筒; 线轴#vi.蹒跚地走路; 摇晃着移动发昏; 发热#vt.把东西用卷轴卷起来; 从卷轴上放出来
+&ri:l
+$3
++refer
+#vi.提到; 针对; 关系到#vt.送交; 提交归于#vt. & vi.参考; 查阅
+&riˈfə:
+$3
++refine
+#vt.精炼; 精制; 使纯净，使文雅高尚; 使去掉粗俗言行; 使变得完善
+&riˈfain
+$3
++reflection
+#n.映像, 倒影，反映, 表达深思; 回忆; 考虑; 看法
+&riˈflekʃən
+$3
++reform
+#n.改革, 改良, 改造#vt. & vi.改革; 改造; 改善
+&riˈfɔ:m
+$3
++refrigerator
+#n.冰箱
+&riˈfridʒəreitə
+$3
++refuse
+#n.废物; 垃圾#vt. & vi.拒绝; 回绝
+&riˈfju:z
+$3
++regard
+#n.注意, 关心，尊重; 尊敬致意; 问候#vt.注视; 注意，认作
+&riˈɡɑ:d
+$3
++regional
+#adj.地区的; 区域的
+&ˈri:dʒənəl
+$3
++regular
+#adj.有规律的, 定期的, 定时的，合乎原则的; 符合规定的; 正当的; 适当的，均匀的; 整齐的; 对称的正常的, 经常的，连续的; 习惯性的; 固定不变的
+&ˈreɡjulə
+$3
++regulate
+#vt.控制, 管理调整; 调节
+&ˈreɡjuleit
+$3
++reheating
+#n. 重新加热
+&ri:ˈhi:tiŋ
+$3
++release
+#n.释放, 排放, 解除，释放令，公映的新影片, 发布的新闻[消息]#vt.释放; 放开发布; 发行; 发售
+&riˈli:s
+$3
++relevant
+#adj.有关的, 切题的
+&ˈreləvənt
+$3
++reliable
+#adj.可靠的, 可信赖的
+&riˈlaiəbl
+$3
++remark
+#n.话语, 评论注意; 看; 观察#vt.注意到…#vt. & vi.谈论, 评论
+&riˈmɑ:k
+$3
++remind
+#vt.使想起
+&riˈmaind
+$3
++remote
+#adj.(时间上)遥远的; (亲属关系上)远的，远离的, 遥远的; 偏僻的，冷淡的, 疏远的, 漠不关心的，微小的; 轻微的
+&riˈməut
+$3
++Renaissance
+#n.文艺复兴, 文艺复兴时期
+&riˈneisns
+$3
++render
+#vt.报答; 归还; 给予呈递; 提供; 开出演出; 扮演; 演奏，翻译使; 致使
+&ˈrendə
+$3
++renew
+#vt.重新开始; 继续补充; 加强，延长…的期限#vt. & vi.(使)复原; (使)更新; 赋予新的生命和活力
+&riˈnju:
+$3
++rental
+#n.租费, 租金额
+&ˈrentl
+$3
++repair
+#n.修理, 修补，修补的地方#vt.修理; 修补纠正, 补救
+&riˈpɛə
+$3
++repeat
+#n.重复; 复述; 背诵(节目)重演, 重播#vi.吃后仍留有余味#vt.复述, 背诵再次供应#vt. & vi.重说, 重做
+&riˈpi:t
+$3
++repel
+#vt.击退, 抵制使厌恶, 使反感
+&riˈpel
+$3
++repertoire
+#n.全部节目
+&ˈrepətwɑ:
+$3
++repetitive
+#adj.重复的, 啰嗦的
+&riˈpetitiv
+$3
++replicate
+#vt.复制; 重复
+&ˈreplikeit
+$3
++representation
+#n.表现, 表示, 代理，表现…的事物, 图画, 雕塑
+&ˌreprizenˈteiʃən
+$3
++republic
+#n.共和国, 共和政体成员具有平等权利的)团体，界
+&riˈpʌblik
+$3
++request
+#n.要求, 请求，所请求的事物#vt.请求, 要求
+&riˈkwest
+$3
++requirement
+#n.要求, 必要条件，需要, 需要的东西
+&riˈkwaiəmənt
+$3
++reserve
+#n.贮藏; 储备，保护区，矜持, 拘谨; 寡言#vt.保留[储备]某物具有或保持(某种权利)，预订或保留(座位、住处等); 订购
+&riˈzə:v
+$3
++reshape
+#vt.改变…的形状[结构]; 重塑; 改组
+&ˌri:ˈʃeip
+$3
++resist
+#vt.不受(某事物的)损害[影响]; 抗; 耐不屈从(某事物或某人); 经得住#vt. & vi.使用武力阻止(某事)发生[取得成功]; 抵抗; 对抗
+&riˈzist
+$3
++resolution
+#n.正式决定, 决议决心, 决定坚决; 坚定; 坚毅解决, 解答分辨力, 分辨率[度]
+&ˌrezəˈlu:ʃən
+$3
++resort
+#n.求助, 凭借, 诉诸求助[凭借]的对象; 采用的办法，度假胜地#vi.求助于或诉诸某事物; 采取某手段或方法应急或作为对策
+&riˈzɔ:t
+$3
++respect
+#n.尊敬, 尊重考虑, 关心, 顾虑，细节, 方面，敬意, 问候#vt.尊重, 敬佩
+&risˈpekt
+$3
++respond
+#vi.有反应; 有效果; 有影响#vt. & vi.回答; 回报; 响应
+&riˈspɔnd
+$3
++responsible
+#adj.负有责任的, 需承担责任的，需对…负责的，尽责的, 可靠的，责任重大的
+&riˈspɔnsəbl
+$3
++restore
+#vt.归还; 交还，使恢复，修复; 重建
+&riˈstɔ:
+$3
++restrict
+#vt.限制; 约束
+&risˈtrikt
+$3
++resume
+#n.摘要,概略,〈美〉履历#vt.重新取得; 再占有#vt. & vi.重新开始; 恢复
+&riˈzju:m
+$3
++retreat
+#n.退却, 撤退，退军号, 收兵号，隐退处, 静居处，静修(期)#vi.撤退; 退却，规避, 退缩
+&riˈtri:t
+$3
++retrieve
+#vt.寻回, 找回恢复, 挽回检索(储存的信息)，使某事物恢复旺盛状态#vt. & vi.(指经过训练的狗)找到并衔回(被打死或打伤的鸟等)
+&riˈtri:v
+$3
++reverse
+#adj.相反的, 颠倒的, 反向的#n.相反，钱币的反面[背面]失败, 挫败#vt. & vi.(使)反转; (使)颠倒; (使)翻转，推翻, 取消，使倒退, 逆转
+&riˈvə:s
+$3
++review
+#n.回顾; 检查; 检讨; 重新考虑，评论性刊物, 评论，检阅#vt.回顾#vt. & vi.写…的评论文章
+&riˈvju:
+$3
++revival
+#n.复活, 再生; 复兴, 再流行，(老戏多年后)重新上演
+&riˈvaivəl
+$3
++revolutionary
+#adj.革命的，革命性的, 创新的#n.革命者, 革新者
+&ˌrevəˈlu:ʃənəri
+$3
++reward
+#n.报酬, 报答, 奖赏, 报偿，赏金, 酬金#vt.酬谢, 奖赏
+&riˈwɔ:d
+$3
++ribbon
+#n.带, 缎带, 丝带，(打印机的)色带
+&ˈribən
+$3
++rid
+#vt.使摆脱, 解除…的负担, 从…中清除
+&rid
+$3
++rifle
+#n.步枪
+&ˈraifl
+$3
++rigid
+#adj.刚硬的; 僵硬的; 不弯曲的，严格的; 死板的; 不变的
+&ˈridʒid
+$3
++ring
+#n.戒指, 指环环状物, 圆圈，团伙, 帮派，铃声，打电话，特性#vt.把…圈起来; 环绕; 包围，打电话给#vt. & vi.(使)鸣, 响按铃; 敲钟
+&riŋ
+$3
++risk
+#n.危险(性), 风险，引起危险的事物#vt.冒险; 冒…险
+&risk
+$3
++ritual
+#adj.作为仪式的，一部分的#n.(宗教等的)仪式，例行公事, 老规矩
+&ˈritʃuəl
+$3
++rival
+#n.竞争对手#vt.与…竞争, 与…匹敌
+&ˈraivəl
+$3
++roar
+#n.吼叫声; 咆哮声; 呼啸声#vi.咆哮, 怒吼，大笑, 狂笑，大哭#vt.大声喊出
+&rɔ:
+$3
++rocky
+#adj.多岩石的, 由岩石组成的，坚如磐石的, 坚硬的，摇摆的; 摇晃的
+&ˈrɔki
+$3
++roll
+#n.一卷面包卷, 圆面包，名册，打滚; 滚动，轰隆声#vi.左右摇晃, 摇摆，发出隆隆声，开始工作#vt.碾平#vt. & vi.(使)打滚, (使)转动, 滚动卷, 把…卷成筒状
+&rəul
+$3
++roof
+#n.屋顶; 顶部
+&ru:f
+$3
++rope
+#n.粗绳, 绳索, 缆，一串#vt.(用绳子)捆, 绑
+&rəup
+$3
++rotor
+#n.轮子, 旋转器
+&ˈrəutə
+$3
++rough
+#adj.粗糙的; 不平的，粗鲁的; 粗暴的; 粗野的; 剧烈的，粗制的; 粗略的; 概略的(味道、声音等)令人不快的; 难吃的; 刺耳的，不舒服#vt.过艰苦生活
+&rʌf
+$3
++rounded
+#adj. 成圆形的
+&ˈraundid
+$3
++routine
+#adj.例行的; 常规的#n.例行公事, 惯例, 惯常的程序
+&ru:ˈti:n
+$3
++row
+#n.一排, 一行，划船#vi.争吵, 吵闹#vt. & vi.划船
+&rəu
+$3
++rub
+#vt.擦; 搓; 揉#vt. & vi.接触; 摩擦
+&rʌb
+$3
++rule
+#n.规则, 规章, 规定, 条例习惯; 惯常的，做法统治; 管理，尺, 折尺#vt.用尺子划; 在…上划平行线#vt. & vi.统治; 控制，判定, 裁定
+&ru:l
+$3
++rumor
+#n.〈美〉传闻, 风闻; 谣言, 谣传
+&ˈru:mə
+$3
++runout
+#n.避开,逃开
+&
+$3
++rural
+#adj.农村的
+&ˈruərəl
+$3
++rush
+#n.冲, 奔，繁忙的，活动，大量急需#vt.催促#vt. & vi.(使)急速行进; 仓促完成
+&rʌʃ
+$3
++rust
+#n.铁锈#vt. & vi.(使)生锈
+&rʌst
+$3
++sail
+#n.帆，航行，游览，航程船#vi.起航, 开船；坐船旅行, 航行#vt.驾驶
+&seil
+$3
++satisfy
+#vt.使确信，符合, 达到(要求、规定、标准等)#vt. & vi.使满意; 满足
+&ˈsætisfai
+$3
++saturated
+#adj. 极湿的; 湿透的#〈化〉(溶液)饱和的
+&ˈsætʃəreitid
+$3
++scar
+#n.伤痕, 伤疤; 精神上的创伤#vt.使留下伤痕
+&skɑ:
+$3
++scent
+#n.气味, 香味，香水，(动物的)臭迹, 遗臭，线索(尤指狗的)嗅觉#vt.(动物等)嗅出…的气味, 嗅出…的存在察觉到(坏事等的)存在; 觉得有, 怀疑，有使充满香味; 洒香水于
+&sent
+$3
++schedule
+#n.时间表, 日程安排表，清单, 明细表#vt.排定, 安排
+&ˈʃedju:əl
+$3
++scholar
+#n.奖学金获得者，学者
+&ˈskɔlə
+$3
++score
+#n.二十画线, 刻痕得分, 分数#vi.记分#vt. & vi.得分，获胜; 成功
+&skɔ:
+$3
++scratch
+#n.抓; 搔痒抓痕, 抓伤刮擦声#vt. & vi.抓, 搔刮伤勾掉, 删掉
+&skrætʃ
+$3
++seal
+#n.海豹印章, 印鉴, 图章封条, 封蜡#vt.盖章于密封决定
+&si:l
+$3
++search
+#n.搜索, 寻找, 探查#vt. & vi.找寻搜查; 搜索; 探查
+&sə:tʃ
+$3
++seasonal
+#adj. 季节的, 季节性的, 随季节变化的
+&ˈsi:zənl
+$3
++secondary
+#adj.次要的, 次等的，中级的, 第二的
+&ˈsekəndəri
+$3
++secret
+#adj.秘密的, 机密的#n.秘密, 机密
+&ˈsi:krit
+$3
++sector
+#n.部门; 领域，防御地区, 防卫区域，扇形, 扇形面
+&ˈsektə
+$3
++seemingly
+#adv.看来，似乎, 表面上看
+&ˈsi:miŋli
+$3
++seep
+#vi.(液体)渗, 渗透
+&si:p
+$3
++segment
+#n.部分, 片段瓣
+&ˈseɡmənt
+$3
++segregate
+#vt.分开, 隔离
+&ˈseɡriɡeit
+$3
++seldom
+#adv.很少, 罕见, 难得
+&ˈseldəm
+$3
++select
+#adj.精选的, 挑选出来的，限制性的, 选择，严格的#vt.选择; 挑选
+&siˈlekt
+$3
++sensational
+#adj. 轰动的, 群情激动的#耸人听闻的#极好的; 绝妙的
+&senˈseiʃənl
+$3
++sensitive
+#adj.易受伤害的, 易损坏的; 易受影响的; 敏感的，易生气的; 感情容易冲动的; 神经质的〈褒〉有细腻感情的; 同情理解的(指仪器等)灵敏的，需要小心处理(以免引起麻烦或冒犯)的, 敏感的, 微妙的
+&ˈsensitiv
+$3
++sensory
+#adj.感觉的, 感知的
+&ˈsensəri
+$3
++sentimental
+#adj.伤感的, 多愁善感的，感情用事的, 寓有情感的
+&ˌsentiˈmentl
+$3
++separately
+#adv.个别地;分离地
+&ˈsepərətli
+$3
++sequence
+#n.有关联的一组事物, 一连串，先后次序, 顺序, 连续
+&ˈsi:kwəns
+$3
++seriously
+#adv. 严重地; 危险地#认真地#真的#真的(表示吃惊)#说真的
+&ˈsiəriəsli
+$3
++session
+#n.(尤指法庭、议会等)开庭, 开会学年学期(进行某活动连续的)一段时间长老会的管理机构
+&ˈseʃən
+$3
++setting
+#n.镶嵌; 镶嵌底座环境(某事、戏剧、小说等的)背景装置、机器等定的速度, 高度, 温度等(为诗等谱写的)乐曲(日、月等)下落
+&ˈsetiŋ
+$3
++severe
+#adj.严重的, 剧烈的，严厉的, 严肃的，艰难的, 严峻的, 辛苦的，朴素的, 纯朴的
+&siˈviə
+$3
++sew
+#vt. & vi.缝
+&səu
+$3
++shade
+#n.荫; 阴凉处阴暗部分遮光物, 遮棚; 窗帘; (灯)罩#vi.逐渐变化#vt.遮蔽画阴影于…之上
+&ʃeid
+$3
++shake
+#n.摇动, 震动, 颠簸哆嗦, 发颤#vt.使心绪不宁[烦恼, 惊吓]动摇; 减弱#vt. & vi.摇动, 摇撼, (使)颤抖握手
+&ʃeik
+$3
++shallow
+#adj.浅的肤浅的
+&ˈʃæləu
+$3
++sharp
+#adj.锋利的, 尖锐的，急转的, 陡峭的; 突然的, 急剧的，轮廓鲜明的; 明显的; 清晰的，灵敏的, 机警的辛辣的, 刺骨[鼻, 眼, 耳]的，蓄意中伤的; 尖刻的; 严厉的#adv.准时地，突然地, 急剧地
+&ʃɑ:p
+$3
++shed
+#n.棚, 库#vt.流出, 流下，蜕皮, 树叶，脱落
+&ʃed
+$3
++sheer
+#adj.完全的; 十足的，陡峭的; 垂直的，极薄的, 轻的, 透明的#adv.垂直地, 陡峭地#vi.避开, 突然转向
+&ʃiə
+$3
++sheet
+#n.被单, 褥单, 床单薄板, 薄片纸，一团, 一片, 一层
+&ʃi:t
+$3
++shift
+#n.转换, 转变，轮[换]班轮班工人，计谋, 手段，切换键#vi.快速行进#vt. & vi.改变, 变换, 转移, 移动，去掉; 摆脱掉，换挡
+&ʃift
+$3
++shine
+#n.光亮; 光泽磨, 擦#vi.发光; 反射光; 照耀，表现突出, 出众#vt.照射〈美〉擦亮
+&ʃain
+$3
++shock
+#n.震动，电击，打击，激动, 震惊，休克#vt.使…震惊，使受电击使…感到厌恶[恐惧]
+&ʃɔk
+$3
++shortage
+#n.不足; 缺少; 缺少量; 不足额
+&ˈʃɔ:tidʒ
+$3
++shut
+#vt. & vi.关, 关上
+&ʃʌt
+$3
++sight
+#n.视力; 视觉，视野, 视界，看见, 瞥见，情景, 景象，风景; 名胜#vt.看见; 发现#vt. & vi.(用仪器)瞄准[观测, 察看]
+&sait
+$3
++signature
+#n.签名, 签字
+&ˈsiɡnitʃə
+$3
++silence
+#n.寂静; 无声，沉默，无音信, 失去联系，寂静[沉默, 无音信]的时刻[期间]#vt.使安静, 使沉默
+&ˈsailəns
+$3
++silt
+#n.淤泥, 淤滓#vt. & vi.(河流等)为淤泥淤塞
+&silt
+$3
++sink
+#n.水池, 水槽#vt. & vi.(使)下沉; (使)沉没
+&siŋk
+$3
++skeleton
+#n.骨骼; 骷髅，骨干, 框架，梗概, 提要
+&ˈskelitn
+$3
++sketch
+#n.草图; 素描; 速写，梗概, 大意#vt. & vi.素描; 作…的略图
+&sketʃ
+$3
++skull
+#n.颅骨, 脑壳
+&skʌl
+$3
++slice
+#n.片, 薄片, 切片，部分; 份#vt.切#vt. & vi.斜击
+&slais
+$3
++slightly
+#adv. 轻微地; 稍稍#细长; 苗条; 微小
+&ˈslaitli
+$3
++slip
+#n.滑, 溜, 滑倒，小过失, 失误#vi.滑, 滑倒#vt.偷偷[悄悄]地塞给，摆脱, 挣脱，逃过; 被遗忘, 被忽视
+&slip
+$3
++slope
+#n.斜坡, 斜面，倾斜, 坡度, 斜率#vi.倾斜; 有斜度
+&sləup
+$3
++smell
+#n.嗅觉嗅, 闻气味; 臭味#vt.闻到; 嗅出#vt. & vi.&link v.嗅; 闻
+&smel
+$3
++smoke
+#n.烟吸烟#vi.冒烟#vt.用烟熏制#vt. & vi.抽烟
+&sməuk
+$3
++smooth
+#adj.光滑的; 平坦的; 平静的，平稳的, 不颠簸的, 不摇晃的，顺利的, 没有困难的, 没问题的，过分殷勤的, 圆滑的; (过分)礼貌的#vt. & vi.(使)光滑, (使)平坦; (使)顺利
+&smu:ð
+$3
++snowy
+#adj.多雪的, 下雪的, 积雪的，雪白的, 纯白的
+&ˈsnəui
+$3
++soap
+#n.肥皂
+&səup
+$3
++soaring
+#adj. 高飞的,翱翔的
+&ˈsɔ:riŋ
+$3
++soldier
+#n.士兵, 军人
+&ˈsəuldʒə
+$3
++solidify
+#vt. & vi. (使)成为固体, (使)变硬, (使)变得坚固
+&səˈlidifai
+$3
++solitary
+#adj.单独的; 独居的; 无伴的，惟一的，人迹罕至的; 幽静的
+&ˈsɔlitəri
+$3
++solution
+#n.解决, 解答, 解决办法，溶液，溶解
+&səˈlu:ʃən
+$3
++sophisticated
+#adj.老练的; 老于世故的，精密的, 尖端的，高雅的, 有教养的
+&səˈfistikeitid
+$3
++sort
+#n.群; 种类; 类别某种人#vt. & vi.分类; 整理
+&sɔ:t
+$3
++soul
+#n.灵魂，高尚情操; 热情; 感情; 精神，精髓, 精华; 中心人物，典型, 化身
+&səul
+$3
++soup
+#n.汤, 羹
+&su:p
+$3
++spacious
+#adj.宽敞的
+&ˈspeiʃəs
+$3
++spare
+#adj.多余的; 备用的薄弱的, 瘦的#n.备用零件; 备用轮胎#vt.节省, 节约, 舍不得, 吝惜抽出, 让给, 分出, 匀出, 腾出省去, 免除饶恕, 赦免, 不伤害
+&spɛə
+$3
++specialty
+#n.专业
+&ˈspeʃəlti
+$3
++species
+#n.物种, 种种类; 类型
+&ˈspi:ʃi:z
+$3
++specify
+#vt.详述指定
+&ˈspesifai
+$3
++specimen
+#n.范例, 典范, 实例，样品, 标本，某种类型的人, 家伙, 怪人
+&ˈspesimən
+$3
++spectacle
+#n.壮观的场面或景象可笑的事物; 愚蠢的景象眼镜
+&ˈspektəkl
+$3
++sphere
+#n.球(体)(兴趣或活动的)范围, 领域
+&sfiə
+$3
++spin
+#vt.杜撰#vt. & vi.使…旋转
+&spin
+$3
++spine
+#n.脊柱; 脊椎(动植物的)刺, 刺毛书脊
+&spain
+$3
++spiral
+#adj.螺旋形的#n.螺旋(线)，螺旋式的上升(或下降)#vi.盘旋上升(或下降)，(物价等)不断急剧地上升(或下降)
+&ˈspaiərəl
+$3
++spirit
+#n.精神, 心灵神灵, 幽灵情绪; 心情酒精; 烈酒#vt.秘密地带走
+&ˈspirit
+$3
++splendid
+#adj.极好的，壮丽的;  辉煌的
+&ˈsplendid
+$3
++spoil
+#vi.变质#vt.损坏; 毁掉，溺爱, 宠坏
+&spɔil
+$3
++sponge
+#n.海绵#vt.(用海绵或海绵状物)擦拭, 清除#vt. & vi.骗取; 敲詐; 揩油
+&spʌndʒ
+$3
++sponsor
+#vt.赞助, 发起, 主办
+&ˈspɔnsə
+$3
++spoon
+#n.匙, 调羹一匙的量#vt.用汤匙舀取
+&spu:n
+$3
++spur
+#n.马刺，激励因素; 刺激, 鞭策#vt.以马刺策(马)，使其快跑激励
+&spə:
+$3
++squeeze
+#n.挤, 榨, 捏，亲切的拥抱或握手拥挤, 积压，缺乏钱或时间等所引致的困难或困苦, 拮据, 短缺#vt.榨取, 挤出#vt. & vi.挤, 榨, 捏
+&skwi:z
+$3
++staircase
+#n.楼梯
+&ˈstɛəkeis
+$3
++stake
+#n.桩, 柱，刑柱，股份, 利害关系#vt.用桩支撑以…下注[打赌]用桩区分, 界分
+&steik
+$3
++stamp
+#n.邮票, 印花印, 图章标志, 印记跺脚, 顿足#vt.贴邮票于; 在…盖章踏平标出，铭记#vt. & vi.顿足
+&stæmp
+$3
++startling
+#adj. 令人震惊的, 惊人的
+&ˈstɑ:tliŋ
+$3
++starve
+#vt. & vi.(使)挨饿, 饥饿
+&stɑ:v
+$3
++stationary
+#adj.不动的; 静止的
+&ˈsteiʃənəri
+$3
++statistics
+#n.一项统计数据，统计资料, 统计数字，统计学
+&stəˈtistiks
+$3
++status
+#n.身份, 地位情形, 状况
+&ˈsteitəs
+$3
++steady
+#adj.稳的, 稳定的, 坚定的，不变的
+&ˈstedi
+$3
++steal
+#vt. & vi.偷，悄悄地做, 悄悄地走
+&sti:l
+$3
++steam
+#n.蒸汽蒸汽动力#vi.(靠蒸汽)行驶#vt.蒸煮#vt. & vi.冒蒸汽
+&sti:m
+$3
++steep
+#adj.陡的, 急剧升降的〈非正〉(要求或价格)过分; 过高#vt. & vi.浸, 泡
+&sti:p
+$3
++stick
+#n.枝条, 枯枝, 柴枝棍, 棒棒状物#vt.容忍; 忍受产生作用, 生效, 起作用#vt. & vi.粘贴, 张贴，插入, 刺入, 卡住
+&stik
+$3
++stiff
+#adj.不易弯曲的, 硬的; 稠的，僵硬的; 不灵活的; 一动就疼的，拘谨的, 冷淡的, 不友善的，强烈的，严厉的，难对付的, 艰难的，很有决心的, 刚强的, 坚定的，太贵的, 无法接受的#adv.〈口〉极度地; 非常
+&stif
+$3
++stimulus
+#n.刺激物; 激励物; 促进因素
+&ˈstimjuləs
+$3
++sting
+#n.(某些昆虫的)毒刺, 螫针，螫伤处; 蜇伤处#vi.感到剧痛#vt. & vi.螫伤; 刺伤
+&stiŋ
+$3
++stock
+#adj.通常备有，现货的; 常备的，常用的; 陈腐的#n.储备品, 供应物(商店的)现货, 存货公债; 股份; 股票原汤, 汤料，家系, 家世, 血统#vt.储备, 保持…的供应
+&stɔk
+$3
++stomach
+#n.胃腹部，食欲, 胃口; 欲望
+&ˈstʌmək
+$3
++stony
+#adj. 多石头的#冷酷的; 无情的
+&ˈstəuni
+$3
++storage
+#n.贮存, 贮藏储藏处, 仓库
+&ˈstɔ:ridʒ
+$3
++storm
+#n.暴风雨[雪]强烈如暴(风)雨般的东西#vi.闯入狂怒#vt. & vi.袭击, 猛攻
+&stɔ:m
+$3
++stout
+#adj.粗壮的; 结实的; 坚固的，坚定的; 勇敢的，(指人)肥胖的
+&staut
+$3
++stove
+#n.炉, 火炉
+&stəuv
+$3
++straight
+#adj.直的, 笔直的，连续的; 不间断的，直率的#adv.直接地; 径直地，立即, 马上
+&streit
+$3
++strand
+#n.(线、绳、发的)股; 缕
+&strænd
+$3
++strategy
+#n.战略学, 兵法战略, 策略，计谋
+&ˈstrætidʒi
+$3
++streamline
+#vt.把…做成流线型，简化使效率更高
+&ˈstri:mlain
+$3
++strength
+#n.力, 力量; 体力, 力气，强度; 浓度优点, 长处人力[数]; 兵力
+&streŋθ
+$3
++stretch
+#n.伸展, 延伸, 延续一段时间, 一段路程, 一段水域#vt. & vi.伸展; 拉紧延伸
+&stretʃ
+$3
++stroll
+#vi.散步, 漫步
+&strəul
+$3
++structural
+#adj. 结构(上)的, 构架(上)的
+&ˈstrʌktʃərəl
+$3
++studio
+#n.播音室; 录音室，画室; 摄影室; 电影摄影棚; 制片厂
+&ˈstju:diəu
+$3
++stylized
+#adj. 程式化的, 格式化的
+&ˈstailaizd
+$3
++subdivide
+#vt.再分, 细分
+&ˌsʌbdiˈvaid
+$3
++submerge
+#vt.完全掩盖, 遮掩#vt. & vi.(使)潜入水中, 淹没
+&səbˈmə:dʒ
+$3
++submit
+#vi.屈服, 认输#vt.提交, 呈递〈正〉建议, 主张, 申辩
+&səbˈmit
+$3
++subsidize
+#vt.给…津贴或补贴; 资助或补助…
+&ˈsʌbsidaiz
+$3
++substantial
+#adj.坚固的; 结实的，大量的, 可观的，重大的, 重要的，实质的, 基本的, 大体上的
+&səbˈstænʃəl
+$3
++substitute
+#vt. & vi.代替, 替换, 代用
+&ˈsʌbstitju:t
+$3
++subterranean
+#adj. 地表下面的; 地下的
+&ˌsʌbtəˈreiniən
+$3
++subtle
+#adj.微妙的; 难以捉摸的; 细微的，狡猾的, 狡诈的，敏感的, 敏锐的, 有辨别力的
+&ˈsʌtl
+$3
++subtractive
+#adj. 减去的,负的,有负号的
+&səbˈtræktiv
+$3
++suburb
+#n.郊区, 城郊
+&ˈsʌbə:b
+$3
++subway
+#n.地下人行道〈美〉地铁
+&ˈsʌbwei
+$3
++succeed
+#vi.成功完成发迹; 成就#vt.随…之后; 继续#vt. & vi.继承, 继任, 继位
+&səkˈsi:d
+$3
++suffer
+#vi.受痛苦; 受损害，变糟, 变差#vt.忍受, 容忍容许, 允许遭受, 蒙受
+&ˈsʌfə
+$3
++suit
+#n.一套衣服，诉讼案件; 法律程序#vt.适合于(某人)#vt. & vi.对…方便, 使满意
+&sju:t
+$3
++sum
+#n.总数, 总和金额算术#vt. & vi.合计总结, 归纳
+&sʌm
+$3
++sunlit
+#adj. 被日光照射了的,阳光照射的
+&sʌnlit
+$3
++superb
+#adj.卓越的, 杰出的, 极好的
+&ˌsju:ˈpə:b
+$3
++superior
+#adj.(级别、地位)较高的; (品质、程度)优良的, 较好的上等的, 优秀的，有优越感的, 高傲的#n.上级, 长官, 上司较好的人[事物], 优胜者
+&sjuˈpiəriə
+$3
++supernatural
+#adj.超自然的; 鬼、神或幻术所引起的#n.超自然的事物, 超自然现象
+&ˌsju:pəˈnætʃərəl
+$3
++supervise
+#vt. & vi.监督, 管理
+&ˈsju:pəvaiz
+$3
++suppose
+#conj.如果#vt.料想; 猜想; 以为，假定, 假设
+&səˈpəuz
+$3
++surplus
+#adj.过剩的, 多余的#n.过剩
+&ˈsə:pləs
+$3
++survey
+#n.调查#vt.眺望; 纵览测量; 勘察检查, 鉴定通盘考虑, 回顾
+&səˈvei
+$3
++survival
+#n.幸存, 生存残存的人[物]; 遗物; 遗风
+&səˈvaivəl
+$3
++suspect
+#adj.可疑的#n.嫌疑犯#vt.猜疑(是), 怀疑(是), 觉得(是)怀疑; 不信任怀疑…有罪
+&səˈspekt
+$3
++sustenance
+#n.食物; 营养; 养料
+&ˈsʌstinəns
+$3
++swallow
+#n.(吃或喝的)一口#vt.不流露〈口〉忍受; 轻信#vt. & vi.吞, 咽
+&ˈswɔləu
+$3
++sweat
+#n.汗, 汗水苦差事; 艰苦的工作#vi.辛苦工作#vt. & vi.(使)出汗, (使)流汗, (使)发汗
+&swet
+$3
++sweep
+#n.打扫, 清扫，挥动, 摆动，大面积搜索#vt. & vi.扫, 打扫, 拂去扫视
+&swi:p
+$3
++swift
+#adj.迅速的, 速度快的，敏捷的, 反应快的
+&swift
+$3
++swing
+#n.摆动, 摇摆秋千显著的变化#vt. & vi.(使)摇摆, (使)摇荡(使)旋转(使)突然转向
+&swiŋ
+$3
++switch
+#n.开关改变, 转变细枝条#vt.转换#vt. & vi.转变, 改变
+&switʃ
+$3
++symbol
+#n.象征, 标志符号, 记号
+&ˈsimbəl
+$3
++sympathy
+#n.同情(心)同情; (感情上的)支持
+&ˈsimpəθi
+$3
++symptom
+#n.症状，征兆
+&ˈsimptəm
+$3
++systematic
+#adj.有系统的; 有规则的; 彻底的
+&ˌsistəˈmætik
+$3
++tactics
+#n. 战术#策略, 手段
+&ˈtæktiks
+$3
++tail
+#n.尾, 尾巴尾部, 尾状物，尾随者; 随行者, 跟班，燕尾服#vt.跟踪
+&teil
+$3
++tailor
+#n.裁缝#vt.调整使适应#vt. & vi.裁制
+&ˈteilə
+$3
++tale
+#n.故事传言; 谣言
+&teil
+$3
++talent
+#n.天资, 才能人才
+&ˈtælənt
+$3
++tame
+#adj.驯服的, 温顺的，沉闷的; 乏味的#vt. & vi.(使)服从; 驯服
+&teim
+$3
++tank
+#n.油[水]箱, 罐, 槽坦克
+&tæŋk
+$3
++target
+#n.(射击的)靶子，(欲达到的)目[指]标，(服务的)对象; (攻击的)对象#vt.瞄准某物
+&ˈtɑ:ɡit
+$3
++tariff
+#n.关税, 关税表, 货物，课税表，(旅馆或饭店等的)收费表, 价目表
+&ˈtærif
+$3
++taste
+#n.滋味, 味道鉴赏力爱好, 嗜好#vt.吃, 喝体验, 领略#vt. & vi.尝, 品尝, 尝到
+&teist
+$3
++technical
+#adj.技术的; 应用科学的，艺术的, 工艺的，(指书等)要求，有专门知识的, 使用术语的, 专业的
+&ˈteknikəl
+$3
++tectonics
+#n. (实用的、能带来审美愉悦的)建筑构造学#构造地质学, 大地构造学
+&tekˈtɔniks
+$3
++telegraph
+#n.打电报，电报机#vt.打电报向(某人)发指令#vt. & vi.打电报传达(消息)
+&ˈteliɡrɑ:f
+$3
++televise
+#vt.由电视播送
+&ˈtelivaiz
+$3
++tenant
+#n.房客, 佃户, 承租人〈律〉占用者, 占有者
+&ˈtenənt
+$3
++tenement
+#n.房屋,住户,租房子
+&ˈtenimənt
+$3
++tension
+#n.紧张紧张的状态张力, 拉力
+&ˈtenʃən
+$3
++terminal
+#adj.末端的, 终点的, 极限的，末期的, 晚期的
+&ˈtə:minəl
+$3
++terrace
+#n.台地, 梯田台阶(房侧的)铺砌地面一排并列的，房屋#vt.使(某物)成梯田形或台阶形
+&ˈterəs
+$3
++terrible
+#adj.可怕的, 恐怖的; 令人震惊的, 极其令人讨厌的，剧烈的, 严酷的, 严重的〈非正〉很糟的; 极差的
+&ˈterəbl
+$3
++territory
+#n.领土, 版图管区, 营业地区，地盘, 领域, 范围
+&ˈteritəri
+$3
++testify
+#vi.作证; 证明#vt.证明; 证实
+&ˈtestifai
+$3
++textile
+#n.纺织品, 织物
+&ˈtekstail
+$3
++texture
+#n.手感, 质感, 质地
+&ˈtekstʃə
+$3
++theme
+#n.主题, 主旨, 题目
+&θi:m
+$3
++thereafter
+#adv.此后; 在那之后
+&ðɛərˈɑ:ftə
+$3
++thought
+#n.思索, 思维能力; 思考的过程，思想, 思潮，关心, 注意, 考虑，想法, 观点，意向, 意图
+&θɔ:t
+$3
++threat
+#n.威胁, 恐吓可，能造成威胁的人[事, 想法]恶兆, 兆头
+&θret
+$3
++thrive
+#vi.兴盛; 兴隆，长得健壮
+&θraiv
+$3
++throw
+#n.投, 掷, 抛，投掷的距离#vt. & vi.投; 掷; 扔; 抛
+&θrəu
+$3
++thrust
+#vt. & vi.猛推, 猛塞，刺, 戳
+&θrʌst
+$3
++thumb
+#n.拇指
+&θʌm
+$3
++thunder
+#n.雷声隆隆的响声#vi.打雷#vt. & vi.发出隆隆声
+&ˈθʌndə
+$3
++ticket
+#n.票，标签，交通违规的通知单, 罚款单〈美〉候选人名单
+&ˈtikit
+$3
++tight
+#adj.牢的; 紧的，紧身的, 紧贴的，(安排)紧凑的, 紧密的，不漏的, 不透的，银根紧的, 难借得到的
+&tait
+$3
++timber
+#n.木料, 木材树木, 横梁
+&ˈtimbə
+$3
++tissue
+#n.组织，薄纸, 棉纸，一套, 一系列
+&ˈtisju:
+$3
++tobacco
+#n.烟草, 烟叶
+&təˈbækəu
+$3
++toe
+#n.脚趾; 足尖部
+&təu
+$3
++tolerance
+#n.宽容, 容忍，忍耐力，偏差, 公差
+&ˈtɔlərəns
+$3
++tongue
+#n.舌头语言; 本国语; 外国语
+&tʌŋ
+$3
++touch
+#n.触觉触, 碰, 摸手感，微恙, 一点小病，手法, 风格, 特征，修饰, 润色功力, 特殊能力，少量，边线#vt.伤害, 触犯涉及, 关系到感动, 打动吃; 喝比得上#vt. & vi.接触; 触摸
+&tʌtʃ
+$3
++tough
+#adj.坚韧的，坚强的，粗暴的，老的, 硬的，严格的, 强硬的，困难的
+&tʌf
+$3
++tow
+#n.拖, 拉, 牵引#vt.拖, 拉, 拽
+&təu
+$3
++towel
+#n.毛巾, 手巾, 纸巾
+&ˈtauəl
+$3
++toxic
+#adj.有毒的；因中毒引起的
+&ˈtɔksik
+$3
++tract
+#n.大片土地; 地带〈解〉道, 束
+&trækt
+$3
++traditional
+#adj.传统的, 惯例的
+&trəˈdiʃənl
+$3
++traffic
+#n.流动的车辆[行人], 交通(非法的)交易, 买卖#vi.买卖
+&ˈtræfik
+$3
++trail
+#n.足迹; 臭迹，小径，一缕, 一股#vi.(在比赛等中)输, 失败#vt.跟踪, 追踪#vt. & vi.(使某物)被拖在后面
+&treil
+$3
++tranquil
+#adj.安静的; 平静的; 宁静的
+&ˈtræŋkwil
+$3
++transfer
+#n.转移; 转让; 转录中转, 换乘, 改变路线#vt.转让#vt. & vi.转移; 迁移
+&trænsˈfə:
+$3
++transit
+#n.搬运; 载运; 运输
+&ˈtrænsit
+$3
++translation
+#n.翻译译本, 译文
+&trænsˈleiʃən
+$3
++transmission
+#n.传送, 传播, 传达播送传动装置, 变速器
+&trænzˈmiʃən
+$3
++transparent
+#adj.透明的，含义清楚的, 显而易见的
+&trænsˈpɛərənt
+$3
++transplant
+#n.(器官、皮肤、头发等的)移植，移植的器官, 移植物#vt.移植, 移种(人)移居, 迁移移植(器官、皮肤、头发等)
+&trænsˈplɑ:nt
+$3
++treasure
+#n.金银财宝; 宝藏，珍宝, 贵重物品，不可多得的人才#vt.重视; 珍惜
+&ˈtreʒə
+$3
++treat
+#n.款待, 招待乐事, 乐趣#vt.对待, 看待，探讨, 讨论, 论述，把…看作治疗#vt. & vi.请客, 款待
+&tri:t
+$3
++tremendous
+#adj.极大的, 巨大的，绝妙的, 极棒的
+&triˈmendəs
+$3
++trick
+#adj.用于特技的，有意捉弄人的#n.戏法, 把戏计谋, 诡计, 花招，诀窍, 技巧, 技艺#vt.哄骗; 欺骗，打扮
+&trik
+$3
++trigger
+#n.(枪)扳机#vt.引发, 引起(连锁反应)
+&ˈtriɡə
+$3
++trillion
+#n. (尤美、法)万亿, 兆#(尤英、德)百万兆#大量, 巨额
+&ˈtriljən
+$3
++trip
+#n.旅行, 旅游, 有目的的外出#vi.轻快地行走[奔跑, 跳舞]#vt. & vi.绊倒(使)犯错误
+&trip
+$3
++triumph
+#n.胜利, 成功，巨大的成就[成功]#vi.获胜, 得胜; 克服
+&ˈtraiəmf
+$3
++troop
+#n.军队, 部队一群, 一队#vi.成群结队地走
+&tru:p
+$3
++trough
+#n.(喂动物的)食槽, 水槽, 饲料槽，波谷, 海槽
+&trɔ(:)f
+$3
++trumpet
+#n.喇叭, 小号#vt.大肆宣扬, 鼓吹
+&ˈtrʌmpit
+$3
++twine
+#n. 麻线; 细绳#vt. & vi. 搓; 捻; 编
+&twain
+$3
++twig
+#n.细枝; 嫩枝
+&twiɡ
+$3
++twist
+#n.拧, 旋转, 扭转，弯曲, 曲折处，转折, 转变#vt.转动; 拧，歪曲; 曲解#vt. & vi.扭, 搓, 缠绕
+&twist
+$3
++typical
+#adj.典型的, 有代表性的，特有的, 独特的
+&ˈtipikəl
+$3
++tyrannical
+#adj.暴君的, 暴君似的
+&tiˈrænikəl
+$3
++ultimate
+#adj.最后的, 最终的，基本的, 根本的，最大的, 极限程度的
+&ˈʌltimit
+$3
++unaided
+#adj. 未受协助的,独立的
+&ˈʌnˈeidid
+$3
++undergraduate
+#n.(未获学士学位的)大学生, 大学肄业生
+&ˌʌndəˈɡrædjuit
+$3
++underlie
+#vt.位于或存在于(某物)之下构成…的基础(或起因); 引起
+&ˌʌndəˈlai
+$3
++undermine
+#vt.在某物下挖洞或挖通道; 侵蚀…的基础，暗中破坏; 逐渐削弱
+&ˌʌndəˈmain
+$3
++undertake
+#vt.担任, 承揽; 保证，着手, 开始
+&ˌʌndəˈteik
+$3
++union
+#n.联合, 结合, 合并，联盟, 联邦; 工会; 俱乐部，和睦, 一致结婚, 婚姻
+&ˈju:njən
+$3
++unity
+#n.统一; 统一体，一致, 同心协力; 和谐
+&ˈju:niti
+$3
++universal
+#adj.全体的，广泛的, 普遍的，在世界各地的, 世界性的
+&ˌju:niˈvə:səl
+$3
++urban
+#adj.城市的
+&ˈə:bən
+$3
++utility
+#n.功用, 效用，公用事业
+&juˈtiliti
+$3
++utilize
+#vt.利用, 使用
+&ˈju:tilaiz
+$3
++utter
+#adj.彻底的; 完全的; 绝对的#vt.以口发出声音说, 讲
+&ˈʌtə
+$3
++vacant
+#adj.未被占用的, 空的，(指职位)空缺的，茫然的, 空虚的
+&ˈveikənt
+$3
++vacuum
+#n.真空〈口〉真空吸尘器，空间; 空虚; 空白#vt.用真空吸尘器清扫(某物)
+&ˈvækjuəm
+$3
++vague
+#adj.模糊的(表达或感知)含糊的, 不明确的, 不清楚的，不具体的; 不精确的
+&veiɡ
+$3
++valid
+#adj.正当的, 有充分根据的, 符合逻辑的，有效的，有法律效力的
+&ˈvælid
+$3
++vanish
+#vi.消失, 突然不见，不复存在, 绝迹
+&ˈvæniʃ
+$3
++variable
+#adj.变化的, 可变的, 易变的#n.可变因素; 变数
+&ˈvɛəriəbl
+$3
++viable
+#adj.切实可行的; 可实施的，能自行生产发育的
+&ˈvaiəbl
+$3
++vibrant
+#adj.振动的; 颤动的; 响亮的，充满生气的; 精力充沛的; 兴奋的，(尤指颜色)鲜明的, 醒目的
+&ˈvaibrənt
+$3
++vibrate
+#vt. & vi.(使)振动[颤动]
+&vaiˈbreit
+$3
++violate
+#vt.违反, 违背，亵渎，侵犯, 妨碍
+&ˈvaiəleit
+$3
++virtue
+#n.美德, 德行优点, 长处
+&ˈvə:tju:
+$3
++vision
+#n.视力, 视觉，想像(力), 幻想, 幻觉, 梦想
+&ˈviʒən
+$3
++visual
+#adj.视觉的, 看得见的
+&ˈviʒuəl
+$3
++vital
+#adj.极重要的, 必不可少的，维持生命所必需的; 生命的，有生气的, 充满生机的
+&ˈvaitəl
+$3
++vivid
+#adj.鲜艳的，生动的, 栩栩如生的
+&ˈvivid
+$3
++vocal
+#adj.口头的, 有声的, 发音的
+&ˈvəukəl
+$3
++vocation
+#n.职业; 行业，适合性, 才能使命, 天职
+&vəuˈkeiʃən
+$3
++volatile
+#adj.易变的, 反复无常的, 易激动的，(液体或油)易挥发的
+&ˈvɔlətail
+$3
++vulnerable
+#adj.易受伤的, 脆弱的, 敏感的
+&ˈvʌlnərəbl
+$3
++wander
+#vi.迷失#vt. & vi.漫游, 徘徊
+&ˈwɔndə
+$3
++wane
+#vi.(月)亏, 缺变小; 减少
+&wein
+$3
++ward
+#n.病房, 病区区, 行政区，受监护的，未成年者#vt.监护, 守护
+&wɔ:d
+$3
++warfare
+#n.战争, 战争状态
+&ˈwɔ:fɛə
+$3
++warp
+#n.弯曲, 歪斜#vt. & vi.弄弯, 变歪
+&wɔ:p
+$3
++wary
+#adj.谨慎的; 小心翼翼的
+&ˈwɛəri
+$3
++wax
+#n.蜡#vt.给…打蜡
+&wæks
+$3
++wear
+#n.穿, 戴衣服，磨损, 损耗，使用, 用坏，耐用性, 耐穿#vt.穿着, 戴着; 蓄, 留; 擦呈现; 显出磨成, 擦成; 因不断使用而造成同意, 接受#vt. & vi.磨损, 变旧, 用坏, 穿旧，保持某种状态
+&wɛə
+$3
++weary
+#adj.疲倦的; 困乏的; 萎靡的#vt. & vi.(使)疲乏; (使)厌烦
+&ˈwiəri
+$3
++weave
+#vt.编排, 杜撰#vt. & vi.编, 织; 织成
+&wi:v
+$3
++welfare
+#n.健康, 幸福, 繁荣，福利，〈美〉政府的福利(制度)
+&ˈwelfɛə
+$3
++whereas
+#conj.但是, 而
+&hwɛərˈæz
+$3
++whittle
+#vt. 切, 削(木头); 使逐渐变小
+&ˈhwitl
+$3
++windswept
+#adj. 风刮的,被风吹扫的,暴露在风中的
+&ˈwindswept
+$3
++wipe
+#n.擦, 拭, 揩, 抹#vt. & vi.擦, 拭, 抹; 擦去, 拭去, 抹去
+&waip
+$3
++wispy
+#adj. 像小束状的,纤细的,脆弱的
+&ˈwispi
+$3
++wit
+#n.风趣, 善于说俏皮话的，能力，心智, 才智
+&wit
+$3
++withdraw
+#vt. & vi.取[收]回(使)撤退[出]
+&wiðˈdrɔ:
+$3
++withstand
+#vt.经受, 承受
+&wiðˈstænd
+$3
++wool
+#n.羊毛毛线; 毛织品
+&wul
+$3
++wrap
+#vt.包, 裹; 卷
+&ræp
+$3
++wreck
+#vt.毁坏[毁灭]某物
+&rek
+$3
++intern
+#vt.（战争期间或由于政治原因未经审讯）拘留，禁闭，关押
+#n.<美>住院实习医生,实习学生；毕业实习生,
+&[ɪn'tɜ:n ]
+$3
++incredible
+#adj.不能相信的, 不可信的,〈非正〉难以置信的, 不可思议的, 惊人的,极好的；极大的,
+&inˈkredəbl
+$3
++speculation
+#n.思考,思索,推断,推测;猜测,投机活动,
+&ˌspekjəˈleɪʃən
+$3
++perceive
+#vt.感觉, 察觉, 理解, 注意到, 意识到,,视为；认为；理解为,
+&pəˈsi:v
+$3
++well-being
+#n.康乐,安康;福利,
+&ˈwelˈbi:ɪŋ
+$3
++formalize
+#vt.使(协议、计划等)成书面文字形式,使成为正式; 使具有一定形式,
+&ˈfɔ:məlaiz
+$3
++autonomous
+#adj.自治的,自主的；有自主权的,
+&ɔ:ˈtɔnəməs
+$3
++efficacious
+#adj.(药、措施等)有效的,
+&ˌefɪˈkeɪʃəs
+$3
++velocity
+#n.速度,高速；快速 ,
+&viˈlɔsiti
+$3
++rigor
+#n.严格,严厉;严谨,严密,严酷;艰苦,<医>(发热前的)寒战,
+&ˈrɪgə
+$3
++insulation
+#n.隔离, 隔绝;绝缘;隔音,绝缘、隔热或隔音等的材料,
+&ˌɪnsəˈleɪʃən, ˌɪnsjə-
+$3
++feasible
+#adj.可行的, 可能且合理的,
+&ˈfi:zəbl
+$3
++mediocre
+#adj.平庸的；普通的；平常的,
+&ˌmi:di:ˈəʊkə
+$3
++compression
+#n.挤压,压缩,(内燃机的)压缩冲程,压抑;压制,
+&kəmˈpreʃən
+$3
++integral
+#adj.构成整体所必需的; 不可或缺的,作为组成部份的,完整的；完备的 ,
+&ˈintiɡrəl
+$3
++plumbing
+#n.装修水管的工作,（建筑物的）管路系统，自来水管道,
+&ˈplʌmɪŋ
+$3
++arduous
+#adj.艰巨的;艰难的；艰苦的；费力的;困难的,努力的;勤奋的,陡峭的,难攀登的,
+&ˈɑ:dju:əs
+$3
++doorway
+#n.门口;门道,
+&ˈdɔ:ˌweɪ, ˈdəʊr-
+$3
++borne
+#adj.(用于复合词)由…携带的;由…运载的,
+&bɔ:n, bəʊrn
+$3
++finite
+#adj.有限的, 有限度的,〈语〉限定的,
+&ˈfainait
+$3
++negligible
+#adj.可忽略的, 无足轻重的;微不足道的；不重要的；不值一提的,
+&ˈneɡlidʒəbl
+$3
++replenish
+#vt.补充,重新装满,
+&rɪˈplenɪʃ
+$3
++pipeline
+#n.管道,管线;输油管道，输气管道，输送管线（通常指地下的）,在考虑(或规划、准备) 中； 在酿中,
+&ˈpaɪpˌlaɪn
+$3
++tenfold
+#adv. & adj.十倍地(的),
+&ˈtenˌfəʊld
+$3
++succession
+#n.连续,连续不断的人[事物],继承, 继任; 继承权,
+&səkˈseʃən
+$3
++cumulative
+#adj.累积的, 渐增的,累计的；累积的 ,
+&ˈkju:mjulətiv
+$3
++invasion
+#n.武装入侵, 侵略, 侵犯, 侵入, 闯入,（尤指烦扰的）涌入,侵犯；干预,
+&inˈveiʒən
+$3
++squander
+#vt.(指钱, 财产等)浪费, 乱花,
+&ˈskwɔndə
+$3
++allocate
+#vt.分配, 分派,把…拨给，划…归,
+&ˈæləkeit
+$3
++allocation
+#n.配给, 分配, 拨出,分配额(或量), 划拨的款项；拨给的场地；分配的东西 ,
+&ˌæləˈkeiʃən
+$3
++rigidity
+#n.坚硬;严格;刚直;死板,
+&rɪˈdʒɪdɪti:
+$3
++dispersal
+#n.散布,分散,消散,驱散,疏散,
+&disˈpə:səl
+$3
++canopy
+#n.(宝座或床等上面的)华盖,罩篷,(飞行器上的)座舱罩,任何悬于上空的覆盖物,
+&ˈkænəpi:
+$3
++colonization
+#n.殖民地的开拓,殖民;殖民地化,
+&ˌkɔlənɪˈzeɪʃən
+$3
++longevity
+#n.长寿, 长命, 持久,长期从事,
+&lɔnˈdʒeviti
+$3
++predation
+#n.掠夺行为,
+&priˈdeiʃən
+$3
++continuum
+#n.连续统一体,
+&kənˈtinjuəm
+$3
++solemn
+#adj.冷峻的；表情严肃的,庄严的；严正的；郑重的,(宗教礼仪或正式场合 )庄严的；隆重的,
+&ˈsɔləm
+$3
++obliterat
+#【医】涂去,删掉,擦去
+&
+$3
++arrow
+#n.箭, 矢, 箭状物,箭号, 箭头,
+&ˈærəu
+$3
++clan
+#n.宗族, 家族; 氏族,庞大的家族；宗派；帮派；小集团,
+&klæn
+$3
++substantiate
+#vt.用事实支持(某主张、说法等);证明, 证实,
+&səbˈstænʃi:ˌeɪt
+$3
++indecipherable
+#adj.破译不出的,难辨认的,
+&ˌindiˈsaifərəbl
+$3
++elongate
+#vt.延长,加长,
+&ɪˈlɔ:ŋˌgeɪt, ɪˈlɔŋ-
+$3
++sensation
+#n.感觉, 感受,直觉；莫名其妙的感觉；经历；回忆,激动, 轰动；哗然；引起轰动的人（或事物),
+&senˈseiʃən
+$3
++weightlessness
+#n.无重状态,
+&
+$3
++shaman
+#n.萨满教的道士,僧人或巫师,
+&ˈʃæmən
+$3
++credence
+#n.相信;信任,
+&ˈkri:dns
+$3
++mystique
+#n.神秘性,
+&misˈti:k
+$3
++diviner
+#n.占卜者,占卦的人,
+&diˈvainə
+$3
++turbine
+#n.涡轮机,
+&ˈtə:bin
+$3
++megawatt
+#n.兆瓦, 百万瓦特(电能计量单位),
+&ˈmeɡəwɔt
+$3
++electrocute
+#vt.〈美〉处电刑,触电致死,
+&ilektrəkju:t
+$3
++bead
+#n.(空心)小珠子,水珠, （液体的）小滴,珠子项链,
+&bi:d
+$3
++crude
+#adj.天然的, 未加工的,简陋的, 粗糙的, 未加修饰的,粗鲁的, 粗俗的, 粗野的,
+&kru:d
+$3
++mammoth
+#adj.巨大的,
+&ˈmæməθ
+$3
++derrick
+#n.起重机,(油井的)井架,
+&ˈderɪk
+$3
++drilling pipe
+#钻杆
+&
+$3
++dismantle
+#vt.拆开, 拆卸,（逐渐）废除, 取消,
+&disˈmæntl
+$3
++refinery
+#n.精炼厂,
+&rɪˈfaɪnəri:
+$3
++tanker
+#n.运送大量液体或气体的轮船[卡车]; 油轮; 罐车; 油槽车,
+&ˈtæŋkə
+$3
++slick
+#adj.顺利而有效的, 不费力的,圆滑的, 油滑的,光滑的, 滑溜的,
+&slik
+$3
++oil slick
+#n.浮油,
+&
+$3
++subside
+#vi.下降至较低或正常水平,(土地)下陷(因在地下采矿),(建筑物等)下陷,
+&səbˈsaid
+$3
++catastrophe
+#n.灾祸, 灾难,大祸,横祸,不幸事件；困难 ,
+&kəˈtæstrəfi
+$3
++diameter
+#n.直径,放大率,
+&daiˈæmitə
+$3
++tentative
+#adj.试探性的; 试验的; 尝试性的,不确定的；不肯定的；暂定的 , 踌躇的；犹豫不定的；不果断的,
+&ˈtentətiv
+$3
++criterion
+#n.(批评、判断等的)标准, 准则,
+&kraiˈtiəriən
+$3
++shooting gallery
+#n.射击场,
+&
+$3
++notorious
+#adj.臭名昭著的, 声名狼藉的,
+&nəuˈtɔ:riəs
+$3
++serpentine
+#adj.像蛇般蜷曲的,蜿蜒的,
+&ˈsɜ:pənˌti:n, -ˌtaɪn
+$3
++omit
+#vt.省略, 遗漏; 删掉,忘记做,不做；未能做,
+&əuˈmit
+$3
++concentration
+#n.专心, 专注,集中, 集结,关注；重视 ,
+&ˌkɔnsənˈtreiʃən
+$3
++remediation
+#n.补习,辅导,补救,纠正,
+&ˌriˌmidiˈeiʃən
+$3
++smelter
+#n.熔炉,熔炼工,
+&ˈsmeltə
+$3
++timescale
+#时间表[尺度],时标,时间量程
+&
+$3
++eukaryotic
+#adj.真核状态的,
+&ˌju:karɪˈɔtɪk
+$3
++nuclei
+#n.核,核心,原子核(nucleus的复数形),
+&ˈnju:kliai
+$3
++diversification
+#n.变化,多样化,多元化,经营多样化,
+&K.K.:daɪˌvɝsəfəˈkeʃən
+$3
++locale
+#n.(事件发生的)场所或地点,
+&ləʊˈkæl
+$3
++unassignable
+#不得转让的
+&
+$3
++cylinder
+#n.圆筒, 圆柱, 圆柱体,汽缸, 泵体,（尤指用作容器的）圆筒状物,
+&ˈsilində
+$3
++condenser
+#n.冷凝器,(尤指汽车发动机内的)电容器,
+&kənˈdensə
+$3
++rotary
+#adj.(机器或设备)  转动的,(运动  )  旋转的；绕轴转动的 ,
+&ˈrəutəri
+$3
++flicker
+#vi.(通常指灯光)闪烁, 摇曳,
+&ˈflikə
+$3
++furnace
+#n.熔炉, 火炉,
+&ˈfə:nis
+$3
++turnpike
+#n.公路；付费公路,(旧时的)收税关卡,
+&ˈtɜ:nˌpaɪk
+$3
++laden
+#adj.负重的, 载满的,
+&ˈleɪdn
+$3
++flange
+#n.(机械等的)凸缘,(火车的)轮缘，法兰,
+&flændʒ
+$3
++rudimentary
+#adj.基本的, 初步的,
+&ˌru:dəˈmentəri:, -ˈmentri:
+$3
++roam
+#vt. & vi.随便走, 漫步, 漫游,眼睛或手 （缓慢地）扫遍，摸遍 ,
+&rəum
+$3
++ubiquitous
+#adj.<正>普遍存在的;似乎无处不在的；十分普遍的,
+&ju:ˈbɪkwɪtəs
+$3
++scanty
+#adj.(大小或数量)不足的;勉强够的,
+&ˈskænti:
+$3
++sibling
+#n.兄弟,姐妹,
+&ˈsɪblɪŋ
+$3
++plausible
+#adj.(声明、争论等)似乎是真的,花言巧语的, 能说会道的,
+&ˈplɔ:zəbl
+$3
++infantile
+#adj.婴儿(期)的,<贬>幼稚的, 孩子气的;婴儿的,
+&ˈɪnfənˌtaɪl, -tɪl
+$3
++amnesia
+#n.<医>遗忘(症), 记忆缺失,
+&æmˈni:ʒə
+$3
++toddler
+#n.蹒跚行走的人；学步的小孩,幼童装,
+&ˈtɔdlə
+$3
++verbalizable
+#adj.可用言辞表达的,
+&ˈvə:bəlaizəbl
+$3
++encode
+#vt.把…译成电码（或密码）,编制成计算机语言, 把…编码,
+&enˈkəʊd
+$3
++formulate
+#vt.构想出, 规划,确切地阐述,
+&ˈfɔ:mjuleit
+$3
++obsession
+#n.使人痴迷的人（或物）,痴迷；着魔；困扰 ,
+&əbˈseʃən
+$3
++legion
+#n.古罗马军团,众多, 大量,
+&ˈli:dʒən
+$3
++engender
+#vt.产生(某形势或状况), 造成, 引起,
+&enˈdʒendə
+$3
++predispose
+#vt.使预先有倾向,使预先有意向,使易接受,使易受感染,有…的倾向,使倾向于做；使易于患(病),
+&ˌpri:dɪˈspəʊz
+$3
++subtlety
+#n.细微, 精细, 巧妙, 灵巧, 诡诈,细微的差别等,
+&ˈsʌtlti:
+$3
++imitator
+#n.模仿者,仿效者,
+&ˈimiˌteitə
+$3
++continuator
+#n.继续者,继承者,
+&kənˈtinjueitə
+$3
++successor
+#n.接替的人或事物, 继任者, 继承人,
+&səkˈsesə，səkˈsesə(r)
+$3
++caliber
+#n.口径,枪弹的直径,能力, 才能, 素质,才干,
+&ˈkæləbə，ˈkælibə
+$3
++peculiarly
+#adv.异常地;尤其地,古怪地,单独地;独特地,
+&pɪˈkju:lɪəlɪ
+$3
++gravitas
+#n.〈拉〉庄严的举止,庄严,
+&ˈɡrævitæs
+$3
++receptiveness
+#感受性
+&
+$3
++chariot
+#n.敞篷双轮马车(古代用于战争或竞赛)，战车,
+&ˈtʃæri:ət
+$3
++cavalry
+#n.骑兵(队),
+&ˈkævəlri
+$3
++diffusion
+#n.扩散;散布;弥漫,<物,化>扩散;漫射,<人>(文化等的)传流,
+&dɪˈfju:ʒən
+$3
++metallurgy
+#n.冶金学,
+&ˈmetlˌɜ:dʒi:
+$3
++desiccation
+#n.干燥,
+&
+$3
++demographic
+#adj.人口统计学的,
+&ˌdeməˈgræfɪk, ˌdi:mə-
+$3
++shrine
+#n.圣地, 圣坛, 神圣场所,
+&ʃrain
+$3
++coerce
+#vt.迫使做;强迫, 强制,(以武力、惩罚、威胁等手段)控制;支配;压制,
+&kəʊˈɜ:s
+$3
++demise
+#n.死亡；逝世；一命呜呼,终止；失败；倒闭,
+&dɪˈmaɪz
+$3
++livable
+#adj.适于居住的,(某事物)可忍受的,(生活条件, 工作条件等)有生活价值的,
+&ˈlɪvəbəl
+$3
++episode
+#n.（人生的）一段经历；（小说的）片段，插曲,（电视连续剧或无线电广播小说的）一集,
+&ˈepisəud
+$3
++outflow
+#n.流出, 外流,
+&ˈautfləu
+$3
++interconnect
+#vi.互相连接;互相联系,
+&ˌɪntəkəˈnekt
+$3
++conceivably
+#adv.令人信服地,
+&
+$3
++detractor
+#n.诋毁者,贬低者,
+&dɪˈtræktə
+$3
++proponent
+#n.(某事业、理论等的)支持者,拥护者,
+&prəˈpəʊnənt
+$3
++refuge
+#n.避难(所, 处), 庇护,避难所；庇护者；慰藉 ,
+&ˈrefju:dʒ
+$3
++sizable
+#adj.相当大的, 颇大的,
+&ˈsaɪzəbəl
+$3
++inhospitable
+#adj.不好客的,不友好的,不适于居住的,
+&ɪnˈhɔspɪtəbəl, ˌɪnhɔˈspɪtəbəl
+$3
++impetus
+#n.推动, 促进, 刺激,推动力,惯性,
+&ˈimpitəs
+$3
++paucity
+#n.少量;缺乏;不足,
+&ˈpɔ:sɪti:
+$3
++practitioner
+#n.习艺者, 实习者,专门人才,从业者(尤指医师),（尤指医学或法律界的）从业人员,
+&prækˈtiʃənə
+$3
++technician
+#n.技术人员, 专家; 技巧好的人,（艺术、体育等的）技巧精湛者，精于技巧者 ,
+&tekˈniʃən
+$3
++vicissitude
+#n.变迁兴衰,
+&viˈsisitju:d
+$3
++immersion
+#n.沉浸; 浸没;浸,洗礼,沉浸；专心；陷入,
+&ɪˈmɜ:ʒən, -ʃən
+$3
++illusory
+#adj.<正>貌似真实的;虚幻的,
+&ɪˈlu:səri:, -zəri:
+$3
++sinuous
+#adj.弯曲的, 蜿蜒的,
+&ˈsɪnju:əs
+$3
++befriend
+#vt.以朋友的方式对待;照顾,帮助,
+&bɪˈfrend
+$3
++tribute
+#n.（尤指旧时一国向他国交纳的）贡品，贡金 ,贡物,称赞, 颂词,（良好效果或影响的）体现，显示 ,
+&ˈtribju:t
+$3
++opaque
+#adj.不透明的,难理解的, 晦涩的,
+&əuˈpeik
+$3
++cylindrical
+#adj.圆柱形的;圆筒状的;气缸(或滚筒)的,
+&səˈlɪndrɪkəl
+$3
++compaction
+#n.压紧,紧束的状态,
+&kəmˈpækʃən
+$3
++capsize
+#vt. & vi.(使船)翻,倾覆,
+&ˈkæpˌsaɪz, kæpˈsaɪz
+$3
++porcelain
+#n.瓷, 瓷器,
+&ˈpɔ:slin
+$3
++delineate
+#vt.勾画,描述,
+&dɪˈlɪni:ˌeɪt
+$3
++motif
+#n.装饰图案；装饰图形,（文学作品或音乐的）主题， 主旨， 动机 ,
+&məʊˈti:f
+$3
++intervention
+#n.介入, 干涉, 干预,干预;调停,斡旋 ,
+&ˌɪntəˈvenʃən
+$3
++ambient
+#adj.周围的,包围着的, 产生轻松氛围的,
+&ˈæmbi:ənt
+$3
++erratic
+#adj.飘忽不定的;(运动或行为)不规则的; 不确定的; 不稳定的; 不可靠的,
+&ɪˈrætɪk
+$3
++deliberation
+#n.细想；考虑；商议；审议,（说话或办事）缓慢；从容；审慎,
+&dɪˌlɪbəˈreɪʃən
+$3
++cottage
+#n.小屋, 村舍,
+&ˈkɔtidʒ
+$3
++scant
+#adj.不足的; 缺乏的; 一丁点的; 微小的; 欠缺的,
+&skænt
+$3
++remuneration
+#n.酬报,酬劳;偿还,赔偿,酬金;工资;赔偿金,
+&rɪˌmju:nəˈreɪʃən
+$3
++promissory
+#adj.应允的, 承诺的, 约定的,
+&ˈprɔmisəri
+$3
++cult
+#n.迷信,狂热的崇拜,（有极端宗教信仰的）异教团体 ,
+&kʌlt
+$3
++recipient
+#n.接受者，接受方，受方,
+&riˈsipiənt
+$3
++pylon
+#n.(架高压输电线的)电缆塔,
+&ˈpaɪˌlɔn
+$3
++breakage
+#n.破坏,破损,破损量,
+&ˈbreikidʒ
+$3
++perplex
+#vt.使迷惑; 使混乱,
+&pəˈpleks
+$3
++signaler
+#n.信号员,
+&ˈsiɡnələ
+$3
++victimize
+#vt.责怪或处罚某人不当(使之受冤或代人受过),不正当地使某人受损害或受苦难;欺负某人,
+&ˈvɪktəˌmaɪz
+$3
++vigorous
+#adj.有力的,精力充沛的,
+&ˈviɡərəs
+$3
++befit
+#vt.适合于(某人); 合适,
+&biˈfit
+$3
++periodization
+#n.(历史等的)时期[时代]划分,
+&ˌpiəriədaiˈzeiʃən
+$3
++revitalize
+#vt.使恢复元气,使具有新的活力, 使更强壮；使恢复生机（或健康）,
+&ri:ˈvaɪtlˌaɪz
+$3
++conglomerate
+#n.(多种经营的)联合大企业,企业集团,砾岩,合成物；组合物；聚合物,
+&kənˈglɔməˌreɪt
+$3
++endow
+#vt.（向学校等机构）捐钱, 捐赠, 资助,使(某人)天生具有(好资质、能力等),
+&inˈdau
+$3
++proximity
+#n.接近, 附近,
+&prɔkˈsimiti
+$3
++oneness
+#n.单一,唯一,统一,
+&ˈwʌnnis
+$3
++dispense
+#vt.分配, 分发; 施与, 试行,配(药), 发(药),施与，提供（尤指服务）,
+&disˈpens
+$3
++quantifiable
+#adj.可以计量的,
+&K.K.:´kwɔntifaiəbl
+$3
++paradigm
+#n.(一词的)词形变化表,范例;样式;模范,
+&ˈpærəˌdaɪm, -ˌdɪm
+$3
++syndicate
+#n.[地名] [菲律宾] 辛迪卡特,
+#vt.(通过报业联合组织)出售(稿件),
+#vt. & vi.(使)联合组成辛迪加,
+#n.辛迪加, 企业联合组织, 财团,
+&ˈsindikit
+$3
