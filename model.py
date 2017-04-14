@@ -1,12 +1,14 @@
 # coding: utf-8
 from sqlalchemy import Column, Date, DateTime, ForeignKey, Index, Integer, SmallInteger, String, Table, Text, \
-                       text, create_engine
+                       text, create_engine, Boolean
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import relationship, sessionmaker
+from sqlalchemy.sql import func
 from flask import Flask
 from config import *
 import sys, os
 import time
+from datetime import datetime
 
 engine = create_engine(SQLALCHEMY_DATABASE_URI)
 Session = sessionmaker()
@@ -14,8 +16,6 @@ Session.configure(bind=engine)
 Base = declarative_base()
 session = Session()
 
-def get_time():
-    return time.strftime("%Y-%m-%d %X", time.localtime())
 
 
 
@@ -24,16 +24,20 @@ class User(Base):
 
     uid = Column(Integer, primary_key=True) #用户编号
     openId = Column(String(255))    #微信openId
+    userName = Column(String(255), unique=True)  #用户名
+    passWord = Column(String(255))  #密码hash值
     nickName = Column(String(30))  #昵称
     gender = Column(Integer)    #性别
     # type = Column(Integer, default = 1)  #用户类型，具体类型待定
     loginTime = Column(String(30)) #用户上次登陆时间
     avatarUrl = Column(String(255))    #用户头像链接
-    city = Column(String(20))  #所在城市
-    createTime = Column(String(255))    #用户创建时间
-    enLevel = Column(Integer, default = 0) #用户英语水平
-    task = Column(Integer, default = 50)    #用户每日背单词数
-    restTask = Column(Integer, default = 0) #用户每日剩余单词数
+    city = Column(String(30))  #所在城市
+    createTime = Column(DateTime(timezone=True), server_default=func.now())    #用户创建时间
+    enLevel = Column(Integer, default=0) #用户英语水平
+    task = Column(Integer, default=50)    #用户每日背单词数
+    isDel = Column(Boolean, default=False)  #用户逻辑删除标识
+
+# , default=datetime.now().strftime('%Y-%m-%d %H:%M:%S')
 
     def init_user(self, **kwargs):
         for key in kwargs:
@@ -61,16 +65,16 @@ class Word(Base):
 class Book(Base):
     __tablename__ = 'books'
 
-    bid = Column(Integer, primary_key=True)
-    name = Column(String(50))
-    createTime = Column(String(255))
+    bid = Column(Integer, primary_key=True) #单词书编号
+    name = Column(String(50))   #单词书名
+    createTime = Column(String(255))    #创建时间
 
 class WordBook(Base):
-    __tablename__ = 'word_book'
+    __tablename__ = 'word_book' #单词与单词书的关系列表
 
-    wbid = Column(Integer, primary_key=True)
+    wbid = Column(Integer, primary_key=True)    #关系编号
     wid = Column(ForeignKey(u'words.wid', ondelete=u'CASCADE', onupdate=u'CASCADE'), nullable=False)    #单词编号
-    bid = Column(ForeignKey(u'books.bid', ondelete=u'CASCADE', onupdate=u'CASCADE'), nullable=False)    #单词编号
+    bid = Column(ForeignKey(u'books.bid', ondelete=u'CASCADE', onupdate=u'CASCADE'), nullable=False)    #单词书编号
 
     book = relationship(u'Book')
     word = relationship(u'Word')
@@ -79,11 +83,11 @@ class WordBook(Base):
 class Task(Base):
     __tablename__ = 'tasks'
 
-    tid = Column(Integer, primary_key=True) #用户编号
-    uid = Column(ForeignKey(u'users.uid', ondelete=u'CASCADE', onupdate=u'CASCADE'), nullable=False)    #笔记用户编号
+    tid = Column(Integer, primary_key=True) #任务编号
+    uid = Column(ForeignKey(u'users.uid', ondelete=u'CASCADE', onupdate=u'CASCADE'), nullable=False)    #任务用户编号
     wid = Column(ForeignKey(u'words.wid', ondelete=u'CASCADE', onupdate=u'CASCADE'), nullable=False)    #单词编号
-    date = Column(String(255))
-    status = Column(Integer)
+    date = Column(DateTime(timezone=True), server_default=func.now())  #任务日期
+    status = Column(Integer, default=0)    #任务状态，0为未完成，1为完成
 
 
     user = relationship(u'User')
@@ -104,7 +108,7 @@ class Note(Base):
     uid = Column(ForeignKey(u'users.uid', ondelete=u'CASCADE', onupdate=u'CASCADE'), nullable=False)    #笔记用户编号
     content = Column(String(255))   #笔记内容
     wid = Column(ForeignKey(u'words.wid', ondelete=u'CASCADE', onupdate=u'CASCADE'), nullable=False)    #单词编号
-    createTime = Column(String(255))
+    createTime = Column(DateTime(timezone=True), server_default=func.now())    #创建时间
 
     user = relationship(u'User')
     word = relationship(u'Word')
