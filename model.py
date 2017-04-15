@@ -58,6 +58,10 @@ class Word(Base):
     example = Column(String(255))   #单词例句
     pron = Column(String(255)) #单词音标
 
+    def init_word(self, **kwargs):
+        for key in kwargs:
+            setattr(self, key, kwargs[key])
+
     def get_dict(self):
         self.__dict__.pop('_sa_instance_state')
         return self.__dict__
@@ -67,7 +71,7 @@ class Book(Base):
 
     bid = Column(Integer, primary_key=True) #单词书编号
     name = Column(String(50))   #单词书名
-    createTime = Column(String(255))    #创建时间
+    createTime = Column(DateTime(timezone=True), server_default=func.now())    #创建时间
 
 class WordBook(Base):
     __tablename__ = 'word_book' #单词与单词书的关系列表
@@ -87,13 +91,13 @@ class Task(Base):
     uid = Column(ForeignKey(u'users.uid', ondelete=u'CASCADE', onupdate=u'CASCADE'), nullable=False)    #任务用户编号
     wid = Column(ForeignKey(u'words.wid', ondelete=u'CASCADE', onupdate=u'CASCADE'), nullable=False)    #单词编号
     date = Column(DateTime(timezone=True), server_default=func.now())  #任务日期
-    status = Column(Integer, default=0)    #任务状态，0为未完成，1为完成
+    status = Column(Integer, default=0)    #任务状态，0为未完成，1为当日未完成，2为完成
 
 
     user = relationship(u'User')
     word = relationship(u'Word')
 
-    def init_user(self, **kwargs):
+    def init_task(self, **kwargs):
         for key in kwargs:
             setattr(self, key, kwargs[key])
 
@@ -113,7 +117,7 @@ class Note(Base):
     user = relationship(u'User')
     word = relationship(u'Word')
 
-    def init_user(self, **kwargs):
+    def init_note(self, **kwargs):
         for key in kwargs:
             setattr(self, key, kwargs[key])
 

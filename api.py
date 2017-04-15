@@ -11,9 +11,10 @@ from model import *
 import time
 from flask_httpauth import HTTPBasicAuth
 from collections import OrderedDict
-from utils.moment_util import *
+from utils.book_util import *
 from utils.user_util import *
-from utils.activity_util import *
+from utils.note_util import *
+from utils.task_util import *
 from werkzeug import secure_filename
 from test_qiniu import *
 
@@ -43,6 +44,43 @@ def unauthorized():
 
 def get_time():
 	return time.strftime("%Y-%m-%d %X", time.localtime())
+
+
+@app.route('/shanbay/user/get/<string:openId>', methods=['GET'])
+def user_get_openId(openId):
+    return jsonify(get_user(openId))
+
+@app.route('/shanbay/user/get_all', methods=['GET'])
+def user_get_all():
+    return jsonify(get_all_user())
+
+@app.route('/shanbay/user/update', methods=['POST'])
+def user_update():
+    tmp_user = request.form.to_dict()
+    return jsonify(update_user(tmp_user))
+
+@app.route('/shanbay/user/create', methods=['POST'])
+def user_create():
+    tmp_user = request.form.to_dict()
+    return jsonify(create_user(tmp_user))
+
+@app.route('/shanbay/user/delete/<string:openId>', methods=['GET'])
+def user_delete(openId):
+    return jsonify(delete_user(openId))
+
+@app.route('/shanbay/user/recover/<string:openId>', methods=['GET'])
+def user_recover(openId):
+    return jsonify(recover_user(openId))
+
+@app.route('/shanbay/user/login/<string:openId>', methods=['GET'])
+def user_login(openId):
+    tmp_user = if_user_exist(openId)
+    if tmp_user['status']:
+        return jsonify(login_user(openId))
+    else:
+        return jsonify({'status': False})
+
+
 
 
 
