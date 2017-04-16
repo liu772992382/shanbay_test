@@ -24,8 +24,8 @@ class User(Base):
 
     uid = Column(Integer, primary_key=True) #用户编号
     openId = Column(String(255))    #微信openId
-    userName = Column(String(255), unique=True)  #用户名
-    passWord = Column(String(255))  #密码hash值
+    # userName = Column(String(255), unique=True)  #用户名
+    # passWord = Column(String(255))  #密码hash值
     nickName = Column(String(30))  #昵称
     gender = Column(Integer)    #性别
     # type = Column(Integer, default = 1)  #用户类型，具体类型待定
@@ -33,7 +33,7 @@ class User(Base):
     avatarUrl = Column(String(255))    #用户头像链接
     city = Column(String(30))  #所在城市
     createTime = Column(DateTime(timezone=True), server_default=func.now())    #用户创建时间
-    enLevel = Column(Integer, default=0) #用户英语水平
+    enLevel = Column(Integer, default=1) #用户英语水平
     task = Column(Integer, default=50)    #用户每日背单词数
     isDel = Column(Boolean, default=False)  #用户逻辑删除标识
 
@@ -47,6 +47,16 @@ class User(Base):
         self.__dict__.pop('_sa_instance_state')
         return self.__dict__
 
+# class UserBook(Base):
+#     __tablename__ = 'user_book'
+#
+#     ubid = Column(Integer, primary_key=True)
+#     bid = Column(ForeignKey(u'books.bid', ondelete=u'CASCADE', onupdate=u'CASCADE'), nullable=False)    #单词书编号
+#     uid = Column(ForeignKey(u'users.uid', ondelete=u'CASCADE', onupdate=u'CASCADE'), nullable=False)    #用户编号
+#     choose = Column(Boolean, default=False)    #单词书当前是否被选中
+#
+#     book = relationship(u'Book')
+#     user = relationship(u'User')
 
 
 class Word(Base):

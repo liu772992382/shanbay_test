@@ -5,6 +5,18 @@ import sys
 sys.path.append("..")
 from model import *
 
+def get_bid(name):
+    tmp = {'status': False}
+    tmp_book = session.query(Book).filter(Book.name==name).first()
+    if tmp_book:
+        tmp['data'] = tmp_book.bid
+        tmp['status'] = True
+        return tmp
+    else:
+        tmp['info'] = 'no such book'
+        return tmp
+
+
 def create_book(name):
     tmp = {'status': False}
     tmp_book = session.query(Book).filter(Book.name==name).first()
@@ -74,3 +86,40 @@ def delete_book(bid):
     else:
         tmp['info'] = 'no such book'
         return tmp
+
+# def create_userBook(openId, name):
+#     tmp = {'status': False}
+#     tmp_uid = get_uid(openId)
+#     tmp_bid = get_bid(name)
+#     if tmp_uid['status'] and tmp_bid['status']:
+#         try:
+#             tmp_user_book = UserBook()
+#             tmp_user_book.uid = tmp_uid['data']
+#             tmp_user_book.bid = tmp_bid['data']
+#             tmp_user_book.choose = True
+#             session.add(tmp_user_book)
+#             session.commit()
+#         except Exception, e:
+#             print Exception, e
+#             return tmp
+#     else:
+#         tmp['info'] = 'no such user or book'
+#         return tmp
+#
+# def choose_userBook(openId, name):
+#     tmp = {'status': False}
+#     tmp_uid = get_uid(openId)
+#     tmp_bid = get_bid(name)
+#     if tmp_uid['status'] and tmp_bid['status']:
+#         tmp_user_book = session.query(UserBook).filter(UserBook.uid==tmp_uid['data'] and UserBook.bid==tmp_bid['data']).first()
+#         if tmp_user_book:
+#             tmp_user_book.choose = True
+#             session.commit()
+#             tmp['status'] = True
+#             return tmp
+#         else:
+#             tmp['info'] = "this user did not choose this book"
+#             return tmp
+#     else:
+#         tmp['info'] = 'no such user or book'
+#         return tmp

@@ -29,7 +29,7 @@ def get_notes_word(content):
             tmp['status'] = True
             return tmp
         except Exception, e:
-            pritn Exception, e
+            print Exception, e
             return tmp
     else:
         tmp['info'] = 'no such word'
@@ -47,7 +47,7 @@ def get_notes_user_word(openId, content):
             tmp['status'] = True
             return tmp
         except Exception, e:
-            pritn Exception, e
+            print Exception, e
             return tmp
     else:
         tmp['info'] = 'no such user or word'
@@ -64,7 +64,7 @@ def get_notes_user(openId):
             tmp['status'] = True
             return tmp
         except Exception, e:
-            pritn Exception, e
+            print Exception, e
             return tmp
     else:
         tmp['info'] = 'no such word'
