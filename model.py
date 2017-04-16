@@ -39,7 +39,7 @@ class User(Base):
 
 # , default=datetime.now().strftime('%Y-%m-%d %H:%M:%S')
 
-    def init_user(self, **kwargs):
+    def init_user(self, kwargs):
         for key in kwargs:
             setattr(self, key, kwargs[key])
 
@@ -68,7 +68,7 @@ class Word(Base):
     example = Column(String(255))   #单词例句
     pron = Column(String(255)) #单词音标
 
-    def init_word(self, **kwargs):
+    def init_word(self, kwargs):
         for key in kwargs:
             setattr(self, key, kwargs[key])
 
@@ -107,7 +107,7 @@ class Task(Base):
     user = relationship(u'User')
     word = relationship(u'Word')
 
-    def init_task(self, **kwargs):
+    def init_task(self, kwargs):
         for key in kwargs:
             setattr(self, key, kwargs[key])
 
@@ -127,7 +127,7 @@ class Note(Base):
     user = relationship(u'User')
     word = relationship(u'Word')
 
-    def init_note(self, **kwargs):
+    def init_note(self, kwargs):
         for key in kwargs:
             setattr(self, key, kwargs[key])
 

@@ -47,7 +47,7 @@ def get_all_user():
 
 def if_user_exist(openId):
     tmp = {'status':False}
-    tmp_user = session.query(User).filter(User.openId==open_id).all()
+    tmp_user = session.query(User).filter(User.openId==openId).all()
     if tmp_user != []:
         tmp['data'] = tmp_user
         tmp['status'] = True
@@ -60,7 +60,7 @@ def create_user(user_data):
     tmp = {'status':False}
     if not if_user_exist(user_data['openId'])['status']:
         tmp_user = User()
-        tmp_user.loginTime = get_time()
+        tmp_user.loginTime = datetime.today()
         tmp_user.init_user(user_data)
         try:
             session.add(tmp_user)
@@ -105,9 +105,9 @@ def update_user(user_data):
         tmp['info'] = 'no such user'
         return tmp
 
-def delete_user(open_id):
+def delete_user(openId):
     tmp = {'status':False}
-    tmp_user = if_user_exist(open_id)
+    tmp_user = if_user_exist(openId)
     if tmp_user['status']:
         try:
             tmp_user['data'].isDel = True
@@ -122,11 +122,11 @@ def delete_user(open_id):
         return tmp
 
 
-def login_user(open_id):
+def login_user(openId):
     tmp = {'status':False}
-    tmp_user = session.query(User).filter(User.openId==open_id).first()
+    tmp_user = session.query(User).filter(User.openId==openId).first()
     if tmp_user:
-        tmp_user.loginTime = time.localtime()
+        tmp_user.loginTime = datetime.today()
         session.commit()
         tmp['status'] = True
         return tmp
