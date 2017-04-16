@@ -23,9 +23,20 @@ def create_book(name):
         tmp['info'] = 'this name is existed'
         return tmp
 
-def set_wrodBook(words, bid):
+def update_book(name):
     tmp = {'status': False}
-    tmp_book = session.query(Book).filter(Book.bid==bid).first()
+    tmp_book = session.query(Book).filter(Book.name==name).first()
+    if tmp_book:
+        tmp_book.name = name
+        tmp['status'] = True
+        return tmp
+    else:
+        tmp['info'] = 'no such book'
+        return tmp
+
+def set_wrodBook(words, name):
+    tmp = {'status': False}
+    tmp_book = session.query(Book).filter(Book.name==name).first()
     if tmp_book:
         try:
             for i in words:

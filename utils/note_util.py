@@ -18,28 +18,56 @@ def create_note(note_data):
         print Exception, e
         return tmp
 
-def get_notes_word(wid):
+def get_notes_word(content):
     tmp = {'status': False, 'data': []}
-    try:
-        tmp_notes = session.query(Note).filter(Note.wid==wid).all()
-        for i in tmp_notes:
-            tmp['data'].append(i.get_dict())
-        tmp['status'] = True
-        return tmp
-    except Exception, e:
-        pritn Exception, e
+    tmp_wid = get_wid(content)
+    if tmp_wid['status']:
+        try:
+            tmp_notes = session.query(Note).filter(Note.wid==tmp_wid['data']).all()
+            for i in tmp_notes:
+                tmp['data'].append(i.get_dict())
+            tmp['status'] = True
+            return tmp
+        except Exception, e:
+            pritn Exception, e
+            return tmp
+    else:
+        tmp['info'] = 'no such word'
         return tmp
 
-def get_notes_user(uid, wid):
+def get_notes_user_word(openId, content):
     tmp = {'status': False, 'data': []}
-    try:
-        tmp_notes = session.query(Note).filter(Note.wid==wid and Note.uid==uid).all()
-        for i in tmp_notes:
-            tmp['data'].append(i.get_dict())
-        tmp['status'] = True
+    tmp_uid = get_uid(openId)
+    tmp_wid = get_wid(content)
+    if tmp_wid['status'] and tmp_uid['status']:
+        try:
+            tmp_notes = session.query(Note).filter(Note.wid==tmp_wid['data'] and Note.uid==tmp_uid['data']).all()
+            for i in tmp_notes:
+                tmp['data'].append(i.get_dict())
+            tmp['status'] = True
+            return tmp
+        except Exception, e:
+            pritn Exception, e
+            return tmp
+    else:
+        tmp['info'] = 'no such user or word'
         return tmp
-    except Exception, e:
-        pritn Exception, e
+
+def get_notes_user(openId):
+    tmp = {'status': False, 'data': []}
+    tmp_uid = get_uid(openId)
+    if tmp_uid['status']:
+        try:
+            tmp_notes = session.query(Note).filter(Note.uid==tmp_uid['data']).all()
+            for i in tmp_notes:
+                tmp['data'].append(i.get_dict())
+            tmp['status'] = True
+            return tmp
+        except Exception, e:
+            pritn Exception, e
+            return tmp
+    else:
+        tmp['info'] = 'no such word'
         return tmp
 
 def delete_note(nid):

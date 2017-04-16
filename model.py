@@ -1,6 +1,6 @@
 # coding: utf-8
 from sqlalchemy import Column, Date, DateTime, ForeignKey, Index, Integer, SmallInteger, String, Table, Text, \
-                       text, create_engine, Boolean
+                       text, create_engine, Boolean, extract, and_, or_
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import relationship, sessionmaker
 from sqlalchemy.sql import func

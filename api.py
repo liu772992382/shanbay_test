@@ -46,6 +46,7 @@ def get_time():
 	return time.strftime("%Y-%m-%d %X", time.localtime())
 
 
+#-----------------------用户接口-------------------------------------------
 @app.route('/shanbay/user/get/<string:openId>', methods=['GET'])
 def user_get_openId(openId):
     return jsonify(get_user(openId))
@@ -72,13 +73,83 @@ def user_delete(openId):
 def user_recover(openId):
     return jsonify(recover_user(openId))
 
-@app.route('/shanbay/user/login/<string:openId>', methods=['GET'])
-def user_login(openId):
-    tmp_user = if_user_exist(openId)
-    if tmp_user['status']:
-        return jsonify(login_user(openId))
+@app.route('/shanbay/user/login', methods=['POST'])
+def user_login():
+    tmp_info = request.form.to_dict()
+    if not if_user_exist(tmp_info['openId'])['status']:
+        return jsonify(create_user(tmp_info))
     else:
-        return jsonify({'status': False})
+        return jsonify(login_user(tmp_info['openId']))
+
+
+#-----------------------笔记接口-------------------------------------------
+@app.route('/shanbay/note/get_by_word/<string:word>', methods=['GET'])
+def note_get_by_word(word):
+    tmp_notes = get_notes_word(word)
+    if tmp_notes['status']:
+        for i in tmp_notes:
+            i['nickName'] = session.query(User).filter(User.uid==i['uid']).nickName
+    return jsonify(tmp_notes)
+
+
+@app.route('/shanbay/note/get_by_user/<string:openId>', methods=['GET'])
+def note_get_by_user(openId):
+    tmp_notes = get_notes_user(openId)
+    if tmp_notes['status']:
+        for i in tmp_notes:
+            i['nickName'] = session.query(User).filter(User.uid==i['uid']).nickName
+    return jsonify(tmp_notes)
+
+@app.route('/shanbay/note/get_by_user_word/<string:openId>/<string:word>', methods=['GET'])
+def note_get_by_user_word(openId, word):
+    tmp_notes = get_notes_user_word(openId, word)
+    if tmp_notes['status']:
+        for i in tmp_notes:
+            i['nickName'] = session.query(User).filter(User.uid==i['uid']).nickName
+    return jsonify(tmp_notes)
+
+@app.route('/shanbay/note/delete/<int:nid>', methods=['GET'])
+def note_delete(nid):
+    return jsonify(delete_note(nid))
+
+
+#-----------------------单词书接口-------------------------------------------
+@app.route('/shanbay/book/create/<string:name>', methods=['GET'])
+def book_create(name):
+    return jsonify(create_book(name))
+
+@app.route('/shanbay/book/set_wordBook', methods=['POST'])
+def wordBook_set(name):
+    tmp_words = request.form.get('words')
+    tmp_name = request.form.get('name')
+    return jsonify(set_wordBook(tmp_words, tmp_name))
+
+@app.route('/shanbay/book/update/<string:name>', methods=['GET'])
+def book_update(name):
+    return jsonify(name)
+
+@app.route('shanbay/book/delete/bid', methods=['GET'])
+def book_delete(bid):
+    return jsonify(delete_book(bid))
+
+
+#-----------------------单词接口-------------------------------------------
+@app.route('/shanbay/word/get/<string:name>', methods=['GET'])
+def word_get(content):
+    return jsonify(get_word(name))
+
+@app.route('/shanbay/word/create', methods=['POST'])
+def word_create():
+    tmp_data = request.get('word_data')
+    return jsonify(create_word(word_data))
+
+@app.route('/shanbay/word/delete/<string:content>', methods=['GET'])
+def word_delete(content):
+    return jsonify(delete_word(content))
+
+
+
+#-----------------------任务接口-------------------------------------------
 
 
 

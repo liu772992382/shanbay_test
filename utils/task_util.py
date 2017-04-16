@@ -48,6 +48,26 @@ def tag_task(uid, wid, tag):
         print Exception, e
         return tmp
 
+def tag_date_task(openId):
+    tmp = {'status': False}
+    tmp_uid = get_uid(openId)
+    tmp_time = datetime.today()
+    if tmp_uid['status']:
+        try:
+            tmp_tasks = session.query(Task).filter(and_(Task.uid==tmp_uid['data'], extract('year', Task.date)==tmp_time.year,extract('month', Task.date)==tmp_time.month,extract('day', Task.date)==tmp_time.day,Task.status==1)).all()
+            for i in tmp_tasks:
+                i.status = 2
+            session.commit()
+            tmp['status'] = True
+            return tmp
+        except Exception, e:
+            print Exception, e
+            return tmp
+    else:
+        tmp['info'] = 'no such user'
+        return tmp                                                        
+
+
 def delete_task(uid, wid):
     tmp = {'status': False}
     tmp_task = session.query(Task).filter(Task.uid==uid and Task.wid==wid).first()
