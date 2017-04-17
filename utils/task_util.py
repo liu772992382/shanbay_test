@@ -4,13 +4,21 @@
 import sys
 sys.path.append("..")
 from model import *
+from user_util import get_uid
+from book_util import get_bid
+from word_util import get_wid
+
+
+# def check_time(tdata):
+#     return tdata.date() == datetime.today().date()
 
 def get_tasks_user(openId):
     tmp = {'status': False, 'data':[]}
     tmp_uid = get_uid(openId)
     if tmp_uid['status']:
         try:
-            tmp_tasks = session.query(Task).filter(Task.uid==tmp_uid['data'] and Task.status==1).all()
+            tmp_tasks = session.query(Task).filter(and_(Task.uid==tmp_uid['data'], Task.status==1)).all()
+            cnt = 0
             for i in tmp_tasks:
                 tmp_task = i.get_dict()
                 tmp_task['word'] = session.query(Word).filter(Word.wid==i.wid).first().get_dict()
@@ -31,7 +39,7 @@ def create_tasks(openId):
         try:
             tmp_words = session.query(WordBook).filter(WordBook.bid==tmp_user.enLevel).all()
             for i in tmp_words:
-                tmp_task = Task(uid=tmp_user.uid, wid=tmp_user.enLevel)
+                tmp_task = Task(uid=tmp_user.uid, bid=tmp_user.enLevel, wid=i.wid)
                 session.add(tmp_task)
             session.commit()
             tmp['status'] = True
@@ -45,15 +53,23 @@ def set_daily_tasks(openId):
     tmp_user = session.query(User).filter(User.openId==openId).first()
     if tmp_user:
         tmp_book = session.query(Book).filter(Book.bid==tmp_user.enLevel).first()
-        tmp_tasks = session.query(Task).filter(Task.uid==tmp_user.uid and Task.status==0).order_by(func.random()).limit(tmp_user.task).all()
-        try:
-            for i in tmp_tasks:
-                i.status = 1
-            session.commit()
-            tmp['status'] = True
-            return tmp
-        except Exception, e:
-            print Exception, e
+        tmp_tasks = session.query(Task).filter(and_(Task.uid==tmp_user.uid, Task.status==0)).order_by(func.random()).limit(tmp_user.task).all()
+        print len(tmp_tasks)
+        if tmp_tasks != []:
+            try:
+                tmp_check = Check()
+                tmp_check.uid = tmp_user.uid
+                session.add(tmp_check)
+                for i in tmp_tasks:
+                    i.status = 1
+                session.commit()
+                tmp['status'] = True
+                return tmp
+            except Exception, e:
+                print Exception, e
+                return tmp
+        else:
+            tmp['info'] = 'no tasks'
             return tmp
     else:
         tmp['info'] = 'no such user'
@@ -62,25 +78,19 @@ def set_daily_tasks(openId):
 
 
 
-def tag_task(openId, content, tag):
+def tag_task(tid, tag):
     tmp = {'status': False}
-    tmp_uid = get_uid(openId)
-    tmp_wid = get_wid(content)
-    if tmp_uid['status'] and tmp_wid['status']:
-        try:
-            tmp_task = session.query(Task).filter(Task.uid==uid and Task.wid==wid).first()
-            if tmp_task:
-                tmp_task.status = tag
-                session.commit()
-                tmp['status'] = True
-                return tmp
-            else:
-                tmp['info'] = 'no such task'
-        except Exception, e:
-            print Exception, e
+    try:
+        tmp_task = session.query(Task).filter(Task.tid==tid).first()
+        if tmp_task:
+            tmp_task.status = tag
+            session.commit()
+            tmp['status'] = True
             return tmp
-    else:
-        tmp['info'] = 'no such user or word'
+        else:
+            tmp['info'] = 'no such task'
+    except Exception, e:
+        print Exception, e
         return tmp
 
 def tag_date_task(openId):
@@ -89,7 +99,7 @@ def tag_date_task(openId):
     tmp_time = datetime.today()
     if tmp_uid['status']:
         try:
-            tmp_tasks = session.query(Task).filter(and_(Task.uid==tmp_uid['data'], extract('year', Task.date)==tmp_time.year,extract('month', Task.date)==tmp_time.month,extract('day', Task.date)==tmp_time.day,Task.status==1)).all()
+            tmp_tasks = session.query(Task).filter(and_(Task.uid==tmp_uid['data'], Task.date==datetime().today().date(), Task.status==1)).all()
             for i in tmp_tasks:
                 i.status = 2
             session.commit()

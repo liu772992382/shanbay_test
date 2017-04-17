@@ -5,6 +5,7 @@ import sys
 sys.path.append("..")
 from model import *
 from werkzeug.security import generate_password_hash, check_password_hash
+import copy
 
 
 
@@ -89,9 +90,10 @@ def recover_user(openId):
 
 def update_user(user_data):
     tmp = {'status':False}
-    print kwargs['openId']
+    # print kwargs['openId']
+    print user_data
     if if_user_exist(user_data['openId'])['status']:
-        tmp_user = session.query(User).filter(openId==user_data['openId']).first()
+        tmp_user = session.query(User).filter(User.openId==user_data['openId']).first()
         try:
             tmp_user.init_user(user_data)
             session.commit()
@@ -127,6 +129,7 @@ def login_user(openId):
     tmp_user = session.query(User).filter(User.openId==openId).first()
     if tmp_user:
         tmp_user.loginTime = datetime.today()
+        tmp['data'] = copy.deepcopy(tmp_user.get_dict())
         session.commit()
         tmp['status'] = True
         return tmp

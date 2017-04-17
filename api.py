@@ -117,6 +117,10 @@ def note_delete(nid):
 def book_create(name):
     return jsonify(create_book(name))
 
+@app.route('/shanbay/book/get_all', methods=['GET'])
+def book_get_all():
+    return jsonify(get_all_books())
+
 @app.route('/shanbay/book/set_wordBook', methods=['POST'])
 def wordBook_set(name):
     tmp_words = request.form.get('words')
@@ -159,14 +163,20 @@ def task_create(openId):
 
 @app.route('/shanbay/task/set_daily/<string:openId>', methods=['GET'])
 def task_set_daily(openId):
-    return jsonify(set_daily_tasks(openId))
+    tmp_check = session.query(Check).filter(Check.date==datetime.today().date()).first()
+    print 'tmp_check', tmp_check
+    if not tmp_check:
+        return jsonify(set_daily_tasks(openId))
+    else:
+        tmp = {'status': False, 'info': 'daily tasks has set', 'finish': True}
+        return jsonify(tmp)
 
 @app.route('/shanbay/task/tag', methods=['POST'])
 def task_tag():
-    tmp_openId = request.form.get('openId')
-    tmp_content = request.form.get('content')
+    tmp_tid = request.form.get('tid')
     tmp_tag = request.form.get('tag')
-    return jsonify(tag_task(tmp_openId, tmp_content, tmp_tag))
+    print tmp_tag
+    return jsonify(tag_task(tmp_tid, tmp_tag))
 
 @app.route('/shanbay/task/tag_date/<string:openId>', methods=['GET'])
 def task_tag_date(openId):

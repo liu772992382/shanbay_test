@@ -1,6 +1,6 @@
 # coding: utf-8
 from sqlalchemy import Column, Date, DateTime, ForeignKey, Index, Integer, SmallInteger, String, Table, Text, \
-                       text, create_engine, Boolean, extract, and_, or_
+                       text, create_engine, Boolean, extract, and_, or_, Date
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import relationship, sessionmaker
 from sqlalchemy.sql import func
@@ -33,7 +33,7 @@ class User(Base):
     avatarUrl = Column(String(255))    #用户头像链接
     city = Column(String(30))  #所在城市
     createTime = Column(DateTime(timezone=True), server_default=func.now())    #用户创建时间
-    enLevel = Column(Integer, default=1) #用户英语水平
+    enLevel = Column(Integer, default=0) #用户英语水平
     task = Column(Integer, default=50)    #用户每日背单词数
     isDel = Column(Boolean, default=False)  #用户逻辑删除标识
 
@@ -83,6 +83,11 @@ class Book(Base):
     name = Column(String(50))   #单词书名
     createTime = Column(DateTime(timezone=True), server_default=func.now())    #创建时间
 
+    def get_dict(self):
+        self.__dict__.pop('_sa_instance_state')
+        return self.__dict__
+
+
 class WordBook(Base):
     __tablename__ = 'word_book' #单词与单词书的关系列表
 
@@ -100,12 +105,14 @@ class Task(Base):
     tid = Column(Integer, primary_key=True) #任务编号
     uid = Column(ForeignKey(u'users.uid', ondelete=u'CASCADE', onupdate=u'CASCADE'), nullable=False)    #任务用户编号
     wid = Column(ForeignKey(u'words.wid', ondelete=u'CASCADE', onupdate=u'CASCADE'), nullable=False)    #单词编号
-    date = Column(DateTime(timezone=True), server_default=func.now())  #任务日期
-    status = Column(Integer, default=0)    #任务状态，0为未完成，1为当日未完成，2为完成
+    bid = Column(ForeignKey(u'books.bid', ondelete=u'CASCADE', onupdate=u'CASCADE'), nullable=False)
+    date = Column(Date, default=datetime.today().date())  #任务日期
+    status = Column(Integer, default=0)    #任务状态，0为当日未完成，1为完成
 
 
     user = relationship(u'User')
     word = relationship(u'Word')
+    book = relationship(u'Book')
 
     def init_task(self, kwargs):
         for key in kwargs:
@@ -114,6 +121,15 @@ class Task(Base):
     def get_dict(self):
         self.__dict__.pop('_sa_instance_state')
         return self.__dict__
+
+class Check(Base):
+    __tablename__ = 'checks'
+
+    cid = Column(Integer, primary_key=True)
+    uid = Column(ForeignKey(u'users.uid', ondelete=u'CASCADE', onupdate=u'CASCADE'), nullable=False)    #任务用户编号
+    status = Column(Integer, default=0) #当日任务状态，0表示未设置，1表示已设置但未完成， 2表示当日已完成
+    date = Column(Date, default=datetime.today().date())   #创建日期
+
 
 class Note(Base):
     __tablename__ = 'notes'

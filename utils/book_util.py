@@ -16,6 +16,17 @@ def get_bid(name):
         tmp['info'] = 'no such book'
         return tmp
 
+def get_all_books():
+    tmp = {'status': False, 'data': []}
+    tmp_books = session.query(Book).all()
+    if tmp_books != []:
+        for i in tmp_books:
+            tmp['data'].append(i.get_dict())
+        tmp['status'] = True
+        return tmp
+    else:
+        tmp['info'] = 'no book'
+        return tmp
 
 def create_book(name):
     tmp = {'status': False}
