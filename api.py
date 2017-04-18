@@ -76,9 +76,8 @@ def user_recover(openId):
 def user_login():
     tmp_info = request.form.to_dict()
     if not if_user_exist(tmp_info['openId'])['status']:
-        return jsonify(create_user(tmp_info))
-    else:
-        return jsonify(login_user(tmp_info['openId']))
+        create_user(tmp_info)
+    return jsonify(login_user(tmp_info['openId']))
 
 
 #-----------------------笔记接口-------------------------------------------
