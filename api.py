@@ -186,8 +186,12 @@ def task_set_daily(openId):
     if not tmp_check:
         return jsonify(set_daily_tasks(openId))
     else:
-        tmp = {'status': False, 'info': 'daily tasks has set', 'finish': True}
-        return jsonify(tmp)
+        tmp = {'status': False, 'info': 'daily tasks has set', 'finish': False}
+        if tmp_check.status == 0:
+            return jsonify(tmp)
+        else:
+            tmp['finish'] = True
+            return jsonify(tmp)
 
 @app.route('/shanbay/task/tag', methods=['POST'])
 def task_tag():
