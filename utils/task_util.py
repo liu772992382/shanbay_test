@@ -17,7 +17,7 @@ def get_tasks_user(openId):
     tmp_user = session.query(User).filter(User.openId==openId).first()
     if tmp_user:
         try:
-            tmp_tasks = session.query(Task).filter(and_(Task.uid==tmp_user.uid, Task.status==1, Task.date==datetime.today().date())).order_by(Task.tid).limit(tmp_user.task).all()
+            tmp_tasks = session.query(Task).filter(and_(Task.uid==tmp_user.uid, Task.status>=1, Task.date==datetime.today().date())).order_by(Task.tid).limit(tmp_user.task).all()
             cnt = 0
             for i in tmp_tasks:
                 tmp_task = i.get_dict()
