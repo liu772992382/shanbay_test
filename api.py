@@ -179,18 +179,22 @@ def task_check(openId):
 
 @app.route('/shanbay/task/set_daily/<string:openId>', methods=['GET'])
 def task_set_daily(openId):
-    tmp_check = session.query(Check).filter(Check.date==datetime.today().date()).first()
-    print 'tmp_check', tmp_check
-    # tmp_tasks = session.query(Task).filter(and_(Task.uid==get_uid(openId)['']))
-    if not tmp_check:
-        return jsonify(set_daily_tasks(openId))
-    else:
-        tmp = {'status': False, 'info': 'daily tasks has set', 'finish': False}
-        if tmp_check.status == 0:
-            return jsonify(tmp)
+    tmp_uid = get_uid(openId)
+    if tmp_uid['status']:
+        tmp_check = session.query(Check).filter(and_(Check.uid==tmp_uid['data'], Check.date==datetime.today().date())).first()
+        print 'tmp_check', tmp_check
+        # tmp_tasks = session.query(Task).filter(and_(Task.uid==get_uid(openId)['']))
+        if not tmp_check:
+            return jsonify(set_daily_tasks(openId))
         else:
-            tmp['finish'] = True
-            return jsonify(tmp)
+            tmp = {'status': False, 'info': 'daily tasks has set', 'finish': False}
+            if tmp_check.status == 0:
+                return jsonify(tmp)
+            else:
+                tmp['finish'] = True
+                return jsonify(tmp)
+    else:
+        return jsonify({'status': False, 'info': 'no such user'})
 
 @app.route('/shanbay/task/tag', methods=['POST'])
 def task_tag():

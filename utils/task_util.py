@@ -37,6 +37,9 @@ def create_tasks(openId):
     tmp_user = session.query(User).filter(User.openId==openId).first()
     if tmp_user:
         try:
+            tmp_tasks = session.query(Task).filter(Task.status==0).all()
+            for i in tmp_tasks:
+                session.delete(i)
             tmp_words = session.query(WordBook).filter(WordBook.bid==tmp_user.enLevel).all()
             for i in tmp_words:
                 tmp_task = Task(uid=tmp_user.uid, bid=tmp_user.enLevel, wid=i.wid)
