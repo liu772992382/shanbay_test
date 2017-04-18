@@ -32,7 +32,7 @@ class User(Base):
     loginTime = Column(String(30)) #用户上次登陆时间
     avatarUrl = Column(String(255))    #用户头像链接
     city = Column(String(30))  #所在城市
-    createTime = Column(DateTime(timezone=True), server_default=func.now())    #用户创建时间
+    createTime = Column(DateTime(timezone=True), default=datetime.today())    #用户创建时间
     enLevel = Column(Integer, default=0) #用户英语水平
     task = Column(Integer, default=50)    #用户每日背单词数
     isDel = Column(Boolean, default=False)  #用户逻辑删除标识
@@ -81,7 +81,7 @@ class Book(Base):
 
     bid = Column(Integer, primary_key=True) #单词书编号
     name = Column(String(50))   #单词书名
-    createTime = Column(DateTime(timezone=True), server_default=func.now())    #创建时间
+    createTime = Column(DateTime(timezone=True), default=datetime.today())    #创建时间
 
     def get_dict(self):
         self.__dict__.pop('_sa_instance_state')
@@ -142,7 +142,7 @@ class Note(Base):
     uid = Column(ForeignKey(u'users.uid', ondelete=u'CASCADE', onupdate=u'CASCADE'), nullable=False)    #笔记用户编号
     content = Column(String(255))   #笔记内容
     wid = Column(ForeignKey(u'words.wid', ondelete=u'CASCADE', onupdate=u'CASCADE'), nullable=False)    #单词编号
-    createTime = Column(DateTime(timezone=True), server_default=func.now())    #创建时间
+    createTime = Column(DateTime(timezone=True), default=datetime.today())    #创建时间
 
     user = relationship(u'User')
     word = relationship(u'Word')
