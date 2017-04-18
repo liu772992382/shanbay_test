@@ -130,11 +130,15 @@ class Check(Base):
     status = Column(Integer, default=0) #当日任务状态，0表示未设置，1表示已设置但未完成， 2表示当日已完成
     date = Column(Date, default=datetime.today().date())   #创建日期
 
+    def get_dict(self):
+        self.__dict__.pop('_sa_instance_state')
+        return self.__dict__
+
 
 class Note(Base):
     __tablename__ = 'notes'
 
-    nid = Column(Integer, primary_key=True) #用户编号
+    nid = Column(Integer, primary_key=True) #笔记编号
     uid = Column(ForeignKey(u'users.uid', ondelete=u'CASCADE', onupdate=u'CASCADE'), nullable=False)    #笔记用户编号
     content = Column(String(255))   #笔记内容
     wid = Column(ForeignKey(u'words.wid', ondelete=u'CASCADE', onupdate=u'CASCADE'), nullable=False)    #单词编号

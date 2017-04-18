@@ -82,6 +82,11 @@ def user_login():
 
 
 #-----------------------笔记接口-------------------------------------------
+@app.route('/shanbay/note/create', methods = ['POST'])
+def note_create():
+    tmp_data = request.form.to_dict()
+    return jsonify(create_note(tmp_data))
+
 @app.route('/shanbay/note/get_by_word/<string:word>', methods=['GET'])
 def note_get_by_word(word):
     tmp_notes = get_notes_word(word)
@@ -90,6 +95,9 @@ def note_get_by_word(word):
             i['nickName'] = session.query(User).filter(User.uid==i['uid']).nickName
     return jsonify(tmp_notes)
 
+@app.route('/shanbay/note/get', methods=['GET'])
+def note_get():
+    return jsonify(get_notes())
 
 @app.route('/shanbay/note/get_by_user/<string:openId>', methods=['GET'])
 def note_get_by_user(openId):
@@ -157,14 +165,24 @@ def word_delete(content):
 def task_get(openId):
     return jsonify(get_tasks_user(openId))
 
+@app.route('/shanbay/task/get_checks/<string:openId>', methods=['GET'])
+def checks_get(openId):
+    return jsonify(get_checks(openId))
+
+
 @app.route('/shanbay/task/create/<string:openId>', methods=['GET'])
 def task_create(openId):
     return jsonify(create_tasks(openId))
+
+@app.route('/shanbay/task/check/<string:openId>', methods=['GET'])
+def task_check(openId):
+    return jsonify(check_task(openId))
 
 @app.route('/shanbay/task/set_daily/<string:openId>', methods=['GET'])
 def task_set_daily(openId):
     tmp_check = session.query(Check).filter(Check.date==datetime.today().date()).first()
     print 'tmp_check', tmp_check
+    # tmp_tasks = session.query(Task).filter(and_(Task.uid==get_uid(openId)['']))
     if not tmp_check:
         return jsonify(set_daily_tasks(openId))
     else:
