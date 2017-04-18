@@ -105,7 +105,7 @@ class Task(Base):
     tid = Column(Integer, primary_key=True) #任务编号
     uid = Column(ForeignKey(u'users.uid', ondelete=u'CASCADE', onupdate=u'CASCADE'), nullable=False)    #任务用户编号
     wid = Column(ForeignKey(u'words.wid', ondelete=u'CASCADE', onupdate=u'CASCADE'), nullable=False)    #单词编号
-    bid = Column(ForeignKey(u'books.bid', ondelete=u'CASCADE', onupdate=u'CASCADE'), nullable=False)
+    bid = Column(ForeignKey(u'books.bid', ondelete=u'CASCADE', onupdate=u'CASCADE'), nullable=False)    #单词书编号
     date = Column(Date, default=datetime.today().date())  #任务日期
     status = Column(Integer, default=0)    #任务状态，0为当日未完成，1为完成
 
