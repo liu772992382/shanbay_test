@@ -1,0 +1,27 @@
+/**app.wxss**/
+
+
+
+page {
+  font-family: arial, sans-serif;
+  font-size: 14px;
+  color: #333;
+  font-weight: 300;
+  line-height: 1.6;
+  align-items: center;
+  background-color: #f1f1f1;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  box-sizing: border-box;
+  margin: 2% 0;
+} 
+.icon{
+   width: 20px;
+   height: 20px;
+   vertical-align: middle;
+   margin:0 2px;
+}

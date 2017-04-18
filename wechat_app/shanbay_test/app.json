@@ -1,0 +1,37 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/person/person",
+    "pages/word/word",
+    "pages/welcome/welcome",
+    "pages/writeNote/writeNote"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#209E85",
+    "navigationBarTitleText": "扇贝单词",
+    "navigationBarTextStyle": "white"
+  },
+  "tabBar": {
+    "color": "#fff",
+    "selectedColor": "#fff",
+    "borderStyle": "white",
+    "backgroundColor": "#209E85",
+    "list": [
+      {
+        "selectedIconPath": "image/clover_.png",
+        "iconPath": "image/clover.png",
+        "pagePath": "pages/index/index",
+        "text": "首页"
+      },
+      {
+        "selectedIconPath": "image/user_.png",
+        "iconPath": "image/user.png",
+        "pagePath": "pages/person/person",
+        "text": "个人"
+      }
+    ]
+  }
+}
+
+

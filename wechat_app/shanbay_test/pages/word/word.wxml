@@ -1,0 +1,56 @@
+<view class="container">
+  <view class="content part">
+    <view class="seg">
+      <text class="word">{{word.content}}</text>
+      <text class="phonetic">/{{word.pron}}/</text>
+    </view>
+
+    <!--./seg end-->
+    <view class="seg">
+      <view class="defination">
+        <text class="pro">{{word.definition}}</text>
+      </view>
+    </view>
+
+    <!--./seg end-->
+  </view>
+
+  <!--./part end-->
+  <view class="example part">
+    <view class="title seg">
+      例句
+    </view>
+
+    <!--./seg end-->
+    <view class="seg" wx:for="{{word.examples}}" wx:key="unique">
+      <text>{{item.annotation}}\n</text>
+      <text class="ch">{{item.translation}}</text>
+    </view>
+
+    <!--./seg end-->
+  </view>
+
+  <!--./part end-->
+  <view class="notes part" style="margin-bottom:60px;">
+    <view class="title seg">
+      <text>笔记</text>
+      <image class="icon" src="../../image/write.png" style="float:right" bindtap="writeNote"></image>
+    </view>
+
+    <!--./seg end-->
+    <view class="note seg" wx:for="{{notes}}" wx:key="unique">
+      <text>{{item.content}}</text>
+      <view class="user">
+        <text>作者：</text>
+        <text class="hightLight">{{item.author}}</text>
+      </view>
+    </view>
+
+    <!--./seg end-->
+  </view>
+
+  <!--./part end-->
+  <view class="bottomView">
+    <button class="nextBtn" bindtap="nextWord">下一个</button>
+  </view>
+</view>

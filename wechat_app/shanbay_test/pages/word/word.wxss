@@ -1,0 +1,72 @@
+.part{
+    background-color: #fff;
+    margin: 2%;
+    border: 1px solid #eee;
+    font-size: 14px;
+    
+}
+
+.seg{
+  padding: 2% 4%;
+  border-bottom: 1px solid #eee; 
+}
+
+.title{
+  font-weight: 900;
+}
+.hightLight{
+  color: #209E85;
+}
+.content .phonetic,.content .defination .pro,.example .title,.example .ch,.notes .note{
+  color: #666;  
+}
+
+
+.content .word{
+  color: #209E85;
+  font: bold 20px/30px arial;
+}
+.content .phonetic{
+  margin: 0 5%;
+}
+.content .defination button{
+  position: unset;
+  background-color: #fff;
+  border-radius: 0;
+  border-style: outset;
+  color: #209E85;
+  border: 1px solid #209E85;
+  font-size: 16px;
+  line-height: 16px;
+  padding: 2px 5px;
+  width: 40px;
+  float: right;
+}
+.content .icon{
+  float: right;
+}
+
+.notes .note .user{
+  line-height:24px; 
+  color: #999;
+}
+.notes .note .user .icon{
+  float: right;
+}
+
+.bottomView{
+  position: fixed;
+  bottom: 0rpx;
+  padding: 5px 8px;
+  align-items: center;
+  width: 100%;
+  /*height: 80px;*/
+  background-color: #f1f1f1;
+
+}
+
+.nextBtn{
+  width: 80%;
+  background-color: #209E85;
+  color: white
+}

@@ -1,0 +1,126 @@
+
+page {
+  font-family: arial, sans-serif;
+  font-size: 14px;
+  color: #333;
+  font-weight: 300;
+  line-height: 1.6;
+  align-items: center;
+  background-color: white;
+}
+
+.userinfo-avatar {
+  width: 160rpx;
+  height: 160rpx;
+  margin-left: 20px;
+  border-radius: 50%;
+  z-index: 999;
+  top:5%;
+}
+.one{
+  padding-top: 30px;
+  display:block;
+  border-bottom: #f1f1f1 10px solid;
+}
+.info{
+  display: flex;
+  margin-left: 20px;
+  word-break:break-all;
+  flex-direction: row;
+}
+
+.bottomItemText{
+ font-size: 30rpx;
+ font-weight: 600;
+ padding-left: 2px;
+}
+.bottomItemImage{
+ width: 40rpx;
+ height: 40rpx;
+ margin-left: 10px;
+ margin-top: 5px;
+}
+.font1{
+ font-size: 35rpx;
+ color: black;
+ margin-left: 5px;
+ margin-top: 15rpx;
+ margin-bottom: 8rpx;
+}
+.font{
+ font-size: 35rpx;
+ color: black;
+ margin-left: 30px;
+ margin-top: 15rpx;
+ margin-bottom: 8rpx;
+}
+
+.label{
+    color: #fff;
+    background-color: #ff3b3b;  
+    font-size: 12px;
+    padding: 2px 10px;
+    border-radius: 5px;
+    white-space:nowrap;
+}
+.userinfo-nickname {
+  color: #333;
+  font-size: 20px; 
+  margin: 0 10px 0 0;
+  font-weight: 900;
+}
+.inputCon{
+    width: 100%;
+    border-bottom: 2px solid #999;
+}
+.data{
+  flex-direction: column;
+  align-items: center;
+  margin-top: 30px;
+}
+.item{
+  margin:0 10px;
+  background-color: white;
+  border-bottom: 1px solid #f1f1f1;
+  justify-content: flex-start;
+  padding: 10px 0;
+}
+.icon{
+  margin-right: 10px;
+  vertical-align:middle;
+  width: 45rpx;
+  height: 45rpx;
+
+}
+
+.content{
+    margin:5px 0 5px 30px;
+    font-size: 14px;
+    display: -webkit-box;
+    word-break: break-all;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space:pre-wrap;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp:1;
+}
+.pictures{
+    height: 140rpx;
+    padding-right: 5px;
+    width: 140rpx;
+}
+.pic{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 10px 10px 10px 30px;
+}
+.background{
+    display: block;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    background-color: #209E85;
+    height:16%;
+    z-index: -999;
+}

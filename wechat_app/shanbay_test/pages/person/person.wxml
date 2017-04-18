@@ -1,0 +1,27 @@
+
+<!--pages/untitled(1)/untitled(1).wxml-->
+<view class="background">
+</view>
+<view class="one">
+  <view>
+    <image class="userinfo-avatar" src="{{userData.avatarUrl}}" background-size="cover">
+    </image>
+    <text class="userinfo-nickname">{{userData.nickName}}</text>
+  </view>
+</view>
+<view class="data">
+  <view class="item" style="display:flex;">
+    <image class="icon" src="../../image/item1.png" />
+    <view class="section" bindtap="chooseBook">
+      当前单词书:{{bookArray[userData.enLevel-1]}}
+    </view>
+  </view>
+  <view class="item" style="display:flex;">
+    <image class="icon" src="../../image/item1.png" />
+    <picker bindchange="bindPickerChange" value="{{index}}" range="{{taskArray}}">
+    <view class="picker">
+      每日任务：{{userData.task}}
+    </view>
+  </picker>
+  </view>
+</view>

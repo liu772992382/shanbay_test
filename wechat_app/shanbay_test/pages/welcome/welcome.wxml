@@ -1,0 +1,14 @@
+<view class="container">
+  <text>请选择单词书</text>
+  <br/>
+  <form bindsubmit="formSubmit">
+    <radio-group class="radio-group" bindchange="radioChange" name="book">
+      <label class="radio" wx:for="{{books}}" wx:key="unique">
+        <radio value="{{item.bid}}" checked="{{item.checked}}" />{{item.name}}
+      </label>
+    </radio-group>
+    <view class="btn-area">
+      <button formType="submit">提交</button>
+    </view>
+  </form>
+</view>

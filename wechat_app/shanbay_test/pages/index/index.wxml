@@ -1,0 +1,20 @@
+<!--index.wxml-->
+<view class="container">
+  <view class="main">
+    <view class="data">
+      <text class="dataNum">{{amount}}</text>
+      <text class="itemName">打卡天数</text> 
+    </view>
+    <view class="flex-wrp" style="flex-direction:row;">
+      <view class="flex-item">
+        <text class="itemNum">{{tasks.length}}</text>
+        <text class="itemName">今日单词</text>
+      </view>
+      <view class="flex-item">
+        <text class="itemNum">{{rest}}</text>
+        <text class="itemName">剩余单词</text>
+      </view>
+    </view>
+    <button class="startBtn" bindtap="startStudy" disabled="{{finish}}">开始学习</button>
+  </view>
+</view>
