@@ -16,7 +16,7 @@ Page({
     })
     console.log(this.data.userData)
     wx.request({
-      url: 'http://localhost:8082/shanbay/task/get_checks/' + wx.getStorageSync('open_id'),
+      url: 'https://www.shananchuanmei.com/shanbay/task/get_checks/' + wx.getStorageSync('open_id'),
       method: 'GET', // OPTIONS, GET, HEAD, POST, PUT, DELETE, TRACE, CONNECT
       // header: {}, // 设置请求的 header
       success: function (res) {
@@ -37,7 +37,7 @@ Page({
       })
     } else {
       wx.request({
-        url: 'http://localhost:8082/shanbay/task/set_daily/' + wx.getStorageSync('open_id'),
+        url: 'https://www.shananchuanmei.com/shanbay/task/set_daily/' + wx.getStorageSync('open_id'),
         method: 'GET', // OPTIONS, GET, HEAD, POST, PUT, DELETE, TRACE, CONNECT
         // header: {}, // 设置请求的 header
         success: function (res) {
